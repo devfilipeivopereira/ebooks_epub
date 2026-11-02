@@ -14,7 +14,7 @@ Repositório organizado de ebooks exportados da biblioteca Calibre local. O inve
 
 ## Números da exportação
 
-A pasta contém 1.126 registros de livro e 1.189 arquivos, em seis formatos: AZW, AZW3, EPUB, KFX, MOBI e PDF. Os metadados e as capas foram obtidos da biblioteca Calibre local. Os arquivos originais da biblioteca não foram alterados.
+A pasta contém 2.106 registros de livro e 2.445 arquivos, em seis formatos: AZW, AZW3, EPUB, KFX, MOBI e PDF. Todos os registros têm capa. O catálogo foi conferido por SHA-256 e não contém arquivos de ebook idênticos. Os metadados e as capas foram obtidos da biblioteca Calibre local.
 
 ## Como localizar
 
@@ -23,5 +23,5 @@ Use a busca do GitHub em `INDICE.md` para localizar por título ou autor. Para f
 ## Observações
 
 - Os arquivos KFX/AZW são mantidos no formato de origem da biblioteca e podem exigir software ou dispositivo compatível.
-- Os metadados do catálogo refletem a biblioteca local na data da exportação; correções posteriores precisam ser exportadas novamente.
+- Os metadados do catálogo refletem a biblioteca local em 2 de novembro de 2026; correções posteriores precisam ser exportadas novamente.
 - O repositório contém cópias de ebooks. Compartilhe e use apenas arquivos para os quais você tenha os direitos e permissões necessários.
