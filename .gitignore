@@ -1,0 +1,17 @@
+**/*
+!.gitignore
+!.gitattributes
+!README.md
+!DOCUMENTACAO.md
+!INDICE.md
+!catalogo.csv
+!catalogo.json
+!_inventory.json
+!EPUB/
+!EPUB/**
+!Kindle/
+!Kindle/**
+!PDF/
+!PDF/**
+!capas/
+!capas/**
