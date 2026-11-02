@@ -4,6 +4,9 @@
 !README.md
 !DOCUMENTACAO.md
 !INDICE.md
+!TEMAS.md
+!DESCRICOES_PENDENTES.csv
+!AMAZON_A_VERIFICAR.csv
 !catalogo.csv
 !catalogo.json
 !_inventory.json
@@ -15,3 +18,5 @@
 !PDF/**
 !capas/
 !capas/**
+!tools/
+!tools/gerar_metadados_temas.py

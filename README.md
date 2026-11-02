@@ -11,10 +11,17 @@ Repositório organizado de ebooks exportados da biblioteca Calibre local. O inve
 - `INDICE.md`: índice legível com título, autores, formatos e links para os arquivos.
 - `catalogo.csv`: índice tabular, inclui tamanho e SHA-256 de cada arquivo.
 - `catalogo.json`: catálogo estruturado por livro, com formatos disponíveis.
+- `TEMAS.md`: relação por tema e subtema, com links para os livros.
+- `DESCRICOES_PENDENTES.csv`: livros sem descrição verificável nos metadados do Calibre.
+- `AMAZON_A_VERIFICAR.csv`: busca individual na Amazon e estado de verificação de cada livro.
 
 ## Números da exportação
 
 A pasta contém 2.106 registros de livro e 2.445 arquivos, em seis formatos: AZW, AZW3, EPUB, KFX, MOBI e PDF. Todos os registros têm capa. O catálogo foi conferido por SHA-256 e não contém arquivos de ebook idênticos. Os metadados e as capas foram obtidos da biblioteca Calibre local.
+
+O catálogo contém a descrição ou sinopse utilizável presente no Calibre para 506 livros. Os outros 1.600 estão identificados em `DESCRICOES_PENDENTES.csv`. As buscas individuais da Amazon ainda não foram verificadas; nenhuma descrição da Amazon foi atribuída sem conferir a ficha do produto.
+
+A classificação temática cobre todos os registros; 613 estão em `Outros / A classificar` por falta de dados suficientes para uma atribuição confiável.
 
 ## Como localizar
 
