@@ -6,19 +6,19 @@ Classificação editorial automática a partir do título, tags e descrição di
 
 | Tema | Livros |
 |---|---:|
-| Artes e literatura | 47 |
+| Artes e literatura | 48 |
 | Ciência e natureza | 39 |
-| Educação e desenvolvimento pessoal | 223 |
+| Educação e desenvolvimento pessoal | 224 |
 | Família e relacionamentos | 38 |
 | Humanidades e sociedade | 183 |
-| Negócios e carreira | 389 |
-| Outros | 331 |
+| Negócios e carreira | 390 |
+| Outros | 328 |
 | Referência e idiomas | 21 |
 | Religião e espiritualidade | 609 |
 | Saúde e bem-estar | 98 |
 | Tecnologia e computação | 114 |
 
-## Artes e literatura · Arte, música e design (14)
+## Artes e literatura · Arte, música e design (15)
 
 - [A Arte da Escolha](Kindle/AZW3/Sheena%20Iyengar/A%20Arte%20da%20Escolha.azw3) — Sheena Iyengar
 - [A arte da estatistica](Kindle/AZW3/David%20Spiegelhalter/A%20arte%20da%20estatistica.azw3) — David Spiegelhalter
@@ -34,6 +34,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Articulando Decisões de Design - Tom Greever](Kindle/AZW3/Tom%20Greever/Articulando%20Decisões%20de%20Design%20-%20Tom%20Greever.azw3) — Tom Greever
 - [Atos para todos Atos 1-12 - Parte 1](Kindle/AZW3/N.T.%20Wright/Atos%20para%20todos%20Atos%201-12%20-%20Parte%201.azw3) — N.T. Wright
 - [No limite a arte de arriscar tudo (Nate Silver)](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/No%20limite%20a%20arte%20de%20arriscar%20tudo%20(Nate%20Silver).azw3) — FELIPE IVO PEREIRA
+- [Os 32 princípios](Kindle/KFX/Rener%20Gracie/Os%2032%20princípios.kfx) — Rener Gracie; Paul Volponi
 
 ## Artes e literatura · Ficção e romances (4)
 
@@ -172,7 +173,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tenha a Vida Que Deseja - Richard Bandler](Kindle/AZW3/Richard%20Bandler/Tenha%20a%20Vida%20Que%20Deseja%20-%20Richard%20Bandler.azw3) — Richard Bandler
 - [Ultra-aprendizado - Scott Young](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ultra-aprendizado%20-%20Scott%20Young.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (170)
+## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (171)
 
 - [100 coisas que líderes de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20líderes%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
 - [100 coisas que pessoas de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
@@ -318,6 +319,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Organize sua Mente](Kindle/KFX/S.J.%20Scott_%20Barrie%20Davenport/Organize%20sua%20Mente.kfx) — S.J. Scott| Barrie Davenport
 - [Organize sua Mente - S.J. Scott, Barrie Davenport](Kindle/AZW3/S.J.%20Scott/Organize%20sua%20Mente%20-%20S.J.%20Scott,%20Barrie%20Davenport.azw3) — S.J. Scott
 - [Organize sua vida com propósito](Kindle/AZW3/Jennifer%20Ford%20Berry/Organize%20sua%20vida%20com%20propósito.azw3) — Jennifer Ford Berry
+- [Originais - Como os inconform](Kindle/KFX/Adam%20Grant/Originais%20-%20Como%20os%20inconform.kfx) — Adam Grant
 - [Os princípios do sucesso](PDF/Jack%20Canfield/Os%20princípios%20do%20sucesso.pdf) — Jack Canfield; Janet Switzer
 - [Os Segredos da Mente Milionaria](Kindle/KFX/T.%20Harv%20Eker/Os%20Segredos%20da%20Mente%20Milionaria.kfx) — T. Harv Eker
 - [Os Segredos da Mente Milionária - T. Harv Eker](Kindle/AZW3/T.%20Harv%20Eker/Os%20Segredos%20da%20Mente%20Milionária%20-%20T.%20Harv%20Eker.azw3) — T. Harv Eker
@@ -581,7 +583,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Visoes e Ilusoes Politicas - David T. Koyzis](Kindle/AZW3/David%20koyzis/Visoes%20e%20Ilusoes%20Politicas%20-%20David%20T.%20Koyzis.azw3) — David koyzis
 - [Woke S A a farsa da justiça social empresarial Vivek Ramaswamy](Kindle/AZW3/Vivek%20Ramaswamy/Woke%20S%20A%20a%20farsa%20da%20justiça%20social%20empresarial%20Vivek%20Ramaswamy.azw3) — Vivek Ramaswamy
 
-## Negócios e carreira · Finanças e investimentos (205)
+## Negócios e carreira · Finanças e investimentos (206)
 
 - [100 coisas que milionários fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20milionários%20fazem.kfx) — Nigel Cumberland
 - [50 ideias de economia que você precisa conhecer](Kindle/AZW/Edmund%20Conway/50%20ideias%20de%20economia%20que%20você%20precisa%20conhecer.azw) — Edmund Conway
@@ -769,6 +771,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [OPES-NA-PRTICA-APRENDA-DO-ZERO-V](Kindle/AZW3/Campos/OPES-NA-PRTICA-APRENDA-DO-ZERO-V.azw3) — Campos
 - [Opções na prática: aprenda do zero](Kindle/AZW3/Campos/Opções%20na%20prática_%20aprenda%20do%20zero.azw3) — Campos
 - [Orçamento sem falhas](Kindle/MOBI/Nath%20Finanças/Orçamento%20sem%20falhas.mobi) — Nath Finanças
+- [Os 13 Axiomas dos Fundos Imobiliários - Fabricio Soto](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%2013%20Axiomas%20dos%20Fundos%20Imobiliários%20-%20Fabricio%20Soto.azw3) — FELIPE IVO PEREIRA
 - [Os 5 tipos de riqueza](Kindle/AZW3/Sahil%20Bloom/Os%205%20tipos%20de%20riqueza.azw3) — Sahil Bloom
 - [Os 8 Pilares da Prosperidade](Kindle/KFX/James%20Allen/Os%208%20Pilares%20da%20Prosperidade.kfx) — James Allen
 - [Os Fundos de Investimento em Direitos Creditórios (FIDC)](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%20Fundos%20de%20Investimento%20em%20Direitos%20Creditórios%20(FIDC).azw3) — FELIPE IVO PEREIRA
@@ -979,7 +982,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (331)
+## Outros · A classificar (328)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1140,9 +1143,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O sentimento é o segredo Vol. 4 Neville Goddard](Kindle/AZW3/Unknown/O%20sentimento%20é%20o%20segredo%20Vol.%204%20Neville%20Goddard.azw3) — Unknown
 - [o-centro-de-todo-descanso-E-J-Checkley](Kindle/AZW3/E.%20J.%20Checkley/o-centro-de-todo-descanso-E-J-Checkley.azw3) — E. J. Checkley
 - [Opcoes Na Pratica](Kindle/KFX/Aprenda%20Do%20Zero/Opcoes%20Na%20Pratica.kfx) — Aprenda Do Zero
-- [Originais - Como os inconform](Kindle/KFX/Adam%20Grant/Originais%20-%20Como%20os%20inconform.kfx) — Adam Grant
-- [Os 13 Axiomas dos Fundos Imobiliários - Fabricio Soto](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%2013%20Axiomas%20dos%20Fundos%20Imobiliários%20-%20Fabricio%20Soto.azw3) — FELIPE IVO PEREIRA
-- [Os 32 princípios](Kindle/KFX/Rener%20Gracie/Os%2032%20princípios.kfx) — Rener Gracie; Paul Volponi
 - [Os 32 princípios Rener Gracie, Paul Volponi 2023 Intrinseca](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%2032%20princípios%20Rener%20Gracie,%20Paul%20Volponi%202023%20Intrinseca.azw3) — FELIPE IVO PEREIRA
 - [Os 36 estratagemas - Jean Levi](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%2036%20estratagemas%20-%20Jean%20Levi.azw3) — FELIPE IVO PEREIRA
 - [Os quatro compromissos](Kindle/KFX/Don%20Miguel%20Ruiz/Os%20quatro%20compromissos.kfx) — Don Miguel Ruiz
