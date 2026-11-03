@@ -1,7 +1,7 @@
 # Índice dos ebooks
 
-Livros: **2091**  
-Arquivos: **2445**  
+Livros: **2092**  
+Arquivos: **2446**  
 
 Consulte [`catalogo.csv`](catalogo.csv) para filtrar os formatos e [`catalogo.json`](catalogo.json) para integração com ferramentas.
 
@@ -1763,6 +1763,7 @@ Consulte [`catalogo.csv`](catalogo.csv) para filtrar os formatos e [`catalogo.js
 | Prefacio ao Paraiso perdido | C. S. Lewis | KFX | [`KFX`](Kindle/KFX/C. S. Lewis/Prefacio ao Paraiso perdido.kfx) |
 | Pregacao e historias O poder d - Emilio Garofalo Neto | FELIPE IVO PEREIRA | AZW3 | [`AZW3`](Kindle/AZW3/FELIPE IVO PEREIRA/Pregacao e historias O poder d - Emilio Garofalo Neto.azw3) |
 | Pregação Comunicando a fé na era do ceticismo Tim Keller | Tim Keller | AZW3 | [`AZW3`](Kindle/AZW3/Tim Keller/Pregação Comunicando a fé na era do ceticismo Tim Keller.azw3) |
+| Pregando de pé: Conectando Deus e o público no momento certo da pregação | Fred R. Lybrand | EPUB | [`EPUB`](EPUB/Fred R. Lybrand/Pregando de pé_ Conectando Deus e o público no momento certo da pregação.epub) |
 | Pregando sem anotações: A arte de comunicar a Palavra de Deus com liberdade, clareza e poder | Prof. Joseph M. Webb | EPUB | [`EPUB`](EPUB/Prof. Joseph M. Webb/Pregando sem anotações_ A arte de comunicar a Palavra de Deus com liberdade, clareza e poder.epub) |
 | Pregando Sermões Impactantes - Lane Sebring (PT-BR) - edição profissional | Lane Sebring | AZW3 | [`AZW3`](Kindle/AZW3/Lane Sebring/Pregando Sermões Impactantes - Lane Sebring (PT-BR) - edição profissional.azw3) |
 | Pregando Sermões Impactantes: Como criar e apresentar mensagens que cativam e inspiram | Lane Sebring | EPUB | [`EPUB`](EPUB/Lane Sebring/Pregando Sermões Impactantes_ Como criar e apresentar mensagens que cativam e inspiram.epub) |

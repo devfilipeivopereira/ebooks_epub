@@ -8,15 +8,15 @@ Classificação editorial automática a partir do título, tags e descrição di
 |---|---:|
 | Artes e literatura | 47 |
 | Ciência e natureza | 36 |
-| Educação e desenvolvimento pessoal | 203 |
+| Educação e desenvolvimento pessoal | 204 |
 | Família e relacionamentos | 34 |
-| Humanidades e sociedade | 178 |
-| Negócios e carreira | 367 |
-| Outros | 408 |
+| Humanidades e sociedade | 182 |
+| Negócios e carreira | 370 |
+| Outros | 398 |
 | Referência e idiomas | 21 |
-| Religião e espiritualidade | 591 |
+| Religião e espiritualidade | 593 |
 | Saúde e bem-estar | 95 |
-| Tecnologia e computação | 111 |
+| Tecnologia e computação | 112 |
 
 ## Artes e literatura · Arte, música e design (14)
 
@@ -113,7 +113,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Outlive A arte e a ciência Peter Attia Bill Gifford](Kindle/AZW3/Peter%20Attia/Outlive%20A%20arte%20e%20a%20ciência%20Peter%20Attia%20Bill%20Gifford.azw3) — Peter Attia
 - [Uma introdução à metafísica](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20introdução%20à%20metafísica.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Aprendizagem e ensino (45)
+## Educação e desenvolvimento pessoal · Aprendizagem e ensino (46)
 
 - [(TRAD) origens da mitologia A a Z - Annette Giosec](Kindle/AZW3/Annette%20Giesecke/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z%20-%20Annette%20Giosec.azw3) — Annette Giesecke
 - [333 páginas para tirar seu projeto do papel](Kindle/KFX/Daniel%20Larusso/333%20páginas%20para%20tirar%20seu%20projeto%20do%20papel.kfx) — Daniel Larusso; Gabriel Gomes; Luciano Braga
@@ -147,6 +147,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Guia Front end O Caminho Das Pedras Para Ser Um Dev Front end](Kindle/AZW3/Diego%20Eis/Guia%20Front%20end%20O%20Caminho%20Das%20Pedras%20Para%20Ser%20Um%20Dev%20Front%20end.azw3) — Diego Eis
 - [Ler e produzir textos](Kindle/AZW3/Ivan%20Vale%20de%20Sousa/Ler%20e%20produzir%20textos.azw3) — Ivan Vale de Sousa
 - [Ler para Viver - Sandra Barão Nobre](Kindle/AZW3/Sandra%20Barão%20Nobre/Ler%20para%20Viver%20-%20Sandra%20Barão%20Nobre.azw3) — Sandra Barão Nobre
+- [Lit! Um guia cristão para leitura de livros](Kindle/AZW3/Tony%20Reinke/Lit!%20Um%20guia%20cristão%20para%20leitura%20de%20livros.azw3) — Tony Reinke
 - [Manual de leitura em voz alta Jim Trelease 2025 Kírion](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Manual%20de%20leitura%20em%20voz%20alta%20Jim%20Trelease%202025%20Kírion.azw3) — FELIPE IVO PEREIRA
 - [O alvorecer da alegria indestrutível leituras diárias para o Advento](Kindle/AZW3/John%20Piper/O%20alvorecer%20da%20alegria%20indestrutível%20leituras%20diárias%20para%20o%20Advento.azw3) — John Piper
 - [O Curso do Despertar](Kindle/AZW3/Joe%20Vitale/O%20Curso%20do%20Despertar.azw3) — Joe Vitale
@@ -362,7 +363,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Como conversar com qualquer pessoa](Kindle/AZW3/Leil%20Lowndes/Como%20conversar%20com%20qualquer%20pessoa.azw3) — Leil Lowndes
 - [Relacionamento Para Leigos](Kindle/KFX/Frederico%20Mattos/Relacionamento%20Para%20Leigos.kfx) — Frederico Mattos
 
-## Humanidades e sociedade · Filosofia e ética (43)
+## Humanidades e sociedade · Filosofia e ética (44)
 
 - [#umdiasemreclamar - Davi Lago & Marcelo Galuppo](Kindle/AZW3/Davi%20Lago/#umdiasemreclamar%20-%20Davi%20Lago%20&%20Marcelo%20Galuppo.azw3) — Davi Lago
 - [100 minutos para entender Aristóteles](Kindle/KFX/Coleção%20Saberes/100%20minutos%20para%20entender%20Aristóteles.kfx) — Coleção Saberes
@@ -393,6 +394,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Filosofia para mortais: pensar bem para viver bem](EPUB/Daniel%20Gomes%20de%20Carvalho/Filosofia%20para%20mortais_%20pensar%20bem%20para%20viver%20bem.epub) — Daniel Gomes de Carvalho
 - [Guia politicamente incorreto da Filosofia](Kindle/AZW/Luiz%20Felipe%20Pondé/Guia%20politicamente%20incorreto%20da%20Filosofia.azw) — Luiz Felipe Pondé
 - [Introdução à filosofia matemática (Bertrand Russel)](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Introdução%20à%20filosofia%20matemática%20(Bertrand%20Russel).azw3) — FELIPE IVO PEREIRA
+- [Levante-se e mate primeiro - Ronen Bergman](Kindle/AZW3/Ronan%20Bergman/Levante-se%20e%20mate%20primeiro%20-%20Ronen%20Bergman.azw3) — Ronan Bergman
 - [Licoes de um estoico_ Como Emer](Kindle/KFX/Mark%20Matousek/Licoes%20de%20um%20estoico_%20Como%20Emer.kfx) — Mark Matousek
 - [Lições de estoicismo](Kindle/KFX/John%20Sellars/Lições%20de%20estoicismo.kfx) — John Sellars
 - [Maquiavel em 90 minutos](Kindle/AZW/Paul%20Strathern/Maquiavel%20em%2090%20minutos.azw) — Paul Strathern; Marcus Penchel
@@ -462,7 +464,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Uma Breve História da Filosofia - Nigel Warburton](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20Breve%20História%20da%20Filosofia%20-%20Nigel%20Warburton.azw3) — FELIPE IVO PEREIRA
 - [Uma Breve História das Guerras Geoffrey Blainey 2014;2023 Fundamentos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20Breve%20História%20das%20Guerras%20Geoffrey%20Blainey%202014;2023%20Fundamentos.azw3) — FELIPE IVO PEREIRA
 
-## Humanidades e sociedade · Política, direito e sociedade (84)
+## Humanidades e sociedade · Política, direito e sociedade (87)
 
 - [12 Princípios para uma vida extraordinária](Kindle/KFX/Paulo%20Vieira/12%20Princípios%20para%20uma%20vida%20extraordinária.kfx) — Paulo Vieira
 - [50 perguntas sobre lei da atração para iniciantes](Kindle/KFX/William%20Sanches/50%20perguntas%20sobre%20lei%20da%20atração%20para%20iniciantes.kfx) — William Sanches
@@ -499,7 +501,10 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Ideologias - Gabriela Prioli](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ideologias%20-%20Gabriela%20Prioli.azw3) — FELIPE IVO PEREIRA
 - [Idolatria política](Kindle/KFX/Yago%20Martins/Idolatria%20política.kfx) — Yago Martins
 - [Idolatria Política Yago Martins](Kindle/AZW3/Yago%20Martins/Idolatria%20Política%20Yago%20Martins.azw3) — Yago Martins
+- [Liberalismo](EPUB/Ludwig%20von%20Mises/Liberalismo.epub) — Ludwig von Mises
 - [Liberte o poder do seu subconsciente](Kindle/AZW3/Joseph%20Murphy/Liberte%20o%20poder%20do%20seu%20subconsciente.azw3) — Joseph Murphy
+- [Manhãs poderosas](Kindle/KFX/Neder%20Izaac/Manhãs%20poderosas.kfx) — Neder Izaac
+- [Manhãs Poderosas Neder Izaac](Kindle/AZW3/Neder%20Izaac/Manhãs%20Poderosas%20Neder%20Izaac.azw3) — Neder Izaac
 - [O animal social](Kindle/AZW3/Elliot%20Aronson%20Joshua%20Aronson/O%20animal%20social.azw3) — Elliot Aronson Joshua Aronson
 - [O Líder Criativo: Liberte o Poder do Seu Potencial Criativo](EPUB/Ed%20Young/O%20Líder%20Criativo_%20Liberte%20o%20Poder%20do%20Seu%20Potencial%20Criativo.epub) — Ed Young
 - [O MÉTODO - Phil Stutz e Barry Michels](Kindle/AZW3/Phil%20Stutz%20e%20Barry%20Michels/O%20MÉTODO%20-%20Phil%20Stutz%20e%20Barry%20Michels.azw3) — Phil Stutz e Barry Michels
@@ -549,7 +554,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Visoes e Ilusoes Politicas - David T. Koyzis](Kindle/AZW3/David%20koyzis/Visoes%20e%20Ilusoes%20Politicas%20-%20David%20T.%20Koyzis.azw3) — David koyzis
 - [Woke S A a farsa da justiça social empresarial Vivek Ramaswamy](Kindle/AZW3/Vivek%20Ramaswamy/Woke%20S%20A%20a%20farsa%20da%20justiça%20social%20empresarial%20Vivek%20Ramaswamy.azw3) — Vivek Ramaswamy
 
-## Negócios e carreira · Finanças e investimentos (192)
+## Negócios e carreira · Finanças e investimentos (194)
 
 - [100 coisas que milionários fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20milionários%20fazem.kfx) — Nigel Cumberland
 - [50 ideias de economia que você precisa conhecer](Kindle/AZW/Edmund%20Conway/50%20ideias%20de%20economia%20que%20você%20precisa%20conhecer.azw) — Edmund Conway
@@ -684,9 +689,11 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Investimentos inteligentes - Edição revista e atualizada: Estratégias para multiplicar seu patrimônio com segurança e eficiência](Kindle/AZW/Gustavo%20Cerbasi/Investimentos%20inteligentes%20-%20Edição%20revista%20e%20atualizada_%20Estratégias%20para%20multiplicar%20seu%20patrimôni.azw) — Gustavo Cerbasi
 - [Investindo no mercado de opções](Kindle/AZW/Elvis%20Pfützenreuter/Investindo%20no%20mercado%20de%20opções.azw) — Elvis Pfützenreuter
 - [Investir é uma jornada](EPUB/Felipe%20Tadewald/Investir%20é%20uma%20jornada.epub) — Felipe Tadewald; Jean Tosetto
+- [Leis diárias](Kindle/KFX/Robert%20Greene/Leis%20diárias.kfx) — Robert Greene
 - [Limite Zero](Kindle/AZW3/Joe%20Vitale/Limite%20Zero.azw3) — Joe Vitale
 - [Lucrando com ações no longo prazo - Peter C. Oppenheimer](Kindle/AZW3/Peter%20C.%20Oppenheimer/Lucrando%20com%20ações%20no%20longo%20prazo%20-%20Peter%20C.%20Oppenheimer.azw3) — Peter C. Oppenheimer
 - [Macroeconomia para executivos: Teoria e prática no Brasil](Kindle/AZW/Fabio%20Giambiagi/Macroeconomia%20para%20executivos_%20Teoria%20e%20prática%20no%20Brasil.azw) — Fabio Giambiagi; Cristiane Schmidt
+- [Mais Esperto que o Diabo 2](Kindle/KFX/Napoleon%20Hill/Mais%20Esperto%20que%20o%20Diabo%202.kfx) — Napoleon Hill
 - [Mais que um Milionário](Kindle/KFX/Don%20M.%20Green/Mais%20que%20um%20Milionário.kfx) — Don M. Green
 - [Manias, Pânicos e Crises - Uma História Das Crises Financeiras](Kindle/AZW/Charles%20P.%20Kindleberger/Manias,%20Pânicos%20e%20Crises%20-%20Uma%20História%20Das%20Crises%20Financeiras.azw) — Charles P. Kindleberger
 - [Manual do pequeno investidor em](Kindle/KFX/Almeida_%20Fabio/Manual%20do%20pequeno%20investidor%20em.kfx) — Almeida| Fabio
@@ -744,7 +751,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tudo o que você precisa saber sobre economia](Kindle/AZW/Alfred%20Mill/Tudo%20o%20que%20você%20precisa%20saber%20sobre%20economia.azw) — Alfred Mill
 - [Virada financeira](Kindle/KFX/Patricia%20Lages/Virada%20financeira.kfx) — Patricia Lages
 
-## Negócios e carreira · Gestão, liderança e empreendedorismo (139)
+## Negócios e carreira · Gestão, liderança e empreendedorismo (140)
 
 - [1 ano em 12 semanas](Kindle/KFX/Brian%20P%20Moran/1%20ano%20em%2012%20semanas.kfx) — Brian P Moran
 - [100 coisas que pessoas produtivas fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20produtivas%20fazem.kfx) — Nigel Cumberland
@@ -826,6 +833,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Isso você não aprende em Harvard Os ensinamentos de um dos maiores](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Isso%20você%20não%20aprende%20em%20Harvard%20Os%20ensinamentos%20de%20um%20dos%20maiores.azw3) — FELIPE IVO PEREIRA
 - [Jogos De Empresas Uma Nova Perspectiva De Aproveitamento E Uso](Kindle/AZW3/Pedro%20Paulo%20Hugo%20Wilhelm/Jogos%20De%20Empresas%20Uma%20Nova%20Perspectiva%20De%20Aproveitamento%20E%20Uso.azw3) — Pedro Paulo Hugo Wilhelm
 - [Las reglas del Mar Rojo: 10 estrategias dadas por Dios para los tiempos difíciles](EPUB/Robert%20J.%20Morgan/Las%20reglas%20del%20Mar%20Rojo_%2010%20estrategias%20dadas%20por%20Dios%20para%20los%20tiempos%20difíciles.epub) — Robert J. Morgan
+- [Liderando como Jesus](Kindle/AZW3/Larry%20Titus/Liderando%20como%20Jesus.azw3) — Larry Titus
 - [Liderando juntos - Marcelo Simonato](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Liderando%20juntos%20-%20Marcelo%20Simonato.azw3) — FELIPE IVO PEREIRA
 - [Liderando o que Você Não Começou - Tyler Reagin (PT-BR) - edição profissional](Kindle/AZW3/Tyler%20Reagin/Liderando%20o%20que%20Você%20Não%20Começou%20-%20Tyler%20Reagin%20(PT-BR)%20-%20edição%20profissional.azw3) — Tyler Reagin
 - [Liderando o que Você Não Começou: Vencendo em Grande Quando Você Herda Pessoas, Lugares e Possibilidades](EPUB/Tyler%20Reagin/Liderando%20o%20que%20Você%20Não%20Começou_%20Vencendo%20em%20Grande%20Quando%20Você%20Herda%20Pessoas,%20Lugares%20e%20Possibilid.epub) — Tyler Reagin
@@ -925,7 +933,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (408)
+## Outros · A classificar (398)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1032,16 +1040,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [John Bevere](Kindle/KFX/O%20esplendor%20de%20Deus/John%20Bevere.kfx) — O esplendor de Deus
 - [JONATAS-Faltou-uma-coisa-Charles-Stanley](Kindle/AZW3/C.%20STANLEY/JONATAS-Faltou-uma-coisa-Charles-Stanley.azw3) — C. STANLEY
 - [Joseph F Hair & Outros Análise Multivariada](Kindle/AZW3/Tatham_%20Anderson/Joseph%20F%20Hair%20&%20Outros%20Análise%20Multivariada.azw3) — Tatham| Anderson
-- [Leis diárias](Kindle/KFX/Robert%20Greene/Leis%20diárias.kfx) — Robert Greene
-- [Lendo Efésios com John Stott](Kindle/KFX/John%20Stott/Lendo%20Efésios%20com%20John%20Stott.kfx) — John Stott; Andrew T. Le Peau
-- [Levante-se e mate primeiro - Ronen Bergman](Kindle/AZW3/Ronan%20Bergman/Levante-se%20e%20mate%20primeiro%20-%20Ronen%20Bergman.azw3) — Ronan Bergman
-- [Liberalismo](EPUB/Ludwig%20von%20Mises/Liberalismo.epub) — Ludwig von Mises
-- [Lidere — Guie um Pequeno Grupo para Experimentar Cristo - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Lidere%20—%20Guie%20um%20Pequeno%20Grupo%20para%20Experimentar%20Cristo%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
-- [Lo esencial de un buen líder: Siete principios para una iglesia que perdura](Kindle/KFX/Craig%20Groeschel/Lo%20esencial%20de%20un%20buen%20líder_%20Siete%20principios%20para%20una%20iglesia%20que%20perdura.kfx) — Craig Groeschel
-- [Mais esperto que o Diabo](Kindle/KFX/Napoleon%20Hill/Mais%20esperto%20que%20o%20Diabo.kfx) — Napoleon Hill
-- [Mais Esperto que o Diabo 2](Kindle/KFX/Napoleon%20Hill/Mais%20Esperto%20que%20o%20Diabo%202.kfx) — Napoleon Hill
-- [Manhãs poderosas](Kindle/KFX/Neder%20Izaac/Manhãs%20poderosas.kfx) — Neder Izaac
-- [Manhãs Poderosas Neder Izaac](Kindle/AZW3/Neder%20Izaac/Manhãs%20Poderosas%20Neder%20Izaac.azw3) — Neder Izaac
 - [Mantenha o Fim em Vista (Vivendo em Vitória) - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Mantenha%20o%20Fim%20em%20Vista%20(Vivendo%20em%20Vitória)%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
 - [Manual do Mentor Charles Cezar (1)](Kindle/AZW3/Charles%20Cezar/Manual%20do%20Mentor%20Charles%20Cezar%20(1).azw3) — Charles Cezar
 - [Manual do TDAH](Kindle/KFX/Natasha%20Ganem/Manual%20do%20TDAH.kfx) — Natasha Ganem; Raphael Rangel
@@ -1520,7 +1518,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vendedor na era digital, O César Frazão & João Kepler (1)](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Vendedor%20na%20era%20digital,%20O%20César%20Frazão%20&%20João%20Kepler%20(1).azw3) — FELIPE IVO PEREIRA
 - [Vida através da morte: estudo da epístola aos Romanos](Kindle/KFX/Charles%20Stanley/Vida%20através%20da%20morte_%20estudo%20da%20epístola%20aos%20Romanos.kfx) — Charles Stanley
 
-## Religião e espiritualidade · Pregação e ministério (167)
+## Religião e espiritualidade · Pregação e ministério (171)
 
 - [1 Timóteo - O pastor, sua vida e sua obra - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Timóteo%20-%20O%20pastor,%20sua%20vida%20e%20sua%20obra%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [101 idéias criativas para cultos domésticos (101 ideias)](EPUB/Merkh_%20David/101%20idéias%20criativas%20para%20cultos%20domésticos%20(101%20ideias).epub) — Merkh| David
@@ -1622,7 +1620,10 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Igrejas que se reergueram: como 300 igrejas deram a volta por cima — e a sua também pode](EPUB/Ed%20Stetzer/Igrejas%20que%20se%20reergueram_%20como%20300%20igrejas%20deram%20a%20volta%20por%20cima%20—%20e%20a%20sua%20também%20pode.epub) — Ed Stetzer; Mike Dodson
 - [Intensa e Envolvente Andy Stanley pt-BR](Kindle/AZW3/Andy%20Stanley/Intensa%20e%20Envolvente%20Andy%20Stanley%20pt-BR.azw3) — Andy Stanley
 - [Jovens no Ministério em Células — Discipulando a Próxima Geração Agora - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Jovens%20no%20Ministério%20em%20Células%20—%20Discipulando%20a%20Próxima%20Geração%20Agora%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
+- [Lendo Efésios com John Stott](Kindle/KFX/John%20Stott/Lendo%20Efésios%20com%20John%20Stott.kfx) — John Stott; Andrew T. Le Peau
 - [Lidere com Isso em Mente: 7 Princípios de Liderança para uma Igreja que Permanece](EPUB/Craig%20Groeschel/Lidere%20com%20Isso%20em%20Mente_%207%20Princípios%20de%20Liderança%20para%20uma%20Igreja%20que%20Permanece.epub) — Craig Groeschel
+- [Lidere — Guie um Pequeno Grupo para Experimentar Cristo - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Lidere%20—%20Guie%20um%20Pequeno%20Grupo%20para%20Experimentar%20Cristo%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
+- [Lo esencial de un buen líder: Siete principios para una iglesia que perdura](Kindle/KFX/Craig%20Groeschel/Lo%20esencial%20de%20un%20buen%20líder_%20Siete%20principios%20para%20una%20iglesia%20que%20perdura.kfx) — Craig Groeschel
 - [Machucados pela igreja: E a esperança de um Evangelho que cura](Kindle/AZW3/Tiago%20Mattes/Machucados%20pela%20igreja_%20E%20a%20esperança%20de%20um%20Evangelho%20que%20cura.azw3) — Tiago Mattes
 - [Malaquias - A igreja no tribunal de Deus - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/Malaquias%20-%20A%20igreja%20no%20tribunal%20de%20Deus%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [Manhãs com Spurgeon: 365 meditações do príncipe dos pregadores](EPUB/Charles%20H.%20Spurgeon/Manhãs%20com%20Spurgeon_%20365%20meditações%20do%20príncipe%20dos%20pregadores.epub) — Charles H. Spurgeon
@@ -1662,6 +1663,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Praticando a Vida de Pregação](EPUB/David%20B.%20Ward/Praticando%20a%20Vida%20de%20Pregação.epub) — David B. Ward
 - [Praticando a Vida de Pregação - David Ward - PTBR](Kindle/AZW3/David%20B.%20Ward/Praticando%20a%20Vida%20de%20Pregação%20-%20David%20Ward%20-%20PTBR.azw3) — David B. Ward
 - [Pregacao e historias O poder d - Emilio Garofalo Neto](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Pregacao%20e%20historias%20O%20poder%20d%20-%20Emilio%20Garofalo%20Neto.azw3) — FELIPE IVO PEREIRA
+- [Pregando de pé: Conectando Deus e o público no momento certo da pregação](EPUB/Fred%20R.%20Lybrand/Pregando%20de%20pé_%20Conectando%20Deus%20e%20o%20público%20no%20momento%20certo%20da%20pregação.epub) — Fred R. Lybrand
 - [Pregando sem anotações: A arte de comunicar a Palavra de Deus com liberdade, clareza e poder](EPUB/Prof.%20Joseph%20M.%20Webb/Pregando%20sem%20anotações_%20A%20arte%20de%20comunicar%20a%20Palavra%20de%20Deus%20com%20liberdade,%20clareza%20e%20poder.epub) — Prof. Joseph M. Webb
 - [Pregando Sermões Impactantes - Lane Sebring (PT-BR) - edição profissional](Kindle/AZW3/Lane%20Sebring/Pregando%20Sermões%20Impactantes%20-%20Lane%20Sebring%20(PT-BR)%20-%20edição%20profissional.azw3) — Lane Sebring
 - [Pregando Sermões Impactantes: Como criar e apresentar mensagens que cativam e inspiram](EPUB/Lane%20Sebring/Pregando%20Sermões%20Impactantes_%20Como%20criar%20e%20apresentar%20mensagens%20que%20cativam%20e%20inspiram.epub) — Lane Sebring
@@ -1720,7 +1722,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Teologia sistemática ao alcance de todos](EPUB/Wayne%20Grudem/Teologia%20sistemática%20ao%20alcance%20de%20todos.epub) — Wayne Grudem
 - [Uma teologia de Paulo e suas cartas: A dádiva do novo domínio em Cristo](Kindle/AZW3/Douglas%20J.%20Moo/Uma%20teologia%20de%20Paulo%20e%20suas%20cartas_%20A%20dádiva%20do%20novo%20domínio%20em%20Cristo.azw3) — Douglas J. Moo
 
-## Religião e espiritualidade · Vida cristã e devoção (240)
+## Religião e espiritualidade · Vida cristã e devoção (238)
 
 - [1 Pedro - Com os pés no vale e o coração no céu - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Pedro%20-%20Com%20os%20pés%20no%20vale%20e%20o%20coração%20no%20céu%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [365 dias de narrativas poderosas](Kindle/KFX/Thaís%20Machado/365%20dias%20de%20narrativas%20poderosas.kfx) — Thaís Machado
@@ -1860,8 +1862,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [John Bevere - O esplendor de Deus](Kindle/AZW3/John%20Bevere/John%20Bevere%20-%20O%20esplendor%20de%20Deus.azw3) — John Bevere
 - [Joyce Meyer - SOBRECARGA](Kindle/AZW3/Joyce%20Meyer/Joyce%20Meyer%20-%20SOBRECARGA.azw3) — Joyce Meyer
 - [Lectures and Clippings From My Scrap Book (Classic Reprint)](Kindle/AZW3/Lilla%20D.%20Windsor/Lectures%20and%20Clippings%20From%20My%20Scrap%20Book%20(Classic%20Reprint).azw3) — Lilla D. Windsor
-- [Liderando como Jesus](Kindle/AZW3/Larry%20Titus/Liderando%20como%20Jesus.azw3) — Larry Titus
-- [Lit! Um guia cristão para leitura de livros](Kindle/AZW3/Tony%20Reinke/Lit!%20Um%20guia%20cristão%20para%20leitura%20de%20livros.azw3) — Tony Reinke
 - [Livro de Apoio O Deus que Governa o Mundo e Cuida da Família Adulto](Kindle/AZW3/Silas%20Queiroz/Livro%20de%20Apoio%20O%20Deus%20que%20Governa%20o%20Mundo%20e%20Cuida%20da%20Família%20Adulto.azw3) — Silas Queiroz
 - [Luchas: Cómo seguir a Jesús en un mundo de selfies (Spanish Edition)](EPUB/Groeschel_%20Craig/Luchas_%20Cómo%20seguir%20a%20Jesús%20en%20un%20mundo%20de%20selfies%20(Spanish%20Edition).epub) — Groeschel| Craig
 - [Manual de Aconselhamento Cristão Cognitivo](Kindle/AZW3/Neudelon%20Azevedo/Manual%20de%20Aconselhamento%20Cristão%20Cognitivo.azw3) — Neudelon Azevedo
@@ -2107,7 +2107,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Ética na inteligência artificial](Kindle/AZW3/Clarisse%20de%20Souza_%20Edgar%20Lyra_%20Matheus%20Ferreira_%20Waldyr%20Delgado/Ética%20na%20inteligência%20artificial.azw3) — Clarisse de Souza| Edgar Lyra| Matheus Ferreira| Waldyr Delgado
 - [Ética na inteligência artificial](Kindle/KFX/Mark%20Coeckelbergh/Ética%20na%20inteligência%20artificial.kfx) — Mark Coeckelbergh
 
-## Tecnologia e computação · Programação e desenvolvimento (65)
+## Tecnologia e computação · Programação e desenvolvimento (66)
 
 - [6-em-1-Coleo-Python-do-ZERO-s-Re](Kindle/KFX/Fernando%20Feltrin/6-em-1-Coleo-Python-do-ZERO-s-Re.kfx) — Fernando Feltrin
 - [Algoritmos](Kindle/KFX/José%20Augusto%20Navarro%20Garcia%20Manzano/Algoritmos.kfx) — José Augusto Navarro Garcia Manzano
@@ -2159,6 +2159,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [JavaScript: Básico ao Avançado](Kindle/KFX/Kelvin%20Baumhardt%20Biffi/JavaScript_%20Básico%20ao%20Avançado.kfx) — Kelvin Baumhardt Biffi
 - [JavaScript_O Guia Definitivo](Kindle/KFX/David%20Flanagan/JavaScript_O%20Guia%20Definitivo.kfx) — David Flanagan
 - [Lógica de Programação e Algoritmos com JavaScript 2ª Edição](Kindle/AZW3/Edécio%20Fernando%20Iepsen/Lógica%20de%20Programação%20e%20Algoritmos%20com%20JavaScript%202ª%20Edição.azw3) — Edécio Fernando Iepsen
+- [Mais esperto que o Diabo](Kindle/KFX/Napoleon%20Hill/Mais%20esperto%20que%20o%20Diabo.kfx) — Napoleon Hill
 - [Node.js e Microservices Um Guia Prático](Kindle/AZW3/Duarte_%20Luiz/Node.js%20e%20Microservices%20Um%20Guia%20Prático.azw3) — Duarte| Luiz
 - [O Algoritmo da Vitoria](Kindle/KFX/Jose%20Salibi%20Neto/O%20Algoritmo%20da%20Vitoria.kfx) — Jose Salibi Neto
 - [O Algoritmo da Vitória - José Salibi Neto](Kindle/AZW3/José%20Salibi%20Neto/O%20Algoritmo%20da%20Vitória%20-%20José%20Salibi%20Neto.azw3) — José Salibi Neto

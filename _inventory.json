@@ -1,14 +1,14 @@
 {
-  "books": 2091,
-  "files": 2445,
-  "bytes": 7867538576,
+  "books": 2092,
+  "files": 2446,
+  "bytes": 7871734897,
   "formats": {
     "AZW": 119,
     "AZW3": 1284,
-    "EPUB": 147,
+    "EPUB": 148,
     "KFX": 877,
     "MOBI": 14,
     "PDF": 4
   },
-  "books_with_covers": 2091
+  "books_with_covers": 2092
 }

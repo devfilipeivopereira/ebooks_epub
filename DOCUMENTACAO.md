@@ -16,7 +16,7 @@ Campos do CSV:
 - Tema e subtema: classificação automática a partir do título, tags e descrição disponíveis.
 - Busca Amazon, URL do produto e status: uma busca sugerida por livro; `não verificado` não significa que o produto foi encontrado.
 
-`TEMAS.md` agrupa os 2.091 livros. A categoria `Outros / A classificar` reúne títulos sem pistas suficientes para uma classificação confiável. `DESCRICOES_PENDENTES.csv` lista as descrições ainda não localizadas. `AMAZON_A_VERIFICAR.csv` registra a busca a conferir para cada livro, sem preencher dados editoriais não confirmados.
+`TEMAS.md` agrupa os 2.092 livros. A categoria `Outros / A classificar` reúne títulos sem pistas suficientes para uma classificação confiável. `DESCRICOES_PENDENTES.csv` lista as descrições ainda não localizadas. `AMAZON_A_VERIFICAR.csv` registra a busca a conferir para cada livro, sem preencher dados editoriais não confirmados.
 `dados_amazon.jsonl` guarda as tentativas e os resultados verificados por ID do Calibre. O último registro de cada ID é o estado atual. `mesclagens_amazon.jsonl` registra os pares com o mesmo ASIN que foram reunidos no Calibre.
 `REVISAO_AMAZON.csv` registra fichas rejeitadas por título ou idioma incompatível após nova validação; elas não são tratadas como descrições confirmadas.
 

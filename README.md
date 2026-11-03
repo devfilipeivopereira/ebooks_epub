@@ -17,11 +17,11 @@ Repositório organizado de ebooks exportados da biblioteca Calibre local. O inve
 
 ## Números da exportação
 
-A pasta contém 2.091 registros de livro e 2.445 arquivos, em seis formatos: AZW, AZW3, EPUB, KFX, MOBI e PDF. Todos os registros têm capa. O catálogo foi conferido por SHA-256 e não contém arquivos de ebook idênticos. Os metadados e as capas foram obtidos da biblioteca Calibre local.
+A pasta contém 2.092 registros de livro e 2.446 arquivos, em seis formatos: AZW, AZW3, EPUB, KFX, MOBI e PDF. Todos os registros têm capa. O catálogo foi conferido por SHA-256 e não contém arquivos de ebook idênticos. Os metadados e as capas foram obtidos da biblioteca Calibre local.
 
-O catálogo contém descrição ou sinopse utilizável para 1.141 livros. Os outros 950 estão identificados em `DESCRICOES_PENDENTES.csv`. Foram verificadas 812 fichas da Amazon para os registros atuais; cada descrição coletada tem URL da ficha, título e autoria conferidos em `dados_amazon.jsonl`.
+O catálogo contém descrição ou sinopse utilizável para 1.176 livros. Os outros 916 estão identificados em `DESCRICOES_PENDENTES.csv`. Foram verificadas 864 fichas da Amazon para os registros atuais; cada descrição coletada tem URL da ficha, título e autoria conferidos em `dados_amazon.jsonl`.
 
-A classificação temática cobre todos os registros; 408 estão em `Outros / A classificar` por falta de dados suficientes para uma atribuição confiável.
+A classificação temática cobre todos os registros; 398 estão em `Outros / A classificar` por falta de dados suficientes para uma atribuição confiável.
 
 ## Como localizar
 
