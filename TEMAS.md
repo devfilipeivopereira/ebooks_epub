@@ -113,7 +113,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Outlive A arte e a ciência Peter Attia Bill Gifford](Kindle/AZW3/Peter%20Attia/Outlive%20A%20arte%20e%20a%20ciência%20Peter%20Attia%20Bill%20Gifford.azw3) — Peter Attia
 - [Uma introdução à metafísica](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20introdução%20à%20metafísica.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Aprendizagem e ensino (50)
+## Educação e desenvolvimento pessoal · Aprendizagem e ensino (49)
 
 - [(TRAD) origens da mitologia A a Z - Annette Giosec](Kindle/AZW3/Annette%20Giesecke/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z%20-%20Annette%20Giosec.azw3) — Annette Giesecke
 - [333 páginas para tirar seu projeto do papel](Kindle/KFX/Daniel%20Larusso/333%20páginas%20para%20tirar%20seu%20projeto%20do%20papel.kfx) — Daniel Larusso; Gabriel Gomes; Luciano Braga
@@ -154,7 +154,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O alvorecer da alegria indestrutível leituras diárias para o Advento](Kindle/AZW3/John%20Piper/O%20alvorecer%20da%20alegria%20indestrutível%20leituras%20diárias%20para%20o%20Advento.azw3) — John Piper
 - [O Andar do Bebado](Kindle/AZW3/Leonard%20Mlodinow/O%20Andar%20do%20Bebado.azw3) — Leonard Mlodinow
 - [O Curso do Despertar](Kindle/AZW3/Joe%20Vitale/O%20Curso%20do%20Despertar.azw3) — Joe Vitale
-- [O Filho Rico - Felipe Miranda](Kindle/AZW3/Miranda_Felipe/O%20Filho%20Rico%20-%20Felipe%20Miranda.azw3) — Miranda|Felipe
 - [O significado do casamento - Keller, Timothy](Kindle/AZW3/Timothy%20Keller/O%20significado%20do%20casamento%20-%20Keller,%20Timothy.azw3) — Timothy Keller
 - [Para ler como um escritor: Um guia para quem gosta de livros e para quem quer escrevê-los](Kindle/AZW/Francine%20Prose/Para%20ler%20como%20um%20escritor_%20Um%20guia%20para%20quem%20gosta%20de%20livros%20e%20para%20quem%20quer%20escrevê-los.azw) — Francine Prose
 - [Para Novos Gerentes 10 Leituras Essenciais](Kindle/KFX/Harvard%20Business%20Review/Para%20Novos%20Gerentes%2010%20Leituras%20Essenciais.kfx) — Harvard Business Review
@@ -166,7 +165,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tenha a Vida Que Deseja - Richard Bandler](Kindle/AZW3/Richard%20Bandler/Tenha%20a%20Vida%20Que%20Deseja%20-%20Richard%20Bandler.azw3) — Richard Bandler
 - [Ultra-aprendizado - Scott Young](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ultra-aprendizado%20-%20Scott%20Young.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (159)
+## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (160)
 
 - [100 coisas que líderes de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20líderes%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
 - [100 coisas que pessoas de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
@@ -286,6 +285,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O cerebro intuitivo - John Bargh](Kindle/AZW3/John%20Bargh/O%20cerebro%20intuitivo%20-%20John%20Bargh.azw3) — John Bargh
 - [O Foco Triplo](Kindle/AZW3/Daniel%20Goleman%20Peter%20Senge/O%20Foco%20Triplo.azw3) — Daniel Goleman Peter Senge
 - [O Funcionamento da Mente](Kindle/AZW/Augusto%20Cury/O%20Funcionamento%20da%20Mente.azw) — Augusto Cury
+- [O homem e aquilo que ele pensa](Kindle/AZW3/James%20Allen/O%20homem%20e%20aquilo%20que%20ele%20pensa.azw3) — James Allen
 - [O lado bom das expectativas](Kindle/AZW3/David%20Robson/O%20lado%20bom%20das%20expectativas.azw3) — David Robson
 - [O mito da perfeição](Kindle/AZW3/Richella%20J.%20Parham/O%20mito%20da%20perfeição.azw3) — Richella J. Parham
 - [O Método: Domine Sua Mente, Controle Sua Biologia e Ative Todo o Seu Potencial Humano](Kindle/KFX/Wim%20Hof/O%20Método_%20Domine%20Sua%20Mente,%20Controle%20Sua%20Biologia%20e%20Ative%20Todo%20o%20Seu%20Potencial%20Humano.kfx) — Wim Hof
@@ -1099,7 +1099,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O ego é seu inimigo](Kindle/AZW3/Ryan%20Holiday/O%20ego%20é%20seu%20inimigo.azw3) — Ryan Holiday
 - [O Enigma De Israel](Kindle/AZW3/Henrique%20Cymerman/O%20Enigma%20De%20Israel.azw3) — Henrique Cymerman
 - [O feitiço escarlate: Livro infantil ilustrado (7 a 12 anos) (As aventuras de Txano e Oscar 5)](Kindle/AZW3/Julio%20Santos%20García/O%20feitiço%20escarlate_%20Livro%20infantil%20ilustrado%20(7%20a%2012%20anos)%20(As%20aventuras%20de%20Txano%20e%20Oscar%205).azw3) — Julio Santos García
-- [O homem e aquilo que ele pensa](Kindle/AZW3/James%20Allen/O%20homem%20e%20aquilo%20que%20ele%20pensa.azw3) — James Allen
+- [O Filho Rico - Felipe Miranda](Kindle/AZW3/Miranda_Felipe/O%20Filho%20Rico%20-%20Felipe%20Miranda.azw3) — Miranda|Felipe
 - [O jogo da vida e como jogá-lo](Kindle/AZW3/Florence%20Scovel%20Shinn/O%20jogo%20da%20vida%20e%20como%20jogá-lo.azw3) — Florence Scovel Shinn
 - [O jogo infinito](Kindle/KFX/Simon%20Sinek/O%20jogo%20infinito.kfx) — Simon Sinek
 - [O jogo infinito - Simon Sinek](Kindle/AZW3/Simon%20Sinek/O%20jogo%20infinito%20-%20Simon%20Sinek.azw3) — Simon Sinek
