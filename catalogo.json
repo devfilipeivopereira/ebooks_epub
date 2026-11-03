@@ -42412,7 +42412,7 @@
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=O+Rei+Escondido+e+a+Promessa+In+-+Filipe+Ivo+Pereira+Filipe+Ivo+Pereira",
     "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_status": "sem_resultado"
   },
   {
     "id": 1993,
@@ -42439,7 +42439,7 @@
     ],
     "amazon_search_url": "https://www.amazon.com.br/s?k=O+Segredo+-+Rhonda+Byrne+Digital+Source",
     "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_status": "sem_correspondencia_confiavel"
   },
   {
     "id": 97,
@@ -42458,7 +42458,7 @@
     ],
     "description": "Depois do sucesso com o best-seller O segredo da prosperidade judaica, o rabino Dor Leon Attar traz um livro que promete mudar para sempre o seu nível de compreensão sobre o que leva os judeus a serem tão prósperos em tudo que se propõem a fazer. Ao ler cada capítulo, você faz uma verdadeira imersão em lições milenares e passa a se conhecer melhor para alcançar um estado de espírito pleno, capaz de influenciar positivamente sua vida e seus relacionamentos. Dentre os temas abordados pelo autor, ainda estão: - O que é mentalidade judaica positiva? - Pensar bem faz bem. - As duas preocupações do homem. - Como resolver meus problemas? - Tudo é para o bem. - Como desenvolver humildade? - Sete dicas para sair do campo das ideias e alcançar seus objetivos. Neste livro, o leitor tem acesso a um conteúdo inovador para mudar de mentalidade com base nos ensinamentos judaicos. O que os judeus têm de diferente no modo de pensar que os faz tão prósperos? Qual o segredo para perseverar mesmo diante dos desafios da vida sem esmorecer? De acordo com o rabino Dor Leon Attar, e também escritor deste livro, começa com a qualidade dos pensamentos que se tem. Uma atitude positiva diante da vida parece estar entre os principais requisitos àqueles que desejam viver plenamente. Estar preparado para qualquer situação requer jogo de cintura e uma dose de bom humor, pois, ao se deparar com eventos inusitados, no final, o que conta é a forma como cada um lida com o que lhe acontece. Mas, para além do pensar positivamente, Dor ainda ensina como preparar-se para estar bem, com um plano de ação focado aos seus objetivos que mostre progresso em etapas e, assim, influencie o seu ânimo.",
     "description_source": "Calibre",
-    "amazon_description": "",
+    "amazon_description": "Depois do sucesso com o best-seller O segredo da prosperidade judaica, o rabino Dor Leon Attar traz um livro que promete mudar para sempre o seu nível de compreensão sobre o que leva os judeus a serem tão prósperos em tudo que se propõem a fazer. Ao ler cada capítulo, você faz uma verdadeira imersão em lições milenares e passa a se conhecer melhor para alcançar um estado de espírito pleno, capaz de influenciar positivamente sua vida e seus relacionamentos. Dentre os temas abordados pelo autor, ainda estão: - O que é mentalidade judaica positiva? - Pensar bem faz bem. - As duas preocupações do homem. - Como resolver meus problemas? - Tudo é para o bem. Como desenvolver humildade? - Sete dicas para sair do campo das ideias e alcançar seus objetivos.",
     "theme": "Saúde e bem-estar",
     "subtheme": "Saúde mental e emoções",
     "tags": [
@@ -42470,8 +42470,8 @@
       "Judaism"
     ],
     "amazon_search_url": "https://www.amazon.com.br/s?k=O+segredo+da+mentalidade+judaica+Dor+Leon+Attar",
-    "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_product_url": "https://www.amazon.com.br/dp/6586939569",
+    "amazon_status": "verificado"
   },
   {
     "id": 847,
@@ -42488,15 +42488,15 @@
         "sha256": "d2b2f060ce11d5aca6304ca39c4afb37ac0fbd7a13c04f74d0ccae6518899e01"
       }
     ],
-    "description": "",
-    "description_source": "indisponível",
-    "amazon_description": "",
+    "description": "São três os pilares que formam o triângulo da prosperidade: equilíbrio emocional e físico, equilíbrio e liberdade financeira e viver o seu propósito na vida. Assim como em um triângulo equilátero, cada um dos pilares possui o mesmo peso e precisa ser trabalhado igualmente para gerar os resultados esperados. Dessa forma, a proposta do livro O segredo da prosperidade judaica, do Rabino Dor Leon Attar, não se apresenta como um manual com fórmulas prontas para o sucesso, mas convida a uma introspecção e análise pessoal como forma de obter melhores resultados no futuro. Durante a obra, o R. Dor Leon explica como obter o tão sonhado equilíbrio na vida. Além disso, desmistifica algumas crenças sobre a riqueza judaica, falando sobre como administrar o dinheiro estrategicamente de forma a sempre prosperar, deixando claro que para alcançar tal objetivo é preciso persistência e muito trabalho. Além disso, por trás da questão financeira há uma questão do ser. Entender seus propósitos, ser grato, saber perdoar e ser uma boa pessoa são assuntos explorados pelo autor. “Entenda que somos ‘cocriadores’ da nossa realidade. A forma que seremos, e para quem nos transformarmos, está em nossas mãos”, declara R. Dor Leon Attar. Os assuntos trabalhados na obra estão relacionados ao conceito de qualidade da mentalidade (QM) – fator determinante para alcançar a prosperidade, proporcionando o entendimento e o enfrentamento dos problemas diários. O leitor aprenderá como elevar a sua QM e isso mudará diversos aspectos de sua vida. Por fim, é necessário rever os conceitos sobre riqueza e caminhar em direção ao seu interior, buscando entender suas emoções e traumas, para que seja possível compreender sua situação atual e mudá-la. “Como podemos amar ao próximo como a nós mesmos, se não nos amamos como devemos?”, questiona o autor que propõe o autoconhecimento como chave para a transformação. Leia mais",
+    "description_source": "Amazon Brasil",
+    "amazon_description": "São três os pilares que formam o triângulo da prosperidade: equilíbrio emocional e físico, equilíbrio e liberdade financeira e viver o seu propósito na vida. Assim como em um triângulo equilátero, cada um dos pilares possui o mesmo peso e precisa ser trabalhado igualmente para gerar os resultados esperados. Dessa forma, a proposta do livro O segredo da prosperidade judaica, do Rabino Dor Leon Attar, não se apresenta como um manual com fórmulas prontas para o sucesso, mas convida a uma introspecção e análise pessoal como forma de obter melhores resultados no futuro. Durante a obra, o R. Dor Leon explica como obter o tão sonhado equilíbrio na vida. Além disso, desmistifica algumas crenças sobre a riqueza judaica, falando sobre como administrar o dinheiro estrategicamente de forma a sempre prosperar, deixando claro que para alcançar tal objetivo é preciso persistência e muito trabalho. Além disso, por trás da questão financeira há uma questão do ser. Entender seus propósitos, ser grato, saber perdoar e ser uma boa pessoa são assuntos explorados pelo autor. “Entenda que somos ‘cocriadores’ da nossa realidade. A forma que seremos, e para quem nos transformarmos, está em nossas mãos”, declara R. Dor Leon Attar. Os assuntos trabalhados na obra estão relacionados ao conceito de qualidade da mentalidade (QM) – fator determinante para alcançar a prosperidade, proporcionando o entendimento e o enfrentamento dos problemas diários. O leitor aprenderá como elevar a sua QM e isso mudará diversos aspectos de sua vida. Por fim, é necessário rever os conceitos sobre riqueza e caminhar em direção ao seu interior, buscando entender suas emoções e traumas, para que seja possível compreender sua situação atual e mudá-la. “Como podemos amar ao próximo como a nós mesmos, se não nos amamos como devemos?”, questiona o autor que propõe o autoconhecimento como chave para a transformação. Leia mais",
     "theme": "Negócios e carreira",
     "subtheme": "Finanças e investimentos",
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=O+Segredo+da+Prosperidade+Judaica+Dor+Leon+Attar",
-    "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_product_url": "https://www.amazon.com.br/dp/8594550960",
+    "amazon_status": "verificado"
   },
   {
     "id": 2100,
@@ -42515,13 +42515,13 @@
     ],
     "description": "Durante a obra, o R. Dor Leon explica como obter o tão sonhado equilíbrio na vida. Além disso, desmistifica algumas crenças sobre a riqueza judaica, falando sobre como administrar o dinheiro estrategicamente.",
     "description_source": "Calibre",
-    "amazon_description": "",
+    "amazon_description": "São três os pilares que formam o triângulo da prosperidade: equilíbrio emocional e físico, equilíbrio e liberdade financeira e viver o seu propósito na vida. Assim como em um triângulo equilátero, cada um dos pilares possui o mesmo peso e precisa ser trabalhado igualmente para gerar os resultados esperados. Dessa forma, a proposta do livro O segredo da prosperidade judaica, do Rabino Dor Leon Attar, não se apresenta como um manual com fórmulas prontas para o sucesso, mas convida a uma introspecção e análise pessoal como forma de obter melhores resultados no futuro. Durante a obra, o R. Dor Leon explica como obter o tão sonhado equilíbrio na vida. Além disso, desmistifica algumas crenças sobre a riqueza judaica, falando sobre como administrar o dinheiro estrategicamente de forma a sempre prosperar, deixando claro que para alcançar tal objetivo é preciso persistência e muito trabalho. Além disso, por trás da questão financeira há uma questão do ser. Entender seus propósitos, ser grato, saber perdoar e ser uma boa pessoa são assuntos explorados pelo autor. “Entenda que somos ‘cocriadores’ da nossa realidade. A forma que seremos, e para quem nos transformarmos, está em nossas mãos”, declara R. Dor Leon Attar. Os assuntos trabalhados na obra estão relacionados ao conceito de qualidade da mentalidade (QM) – fator determinante para alcançar a prosperidade, proporcionando o entendimento e o enfrentamento dos problemas diários. O leitor aprenderá como elevar a sua QM e isso mudará diversos aspectos de sua vida. Por fim, é necessário rever os conceitos sobre riqueza e caminhar em direção ao seu interior, buscando entender suas emoções e traumas, para que seja possível compreender sua situação atual e mudá-la. “Como podemos amar ao próximo como a nós mesmos, se não nos amamos como devemos?”, questiona o autor que propõe o autoconhecimento como chave para a transformação. Leia mais",
     "theme": "Negócios e carreira",
     "subtheme": "Finanças e investimentos",
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=O+Segredo+da+Prosperidade+Judaica+-+Dor+Leon+Attar+Dor+Leon+Attar",
-    "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_product_url": "https://www.amazon.com.br/dp/8594550960",
+    "amazon_status": "verificado"
   },
   {
     "id": 917,
@@ -42540,7 +42540,7 @@
     ],
     "description": "Coleção de livros infantis ilustrados para crianças a partir de 7 anos. Mais de 120 páginas de diversão, aventura e mistério com ilustrações a cores Apresentação: Olá! Meu nome é Txano e meu irmão gêmeo se chama Oscar. Você já escutou algo sobre o País Dogon? Pois a aventura que vamos contar ocorreu conosco ali, quando uma jogada do destino nos levou a passar as férias na África e nos permitiu conhecer uma lenda milenar que se converteu em realidade diante de nós. Por falar nisso, se você ainda acredita que os extraterrestres não existem, acompanhe-nos e talvez os veja com os seus próprios olhos. Você se atreve a participar de nossa aventura africana? Livros publicados na coleção:  A pedra verde (Txano e Oscar 1) Operação Maxi (Txano e Oscar 2) O dragão de jade (Txano e Oscar 3) O segredo dos Dogon (Txano e Oscar 4) O feitiço escarlate (Txano e Oscar 5 - Em breve) Os vizinhos subterrâneos (Txano e Oscar 6 - Em breve)  E que você se divirta com a leitura!",
     "description_source": "Calibre",
-    "amazon_description": "",
+    "amazon_description": "Coleção de livros infantis ilustrados para crianças a partir de 7 anos. Mais de 120 páginas de diversão, aventura e mistério com ilustrações a cores Apresentação: Olá! Meu nome é Txano e meu irmão gêmeo se chama Oscar. Você já escutou algo sobre o País Dogon? Pois a aventura que vamos contar ocorreu conosco ali, quando uma jogada do destino nos levou a passar as férias na África e nos permitiu conhecer uma lenda milenar que se converteu em realidade diante de nós. Por falar nisso, se você ainda acredita que os extraterrestres não existem, acompanhe-nos e talvez os veja com os seus próprios olhos. Você se atreve a participar de nossa aventura africana? Livros publicados na coleção: A pedra verde (Txano e Oscar 1) Operação Maxi (Txano e Oscar 2) O dragão de jade (Txano e Oscar 3) O segredo dos Dogon (Txano e Oscar 4) O feitiço escarlate (Txano e Oscar 5 - Em breve) Os vizinhos subterrâneos (Txano e Oscar 6 - Em breve) E que você se divirta com a leitura! Leia mais",
     "theme": "Família e relacionamentos",
     "subtheme": "Parentalidade e família",
     "tags": [
@@ -42549,8 +42549,8 @@
       "General"
     ],
     "amazon_search_url": "https://www.amazon.com.br/s?k=O+Segredo+Dos+Dogon+%28Livro+4%29%3A+Livro+Infantil+Ilustrado+%287+a+12+Anos%29+Julio+Santos+Garc%C3%ADa",
-    "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_product_url": "https://www.amazon.com.br/dp/B08GG2DN6M",
+    "amazon_status": "verificado"
   },
   {
     "id": 1366,
@@ -42575,7 +42575,7 @@
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=O+sentimento+%C3%A9+o+segredo+Vol.+4+Neville+Goddard+Unknown",
     "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_status": "sem_correspondencia_confiavel"
   },
   {
     "id": 606,
