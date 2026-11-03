@@ -5,6 +5,7 @@ Requer: pip install playwright rapidfuzz; Edge instalado no Windows.
 O script não usa CAPTCHA, login, proxies ou técnicas para contornar bloqueios.
 """
 import argparse
+import csv
 import json
 import random
 import re
@@ -22,6 +23,7 @@ from langdetect import detect, LangDetectException
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG = ROOT / "catalogo.json"
 CHECKPOINT = ROOT / "dados_amazon.jsonl"
+DECISIONS = ROOT / "DECISOES_AMAZON.csv"
 DEFAULT_BROWSER = Path(r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe")
 STOP_WORDS = {"o", "a", "os", "as", "de", "do", "da", "dos", "das", "um", "uma", "e", "the", "of", "and"}
 
@@ -144,6 +146,13 @@ def existing_results():
                 results[item["id"]] = item
             except (ValueError, KeyError):
                 continue
+    if DECISIONS.exists():
+        with DECISIONS.open(encoding="utf-8-sig", newline="") as stream:
+            for row in csv.DictReader(stream):
+                if row["Decisão"] == "rejeitar":
+                    book_id = int(row["ID Calibre"])
+                    if book_id in results:
+                        results[book_id] = {"id": book_id, "status": "rejeitado_na_revisao"}
     return results
 
 

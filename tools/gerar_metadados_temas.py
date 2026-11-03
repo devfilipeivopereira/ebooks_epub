@@ -17,6 +17,7 @@ from urllib.parse import quote_plus
 ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(r"D:\CalibreLibrary")
 AMAZON_DATA = ROOT / "dados_amazon.jsonl"
+DECISIONS = ROOT / "DECISOES_AMAZON.csv"
 
 
 class TextParser(HTMLParser):
@@ -101,6 +102,11 @@ def classify(title, tags, description):
 
 def main():
     books = json.loads((ROOT / "catalogo.json").read_text(encoding="utf-8"))
+    rejected = set()
+    if DECISIONS.exists():
+        with DECISIONS.open(encoding="utf-8-sig", newline="") as stream:
+            rejected = {int(row["ID Calibre"]) for row in csv.DictReader(stream)
+                        if row["Decisão"] == "rejeitar"}
     amazon = {}
     if AMAZON_DATA.exists():
         for line in AMAZON_DATA.read_text(encoding="utf-8").splitlines():
@@ -122,7 +128,7 @@ def main():
     for book in books:
         book_id = book["id"]
         source_data = amazon.get(book_id, {})
-        verified = source_data.get("status") == "verificado"
+        verified = source_data.get("status") == "verificado" and book_id not in rejected
         amazon_description = source_data.get("description", "") if verified else ""
         description = comments.get(book_id, "") or amazon_description
         theme, subtheme = classify(book["title"], "; ".join(tags[book_id]), description)
@@ -135,7 +141,7 @@ def main():
         book["tags"] = tags[book_id]
         book["amazon_search_url"] = "https://www.amazon.com.br/s?k=" + quote_plus(book["title"] + " " + book["authors"].split(";")[0])
         book["amazon_product_url"] = source_data.get("product_url", "") if verified else ""
-        book["amazon_status"] = "verificado" if verified else source_data.get("status", "não verificado")
+        book["amazon_status"] = "verificado" if verified else "rejeitado na revisão" if book_id in rejected else source_data.get("status", "não verificado")
         rows.append(book)
     (ROOT / "catalogo.json").write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
     with (ROOT / "catalogo.csv").open("w", encoding="utf-8-sig", newline="") as f:

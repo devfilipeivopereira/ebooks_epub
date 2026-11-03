@@ -19,6 +19,7 @@ Campos do CSV:
 `TEMAS.md` agrupa os 2.092 livros. A categoria `Outros / A classificar` reúne títulos sem pistas suficientes para uma classificação confiável. `DESCRICOES_PENDENTES.csv` lista as descrições ainda não localizadas. `AMAZON_A_VERIFICAR.csv` registra a busca a conferir para cada livro, sem preencher dados editoriais não confirmados.
 `dados_amazon.jsonl` guarda as tentativas e os resultados verificados por ID do Calibre. O último registro de cada ID é o estado atual. `mesclagens_amazon.jsonl` registra os pares com o mesmo ASIN que foram reunidos no Calibre.
 `REVISAO_AMAZON.csv` registra fichas rejeitadas por título ou idioma incompatível após nova validação; elas não são tratadas como descrições confirmadas.
+`DECISOES_AMAZON.csv` registra revisão manual de fichas ambíguas. Linhas com decisão `rejeitar` são excluídas do catálogo e da aplicação no Calibre, mesmo quando uma tentativa anterior havia sido marcada como verificada.
 
 Para continuar a coleta pelo Edge e aplicar os resultados verificados:
 

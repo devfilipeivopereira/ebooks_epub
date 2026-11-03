@@ -2,6 +2,7 @@
 
 Execute com: calibre-debug -e tools/aplicar_descricoes_calibre.py
 """
+import csv
 import json
 import re
 from pathlib import Path
@@ -11,6 +12,12 @@ from calibre.db.legacy import LibraryDatabase
 ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = Path(r"D:\CalibreLibrary")
 DATA = ROOT / "dados_amazon.jsonl"
+DECISIONS = ROOT / "DECISOES_AMAZON.csv"
+rejected = set()
+if DECISIONS.exists():
+    with DECISIONS.open(encoding="utf-8-sig", newline="") as stream:
+        rejected = {int(row["ID Calibre"]) for row in csv.DictReader(stream)
+                    if row["Decisão"] == "rejeitar"}
 results = {}
 for line in DATA.read_text(encoding="utf-8").splitlines():
     try:
@@ -26,7 +33,7 @@ linked = 0
 comments_to_apply = {}
 identifiers_to_apply = {}
 for book_id, item in results.items():
-    if item.get("status") != "verificado" or not api.has_id(book_id):
+    if item.get("status") != "verificado" or book_id in rejected or not api.has_id(book_id):
         continue
     description = item.get("description", "").strip()
     if len(description) < 90 or not item.get("product_url", "").startswith("https://www.amazon.com.br/dp/"):
