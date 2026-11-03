@@ -9,10 +9,10 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Artes e literatura | 48 |
 | Ciência e natureza | 39 |
 | Educação e desenvolvimento pessoal | 224 |
-| Família e relacionamentos | 39 |
+| Família e relacionamentos | 40 |
 | Humanidades e sociedade | 183 |
-| Negócios e carreira | 390 |
-| Outros | 327 |
+| Negócios e carreira | 392 |
+| Outros | 324 |
 | Referência e idiomas | 21 |
 | Religião e espiritualidade | 609 |
 | Saúde e bem-estar | 98 |
@@ -347,7 +347,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Você pode realizar seu sonho Coleção Motivação com John C Maxwell](Kindle/AZW3/John%20C.%20Maxwell/Você%20pode%20realizar%20seu%20sonho%20Coleção%20Motivação%20com%20John%20C%20Maxwell.azw3) — John C. Maxwell
 - [Zen na arte da escrita - Ray Bradbury](Kindle/AZW3/Ray%20Bradbury/Zen%20na%20arte%20da%20escrita%20-%20Ray%20Bradbury.azw3) — Ray Bradbury
 
-## Família e relacionamentos · Parentalidade e família (28)
+## Família e relacionamentos · Parentalidade e família (29)
 
 - [1001 coisas para fazer antes do casamento morrer](Kindle/AZW3/Alessandra%20Leite%20Pasqualini/1001%20coisas%20para%20fazer%20antes%20do%20casamento%20morrer.azw3) — Alessandra Leite Pasqualini; JB Pasqualini
 - [1001 conselhos de sabedoria para meus filhos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/1001%20conselhos%20de%20sabedoria%20para%20meus%20filhos.azw3) — FELIPE IVO PEREIRA
@@ -372,6 +372,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Segredo Dos Dogon (Livro 4): Livro Infantil Ilustrado (7 a 12 Anos)](Kindle/AZW3/Julio%20Santos%20García/O%20Segredo%20Dos%20Dogon%20(Livro%204)_%20Livro%20Infantil%20Ilustrado%20(7%20a%2012%20Anos).azw3) — Julio Santos García
 - [O significado do casamento](Kindle/KFX/Keller_%20Timothy/O%20significado%20do%20casamento.kfx) — Keller| Timothy
 - [Os 7 hábitos dos casamentos altamente eficazes](Kindle/KFX/Stephen%20R.%20Covey/Os%207%20hábitos%20dos%20casamentos%20altamente%20eficazes.kfx) — Stephen R. Covey; Sandra Covey
+- [Os quatro compromissos](Kindle/KFX/Don%20Miguel%20Ruiz/Os%20quatro%20compromissos.kfx) — Don Miguel Ruiz
 - [Pais conscientes, vínculos indestrutíveis Shefali Tsabary](Kindle/AZW3/Shefali%20Tsabary/Pais%20conscientes,%20vínculos%20indestrutíveis%20Shefali%20Tsabary.azw3) — Shefali Tsabary
 - [por-que-as-mulheres-amam-os-homens-fortes](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/por-que-as-mulheres-amam-os-homens-fortes.azw3) — FELIPE IVO PEREIRA
 - [Prepare Seus Filhos contra os Perigos do Mundo - Julie Lowe](Kindle/AZW3/Julie%20Lowe/Prepare%20Seus%20Filhos%20contra%20os%20Perigos%20do%20Mundo%20-%20Julie%20Lowe.azw3) — Julie Lowe
@@ -793,7 +794,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tudo o que você precisa saber sobre economia](Kindle/AZW/Alfred%20Mill/Tudo%20o%20que%20você%20precisa%20saber%20sobre%20economia.azw) — Alfred Mill
 - [Virada financeira](Kindle/KFX/Patricia%20Lages/Virada%20financeira.kfx) — Patricia Lages
 
-## Negócios e carreira · Gestão, liderança e empreendedorismo (145)
+## Negócios e carreira · Gestão, liderança e empreendedorismo (147)
 
 - [1 ano em 12 semanas](Kindle/KFX/Brian%20P%20Moran/1%20ano%20em%2012%20semanas.kfx) — Brian P Moran
 - [100 coisas que pessoas produtivas fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20produtivas%20fazem.kfx) — Nigel Cumberland
@@ -918,6 +919,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Os 10 hábitos da memorização](Kindle/KFX/Renato%20Alves/Os%2010%20hábitos%20da%20memorização.kfx) — Renato Alves
 - [Os 36 estratagemas - Jean Levi](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%2036%20estratagemas%20-%20Jean%20Levi.azw3) — FELIPE IVO PEREIRA
 - [Os 7 Hábitos dos Adolescentes Altamente Eficazes](Kindle/AZW3/Sean%20Covey/Os%207%20Hábitos%20dos%20Adolescentes%20Altamente%20Eficazes.azw3) — Sean Covey
+- [Os Quatro Grandes](Kindle/KFX/Agatha%20Christie/Os%20Quatro%20Grandes.kfx) — Agatha Christie
+- [Os Quatro Grandes - Agatha Christie](Kindle/AZW3/Agatha%20Christie/Os%20Quatro%20Grandes%20-%20Agatha%20Christie.azw3) — Agatha Christie
 - [Ou vai ou voa Hendel Favarin Josef Rubin](Kindle/AZW3/Josef%20Rubin%20Hendel%20Favarin/Ou%20vai%20ou%20voa%20Hendel%20Favarin%20Josef%20Rubin.azw3) — Josef Rubin Hendel Favarin
 - [P*rra Sai Dessa, Cara: 10 Tapas na Cara Para Quem Quer Mudar de Rumo](Kindle/AZW/Alain%20Rocha/P_rra%20Sai%20Dessa,%20Cara_%2010%20Tapas%20na%20Cara%20Para%20Quem%20Quer%20Mudar%20de%20Rumo.azw) — Alain Rocha
 - [Pensando como um empreendedor](Kindle/KFX/Daniel%20Smith/Pensando%20como%20um%20empreendedor.kfx) — Daniel Smith
@@ -983,7 +986,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (327)
+## Outros · A classificar (324)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1145,9 +1148,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [o-centro-de-todo-descanso-E-J-Checkley](Kindle/AZW3/E.%20J.%20Checkley/o-centro-de-todo-descanso-E-J-Checkley.azw3) — E. J. Checkley
 - [Opcoes Na Pratica](Kindle/KFX/Aprenda%20Do%20Zero/Opcoes%20Na%20Pratica.kfx) — Aprenda Do Zero
 - [Os 32 princípios Rener Gracie, Paul Volponi 2023 Intrinseca](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%2032%20princípios%20Rener%20Gracie,%20Paul%20Volponi%202023%20Intrinseca.azw3) — FELIPE IVO PEREIRA
-- [Os quatro compromissos](Kindle/KFX/Don%20Miguel%20Ruiz/Os%20quatro%20compromissos.kfx) — Don Miguel Ruiz
-- [Os Quatro Grandes](Kindle/KFX/Agatha%20Christie/Os%20Quatro%20Grandes.kfx) — Agatha Christie
-- [Os Quatro Grandes - Agatha Christie](Kindle/AZW3/Agatha%20Christie/Os%20Quatro%20Grandes%20-%20Agatha%20Christie.azw3) — Agatha Christie
 - [Os quatro medos que nos impedem de viver](Kindle/AZW3/Eudes%20Séméria/Os%20quatro%20medos%20que%20nos%20impedem%20de%20viver.azw3) — Eudes Séméria
 - [Otimismo Pratico](Kindle/KFX/Dra.%20Sue%20Varna/Otimismo%20Pratico.kfx) — Dra. Sue Varna
 - [Otimismo Prático - Dra. Sue Varna](Kindle/AZW3/Sue%20Varma/Otimismo%20Prático%20-%20Dra.%20Sue%20Varna.azw3) — Sue Varma
@@ -1337,7 +1337,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Portuguese-English Dictionary](Kindle/AZW/Priberam/Portuguese-English%20Dictionary.azw) — Priberam
 - [Português Para Não Pagar Mico](Kindle/AZW3/Noslen%20Borges/Português%20Para%20Não%20Pagar%20Mico.azw3) — Noslen Borges
 
-## Religião e espiritualidade · Bíblia e interpretação (157)
+## Religião e espiritualidade · Bíblia e interpretação (156)
 
 - [1 Coríntios - Como resolver conflitos na igreja - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Coríntios%20-%20Como%20resolver%20conflitos%20na%20igreja%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [1 e 2 Tessalonicenses - Como se preparar para a segunda vinda de Cristo - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20e%202%20Tessalonicenses%20-%20Como%20se%20preparar%20para%20a%20segunda%20vinda%20de%20Cristo%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
@@ -1471,7 +1471,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O que a Bíblia diz sobre o Espírito Santo](Kindle/KFX/Stanley%20M.%20Horton/O%20que%20a%20Bíblia%20diz%20sobre%20o%20Espírito%20Santo.kfx) — Stanley M. Horton
 - [O que a bíblia diz sobre o Espírito Santo Stan Z Library](Kindle/AZW3/Stanley%20M.%20Horton/O%20que%20a%20bíblia%20diz%20sobre%20o%20Espírito%20Santo%20Stan%20Z%20Library.azw3) — Stanley M. Horton
 - [Os Outros da Bíblia - André Daniel Reinke](Kindle/AZW3/André%20Daniel%20Reinke/Os%20Outros%20da%20Bíblia%20-%20André%20Daniel%20Reinke.azw3) — André Daniel Reinke
-- [Os Outros da Bíblia História, Fé e Cultura dos Povos Antigos e Sua](Kindle/AZW3/Reinke_%20André%20Daniel/Os%20Outros%20da%20Bíblia%20História,%20Fé%20e%20Cultura%20dos%20Povos%20Antigos%20e%20Sua.azw3) — Reinke| André Daniel
 - [Ouvindo o Evangelho](EPUB/Fred%20B.%20Craddock/Ouvindo%20o%20Evangelho.epub) — Fred B. Craddock
 - [Ouvindo o Evangelho - Fred B. Craddock - PTBR-final](Kindle/AZW3/Fred%20B.%20Craddock/Ouvindo%20o%20Evangelho%20-%20Fred%20B.%20Craddock%20-%20PTBR-final.azw3) — Fred B. Craddock
 - [Parabolas-de-Mateus-13-William Kelly](Kindle/AZW3/William%20Kelly/Parabolas-de-Mateus-13-William%20Kelly.azw3) — William Kelly
@@ -1701,7 +1700,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Teologia sistemática ao alcance de todos](EPUB/Wayne%20Grudem/Teologia%20sistemática%20ao%20alcance%20de%20todos.epub) — Wayne Grudem
 - [Uma teologia de Paulo e suas cartas: A dádiva do novo domínio em Cristo](Kindle/AZW3/Douglas%20J.%20Moo/Uma%20teologia%20de%20Paulo%20e%20suas%20cartas_%20A%20dádiva%20do%20novo%20domínio%20em%20Cristo.azw3) — Douglas J. Moo
 
-## Religião e espiritualidade · Vida cristã e devoção (254)
+## Religião e espiritualidade · Vida cristã e devoção (255)
 
 - [1 Pedro - Com os pés no vale e o coração no céu - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Pedro%20-%20Com%20os%20pés%20no%20vale%20e%20o%20coração%20no%20céu%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [365 dias de narrativas poderosas](Kindle/KFX/Thaís%20Machado/365%20dias%20de%20narrativas%20poderosas.kfx) — Thaís Machado
@@ -1909,6 +1908,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Oração: a arte de acreditar, vol. 3](Kindle/KFX/Neville%20Goddard/Oração_%20a%20arte%20de%20acreditar,%20vol.%203.kfx) — Neville Goddard
 - [Orações Perigosas](Kindle/KFX/Craig%20Groeschel/Orações%20Perigosas.kfx) — Craig Groeschel
 - [Os Cânticos de Jesus](Kindle/AZW3/Timothy%20Keller%20Kathy%20Keller/Os%20Cânticos%20de%20Jesus.azw3) — Timothy Keller Kathy Keller
+- [Os Outros da Bíblia História, Fé e Cultura dos Povos Antigos e Sua](Kindle/AZW3/Reinke_%20André%20Daniel/Os%20Outros%20da%20Bíblia%20História,%20Fé%20e%20Cultura%20dos%20Povos%20Antigos%20e%20Sua.azw3) — Reinke| André Daniel
 - [Oseias - O amor de Deus em ação - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/Oseias%20-%20O%20amor%20de%20Deus%20em%20ação%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [Outra espiritualidade](Kindle/AZW3/Ed%20René%20Kivitz/Outra%20espiritualidade.azw3) — Ed René Kivitz
 - [Paulo e a Linguagem da Fé - Nijay K. Gupta](Kindle/AZW3/Nijay%20K.%20Gupta/Paulo%20e%20a%20Linguagem%20da%20Fé%20-%20Nijay%20K.%20Gupta.azw3) — Nijay K. Gupta
