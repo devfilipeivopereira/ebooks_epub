@@ -11,8 +11,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Educação e desenvolvimento pessoal | 255 |
 | Família e relacionamentos | 46 |
 | Humanidades e sociedade | 188 |
-| Negócios e carreira | 423 |
-| Outros | 200 |
+| Negócios e carreira | 424 |
+| Outros | 199 |
 | Referência e idiomas | 21 |
 | Religião e espiritualidade | 648 |
 | Saúde e bem-estar | 106 |
@@ -628,7 +628,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Visoes e Ilusoes Politicas - David T. Koyzis](Kindle/AZW3/David%20koyzis/Visoes%20e%20Ilusoes%20Politicas%20-%20David%20T.%20Koyzis.azw3) — David koyzis
 - [Woke S A a farsa da justiça social empresarial Vivek Ramaswamy](Kindle/AZW3/Vivek%20Ramaswamy/Woke%20S%20A%20a%20farsa%20da%20justiça%20social%20empresarial%20Vivek%20Ramaswamy.azw3) — Vivek Ramaswamy
 
-## Negócios e carreira · Finanças e investimentos (219)
+## Negócios e carreira · Finanças e investimentos (220)
 
 - [100 coisas que milionários fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20milionários%20fazem.kfx) — Nigel Cumberland
 - [50 ideias de economia que você precisa conhecer](Kindle/AZW/Edmund%20Conway/50%20ideias%20de%20economia%20que%20você%20precisa%20conhecer.azw) — Edmund Conway
@@ -663,6 +663,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [A teoria geral do emprego, do juro e da moeda](Kindle/AZW/John%20Maynard%20Keynes/A%20teoria%20geral%20do%20emprego,%20do%20juro%20e%20da%20moeda.azw) — John Maynard Keynes
 - [A vaca roxa](Kindle/AZW3/Seth%20Godin/A%20vaca%20roxa.azw3) — Seth Godin
 - [A vista do topo Va alem do suc](Kindle/KFX/Zig%20Ziglar/A%20vista%20do%20topo%20Va%20alem%20do%20suc.kfx) — Zig Ziglar
+- [A vista do topo Va alem do suc - Zig Ziglar](Kindle/AZW3/Zig%20Ziglar/A%20vista%20do%20topo%20Va%20alem%20do%20suc%20-%20Zig%20Ziglar.azw3) — Zig Ziglar
 - [A vontade radical](Kindle/KFX/Susan%20Sontag/A%20vontade%20radical.kfx) — Susan Sontag
 - [A vontade radical - Susan Sontag](Kindle/AZW3/Susan%20Sontag/A%20vontade%20radical%20-%20Susan%20Sontag.azw3) — Susan Sontag
 - [A árvore de dinheiro - Guia para cultivar a sua independência financeira](Kindle/AZW/Jurandir%20Sell%20Macedo%20Jr/A%20árvore%20de%20dinheiro%20-%20Guia%20para%20cultivar%20a%20sua%20independência%20financeira.azw) — Jurandir Sell Macedo Jr
@@ -1060,7 +1061,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (200)
+## Outros · A classificar (199)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1087,7 +1088,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [A singularidade está próxima](Kindle/KFX/Ray%20Kurzweil/A%20singularidade%20está%20próxima.kfx) — Ray Kurzweil
 - [A tumba do imperador tigre: Livro infantil ilustrado (7 a 12 anos) (As aventuras de Txano e Oscar)](Kindle/AZW3/Julio%20Santos%20García/A%20tumba%20do%20imperador%20tigre_%20Livro%20infantil%20ilustrado%20(7%20a%2012%20anos)%20(As%20aventuras%20de%20Txano%20e%20Oscar).azw3) — Julio Santos García
 - [A vida feliz](Kindle/AZW3/Sêneca/A%20vida%20feliz.azw3) — Sêneca
-- [A vista do topo Va alem do suc - Zig Ziglar](Kindle/AZW3/Zig%20Ziglar/A%20vista%20do%20topo%20Va%20alem%20do%20suc%20-%20Zig%20Ziglar.azw3) — Zig Ziglar
 - [A Volta do Filho Pródigo Henri J. M. Nouwen](Kindle/AZW3/A%20Volta%20do%20Filho%20Prodigo%20compressed/A%20Volta%20do%20Filho%20Pródigo%20Henri%20J.%20M.%20Nouwen.azw3) — A Volta do Filho Prodigo compressed
 - [a-ceia-do-senhor-c-h-mackintosh](Kindle/AZW3/C.%20H.%20Mackintosh/a-ceia-do-senhor-c-h-mackintosh.azw3) — C. H. Mackintosh
 - [A-nossa-esperanca-J-N-DARBY](Kindle/AZW3/J.%20N.%20Darby/A-nossa-esperanca-J-N-DARBY.azw3) — J. N. Darby
