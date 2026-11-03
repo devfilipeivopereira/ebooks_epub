@@ -279,6 +279,8 @@ def main():
     parser.add_argument("--retry-failed", action="store_true")
     parser.add_argument("--retry-errors", action="store_true",
                         help="Reprocessa apenas falhas de rede e HTTP registradas")
+    parser.add_argument("--only-missing-description", action="store_true",
+                        help="Consulta somente livros ainda sem descrição no catálogo")
     args = parser.parse_args()
     books = json.loads(CATALOG.read_text(encoding="utf-8"))
     seen = existing_results()
@@ -287,6 +289,8 @@ def main():
     else:
         pending = [book for book in books if book["id"] not in seen or
                    (args.retry_failed and seen[book["id"]]["status"] != "verificado")]
+    if args.only_missing_description:
+        pending = [book for book in pending if not book.get("description")]
     print(f"Total: {len(books)}; já processados: {len(seen)}; pendentes: {len(pending)}", flush=True)
     with sync_playwright() as playwright:
         browser = playwright.chromium.launch(executable_path=str(args.browser_path), headless=True)
