@@ -12,11 +12,11 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Família e relacionamentos | 38 |
 | Humanidades e sociedade | 182 |
 | Negócios e carreira | 389 |
-| Outros | 334 |
+| Outros | 332 |
 | Referência e idiomas | 21 |
 | Religião e espiritualidade | 609 |
 | Saúde e bem-estar | 98 |
-| Tecnologia e computação | 112 |
+| Tecnologia e computação | 114 |
 
 ## Artes e literatura · Arte, música e design (14)
 
@@ -978,7 +978,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (334)
+## Outros · A classificar (332)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1138,9 +1138,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Segredo - Rhonda Byrne](Kindle/AZW3/Digital%20Source/O%20Segredo%20-%20Rhonda%20Byrne.azw3) — Digital Source
 - [O sentimento é o segredo Vol. 4 Neville Goddard](Kindle/AZW3/Unknown/O%20sentimento%20é%20o%20segredo%20Vol.%204%20Neville%20Goddard.azw3) — Unknown
 - [o-centro-de-todo-descanso-E-J-Checkley](Kindle/AZW3/E.%20J.%20Checkley/o-centro-de-todo-descanso-E-J-Checkley.azw3) — E. J. Checkley
-- [Onde os Sonhos Acontecem_ Meus 15 anos com](Kindle/KFX/Robert%20Iger/Onde%20os%20Sonhos%20Acontecem_%20Meus%2015%20anos%20com.kfx) — Robert Iger
 - [Opcoes Na Pratica](Kindle/KFX/Aprenda%20Do%20Zero/Opcoes%20Na%20Pratica.kfx) — Aprenda Do Zero
-- [Operando com Trading Systems](Kindle/KFX/Rivadavila%20S.%20Malheiros/Operando%20com%20Trading%20Systems.kfx) — Rivadavila S. Malheiros
 - [Orei Por Você - Kell Carvalho](Kindle/AZW3/Kell%20Carvalho/Orei%20Por%20Você%20-%20Kell%20Carvalho.azw3) — Kell Carvalho
 - [Originais - Como os inconform](Kindle/KFX/Adam%20Grant/Originais%20-%20Como%20os%20inconform.kfx) — Adam Grant
 - [Os 13 Axiomas dos Fundos Imobiliários - Fabricio Soto](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%2013%20Axiomas%20dos%20Fundos%20Imobiliários%20-%20Fabricio%20Soto.azw3) — FELIPE IVO PEREIRA
@@ -2176,7 +2174,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Web Scraping com Python - 2ª Edição](Kindle/KFX/Ryan%20Mitchell/Web%20Scraping%20com%20Python%20-%202ª%20Edição.kfx) — Ryan Mitchell
 - [Web Scraping com Python -- Mitchell, Ryan -- 2021 -- Novatec Editora -- 0fa0a47ffdda595a887483faf0570ea3 -- Anna’s Archive](Kindle/AZW3/Ryan%20Mitchell/Web%20Scraping%20com%20Python%20--%20Mitchell,%20Ryan%20--%202021%20--%20Novatec%20Editora%20--%200fa0a47ffdda595a887483faf057.azw3) — Ryan Mitchell
 
-## Tecnologia e computação · UX, produtos e tecnologia (9)
+## Tecnologia e computação · UX, produtos e tecnologia (11)
 
 - [A alegria em ficar de fora](Kindle/AZW3/Andre%20Carvalhal/A%20alegria%20em%20ficar%20de%20fora.azw3) — Andre Carvalhal
 - [Introdução ao GraphQL](Kindle/KFX/Eve%20Porcello/Introdução%20ao%20GraphQL.kfx) — Eve Porcello; Alex Banks
@@ -2184,6 +2182,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Leis da Psicologia Aplicadas a UX](Kindle/KFX/Jon%20Yablonski/Leis%20da%20Psicologia%20Aplicadas%20a%20UX.kfx) — Jon Yablonski
 - [Linux eficiente na linha de comando](Kindle/KFX/Daniel%20J.%20Barrett/Linux%20eficiente%20na%20linha%20de%20comando.kfx) — Daniel J. Barrett
 - [Linux eficiente na linha de comando Daniel Barrett](Kindle/AZW3/Daniel%20J.%20Barrett/Linux%20eficiente%20na%20linha%20de%20comando%20Daniel%20Barrett.azw3) — Daniel J. Barrett
+- [Onde os Sonhos Acontecem_ Meus 15 anos com](Kindle/KFX/Robert%20Iger/Onde%20os%20Sonhos%20Acontecem_%20Meus%2015%20anos%20com.kfx) — Robert Iger
+- [Operando com Trading Systems](Kindle/KFX/Rivadavila%20S.%20Malheiros/Operando%20com%20Trading%20Systems.kfx) — Rivadavila S. Malheiros
 - [UX estratégico](Kindle/AZW3/Gabriel%20Pinheiro%20Maciel%20da%20Silva/UX%20estratégico.azw3) — Gabriel Pinheiro Maciel da Silva
 - [Ux Research com sotaque brasileiro](Kindle/AZW3/Cecília%20Henriques/Ux%20Research%20com%20sotaque%20brasileiro.azw3) — Cecília Henriques
 - [UX Strategy](Kindle/AZW3/Levy_%20Jaime/UX%20Strategy.azw3) — Levy| Jaime
