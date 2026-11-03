@@ -8,13 +8,13 @@ Classificação editorial automática a partir do título, tags e descrição di
 |---|---:|
 | Artes e literatura | 47 |
 | Ciência e natureza | 36 |
-| Educação e desenvolvimento pessoal | 210 |
+| Educação e desenvolvimento pessoal | 211 |
 | Família e relacionamentos | 37 |
 | Humanidades e sociedade | 187 |
 | Negócios e carreira | 378 |
-| Outros | 367 |
+| Outros | 364 |
 | Referência e idiomas | 21 |
-| Religião e espiritualidade | 599 |
+| Religião e espiritualidade | 601 |
 | Saúde e bem-estar | 98 |
 | Tecnologia e computação | 112 |
 
@@ -113,7 +113,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Outlive A arte e a ciência Peter Attia Bill Gifford](Kindle/AZW3/Peter%20Attia/Outlive%20A%20arte%20e%20a%20ciência%20Peter%20Attia%20Bill%20Gifford.azw3) — Peter Attia
 - [Uma introdução à metafísica](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20introdução%20à%20metafísica.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Aprendizagem e ensino (49)
+## Educação e desenvolvimento pessoal · Aprendizagem e ensino (50)
 
 - [(TRAD) origens da mitologia A a Z - Annette Giosec](Kindle/AZW3/Annette%20Giesecke/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z%20-%20Annette%20Giosec.azw3) — Annette Giesecke
 - [333 páginas para tirar seu projeto do papel](Kindle/KFX/Daniel%20Larusso/333%20páginas%20para%20tirar%20seu%20projeto%20do%20papel.kfx) — Daniel Larusso; Gabriel Gomes; Luciano Braga
@@ -154,6 +154,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O alvorecer da alegria indestrutível leituras diárias para o Advento](Kindle/AZW3/John%20Piper/O%20alvorecer%20da%20alegria%20indestrutível%20leituras%20diárias%20para%20o%20Advento.azw3) — John Piper
 - [O Andar do Bebado](Kindle/AZW3/Leonard%20Mlodinow/O%20Andar%20do%20Bebado.azw3) — Leonard Mlodinow
 - [O Curso do Despertar](Kindle/AZW3/Joe%20Vitale/O%20Curso%20do%20Despertar.azw3) — Joe Vitale
+- [O livro secreto do escritor](Kindle/KFX/Lilian%20Cardoso/O%20livro%20secreto%20do%20escritor.kfx) — Lilian Cardoso
 - [O significado do casamento - Keller, Timothy](Kindle/AZW3/Timothy%20Keller/O%20significado%20do%20casamento%20-%20Keller,%20Timothy.azw3) — Timothy Keller
 - [Para ler como um escritor: Um guia para quem gosta de livros e para quem quer escrevê-los](Kindle/AZW/Francine%20Prose/Para%20ler%20como%20um%20escritor_%20Um%20guia%20para%20quem%20gosta%20de%20livros%20e%20para%20quem%20quer%20escrevê-los.azw) — Francine Prose
 - [Para Novos Gerentes 10 Leituras Essenciais](Kindle/KFX/Harvard%20Business%20Review/Para%20Novos%20Gerentes%2010%20Leituras%20Essenciais.kfx) — Harvard Business Review
@@ -955,7 +956,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (367)
+## Outros · A classificar (364)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1102,9 +1103,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Enigma De Israel](Kindle/AZW3/Henrique%20Cymerman/O%20Enigma%20De%20Israel.azw3) — Henrique Cymerman
 - [O feitiço escarlate: Livro infantil ilustrado (7 a 12 anos) (As aventuras de Txano e Oscar 5)](Kindle/AZW3/Julio%20Santos%20García/O%20feitiço%20escarlate_%20Livro%20infantil%20ilustrado%20(7%20a%2012%20anos)%20(As%20aventuras%20de%20Txano%20e%20Oscar%205).azw3) — Julio Santos García
 - [O Filho Rico - Felipe Miranda](Kindle/AZW3/Miranda_Felipe/O%20Filho%20Rico%20-%20Felipe%20Miranda.azw3) — Miranda|Felipe
-- [O Livro de Mórmon](Kindle/AZW3/Joseph%20Smith/O%20Livro%20de%20Mórmon.azw3) — Joseph Smith
-- [O livro essencial da mitologia - Thomas Bulfinch](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20livro%20essencial%20da%20mitologia%20-%20Thomas%20Bulfinch.azw3) — FELIPE IVO PEREIRA
-- [O livro secreto do escritor](Kindle/KFX/Lilian%20Cardoso/O%20livro%20secreto%20do%20escritor.kfx) — Lilian Cardoso
 - [O livro secreto do escritor Lilian Cardoso](Kindle/AZW3/Lilian%20Cardoso/O%20livro%20secreto%20do%20escritor%20Lilian%20Cardoso.azw3) — Lilian Cardoso
 - [O longo caminho para a utopia - J. Bradford Delong](Kindle/AZW3/J.%20Bradford%20DeLong/O%20longo%20caminho%20para%20a%20utopia%20-%20J.%20Bradford%20Delong.azw3) — J. Bradford DeLong
 - [O Manuscrito Original](Kindle/KFX/Napoleon%20Hill/O%20Manuscrito%20Original.kfx) — Napoleon Hill
@@ -1349,7 +1347,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Portuguese-English Dictionary](Kindle/AZW/Priberam/Portuguese-English%20Dictionary.azw) — Priberam
 - [Português Para Não Pagar Mico](Kindle/AZW3/Noslen%20Borges/Português%20Para%20Não%20Pagar%20Mico.azw3) — Noslen Borges
 
-## Religião e espiritualidade · Bíblia e interpretação (154)
+## Religião e espiritualidade · Bíblia e interpretação (155)
 
 - [1 Coríntios - Como resolver conflitos na igreja - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Coríntios%20-%20Como%20resolver%20conflitos%20na%20igreja%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [1 e 2 Tessalonicenses - Como se preparar para a segunda vinda de Cristo - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20e%202%20Tessalonicenses%20-%20Como%20se%20preparar%20para%20a%20segunda%20vinda%20de%20Cristo%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
@@ -1470,6 +1468,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O coração da Bíblia (John MacArthur)](Kindle/AZW3/John%20MacArthur/O%20coração%20da%20Bíblia%20(John%20MacArthur).azw3) — John MacArthur
 - [O custo do discipulado Jonas Madureira](Kindle/AZW3/Jonas%20Madureira/O%20custo%20do%20discipulado%20Jonas%20Madureira.azw3) — Jonas Madureira
 - [O estranho no caminho de Emaús: quem era o homem? Qual era a mensagem?](EPUB/John%20R.%20Cross/O%20estranho%20no%20caminho%20de%20Emaús_%20quem%20era%20o%20homem_%20Qual%20era%20a%20mensagem.epub) — John R. Cross
+- [O Livro de Mórmon](Kindle/AZW3/Joseph%20Smith/O%20Livro%20de%20Mórmon.azw3) — Joseph Smith
 - [O Livro dos livros - Edição Literária da Bíblia Sagrada](EPUB/Brasil_%20Sociedade%20Bíblica%20do/O%20Livro%20dos%20livros%20-%20Edição%20Literária%20da%20Bíblia%20Sagrada.epub) — Brasil| Sociedade Bíblica do
 - [O mundo perdido de Enoque: O livro de Enoque e sua influência no Novo Testamento](Kindle/AZW3/Kenner%20Terra/O%20mundo%20perdido%20de%20Enoque_%20O%20livro%20de%20Enoque%20e%20sua%20influência%20no%20Novo%20Testamento.azw3) — Kenner Terra
 - [O Mundo Perdido dos Profetas — Profecia do Antigo Testamento e Literatura Apocalíptica no Contexto Antigo - John H. Walton](Kindle/AZW3/John%20H.%20Walton/O%20Mundo%20Perdido%20dos%20Profetas%20—%20Profecia%20do%20Antigo%20Testamento%20e%20Literatura%20Apocalíptica%20no%20Contexto%20A.azw3) — John H. Walton
@@ -1709,7 +1708,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Teologia sistemática ao alcance de todos](EPUB/Wayne%20Grudem/Teologia%20sistemática%20ao%20alcance%20de%20todos.epub) — Wayne Grudem
 - [Uma teologia de Paulo e suas cartas: A dádiva do novo domínio em Cristo](Kindle/AZW3/Douglas%20J.%20Moo/Uma%20teologia%20de%20Paulo%20e%20suas%20cartas_%20A%20dádiva%20do%20novo%20domínio%20em%20Cristo.azw3) — Douglas J. Moo
 
-## Religião e espiritualidade · Vida cristã e devoção (248)
+## Religião e espiritualidade · Vida cristã e devoção (249)
 
 - [1 Pedro - Com os pés no vale e o coração no céu - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Pedro%20-%20Com%20os%20pés%20no%20vale%20e%20o%20coração%20no%20céu%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [365 dias de narrativas poderosas](Kindle/KFX/Thaís%20Machado/365%20dias%20de%20narrativas%20poderosas.kfx) — Thaís Machado
@@ -1889,6 +1888,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O jogo infinito - Simon Sinek](Kindle/AZW3/Simon%20Sinek/O%20jogo%20infinito%20-%20Simon%20Sinek.azw3) — Simon Sinek
 - [O livro da vida](Kindle/AZW3/Jiddu%20Krishnamurti/O%20livro%20da%20vida.azw3) — Jiddu Krishnamurti
 - [O livro da vida - Jiddu Krishnamurti](Kindle/AZW3/Jiddu%20Krishnamurti/O%20livro%20da%20vida%20-%20Jiddu%20Krishnamurti.azw3) — Jiddu Krishnamurti
+- [O livro essencial da mitologia - Thomas Bulfinch](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20livro%20essencial%20da%20mitologia%20-%20Thomas%20Bulfinch.azw3) — FELIPE IVO PEREIRA
 - [O Pequeno Grupo Cheio do Espírito — Liderando Seu Grupo a Experimentar os Dons Espirituais - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/O%20Pequeno%20Grupo%20Cheio%20do%20Espírito%20—%20Liderando%20Seu%20Grupo%20a%20Experimentar%20os%20Dons%20Espirituais%20-%20Joel%20Co.azw3) — Joel Comiskey
 - [O Poder Criativo de Deus](Kindle/AZW3/Charles%20Capps/O%20Poder%20Criativo%20de%20Deus.azw3) — Charles Capps
 - [O Poder Criativo de Deus para a](Kindle/KFX/Charles%20Capps-1/O%20Poder%20Criativo%20de%20Deus%20para%20a.kfx) — Charles Capps-1.

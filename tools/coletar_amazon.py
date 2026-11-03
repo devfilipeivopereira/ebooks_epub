@@ -268,20 +268,33 @@ def main():
     parser.add_argument("--limit", type=int, default=25)
     parser.add_argument("--browser-path", type=Path, default=DEFAULT_BROWSER)
     parser.add_argument("--retry-failed", action="store_true")
+    parser.add_argument("--retry-errors", action="store_true",
+                        help="Reprocessa apenas falhas de rede e HTTP registradas")
     args = parser.parse_args()
     books = json.loads(CATALOG.read_text(encoding="utf-8"))
     seen = existing_results()
-    pending = [book for book in books if book["id"] not in seen or
-               (args.retry_failed and seen[book["id"]]["status"] != "verificado")]
+    if args.retry_errors:
+        pending = [book for book in books if seen.get(book["id"], {}).get("status") == "erro"]
+    else:
+        pending = [book for book in books if book["id"] not in seen or
+                   (args.retry_failed and seen[book["id"]]["status"] != "verificado")]
     print(f"Total: {len(books)}; já processados: {len(seen)}; pendentes: {len(pending)}", flush=True)
     with sync_playwright() as playwright:
         browser = playwright.chromium.launch(executable_path=str(args.browser_path), headless=True)
         page = browser.new_page(locale="pt-BR", user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36")
         for book in pending[:args.limit]:
-            try:
-                item = process(page, book)
-            except Exception as error:
-                item = {"id": book["id"], "status": "erro", "error": str(error)[:250]}
+            for attempt in range(2):
+                try:
+                    item = process(page, book)
+                    break
+                except Exception as error:
+                    message = str(error)
+                    if attempt == 0 and any(term in message for term in
+                                            ("net::ERR_", "Timeout", "erro HTTP")):
+                        time.sleep(random.uniform(2, 4))
+                        continue
+                    item = {"id": book["id"], "status": "erro", "error": message[:250]}
+                    break
             save(item)
             print(book["id"], item["status"], item.get("asin", ""), flush=True)
             if item["status"] == "erro" and "bloqueou" in item.get("error", ""):
