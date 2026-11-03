@@ -53,7 +53,7 @@
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=%28In%29distra%C3%ADvel+Nir+Eyal",
     "amazon_product_url": "",
-    "amazon_status": "sem_resultado"
+    "amazon_status": "sem_correspondencia_confiavel"
   },
   {
     "id": 744,
@@ -78,7 +78,7 @@
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=%28TRAD%29+origens+da+mitologia+A+a+Z+Annette+Giosec",
     "amazon_product_url": "",
-    "amazon_status": "sem_resultado"
+    "amazon_status": "sem_correspondencia_confiavel"
   },
   {
     "id": 2007,
@@ -103,7 +103,7 @@
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=%28TRAD%29+origens+da+mitologia+A+a+Z+-+Annette+Giosec+Annette+Giesecke",
     "amazon_product_url": "",
-    "amazon_status": "sem_resultado"
+    "amazon_status": "sem_correspondencia_confiavel"
   },
   {
     "id": 167,
@@ -1191,7 +1191,7 @@
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=365+dias+com+a+calma+da+mente+Machado%7C+Tha%C3%ADs",
     "amazon_product_url": "",
-    "amazon_status": "revisao_pendente"
+    "amazon_status": "sem_correspondencia_confiavel"
   },
   {
     "id": 1866,
@@ -1208,15 +1208,15 @@
         "sha256": "83eddd6f5e4e28d245feb020edaf40154a29e293aadffaee70a73cbdf28794f7"
       }
     ],
-    "description": "",
-    "description_source": "indisponível",
-    "amazon_description": "",
-    "theme": "Outros",
-    "subtheme": "A classificar",
+    "description": "365 Dias de Inteligência é uma obra filosófica inspiradora escrita para pessoas que buscam minutos de inteligência emocional. O autor compilou extratos de várias obras para presentear o leitor com pérolas motivacionais diárias, como gotas de orvalho ao amanhecer, irrigando a mente com sabedoria, significado e plenitude, para que se possa enfrentar os desafios e focos de tensão com inteligência emocional e sabedoria. Embarque nesta leitura e inspire-se para Viver o Melhor Ano da Sua História!",
+    "description_source": "Amazon Brasil",
+    "amazon_description": "365 Dias de Inteligência é uma obra filosófica inspiradora escrita para pessoas que buscam minutos de inteligência emocional. O autor compilou extratos de várias obras para presentear o leitor com pérolas motivacionais diárias, como gotas de orvalho ao amanhecer, irrigando a mente com sabedoria, significado e plenitude, para que se possa enfrentar os desafios e focos de tensão com inteligência emocional e sabedoria. Embarque nesta leitura e inspire-se para Viver o Melhor Ano da Sua História!",
+    "theme": "Educação e desenvolvimento pessoal",
+    "subtheme": "Desenvolvimento pessoal",
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=365+Dias+de+Intelig%C3%AAncia+Augusto+Cury",
-    "amazon_product_url": "",
-    "amazon_status": "idioma_incompativel"
+    "amazon_product_url": "https://www.amazon.com.br/dp/6584661091",
+    "amazon_status": "verificado"
   },
   {
     "id": 185,
@@ -1474,7 +1474,7 @@
     ],
     "description": "Ao contrário da montanha de livros produzidos na esteira de uma crise financeira, este livro não é apenas um guia para o que acontece na economia quando algo dá errado. Ele é um manual definitivo para ensinar tudo que você precisa saber sobre as engrenagens da economia, em tempos bons ou ruins. Ao longo de seus 50 capítulos, claros e ricos em informação, o destacado jornalista britânico Edmund Conway aborda desde conceitos básicos, como oferta e procura de trabalho, até questões complexas da contemporaneidade. O que são crises de crédito e por que elas acontecem? Por que a globalização importa? O que é a 'teoria dos jogos'? No entanto, Conway organiza o seu livro de modo que o leitor consegue ser conduzido por um itinerário que evolui com o próprio tema. Você encontrará conceitos e teorias como as teorias clássicas, a teoria de Adam Smith e a 'mão invisível do mercado', a clássica lei da oferta e da demanda, capitalismo x comunismo, economias micro e macro, Bancos Centrais, energia e petróleo, bolhas especulativas, déficits governamentais, mercados monetários, teorias recentes sobre as relações entre riqueza e felicidade. O livro, que integra a aclamada coleção inglesa '50 Ideias', traz exemplos da vida cotidiana e opiniões de grandes pensadores do gênero. Para Conway, a economia não pode ser vista como algo distante da realidade de cada um de nós porque ela 'é, em essência, o estudo das pessoas' e 'uma investigação sobre a maneira como as pessoas têm sucesso, sobre o que as faz felizes ou contentes, sobre como a humanidade conseguiu, ao longo de gerações, tornar-se mais saudável e próspera'.'",
     "description_source": "Calibre",
-    "amazon_description": "",
+    "amazon_description": "Ao contrário da montanha de livros produzidos na esteira de uma crise financeira, este livro não é apenas um guia para o que acontece na economia quando algo dá errado. Ele é um manual definitivo para ensinar tudo que você precisa saber sobre as engrenagens da economia, em tempos bons ou ruins. Ao longo de seus 50 capítulos, claros e ricos em informação, o destacado jornalista britânico Edmund Conway aborda desde conceitos básicos, como oferta e procura de trabalho, até questões complexas da contemporaneidade. O que são crises de crédito e por que elas acontecem? Por que a globalização importa? O que é a 'teoria dos jogos'? No entanto, Conway organiza o seu livro de modo que o leitor consegue ser conduzido por um itinerário que evolui com o próprio tema. Você encontrará conceitos e teorias como as teorias clássicas, a teoria de Adam Smith e a 'mão invisível do mercado', a clássica lei da oferta e da demanda, capitalismo x comunismo, economias micro e macro, Bancos Centrais, energia e petróleo, bolhas especulativas, déficits governamentais, mercados monetários, teorias recentes sobre as relações entre riqueza e felicidade. O livro, que integra a aclamada coleção inglesa '50 Ideias', traz exemplos da vida cotidiana e opiniões de grandes pensadores do gênero. Para Conway, a economia não pode ser vista como algo distante da realidade de cada um de nós porque ela 'é, em essência, o estudo das pessoas' e 'uma investigação sobre a maneira como as pessoas têm sucesso, sobre o que as faz felizes ou contentes, sobre como a humanidade conseguiu, ao longo de gerações, tornar-se mais saudável e próspera'.' Leia mais",
     "theme": "Negócios e carreira",
     "subtheme": "Finanças e investimentos",
     "tags": [
@@ -1483,8 +1483,8 @@
       "Theory"
     ],
     "amazon_search_url": "https://www.amazon.com.br/s?k=50+ideias+de+economia+que+voc%C3%AA+precisa+conhecer+Edmund+Conway",
-    "amazon_product_url": "",
-    "amazon_status": "revisao_pendente"
+    "amazon_product_url": "https://www.amazon.com.br/dp/8542205197",
+    "amazon_status": "verificado"
   },
   {
     "id": 188,
@@ -1501,15 +1501,15 @@
         "sha256": "f171b51c1f989d6cde55ac24963ee87c817f0afc0b65b16674026574b4576dd2"
       }
     ],
-    "description": "",
-    "description_source": "indisponível",
-    "amazon_description": "",
+    "description": "Você quer aprender de uma forma mais rápida e prática, a ter tudo o que deseja? A Lei da Atração é incrível para isso! Só que ela não funciona sozinha. Ela está intimamente ligada a outras Leis Universais e a todo um processo de pensamento, sentimento e vibração. Você é uma impressora humana, que imprime tudo o que pensa, sente e vibra! Eu sei como e posso te ajudar a ter tudo o que deseja! Separei, neste guia prático para iniciantes e apaixonados pela Lei da Atração, as mais impo antes perguntas e respostas para quem quer mudar de vida, aumentando seu poder de compreensão sobre o assunto e trazendo resultados muito mais rápidos!",
+    "description_source": "Amazon Brasil",
+    "amazon_description": "Você quer aprender de uma forma mais rápida e prática, a ter tudo o que deseja? A Lei da Atração é incrível para isso! Só que ela não funciona sozinha. Ela está intimamente ligada a outras Leis Universais e a todo um processo de pensamento, sentimento e vibração. Você é uma impressora humana, que imprime tudo o que pensa, sente e vibra! Eu sei como e posso te ajudar a ter tudo o que deseja! Separei, neste guia prático para iniciantes e apaixonados pela Lei da Atração, as mais impo antes perguntas e respostas para quem quer mudar de vida, aumentando seu poder de compreensão sobre o assunto e trazendo resultados muito mais rápidos!",
     "theme": "Humanidades e sociedade",
     "subtheme": "Política, direito e sociedade",
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=50+perguntas+sobre+lei+da+atra%C3%A7%C3%A3o+para+iniciantes+William+Sanches",
-    "amazon_product_url": "",
-    "amazon_status": "sem_correspondencia_confiavel"
+    "amazon_product_url": "https://www.amazon.com.br/dp/6550471060",
+    "amazon_status": "verificado"
   },
   {
     "id": 1876,
@@ -1771,7 +1771,7 @@
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=%40BibliotecaCrista+A+Mente+do+Esp%C3%ADrito+Craig+S+Keener+1+Craig+S.+Keener",
     "amazon_product_url": "",
-    "amazon_status": "revisao_pendente"
+    "amazon_status": "sem_correspondencia_confiavel"
   },
   {
     "id": 1052,
@@ -46990,7 +46990,7 @@
     ],
     "amazon_search_url": "https://www.amazon.com.br/s?k=Pregando+de+p%C3%A9%3A+Conectando+Deus+e+o+p%C3%BAblico+no+momento+certo+da+prega%C3%A7%C3%A3o+Fred+R.+Lybrand",
     "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_status": "sem_resultado"
   },
   {
     "id": 2319,

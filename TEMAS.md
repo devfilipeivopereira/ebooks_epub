@@ -8,11 +8,11 @@ Classificação editorial automática a partir do título, tags e descrição di
 |---|---:|
 | Artes e literatura | 47 |
 | Ciência e natureza | 41 |
-| Educação e desenvolvimento pessoal | 254 |
+| Educação e desenvolvimento pessoal | 255 |
 | Família e relacionamentos | 46 |
 | Humanidades e sociedade | 188 |
 | Negócios e carreira | 422 |
-| Outros | 203 |
+| Outros | 202 |
 | Referência e idiomas | 21 |
 | Religião e espiritualidade | 647 |
 | Saúde e bem-estar | 106 |
@@ -183,7 +183,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tenha a Vida Que Deseja - Richard Bandler](Kindle/AZW3/Richard%20Bandler/Tenha%20a%20Vida%20Que%20Deseja%20-%20Richard%20Bandler.azw3) — Richard Bandler
 - [Ultra-aprendizado - Scott Young](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ultra-aprendizado%20-%20Scott%20Young.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (192)
+## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (193)
 
 - [10 habilidades que farão você chegar lá](Kindle/KFX/Walter%20Longo/10%20habilidades%20que%20farão%20você%20chegar%20lá.kfx) — Walter Longo
 - [100 coisas que líderes de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20líderes%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
@@ -193,6 +193,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [12 homens extraordinariamente comuns nodrm](Kindle/AZW3/John%20MacArthur/12%20homens%20extraordinariamente%20comuns%20nodrm.azw3) — John MacArthur
 - [12 semanas para afiar sua mente - Sanjay Gupta](Kindle/AZW3/Sanjay%20Gupta/12%20semanas%20para%20afiar%20sua%20mente%20-%20Sanjay%20Gupta.azw3) — Sanjay Gupta
 - [365 dias com a calma da mente](EPUB/Machado_%20Thaís/365%20dias%20com%20a%20calma%20da%20mente.epub) — Machado| Thaís
+- [365 Dias de Inteligência](Kindle/AZW3/Augusto%20Cury/365%20Dias%20de%20Inteligência.azw3) — Augusto Cury
 - [365 dias para se autoconhecer](Kindle/KFX/Thaissa%20Nilo/365%20dias%20para%20se%20autoconhecer.kfx) — Thaissa Nilo
 - [365 Dias para se Autoconhecer Thaissa Nilo](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/365%20Dias%20para%20se%20Autoconhecer%20Thaissa%20Nilo.azw3) — FELIPE IVO PEREIRA
 - [40 ideias do pensamento positivo](Kindle/KFX/Damrong%20Pinkoon/40%20ideias%20do%20pensamento%20positivo.kfx) — Damrong Pinkoon
@@ -1058,7 +1059,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (203)
+## Outros · A classificar (202)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1066,7 +1067,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [100 minutos para entender Jung](Kindle/KFX/Coleção%20Saberes/100%20minutos%20para%20entender%20Jung.kfx) — Coleção Saberes
 - [100 minutos para entender Lacan](Kindle/KFX/Coleção%20Saberes/100%20minutos%20para%20entender%20Lacan.kfx) — Coleção Saberes
 - [100 minutos para entender Nietzsche](Kindle/KFX/Coleção%20Saberes/100%20minutos%20para%20entender%20Nietzsche.kfx) — Coleção Saberes
-- [365 Dias de Inteligência](Kindle/AZW3/Augusto%20Cury/365%20Dias%20de%20Inteligência.azw3) — Augusto Cury
 - [A Ceia do Senhor](Kindle/KFX/C.%20H.%20Mackintosh/A%20Ceia%20do%20Senhor.kfx) — C. H. Mackintosh
 - [A Coragem de Não Agradar](Kindle/AZW3/Ichiro%20Kishimi%20e%20Fumitake%20Koga/A%20Coragem%20de%20Não%20Agradar.azw3) — Ichiro Kishimi e Fumitake Koga
 - [A Empregada](Kindle/AZW3/FreidaMcFadden/A%20Empregada.azw3) — FreidaMcFadden
