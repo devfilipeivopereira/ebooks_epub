@@ -8,13 +8,13 @@ Classificação editorial automática a partir do título, tags e descrição di
 |---|---:|
 | Artes e literatura | 47 |
 | Ciência e natureza | 36 |
-| Educação e desenvolvimento pessoal | 209 |
-| Família e relacionamentos | 36 |
+| Educação e desenvolvimento pessoal | 210 |
+| Família e relacionamentos | 37 |
 | Humanidades e sociedade | 187 |
 | Negócios e carreira | 378 |
-| Outros | 370 |
+| Outros | 367 |
 | Referência e idiomas | 21 |
-| Religião e espiritualidade | 598 |
+| Religião e espiritualidade | 599 |
 | Saúde e bem-estar | 98 |
 | Tecnologia e computação | 112 |
 
@@ -165,7 +165,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tenha a Vida Que Deseja - Richard Bandler](Kindle/AZW3/Richard%20Bandler/Tenha%20a%20Vida%20Que%20Deseja%20-%20Richard%20Bandler.azw3) — Richard Bandler
 - [Ultra-aprendizado - Scott Young](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ultra-aprendizado%20-%20Scott%20Young.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (160)
+## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (161)
 
 - [100 coisas que líderes de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20líderes%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
 - [100 coisas que pessoas de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
@@ -286,6 +286,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Foco Triplo](Kindle/AZW3/Daniel%20Goleman%20Peter%20Senge/O%20Foco%20Triplo.azw3) — Daniel Goleman Peter Senge
 - [O Funcionamento da Mente](Kindle/AZW/Augusto%20Cury/O%20Funcionamento%20da%20Mente.azw) — Augusto Cury
 - [O homem e aquilo que ele pensa](Kindle/AZW3/James%20Allen/O%20homem%20e%20aquilo%20que%20ele%20pensa.azw3) — James Allen
+- [O jogo da vida e como jogá-lo](Kindle/AZW3/Florence%20Scovel%20Shinn/O%20jogo%20da%20vida%20e%20como%20jogá-lo.azw3) — Florence Scovel Shinn
 - [O lado bom das expectativas](Kindle/AZW3/David%20Robson/O%20lado%20bom%20das%20expectativas.azw3) — David Robson
 - [O mito da perfeição](Kindle/AZW3/Richella%20J.%20Parham/O%20mito%20da%20perfeição.azw3) — Richella J. Parham
 - [O Método: Domine Sua Mente, Controle Sua Biologia e Ative Todo o Seu Potencial Humano](Kindle/KFX/Wim%20Hof/O%20Método_%20Domine%20Sua%20Mente,%20Controle%20Sua%20Biologia%20e%20Ative%20Todo%20o%20Seu%20Potencial%20Humano.kfx) — Wim Hof
@@ -357,7 +358,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Resgate seu filho das telas vença a dependência digital e restaure](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Resgate%20seu%20filho%20das%20telas%20vença%20a%20dependência%20digital%20e%20restaure.azw3) — FELIPE IVO PEREIRA
 - [Resgate seu filho das telas: vença a dependência digital e restaure o vínculo familiar](Kindle/KFX/Cassiana%20Modolo%20Tardivo/Resgate%20seu%20filho%20das%20telas_%20vença%20a%20dependência%20digital%20e%20restaure%20o%20vínculo%20familiar.kfx) — Cassiana Modolo Tardivo
 
-## Família e relacionamentos · Relacionamentos (10)
+## Família e relacionamentos · Relacionamentos (11)
 
 - [A arte natural da sedução](Kindle/AZW3/Richard%20La%20Ruina/A%20arte%20natural%20da%20sedução.azw3) — Richard La Ruina
 - [A surpreendente ciência dos relacionamentos](Kindle/KFX/Eric%20Barker/A%20surpreendente%20ciência%20dos%20relacionamentos.kfx) — Eric Barker
@@ -368,6 +369,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [As cinco linguagens do amor de Deus](Kindle/AZW3/Gary%20Chapman/As%20cinco%20linguagens%20do%20amor%20de%20Deus.azw3) — Gary Chapman
 - [Como conversar com qualquer pessoa](Kindle/AZW3/Leil%20Lowndes/Como%20conversar%20com%20qualquer%20pessoa.azw3) — Leil Lowndes
 - [Medo de dar certo - Natália Sousa](Kindle/AZW3/Natália%20Sousa/Medo%20de%20dar%20certo%20-%20Natália%20Sousa.azw3) — Natália Sousa
+- [O jogo: a Bíblia da sedução](Kindle/AZW3/Neil%20Strauss/O%20jogo_%20a%20Bíblia%20da%20sedução.azw3) — Neil Strauss
 - [Relacionamento Para Leigos](Kindle/KFX/Frederico%20Mattos/Relacionamento%20Para%20Leigos.kfx) — Frederico Mattos
 
 ## Humanidades e sociedade · Filosofia e ética (44)
@@ -953,7 +955,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (370)
+## Outros · A classificar (367)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1100,9 +1102,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Enigma De Israel](Kindle/AZW3/Henrique%20Cymerman/O%20Enigma%20De%20Israel.azw3) — Henrique Cymerman
 - [O feitiço escarlate: Livro infantil ilustrado (7 a 12 anos) (As aventuras de Txano e Oscar 5)](Kindle/AZW3/Julio%20Santos%20García/O%20feitiço%20escarlate_%20Livro%20infantil%20ilustrado%20(7%20a%2012%20anos)%20(As%20aventuras%20de%20Txano%20e%20Oscar%205).azw3) — Julio Santos García
 - [O Filho Rico - Felipe Miranda](Kindle/AZW3/Miranda_Felipe/O%20Filho%20Rico%20-%20Felipe%20Miranda.azw3) — Miranda|Felipe
-- [O jogo da vida e como jogá-lo](Kindle/AZW3/Florence%20Scovel%20Shinn/O%20jogo%20da%20vida%20e%20como%20jogá-lo.azw3) — Florence Scovel Shinn
-- [O jogo infinito](Kindle/KFX/Simon%20Sinek/O%20jogo%20infinito.kfx) — Simon Sinek
-- [O jogo infinito - Simon Sinek](Kindle/AZW3/Simon%20Sinek/O%20jogo%20infinito%20-%20Simon%20Sinek.azw3) — Simon Sinek
 - [O Livro de Mórmon](Kindle/AZW3/Joseph%20Smith/O%20Livro%20de%20Mórmon.azw3) — Joseph Smith
 - [O livro essencial da mitologia - Thomas Bulfinch](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20livro%20essencial%20da%20mitologia%20-%20Thomas%20Bulfinch.azw3) — FELIPE IVO PEREIRA
 - [O livro secreto do escritor](Kindle/KFX/Lilian%20Cardoso/O%20livro%20secreto%20do%20escritor.kfx) — Lilian Cardoso
@@ -1350,7 +1349,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Portuguese-English Dictionary](Kindle/AZW/Priberam/Portuguese-English%20Dictionary.azw) — Priberam
 - [Português Para Não Pagar Mico](Kindle/AZW3/Noslen%20Borges/Português%20Para%20Não%20Pagar%20Mico.azw3) — Noslen Borges
 
-## Religião e espiritualidade · Bíblia e interpretação (155)
+## Religião e espiritualidade · Bíblia e interpretação (154)
 
 - [1 Coríntios - Como resolver conflitos na igreja - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Coríntios%20-%20Como%20resolver%20conflitos%20na%20igreja%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [1 e 2 Tessalonicenses - Como se preparar para a segunda vinda de Cristo - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20e%202%20Tessalonicenses%20-%20Como%20se%20preparar%20para%20a%20segunda%20vinda%20de%20Cristo%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
@@ -1471,7 +1470,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O coração da Bíblia (John MacArthur)](Kindle/AZW3/John%20MacArthur/O%20coração%20da%20Bíblia%20(John%20MacArthur).azw3) — John MacArthur
 - [O custo do discipulado Jonas Madureira](Kindle/AZW3/Jonas%20Madureira/O%20custo%20do%20discipulado%20Jonas%20Madureira.azw3) — Jonas Madureira
 - [O estranho no caminho de Emaús: quem era o homem? Qual era a mensagem?](EPUB/John%20R.%20Cross/O%20estranho%20no%20caminho%20de%20Emaús_%20quem%20era%20o%20homem_%20Qual%20era%20a%20mensagem.epub) — John R. Cross
-- [O jogo: a Bíblia da sedução](Kindle/AZW3/Neil%20Strauss/O%20jogo_%20a%20Bíblia%20da%20sedução.azw3) — Neil Strauss
 - [O Livro dos livros - Edição Literária da Bíblia Sagrada](EPUB/Brasil_%20Sociedade%20Bíblica%20do/O%20Livro%20dos%20livros%20-%20Edição%20Literária%20da%20Bíblia%20Sagrada.epub) — Brasil| Sociedade Bíblica do
 - [O mundo perdido de Enoque: O livro de Enoque e sua influência no Novo Testamento](Kindle/AZW3/Kenner%20Terra/O%20mundo%20perdido%20de%20Enoque_%20O%20livro%20de%20Enoque%20e%20sua%20influência%20no%20Novo%20Testamento.azw3) — Kenner Terra
 - [O Mundo Perdido dos Profetas — Profecia do Antigo Testamento e Literatura Apocalíptica no Contexto Antigo - John H. Walton](Kindle/AZW3/John%20H.%20Walton/O%20Mundo%20Perdido%20dos%20Profetas%20—%20Profecia%20do%20Antigo%20Testamento%20e%20Literatura%20Apocalíptica%20no%20Contexto%20A.azw3) — John H. Walton
@@ -1711,7 +1709,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Teologia sistemática ao alcance de todos](EPUB/Wayne%20Grudem/Teologia%20sistemática%20ao%20alcance%20de%20todos.epub) — Wayne Grudem
 - [Uma teologia de Paulo e suas cartas: A dádiva do novo domínio em Cristo](Kindle/AZW3/Douglas%20J.%20Moo/Uma%20teologia%20de%20Paulo%20e%20suas%20cartas_%20A%20dádiva%20do%20novo%20domínio%20em%20Cristo.azw3) — Douglas J. Moo
 
-## Religião e espiritualidade · Vida cristã e devoção (246)
+## Religião e espiritualidade · Vida cristã e devoção (248)
 
 - [1 Pedro - Com os pés no vale e o coração no céu - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Pedro%20-%20Com%20os%20pés%20no%20vale%20e%20o%20coração%20no%20céu%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [365 dias de narrativas poderosas](Kindle/KFX/Thaís%20Machado/365%20dias%20de%20narrativas%20poderosas.kfx) — Thaís Machado
@@ -1887,6 +1885,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Jesus Historico](Kindle/KFX/Darrell%20L.%20Bock/O%20Jesus%20Historico.kfx) — Darrell L. Bock; J. Ed Komoszewski
 - [O Jesus Histórico - Darrel L. Bock, J. Ed Komoszweski](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20Jesus%20Histórico%20-%20Darrel%20L.%20Bock,%20J.%20Ed%20Komoszweski.azw3) — FELIPE IVO PEREIRA
 - [O Jesus que as mulheres viram](Kindle/AZW3/Rebecca%20McLaughlin/O%20Jesus%20que%20as%20mulheres%20viram.azw3) — Rebecca McLaughlin
+- [O jogo infinito](Kindle/KFX/Simon%20Sinek/O%20jogo%20infinito.kfx) — Simon Sinek
+- [O jogo infinito - Simon Sinek](Kindle/AZW3/Simon%20Sinek/O%20jogo%20infinito%20-%20Simon%20Sinek.azw3) — Simon Sinek
 - [O livro da vida](Kindle/AZW3/Jiddu%20Krishnamurti/O%20livro%20da%20vida.azw3) — Jiddu Krishnamurti
 - [O livro da vida - Jiddu Krishnamurti](Kindle/AZW3/Jiddu%20Krishnamurti/O%20livro%20da%20vida%20-%20Jiddu%20Krishnamurti.azw3) — Jiddu Krishnamurti
 - [O Pequeno Grupo Cheio do Espírito — Liderando Seu Grupo a Experimentar os Dons Espirituais - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/O%20Pequeno%20Grupo%20Cheio%20do%20Espírito%20—%20Liderando%20Seu%20Grupo%20a%20Experimentar%20os%20Dons%20Espirituais%20-%20Joel%20Co.azw3) — Joel Comiskey
