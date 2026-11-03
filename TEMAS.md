@@ -10,9 +10,9 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Ciência e natureza | 39 |
 | Educação e desenvolvimento pessoal | 223 |
 | Família e relacionamentos | 38 |
-| Humanidades e sociedade | 182 |
+| Humanidades e sociedade | 183 |
 | Negócios e carreira | 389 |
-| Outros | 332 |
+| Outros | 331 |
 | Referência e idiomas | 21 |
 | Religião e espiritualidade | 609 |
 | Saúde e bem-estar | 98 |
@@ -436,7 +436,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [W. Gary Crampton - Filosofia Cristã Para Leigos](Kindle/AZW3/W.%20Gary%20Crampton/W.%20Gary%20Crampton%20-%20Filosofia%20Cristã%20Para%20Leigos.azw3) — W. Gary Crampton
 - [W. Gary Crampton - Filosofia Cristã Para Leigos (1)](Kindle/AZW3/W.%20Gary%20Crampton/W.%20Gary%20Crampton%20-%20Filosofia%20Cristã%20Para%20Leigos%20(1).azw3) — W. Gary Crampton
 
-## Humanidades e sociedade · História e biografias (56)
+## Humanidades e sociedade · História e biografias (57)
 
 - [21 Licoes para o Seculo XXI](Kindle/AZW3/Yuval%20Noah%20Harari/21%20Licoes%20para%20o%20Seculo%20XXI.azw3) — Yuval Noah Harari
 - [A boa sorte](Kindle/KFX/Alex%20Rovira%20Celma/A%20boa%20sorte.kfx) — Alex Rovira Celma; Fernando Trías de Bes
@@ -480,6 +480,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O homem mais inteligente da história](Kindle/KFX/Augusto%20Cury/O%20homem%20mais%20inteligente%20da%20história.kfx) — Augusto Cury
 - [O longo caminho para a utopia - J. Bradford Delong](Kindle/AZW3/J.%20Bradford%20DeLong/O%20longo%20caminho%20para%20a%20utopia%20-%20J.%20Bradford%20Delong.azw3) — J. Bradford DeLong
 - [O Verdadeiro Ho'oponopono](Kindle/AZW3/Amanda%20Dreher/O%20Verdadeiro%20Ho'oponopono.azw3) — Amanda Dreher
+- [Orei Por Você - Kell Carvalho](Kindle/AZW3/Kell%20Carvalho/Orei%20Por%20Você%20-%20Kell%20Carvalho.azw3) — Kell Carvalho
 - [Os 50 Acontecimentos Finais na História da Humanidade](Kindle/KFX/Robert%20J.Morgan/Os%2050%20Acontecimentos%20Finais%20na%20História%20da%20Humanidade.kfx) — Robert J.Morgan
 - [Panorama das histórias em quadrinhos no Brasil](Kindle/KFX/Waldomiro%20Vergueiro/Panorama%20das%20histórias%20em%20quadrinhos%20no%20Brasil.kfx) — Waldomiro Vergueiro
 - [Panorama das histórias em quadrinhos no Brasil Waldomiro Vergueiro](Kindle/AZW3/Waldomiro%20Vergueiro/Panorama%20das%20histórias%20em%20quadrinhos%20no%20Brasil%20Waldomiro%20Vergueiro.azw3) — Waldomiro Vergueiro
@@ -978,7 +979,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (332)
+## Outros · A classificar (331)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1139,7 +1140,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O sentimento é o segredo Vol. 4 Neville Goddard](Kindle/AZW3/Unknown/O%20sentimento%20é%20o%20segredo%20Vol.%204%20Neville%20Goddard.azw3) — Unknown
 - [o-centro-de-todo-descanso-E-J-Checkley](Kindle/AZW3/E.%20J.%20Checkley/o-centro-de-todo-descanso-E-J-Checkley.azw3) — E. J. Checkley
 - [Opcoes Na Pratica](Kindle/KFX/Aprenda%20Do%20Zero/Opcoes%20Na%20Pratica.kfx) — Aprenda Do Zero
-- [Orei Por Você - Kell Carvalho](Kindle/AZW3/Kell%20Carvalho/Orei%20Por%20Você%20-%20Kell%20Carvalho.azw3) — Kell Carvalho
 - [Originais - Como os inconform](Kindle/KFX/Adam%20Grant/Originais%20-%20Como%20os%20inconform.kfx) — Adam Grant
 - [Os 13 Axiomas dos Fundos Imobiliários - Fabricio Soto](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%2013%20Axiomas%20dos%20Fundos%20Imobiliários%20-%20Fabricio%20Soto.azw3) — FELIPE IVO PEREIRA
 - [Os 32 princípios](Kindle/KFX/Rener%20Gracie/Os%2032%20princípios.kfx) — Rener Gracie; Paul Volponi
