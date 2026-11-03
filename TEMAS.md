@@ -8,14 +8,14 @@ Classificação editorial automática a partir do título, tags e descrição di
 |---|---:|
 | Artes e literatura | 47 |
 | Ciência e natureza | 38 |
-| Educação e desenvolvimento pessoal | 220 |
+| Educação e desenvolvimento pessoal | 223 |
 | Família e relacionamentos | 38 |
-| Humanidades e sociedade | 181 |
-| Negócios e carreira | 387 |
-| Outros | 342 |
+| Humanidades e sociedade | 182 |
+| Negócios e carreira | 388 |
+| Outros | 337 |
 | Referência e idiomas | 21 |
-| Religião e espiritualidade | 609 |
-| Saúde e bem-estar | 97 |
+| Religião e espiritualidade | 608 |
+| Saúde e bem-estar | 98 |
 | Tecnologia e computação | 112 |
 
 ## Artes e literatura · Arte, música e design (14)
@@ -171,7 +171,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tenha a Vida Que Deseja - Richard Bandler](Kindle/AZW3/Richard%20Bandler/Tenha%20a%20Vida%20Que%20Deseja%20-%20Richard%20Bandler.azw3) — Richard Bandler
 - [Ultra-aprendizado - Scott Young](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ultra-aprendizado%20-%20Scott%20Young.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (167)
+## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (170)
 
 - [100 coisas que líderes de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20líderes%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
 - [100 coisas que pessoas de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
@@ -310,7 +310,10 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O que as pessoas mentalmente fo](Kindle/KFX/Amy%20Morin/O%20que%20as%20pessoas%20mentalmente%20fo.kfx) — Amy Morin
 - [O que as pessoas mentalmente fo - Amy Morin](Kindle/AZW3/Amy%20Morin/O%20que%20as%20pessoas%20mentalmente%20fo%20-%20Amy%20Morin.azw3) — Amy Morin
 - [O que eu sei de verdade](Kindle/KFX/Oprah%20Winfrey/O%20que%20eu%20sei%20de%20verdade.kfx) — Oprah Winfrey
+- [O SISTEMA DA CHAVE MESTRA](Kindle/KFX/Charles%20F.%20Haanel/O%20SISTEMA%20DA%20CHAVE%20MESTRA.kfx) — Charles F. Haanel
+- [O SISTEMA DA CHAVE MESTRA - Charles F. Haanel](Kindle/AZW3/Charles%20F.%20Haanel/O%20SISTEMA%20DA%20CHAVE%20MESTRA%20-%20Charles%20F.%20Haanel.azw3) — Charles F. Haanel
 - [O trader disciplinado: desenvolver atitudes ganhadoras](Kindle/AZW/Mark%20Douglas/O%20trader%20disciplinado_%20desenvolver%20atitudes%20ganhadoras.azw) — Mark Douglas
+- [O trader vencedor: como operar em flow e dominar o mercado com confiança](Kindle/AZW/Mark%20Douglas/O%20trader%20vencedor_%20como%20operar%20em%20flow%20e%20dominar%20o%20mercado%20com%20confiança.azw) — Mark Douglas
 - [Organize sua Mente](Kindle/KFX/S.J.%20Scott_%20Barrie%20Davenport/Organize%20sua%20Mente.kfx) — S.J. Scott| Barrie Davenport
 - [Organize sua Mente - S.J. Scott, Barrie Davenport](Kindle/AZW3/S.J.%20Scott/Organize%20sua%20Mente%20-%20S.J.%20Scott,%20Barrie%20Davenport.azw3) — S.J. Scott
 - [Organize sua vida com propósito](Kindle/AZW3/Jennifer%20Ford%20Berry/Organize%20sua%20vida%20com%20propósito.azw3) — Jennifer Ford Berry
@@ -432,7 +435,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [W. Gary Crampton - Filosofia Cristã Para Leigos](Kindle/AZW3/W.%20Gary%20Crampton/W.%20Gary%20Crampton%20-%20Filosofia%20Cristã%20Para%20Leigos.azw3) — W. Gary Crampton
 - [W. Gary Crampton - Filosofia Cristã Para Leigos (1)](Kindle/AZW3/W.%20Gary%20Crampton/W.%20Gary%20Crampton%20-%20Filosofia%20Cristã%20Para%20Leigos%20(1).azw3) — W. Gary Crampton
 
-## Humanidades e sociedade · História e biografias (55)
+## Humanidades e sociedade · História e biografias (56)
 
 - [21 Licoes para o Seculo XXI](Kindle/AZW3/Yuval%20Noah%20Harari/21%20Licoes%20para%20o%20Seculo%20XXI.azw3) — Yuval Noah Harari
 - [A boa sorte](Kindle/KFX/Alex%20Rovira%20Celma/A%20boa%20sorte.kfx) — Alex Rovira Celma; Fernando Trías de Bes
@@ -475,6 +478,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Dragão de Jade (Livro 3): Livro Infantil Ilustrado (7 a 12 Anos)](Kindle/AZW3/Julio%20Santos%20García/O%20Dragão%20de%20Jade%20(Livro%203)_%20Livro%20Infantil%20Ilustrado%20(7%20a%2012%20Anos).azw3) — Julio Santos García
 - [O homem mais inteligente da história](Kindle/KFX/Augusto%20Cury/O%20homem%20mais%20inteligente%20da%20história.kfx) — Augusto Cury
 - [O longo caminho para a utopia - J. Bradford Delong](Kindle/AZW3/J.%20Bradford%20DeLong/O%20longo%20caminho%20para%20a%20utopia%20-%20J.%20Bradford%20Delong.azw3) — J. Bradford DeLong
+- [O Verdadeiro Ho'oponopono](Kindle/AZW3/Amanda%20Dreher/O%20Verdadeiro%20Ho'oponopono.azw3) — Amanda Dreher
 - [Os 50 Acontecimentos Finais na História da Humanidade](Kindle/KFX/Robert%20J.Morgan/Os%2050%20Acontecimentos%20Finais%20na%20História%20da%20Humanidade.kfx) — Robert J.Morgan
 - [Panorama das histórias em quadrinhos no Brasil](Kindle/KFX/Waldomiro%20Vergueiro/Panorama%20das%20histórias%20em%20quadrinhos%20no%20Brasil.kfx) — Waldomiro Vergueiro
 - [Panorama das histórias em quadrinhos no Brasil Waldomiro Vergueiro](Kindle/AZW3/Waldomiro%20Vergueiro/Panorama%20das%20histórias%20em%20quadrinhos%20no%20Brasil%20Waldomiro%20Vergueiro.azw3) — Waldomiro Vergueiro
@@ -930,7 +934,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vire o jogo!](Kindle/AZW/Dave%20Asprey/Vire%20o%20jogo!.azw) — Dave Asprey
 - [Às Vezes Você Ganha, às Vezes Você Aprende: As Maiores Lições que Aprendemos na Vida Vem de nossas Perdas](Kindle/AZW/John%20C.%20Maxwell/Às%20Vezes%20Você%20Ganha,%20às%20Vezes%20Você%20Aprende_%20As%20Maiores%20Lições%20que%20Aprendemos%20na%20Vida%20Vem%20de%20nossas%20P.azw) — John C. Maxwell
 
-## Negócios e carreira · Marketing e vendas (38)
+## Negócios e carreira · Marketing e vendas (39)
 
 - [84 Perguntas Que Vendem Técnicas E Ferramentas Do Coaching De Vendas](Kindle/AZW3/Jaques%20Grinberg/84%20Perguntas%20Que%20Vendem%20Técnicas%20E%20Ferramentas%20Do%20Coaching%20De%20Vendas.azw3) — Jaques Grinberg
 - [A Arte da Persuasão - James Borg](Kindle/AZW3/James%20Borg/A%20Arte%20da%20Persuasão%20-%20James%20Borg.azw3) — James Borg
@@ -956,6 +960,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Neuromarketing Understanding the Buy Buttons in Your Patrick Renvoisé́](Kindle/AZW3/Renvoise_%20Patrick/Neuromarketing%20Understanding%20the%20Buy%20Buttons%20in%20Your%20Patrick%20Renvoisé́.azw3) — Renvoise| Patrick
 - [Não venda produtos, venda resultado!](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Não%20venda%20produtos,%20venda%20resultado!.azw3) — FELIPE IVO PEREIRA
 - [O catalisador](Kindle/AZW3/Jonah%20Berger/O%20catalisador.azw3) — Jonah Berger
+- [O vendedor na era digital](Kindle/KFX/César%20Frazão/O%20vendedor%20na%20era%20digital.kfx) — César Frazão; João Kepler
 - [Persuasão e influência para leigos - Elizabeth Kuhnke](Kindle/AZW3/Elizabeth%20Kuhnke/Persuasão%20e%20influência%20para%20leigos%20-%20Elizabeth%20Kuhnke.azw3) — Elizabeth Kuhnke
 - [Prospecção Fanática Jeb Blount](Kindle/AZW3/Jed%20Blount/Prospecção%20Fanática%20Jeb%20Blount.azw3) — Jed Blount
 - [Storytelling com foco em vendas Charles Cezar](Kindle/AZW3/Charles%20Cezar/Storytelling%20com%20foco%20em%20vendas%20Charles%20Cezar.azw3) — Charles Cezar
@@ -971,7 +976,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (342)
+## Outros · A classificar (337)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1130,11 +1135,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Rei Escondido e a Promessa In - Filipe Ivo Pereira](Kindle/AZW3/Filipe%20Ivo%20Pereira/O%20Rei%20Escondido%20e%20a%20Promessa%20In%20-%20Filipe%20Ivo%20Pereira.azw3) — Filipe Ivo Pereira
 - [O Segredo - Rhonda Byrne](Kindle/AZW3/Digital%20Source/O%20Segredo%20-%20Rhonda%20Byrne.azw3) — Digital Source
 - [O sentimento é o segredo Vol. 4 Neville Goddard](Kindle/AZW3/Unknown/O%20sentimento%20é%20o%20segredo%20Vol.%204%20Neville%20Goddard.azw3) — Unknown
-- [O sentimento é o segredo, vol. 4](Kindle/KFX/Neville%20Goddard/O%20sentimento%20é%20o%20segredo,%20vol.%204.kfx) — Neville Goddard
-- [O SISTEMA DA CHAVE MESTRA](Kindle/KFX/Charles%20F.%20Haanel/O%20SISTEMA%20DA%20CHAVE%20MESTRA.kfx) — Charles F. Haanel
-- [O SISTEMA DA CHAVE MESTRA - Charles F. Haanel](Kindle/AZW3/Charles%20F.%20Haanel/O%20SISTEMA%20DA%20CHAVE%20MESTRA%20-%20Charles%20F.%20Haanel.azw3) — Charles F. Haanel
-- [O trader vencedor: como operar em flow e dominar o mercado com confiança](Kindle/AZW/Mark%20Douglas/O%20trader%20vencedor_%20como%20operar%20em%20flow%20e%20dominar%20o%20mercado%20com%20confiança.azw) — Mark Douglas
-- [O vendedor na era digital](Kindle/KFX/César%20Frazão/O%20vendedor%20na%20era%20digital.kfx) — César Frazão; João Kepler
 - [O visionário e o integrador](Kindle/AZW3/Gino%20Wickman/O%20visionário%20e%20o%20integrador.azw3) — Gino Wickman
 - [O viés otimista](Kindle/AZW3/Tali%20Sharot/O%20viés%20otimista.azw3) — Tali Sharot
 - [o-centro-de-todo-descanso-E-J-Checkley](Kindle/AZW3/E.%20J.%20Checkley/o-centro-de-todo-descanso-E-J-Checkley.azw3) — E. J. Checkley
@@ -1704,7 +1704,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Teologia sistemática ao alcance de todos](EPUB/Wayne%20Grudem/Teologia%20sistemática%20ao%20alcance%20de%20todos.epub) — Wayne Grudem
 - [Uma teologia de Paulo e suas cartas: A dádiva do novo domínio em Cristo](Kindle/AZW3/Douglas%20J.%20Moo/Uma%20teologia%20de%20Paulo%20e%20suas%20cartas_%20A%20dádiva%20do%20novo%20domínio%20em%20Cristo.azw3) — Douglas J. Moo
 
-## Religião e espiritualidade · Vida cristã e devoção (254)
+## Religião e espiritualidade · Vida cristã e devoção (253)
 
 - [1 Pedro - Com os pés no vale e o coração no céu - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Pedro%20-%20Com%20os%20pés%20no%20vale%20e%20o%20coração%20no%20céu%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [365 dias de narrativas poderosas](Kindle/KFX/Thaís%20Machado/365%20dias%20de%20narrativas%20poderosas.kfx) — Thaís Machado
@@ -1905,7 +1905,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O que é ser humano](Kindle/KFX/Iain%20Provan/O%20que%20é%20ser%20humano.kfx) — Iain Provan
 - [O que é ser humano Verdades e mitos sobre quem somos Iain Provan](Kindle/AZW3/Iain%20Provan/O%20que%20é%20ser%20humano%20Verdades%20e%20mitos%20sobre%20quem%20somos%20Iain%20Provan.azw3) — Iain Provan
 - [O sofrimento roubou minha fé - Ismael Sobrinho](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20sofrimento%20roubou%20minha%20fé%20-%20Ismael%20Sobrinho.azw3) — FELIPE IVO PEREIRA
-- [O Verdadeiro Ho'oponopono](Kindle/AZW3/Amanda%20Dreher/O%20Verdadeiro%20Ho'oponopono.azw3) — Amanda Dreher
 - [O-Jesus-Que-Eu-Nunca-Conheci-Philip-Yancey](Kindle/AZW3/manoel%20ramos%20de%20oliveira/O-Jesus-Que-Eu-Nunca-Conheci-Philip-Yancey.azw3) — manoel ramos de oliveira
 - [Oração A Arte de Acreditar Vol. 3 Neville Goddard](Kindle/AZW3/Unknown/Oração%20A%20Arte%20de%20Acreditar%20Vol.%203%20Neville%20Goddard.azw3) — Unknown
 - [Oração Fervente Priscilla Shirer](Kindle/AZW3/Unknown/Oração%20Fervente%20Priscilla%20Shirer.azw3) — Unknown
@@ -1989,7 +1988,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O nervo vago - Kevin J. Tracey](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20nervo%20vago%20-%20Kevin%20J.%20Tracey.azw3) — FELIPE IVO PEREIRA
 - [O paradoxo dos vegetais - Steven R. Gundry](Kindle/AZW3/Steven%20R.%20Gundry/O%20paradoxo%20dos%20vegetais%20-%20Steven%20R.%20Gundry.azw3) — Steven R. Gundry
 
-## Saúde e bem-estar · Saúde mental e emoções (75)
+## Saúde e bem-estar · Saúde mental e emoções (76)
 
 - [100 maneiras de vencer](Kindle/KFX/Nigel%20Cumberland/100%20maneiras%20de%20vencer.kfx) — Nigel Cumberland
 - [7 maneiras de ser feliz](Kindle/KFX/Luc%20Ferry/7%20maneiras%20de%20ser%20feliz.kfx) — Luc Ferry
@@ -2053,6 +2052,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Que as Lembranças De Infância Revelam Sobre Você: E O Que Você Pode Fazer Em Relação a Isso](Kindle/AZW/Kevin%20Leman/O%20Que%20as%20Lembranças%20De%20Infância%20Revelam%20Sobre%20Você_%20E%20O%20Que%20Você%20Pode%20Fazer%20Em%20Relação%20a%20Isso.azw) — Kevin Leman
 - [O Que Eu Sei De Verdade - Oprah Winfrey](Kindle/AZW3/Oprah%20Winfrey/O%20Que%20Eu%20Sei%20De%20Verdade%20-%20Oprah%20Winfrey.azw3) — Oprah Winfrey
 - [O segredo da mentalidade judaica](Kindle/AZW/Dor%20Leon%20Attar/O%20segredo%20da%20mentalidade%20judaica.azw) — Dor Leon Attar
+- [O sentimento é o segredo, vol. 4](Kindle/KFX/Neville%20Goddard/O%20sentimento%20é%20o%20segredo,%20vol.%204.kfx) — Neville Goddard
 - [O VIÉS OTIMISTA - Tali Sharot](Kindle/AZW3/Tali%20Sharot/O%20VIÉS%20OTIMISTA%20-%20Tali%20Sharot.azw3) — Tali Sharot
 - [Organize suas emoções](Kindle/AZW3/Groves_%20J.%20Alasdair/Organize%20suas%20emoções.azw3) — Groves| J. Alasdair
 - [Palestras de Edimburgo Sobre Ciência Mental](Kindle/AZW3/Thomas%20Troward/Palestras%20de%20Edimburgo%20Sobre%20Ciência%20Mental.azw3) — Thomas Troward
