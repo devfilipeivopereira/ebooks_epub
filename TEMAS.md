@@ -9,10 +9,10 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Artes e literatura | 48 |
 | Ciência e natureza | 39 |
 | Educação e desenvolvimento pessoal | 224 |
-| Família e relacionamentos | 38 |
+| Família e relacionamentos | 39 |
 | Humanidades e sociedade | 183 |
 | Negócios e carreira | 390 |
-| Outros | 328 |
+| Outros | 327 |
 | Referência e idiomas | 21 |
 | Religião e espiritualidade | 609 |
 | Saúde e bem-estar | 98 |
@@ -347,7 +347,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Você pode realizar seu sonho Coleção Motivação com John C Maxwell](Kindle/AZW3/John%20C.%20Maxwell/Você%20pode%20realizar%20seu%20sonho%20Coleção%20Motivação%20com%20John%20C%20Maxwell.azw3) — John C. Maxwell
 - [Zen na arte da escrita - Ray Bradbury](Kindle/AZW3/Ray%20Bradbury/Zen%20na%20arte%20da%20escrita%20-%20Ray%20Bradbury.azw3) — Ray Bradbury
 
-## Família e relacionamentos · Parentalidade e família (27)
+## Família e relacionamentos · Parentalidade e família (28)
 
 - [1001 coisas para fazer antes do casamento morrer](Kindle/AZW3/Alessandra%20Leite%20Pasqualini/1001%20coisas%20para%20fazer%20antes%20do%20casamento%20morrer.azw3) — Alessandra Leite Pasqualini; JB Pasqualini
 - [1001 conselhos de sabedoria para meus filhos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/1001%20conselhos%20de%20sabedoria%20para%20meus%20filhos.azw3) — FELIPE IVO PEREIRA
@@ -371,6 +371,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O poder dos pais que oram](Kindle/AZW3/Ana%20Laura%20Almeida/O%20poder%20dos%20pais%20que%20oram.azw3) — Ana Laura Almeida
 - [O Segredo Dos Dogon (Livro 4): Livro Infantil Ilustrado (7 a 12 Anos)](Kindle/AZW3/Julio%20Santos%20García/O%20Segredo%20Dos%20Dogon%20(Livro%204)_%20Livro%20Infantil%20Ilustrado%20(7%20a%2012%20Anos).azw3) — Julio Santos García
 - [O significado do casamento](Kindle/KFX/Keller_%20Timothy/O%20significado%20do%20casamento.kfx) — Keller| Timothy
+- [Os 7 hábitos dos casamentos altamente eficazes](Kindle/KFX/Stephen%20R.%20Covey/Os%207%20hábitos%20dos%20casamentos%20altamente%20eficazes.kfx) — Stephen R. Covey; Sandra Covey
 - [Pais conscientes, vínculos indestrutíveis Shefali Tsabary](Kindle/AZW3/Shefali%20Tsabary/Pais%20conscientes,%20vínculos%20indestrutíveis%20Shefali%20Tsabary.azw3) — Shefali Tsabary
 - [por-que-as-mulheres-amam-os-homens-fortes](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/por-que-as-mulheres-amam-os-homens-fortes.azw3) — FELIPE IVO PEREIRA
 - [Prepare Seus Filhos contra os Perigos do Mundo - Julie Lowe](Kindle/AZW3/Julie%20Lowe/Prepare%20Seus%20Filhos%20contra%20os%20Perigos%20do%20Mundo%20-%20Julie%20Lowe.azw3) — Julie Lowe
@@ -915,8 +916,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Onze anéis](Kindle/KFX/Phil%20Jackson/Onze%20anéis.kfx) — Phil Jackson
 - [Oportunidades disfarcadas 2 - Carlos Domingos](Kindle/AZW3/Carlos%20Domingos/Oportunidades%20disfarcadas%202%20-%20Carlos%20Domingos.azw3) — Carlos Domingos
 - [Os 10 hábitos da memorização](Kindle/KFX/Renato%20Alves/Os%2010%20hábitos%20da%20memorização.kfx) — Renato Alves
+- [Os 36 estratagemas - Jean Levi](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%2036%20estratagemas%20-%20Jean%20Levi.azw3) — FELIPE IVO PEREIRA
 - [Os 7 Hábitos dos Adolescentes Altamente Eficazes](Kindle/AZW3/Sean%20Covey/Os%207%20Hábitos%20dos%20Adolescentes%20Altamente%20Eficazes.azw3) — Sean Covey
-- [Os 7 hábitos dos casamentos altamente eficazes](Kindle/KFX/Stephen%20R.%20Covey/Os%207%20hábitos%20dos%20casamentos%20altamente%20eficazes.kfx) — Stephen R. Covey; Sandra Covey
 - [Ou vai ou voa Hendel Favarin Josef Rubin](Kindle/AZW3/Josef%20Rubin%20Hendel%20Favarin/Ou%20vai%20ou%20voa%20Hendel%20Favarin%20Josef%20Rubin.azw3) — Josef Rubin Hendel Favarin
 - [P*rra Sai Dessa, Cara: 10 Tapas na Cara Para Quem Quer Mudar de Rumo](Kindle/AZW/Alain%20Rocha/P_rra%20Sai%20Dessa,%20Cara_%2010%20Tapas%20na%20Cara%20Para%20Quem%20Quer%20Mudar%20de%20Rumo.azw) — Alain Rocha
 - [Pensando como um empreendedor](Kindle/KFX/Daniel%20Smith/Pensando%20como%20um%20empreendedor.kfx) — Daniel Smith
@@ -982,7 +983,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (328)
+## Outros · A classificar (327)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1144,7 +1145,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [o-centro-de-todo-descanso-E-J-Checkley](Kindle/AZW3/E.%20J.%20Checkley/o-centro-de-todo-descanso-E-J-Checkley.azw3) — E. J. Checkley
 - [Opcoes Na Pratica](Kindle/KFX/Aprenda%20Do%20Zero/Opcoes%20Na%20Pratica.kfx) — Aprenda Do Zero
 - [Os 32 princípios Rener Gracie, Paul Volponi 2023 Intrinseca](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%2032%20princípios%20Rener%20Gracie,%20Paul%20Volponi%202023%20Intrinseca.azw3) — FELIPE IVO PEREIRA
-- [Os 36 estratagemas - Jean Levi](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%2036%20estratagemas%20-%20Jean%20Levi.azw3) — FELIPE IVO PEREIRA
 - [Os quatro compromissos](Kindle/KFX/Don%20Miguel%20Ruiz/Os%20quatro%20compromissos.kfx) — Don Miguel Ruiz
 - [Os Quatro Grandes](Kindle/KFX/Agatha%20Christie/Os%20Quatro%20Grandes.kfx) — Agatha Christie
 - [Os Quatro Grandes - Agatha Christie](Kindle/AZW3/Agatha%20Christie/Os%20Quatro%20Grandes%20-%20Agatha%20Christie.azw3) — Agatha Christie
