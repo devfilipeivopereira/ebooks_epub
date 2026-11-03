@@ -9,8 +9,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Artes e literatura | 47 |
 | Ciência e natureza | 38 |
 | Educação e desenvolvimento pessoal | 216 |
-| Família e relacionamentos | 37 |
-| Humanidades e sociedade | 185 |
+| Família e relacionamentos | 38 |
+| Humanidades e sociedade | 184 |
 | Negócios e carreira | 382 |
 | Outros | 348 |
 | Referência e idiomas | 21 |
@@ -337,7 +337,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Você pode realizar seu sonho Coleção Motivação com John C Maxwell](Kindle/AZW3/John%20C.%20Maxwell/Você%20pode%20realizar%20seu%20sonho%20Coleção%20Motivação%20com%20John%20C%20Maxwell.azw3) — John C. Maxwell
 - [Zen na arte da escrita - Ray Bradbury](Kindle/AZW3/Ray%20Bradbury/Zen%20na%20arte%20da%20escrita%20-%20Ray%20Bradbury.azw3) — Ray Bradbury
 
-## Família e relacionamentos · Parentalidade e família (26)
+## Família e relacionamentos · Parentalidade e família (27)
 
 - [1001 coisas para fazer antes do casamento morrer](Kindle/AZW3/Alessandra%20Leite%20Pasqualini/1001%20coisas%20para%20fazer%20antes%20do%20casamento%20morrer.azw3) — Alessandra Leite Pasqualini; JB Pasqualini
 - [1001 conselhos de sabedoria para meus filhos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/1001%20conselhos%20de%20sabedoria%20para%20meus%20filhos.azw3) — FELIPE IVO PEREIRA
@@ -358,6 +358,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Duas pulgas e nenhum cachorro](Kindle/AZW3/Craig%20Hill/Duas%20pulgas%20e%20nenhum%20cachorro.azw3) — Craig Hill
 - [Famílias indestrutíveis](Kindle/AZW3/Rafael%20Nery/Famílias%20indestrutíveis.azw3) — Rafael Nery
 - [O filho rico](Kindle/KFX/Felipe%20Miranda/O%20filho%20rico.kfx) — Felipe Miranda
+- [O poder dos pais que oram](Kindle/AZW3/Ana%20Laura%20Almeida/O%20poder%20dos%20pais%20que%20oram.azw3) — Ana Laura Almeida
 - [O Segredo Dos Dogon (Livro 4): Livro Infantil Ilustrado (7 a 12 Anos)](Kindle/AZW3/Julio%20Santos%20García/O%20Segredo%20Dos%20Dogon%20(Livro%204)_%20Livro%20Infantil%20Ilustrado%20(7%20a%2012%20Anos).azw3) — Julio Santos García
 - [O significado do casamento](Kindle/KFX/Keller_%20Timothy/O%20significado%20do%20casamento.kfx) — Keller| Timothy
 - [Pais conscientes, vínculos indestrutíveis Shefali Tsabary](Kindle/AZW3/Shefali%20Tsabary/Pais%20conscientes,%20vínculos%20indestrutíveis%20Shefali%20Tsabary.azw3) — Shefali Tsabary
@@ -485,7 +486,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Uma Breve História da Filosofia - Nigel Warburton](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20Breve%20História%20da%20Filosofia%20-%20Nigel%20Warburton.azw3) — FELIPE IVO PEREIRA
 - [Uma Breve História das Guerras Geoffrey Blainey 2014;2023 Fundamentos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20Breve%20História%20das%20Guerras%20Geoffrey%20Blainey%202014;2023%20Fundamentos.azw3) — FELIPE IVO PEREIRA
 
-## Humanidades e sociedade · Política, direito e sociedade (86)
+## Humanidades e sociedade · Política, direito e sociedade (85)
 
 - [12 Princípios para uma vida extraordinária](Kindle/KFX/Paulo%20Vieira/12%20Princípios%20para%20uma%20vida%20extraordinária.kfx) — Paulo Vieira
 - [50 perguntas sobre lei da atração para iniciantes](Kindle/KFX/William%20Sanches/50%20perguntas%20sobre%20lei%20da%20atração%20para%20iniciantes.kfx) — William Sanches
@@ -553,7 +554,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O poder dos ecossistemas - Felipe Pacheco Borges (1)](Kindle/AZW3/Felipe%20Pacheco%20Borges/O%20poder%20dos%20ecossistemas%20-%20Felipe%20Pacheco%20Borges%20(1).azw3) — Felipe Pacheco Borges
 - [O Poder dos Momentos - Chip e Dan Heath - PTBR](Kindle/AZW3/Chip%20Heath%20e%20Dan%20Heath/O%20Poder%20dos%20Momentos%20-%20Chip%20e%20Dan%20Heath%20-%20PTBR.azw3) — Chip Heath e Dan Heath
 - [O Poder dos Momentos: por que certas experiências têm um impacto extraordinário](EPUB/Chip%20Heath/O%20Poder%20dos%20Momentos_%20por%20que%20certas%20experiências%20têm%20um%20impacto%20extraordinário.epub) — Chip Heath; Dan Heath
-- [O poder dos pais que oram](Kindle/AZW3/Ana%20Laura%20Almeida/O%20poder%20dos%20pais%20que%20oram.azw3) — Ana Laura Almeida
 - [O poder invisível da palavra](Kindle/AZW3/Florence%20Scovel%20Shinn/O%20poder%20invisível%20da%20palavra.azw3) — Florence Scovel Shinn
 - [O poder latente da alma](Kindle/KFX/Watchman%20Nee/O%20poder%20latente%20da%20alma.kfx) — Watchman Nee
 - [O poder latente da alma Watchman Nee](Kindle/AZW3/Watchman%20Nee/O%20poder%20latente%20da%20alma%20Watchman%20Nee.azw3) — Watchman Nee
