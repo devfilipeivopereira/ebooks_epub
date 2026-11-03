@@ -36,6 +36,10 @@ def title_tokens(value):
     return [token for token in normalize(value).split() if token not in STOP_WORDS]
 
 
+def canonical(word):
+    return word[:-1] if len(word) > 4 and word.endswith("s") else word
+
+
 def clean_title(title, authors):
     title = re.sub(r"^\s*\(TRAD\)\s*", "", title, flags=re.I)
     title = re.sub(r"^\s*@BibliotecaCrista\s*", "", title, flags=re.I)
@@ -53,22 +57,37 @@ def clean_title(title, authors):
     return title.strip(" -–_")
 
 
-def title_score(expected, actual):
-    left, right = " ".join(title_tokens(expected)), " ".join(title_tokens(actual))
+def title_score(expected, actual, byline=""):
+    left_tokens = title_tokens(expected)
+    byline_norm = normalize(byline)
+    author = re.search(r"\bpor\s+(.+?)\s+autor\b", byline_norm)
+    if author:
+        author_tokens = title_tokens(author.group(1))
+        if author_tokens and left_tokens[:len(author_tokens)] == author_tokens:
+            left_tokens = left_tokens[len(author_tokens):]
+        if author_tokens and left_tokens[-len(author_tokens):] == author_tokens:
+            left_tokens = left_tokens[:-len(author_tokens)]
+    right_tokens = title_tokens(actual)
+    left, right = " ".join(left_tokens), " ".join(right_tokens)
     if not left or not right:
         return 0
     if re.search(r"\b(box|colecao|combo|kit)\b", right) and not re.search(r"\b(box|colecao|combo|kit)\b", left):
         return 0
     if re.search(r"\b(resumo|summary|guia de estudo)\b", right) and not re.search(r"\b(resumo|summary|guia de estudo)\b", left):
         return 0
-    expected_words = {word for word in left.split() if len(word) >= 3 or word.isdigit()}
-    actual_words = set(right.split())
+    expected_words = {canonical(word) for word in left.split() if len(word) >= 3 or word.isdigit()}
+    actual_words = {canonical(word) for word in right.split()}
     if expected_words:
+        if len(expected_words) <= 3 and not right.startswith(left):
+            return 0
         coverage = sum(any(word == candidate or len(word) >= 3 and candidate.startswith(word) for candidate in actual_words)
                        for word in expected_words) / len(expected_words)
         needed = 1.0 if len(expected_words) <= 2 else 0.75
         if coverage < needed:
-            return 0
+            main = " ".join(title_tokens(expected.split(":", 1)[0]))
+            main_words = {canonical(word) for word in main.split() if len(word) >= 3}
+            if len(main_words) < 3 or not right.startswith(main):
+                return 0
     # Require volume numbers to agree when both titles specify one.
     volume = re.search(r"\b(?:vol(?:ume)?|livro|book)\s*(\d+)\b", left)
     other_volume = re.search(r"\b(?:vol(?:ume)?|livro|book)\s*(\d+)\b", right)
@@ -200,7 +219,7 @@ def process(page, book):
     cleaned_title = clean_title(book["title"], book.get("authors", ""))
     for asin in direct_ids(book):
         url, title, byline, description = get_product(page, asin)
-        score = title_score(cleaned_title, title)
+        score = title_score(cleaned_title, title, byline)
         author_match = author_ok(book.get("authors", ""), byline)
         if score >= (92 if author_match is None else 83) and author_match is not False and len(description) >= 90 and description_language_ok(book, description):
             return {"id": book["id"], "status": "verificado", "asin": asin,
@@ -221,7 +240,7 @@ def process(page, book):
             break
         time.sleep(random.uniform(0.7, 1.3))
         url, title, byline, description = get_product(page, asin)
-        score = title_score(cleaned_title, title)
+        score = title_score(cleaned_title, title, byline)
         author_match = author_ok(book.get("authors", ""), byline)
         threshold = 92 if author_match is None else 83
         if score < threshold or author_match is False or len(description) < 90 or not description_language_ok(book, description):

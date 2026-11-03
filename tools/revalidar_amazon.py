@@ -22,7 +22,7 @@ for book_id, item in latest.items():
     if item.get("status") != "verificado" or book_id not in books:
         continue
     book = books[book_id]
-    score = title_score(clean_title(book["title"], book.get("authors", "")), item["amazon_title"])
+    score = title_score(clean_title(book["title"], book.get("authors", "")), item["amazon_title"], item.get("amazon_authors", ""))
     language = description_language_ok(book, item["description"])
     threshold = 92 if item.get("author_match") is None else 83
     if score < threshold or not language:
