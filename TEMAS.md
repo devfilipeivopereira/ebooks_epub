@@ -11,8 +11,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Educação e desenvolvimento pessoal | 224 |
 | Família e relacionamentos | 40 |
 | Humanidades e sociedade | 183 |
-| Negócios e carreira | 393 |
-| Outros | 323 |
+| Negócios e carreira | 395 |
+| Outros | 321 |
 | Referência e idiomas | 21 |
 | Religião e espiritualidade | 609 |
 | Saúde e bem-estar | 98 |
@@ -795,7 +795,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tudo o que você precisa saber sobre economia](Kindle/AZW/Alfred%20Mill/Tudo%20o%20que%20você%20precisa%20saber%20sobre%20economia.azw) — Alfred Mill
 - [Virada financeira](Kindle/KFX/Patricia%20Lages/Virada%20financeira.kfx) — Patricia Lages
 
-## Negócios e carreira · Gestão, liderança e empreendedorismo (147)
+## Negócios e carreira · Gestão, liderança e empreendedorismo (149)
 
 - [1 ano em 12 semanas](Kindle/KFX/Brian%20P%20Moran/1%20ano%20em%2012%20semanas.kfx) — Brian P Moran
 - [100 coisas que pessoas produtivas fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20produtivas%20fazem.kfx) — Nigel Cumberland
@@ -922,6 +922,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Os 7 Hábitos dos Adolescentes Altamente Eficazes](Kindle/AZW3/Sean%20Covey/Os%207%20Hábitos%20dos%20Adolescentes%20Altamente%20Eficazes.azw3) — Sean Covey
 - [Os Quatro Grandes](Kindle/KFX/Agatha%20Christie/Os%20Quatro%20Grandes.kfx) — Agatha Christie
 - [Os Quatro Grandes - Agatha Christie](Kindle/AZW3/Agatha%20Christie/Os%20Quatro%20Grandes%20-%20Agatha%20Christie.azw3) — Agatha Christie
+- [Otimismo Prático - Dra. Sue Varna](Kindle/AZW3/Sue%20Varma/Otimismo%20Prático%20-%20Dra.%20Sue%20Varna.azw3) — Sue Varma
+- [Ou vai ou voa](Kindle/KFX/Hendel%20Favarin_%20Josef%20Rubin/Ou%20vai%20ou%20voa.kfx) — Hendel Favarin| Josef Rubin
 - [Ou vai ou voa Hendel Favarin Josef Rubin](Kindle/AZW3/Josef%20Rubin%20Hendel%20Favarin/Ou%20vai%20ou%20voa%20Hendel%20Favarin%20Josef%20Rubin.azw3) — Josef Rubin Hendel Favarin
 - [P*rra Sai Dessa, Cara: 10 Tapas na Cara Para Quem Quer Mudar de Rumo](Kindle/AZW/Alain%20Rocha/P_rra%20Sai%20Dessa,%20Cara_%2010%20Tapas%20na%20Cara%20Para%20Quem%20Quer%20Mudar%20de%20Rumo.azw) — Alain Rocha
 - [Pensando como um empreendedor](Kindle/KFX/Daniel%20Smith/Pensando%20como%20um%20empreendedor.kfx) — Daniel Smith
@@ -987,7 +989,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (323)
+## Outros · A classificar (321)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1150,9 +1152,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Opcoes Na Pratica](Kindle/KFX/Aprenda%20Do%20Zero/Opcoes%20Na%20Pratica.kfx) — Aprenda Do Zero
 - [Os 32 princípios Rener Gracie, Paul Volponi 2023 Intrinseca](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%2032%20princípios%20Rener%20Gracie,%20Paul%20Volponi%202023%20Intrinseca.azw3) — FELIPE IVO PEREIRA
 - [Otimismo Pratico](Kindle/KFX/Dra.%20Sue%20Varna/Otimismo%20Pratico.kfx) — Dra. Sue Varna
-- [Otimismo Prático - Dra. Sue Varna](Kindle/AZW3/Sue%20Varma/Otimismo%20Prático%20-%20Dra.%20Sue%20Varna.azw3) — Sue Varma
 - [Otimista Racional, O - Matt Ridley (1)](Kindle/AZW3/Matt%20Ridley/Otimista%20Racional,%20O%20-%20Matt%20Ridley%20(1).azw3) — Matt Ridley
-- [Ou vai ou voa](Kindle/KFX/Hendel%20Favarin_%20Josef%20Rubin/Ou%20vai%20ou%20voa.kfx) — Hendel Favarin| Josef Rubin
 - [Oxford Dictionary of English](Kindle/AZW/Oxford%20University%20Press/Oxford%20Dictionary%20of%20English.azw) — Oxford University Press
 - [Padrões de alta performance Napoleon Hill Joel Jota](Kindle/AZW3/Napoleon%20Hill/Padrões%20de%20alta%20performance%20Napoleon%20Hill%20Joel%20Jota.azw3) — Napoleon Hill
 - [Padrões de alta performance](Kindle/KFX/Napoleon%20Hill/Padrões%20de%20alta%20performance.kfx) — Napoleon Hill; Joel Jota
