@@ -1,9 +1,13 @@
 """Mescla registros Calibre com a mesma ficha Amazon verificada.
 
-Execute com: calibre-debug -e tools/mesclar_duplicados_amazon.py
+Prévia: calibre-debug -e tools/mesclar_duplicados_amazon.py
+Aplicação: calibre-debug -e tools/mesclar_duplicados_amazon.py -- --apply
 Só mescla formatos complementares; remoções vão para a lixeira do Calibre.
 """
+import argparse
+import csv
 import json
+import sys
 import sqlite3
 import subprocess
 from collections import defaultdict
@@ -15,6 +19,15 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = Path(r"D:\CalibreLibrary")
 CLI = Path(r"C:\Program Files\Calibre2\calibredb.exe")
 LOG = ROOT / "mesclagens_amazon.jsonl"
+parser = argparse.ArgumentParser()
+parser.add_argument("--apply", action="store_true")
+arguments = parser.parse_args([arg for arg in sys.argv[1:] if arg != "--"])
+rejected = set()
+decisions = ROOT / "DECISOES_AMAZON.csv"
+if decisions.exists():
+    with decisions.open(encoding="utf-8-sig", newline="") as stream:
+        rejected = {int(row["ID Calibre"]) for row in csv.DictReader(stream)
+                    if row["Decisão"] == "rejeitar"}
 
 latest = {}
 for line in (ROOT / "dados_amazon.jsonl").read_text(encoding="utf-8").splitlines():
@@ -26,7 +39,7 @@ for line in (ROOT / "dados_amazon.jsonl").read_text(encoding="utf-8").splitlines
 
 groups = defaultdict(list)
 for book_id, item in latest.items():
-    if item.get("status") == "verificado" and item.get("asin"):
+    if item.get("status") == "verificado" and item.get("asin") and book_id not in rejected:
         groups[item["asin"]].append(book_id)
 
 with sqlite3.connect(LIBRARY / "metadata.db") as conn:
@@ -46,6 +59,12 @@ for asin, ids in groups.items():
             print("Ignorado: formatos sobrepostos", keeper, duplicate, flush=True)
             continue
         tasks.append((asin, keeper, duplicate))
+
+print("Pares candidatos:", len(tasks), flush=True)
+for asin, keeper, duplicate in tasks:
+    print(asin, keeper, duplicate, flush=True)
+if not arguments.apply:
+    raise SystemExit(0)
 
 db = LibraryDatabase(str(LIBRARY))
 api = db.new_api
