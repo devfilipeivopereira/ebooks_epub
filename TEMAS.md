@@ -8,14 +8,14 @@ Classificação editorial automática a partir do título, tags e descrição di
 |---|---:|
 | Artes e literatura | 47 |
 | Ciência e natureza | 36 |
-| Educação e desenvolvimento pessoal | 214 |
+| Educação e desenvolvimento pessoal | 215 |
 | Família e relacionamentos | 37 |
 | Humanidades e sociedade | 188 |
-| Negócios e carreira | 379 |
-| Outros | 354 |
+| Negócios e carreira | 381 |
+| Outros | 349 |
 | Referência e idiomas | 21 |
-| Religião e espiritualidade | 606 |
-| Saúde e bem-estar | 98 |
+| Religião e espiritualidade | 607 |
+| Saúde e bem-estar | 99 |
 | Tecnologia e computação | 112 |
 
 ## Artes e literatura · Arte, música e design (14)
@@ -168,7 +168,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tenha a Vida Que Deseja - Richard Bandler](Kindle/AZW3/Richard%20Bandler/Tenha%20a%20Vida%20Que%20Deseja%20-%20Richard%20Bandler.azw3) — Richard Bandler
 - [Ultra-aprendizado - Scott Young](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ultra-aprendizado%20-%20Scott%20Young.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (162)
+## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (163)
 
 - [100 coisas que líderes de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20líderes%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
 - [100 coisas que pessoas de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
@@ -294,6 +294,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O METODO](Kindle/KFX/Phil%20Stutz%20e%20Barry%20Michels/O%20METODO.kfx) — Phil Stutz e Barry Michels
 - [O mito da perfeição](Kindle/AZW3/Richella%20J.%20Parham/O%20mito%20da%20perfeição.azw3) — Richella J. Parham
 - [O Método: Domine Sua Mente, Controle Sua Biologia e Ative Todo o Seu Potencial Humano](Kindle/KFX/Wim%20Hof/O%20Método_%20Domine%20Sua%20Mente,%20Controle%20Sua%20Biologia%20e%20Ative%20Todo%20o%20Seu%20Potencial%20Humano.kfx) — Wim Hof
+- [O outro lado do ponto da virada](Kindle/KFX/Malcolm%20Gladwell/O%20outro%20lado%20do%20ponto%20da%20virada.kfx) — Malcolm Gladwell
 - [O paradoxo da paixão: um manual para apostar tudo, ter sucesso e aproveitar as vantagens do desequilíbrio](Kindle/KFX/Brad%20Stulberg/O%20paradoxo%20da%20paixão_%20um%20manual%20para%20apostar%20tudo,%20ter%20sucesso%20e%20aproveitar%20as%20vantagens%20do%20desequil.kfx) — Brad Stulberg; Steve Magness
 - [O poder da autodisciplina](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20poder%20da%20autodisciplina.azw3) — FELIPE IVO PEREIRA
 - [O poder da autodisciplina: como superar a procrastinação e distrações, e ter foco para alcançar seus objetivos na vida](Kindle/KFX/Giovanni%20Dienstmann/O%20poder%20da%20autodisciplina_%20como%20superar%20a%20procrastinação%20e%20distrações,%20e%20ter%20foco%20para%20alcançar%20seus.kfx) — Giovanni Dienstmann
@@ -573,7 +574,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Visoes e Ilusoes Politicas - David T. Koyzis](Kindle/AZW3/David%20koyzis/Visoes%20e%20Ilusoes%20Politicas%20-%20David%20T.%20Koyzis.azw3) — David koyzis
 - [Woke S A a farsa da justiça social empresarial Vivek Ramaswamy](Kindle/AZW3/Vivek%20Ramaswamy/Woke%20S%20A%20a%20farsa%20da%20justiça%20social%20empresarial%20Vivek%20Ramaswamy.azw3) — Vivek Ramaswamy
 
-## Negócios e carreira · Finanças e investimentos (199)
+## Negócios e carreira · Finanças e investimentos (201)
 
 - [100 coisas que milionários fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20milionários%20fazem.kfx) — Nigel Cumberland
 - [50 ideias de economia que você precisa conhecer](Kindle/AZW/Edmund%20Conway/50%20ideias%20de%20economia%20que%20você%20precisa%20conhecer.azw) — Edmund Conway
@@ -741,6 +742,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O milionário instantâneo - Mark Fisher](Kindle/AZW3/Mark%20Fisher/O%20milionário%20instantâneo%20-%20Mark%20Fisher.azw3) — Mark Fisher
 - [O mundo a venda Dinheiro, pode](Kindle/KFX/Javier%20Blas_%20Jack%20Farchy/O%20mundo%20a%20venda%20Dinheiro,%20pode.kfx) — Javier Blas| Jack Farchy
 - [O mundo a venda Dinheiro, pode - Javier Blas, Jack Farchy](Kindle/AZW3/Javier%20Blas/O%20mundo%20a%20venda%20Dinheiro,%20pode%20-%20Javier%20Blas,%20Jack%20Farchy.azw3) — Javier Blas
+- [O novo Magos do Mercado](Kindle/AZW3/Jack%20D%20Schwager/O%20novo%20Magos%20do%20Mercado.azw3) — Jack D Schwager
+- [O Otimista Racional](Kindle/KFX/Matt%20Ridley/O%20Otimista%20Racional.kfx) — Matt Ridley
 - [O pequeno livro dos magos do mercado financeiro](EPUB/D.%20Schwager_%20Jack/O%20pequeno%20livro%20dos%20magos%20do%20mercado%20financeiro.epub) — D. Schwager| Jack
 - [O poder da reputação: Aprenda a construir e usar sua imagem para ser bem-sucedido no ambiente de trabalho](Kindle/AZW/John%20Whitfield/O%20poder%20da%20reputação_%20Aprenda%20a%20construir%20e%20usar%20sua%20imagem%20para%20ser%20bem-sucedido%20no%20ambiente%20de%20tra.azw) — John Whitfield
 - [O poder das afirmações positivas](Kindle/AZW3/Louise%20L.%20Hay/O%20poder%20das%20afirmações%20positivas.azw3) — Louise L. Hay
@@ -961,7 +964,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (354)
+## Outros · A classificar (349)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1110,11 +1113,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Filho Rico - Felipe Miranda](Kindle/AZW3/Miranda_Felipe/O%20Filho%20Rico%20-%20Felipe%20Miranda.azw3) — Miranda|Felipe
 - [O melhor perdedor vence por qu - Hougaard, Tom](Kindle/AZW3/Tom%20Hougaard/O%20melhor%20perdedor%20vence%20por%20qu%20-%20Hougaard,%20Tom.azw3) — Tom Hougaard
 - [O método Wim Hof Ative todo o seu potencial humano](Kindle/AZW3/Wim%20Hof/O%20método%20Wim%20Hof%20Ative%20todo%20o%20seu%20potencial%20humano.azw3) — Wim Hof
-- [O Natal escondido: a surpreendente verdade por trás do nascimento de Cristo](EPUB/Timothy%20Keller/O%20Natal%20escondido_%20a%20surpreendente%20verdade%20por%20trás%20do%20nascimento%20de%20Cristo.epub) — Timothy Keller
-- [O nervo vago - Kevin J. Tracey](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20nervo%20vago%20-%20Kevin%20J.%20Tracey.azw3) — FELIPE IVO PEREIRA
-- [O novo Magos do Mercado](Kindle/AZW3/Jack%20D%20Schwager/O%20novo%20Magos%20do%20Mercado.azw3) — Jack D Schwager
-- [O Otimista Racional](Kindle/KFX/Matt%20Ridley/O%20Otimista%20Racional.kfx) — Matt Ridley
-- [O outro lado do ponto da virada](Kindle/KFX/Malcolm%20Gladwell/O%20outro%20lado%20do%20ponto%20da%20virada.kfx) — Malcolm Gladwell
 - [O outro lado do ponto da virada - Malcolm Gladwell](Kindle/AZW3/Malcolm%20Gladwell/O%20outro%20lado%20do%20ponto%20da%20virada%20-%20Malcolm%20Gladwell.azw3) — Malcolm Gladwell
 - [O Paradoxo da Paixão Brad Stulberg, Steve MagnessAlta Books](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20Paradoxo%20da%20Paixão%20Brad%20Stulberg,%20Steve%20MagnessAlta%20Books.azw3) — FELIPE IVO PEREIRA
 - [O paradoxo dos vegetais](Kindle/KFX/Steven%20R.%20Gundry/O%20paradoxo%20dos%20vegetais.kfx) — Steven R. Gundry
@@ -1342,7 +1340,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Portuguese-English Dictionary](Kindle/AZW/Priberam/Portuguese-English%20Dictionary.azw) — Priberam
 - [Português Para Não Pagar Mico](Kindle/AZW3/Noslen%20Borges/Português%20Para%20Não%20Pagar%20Mico.azw3) — Noslen Borges
 
-## Religião e espiritualidade · Bíblia e interpretação (157)
+## Religião e espiritualidade · Bíblia e interpretação (156)
 
 - [1 Coríntios - Como resolver conflitos na igreja - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Coríntios%20-%20Como%20resolver%20conflitos%20na%20igreja%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [1 e 2 Tessalonicenses - Como se preparar para a segunda vinda de Cristo - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20e%202%20Tessalonicenses%20-%20Como%20se%20preparar%20para%20a%20segunda%20vinda%20de%20Cristo%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
@@ -1469,7 +1467,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Manuscrito Original - Napoleon Hill](Kindle/AZW3/Napoleon%20Hill/O%20Manuscrito%20Original%20-%20Napoleon%20Hill.azw3) — Napoleon Hill
 - [O mundo perdido de Enoque: O livro de Enoque e sua influência no Novo Testamento](Kindle/AZW3/Kenner%20Terra/O%20mundo%20perdido%20de%20Enoque_%20O%20livro%20de%20Enoque%20e%20sua%20influência%20no%20Novo%20Testamento.azw3) — Kenner Terra
 - [O Mundo Perdido dos Profetas — Profecia do Antigo Testamento e Literatura Apocalíptica no Contexto Antigo - John H. Walton](Kindle/AZW3/John%20H.%20Walton/O%20Mundo%20Perdido%20dos%20Profetas%20—%20Profecia%20do%20Antigo%20Testamento%20e%20Literatura%20Apocalíptica%20no%20Contexto%20A.azw3) — John H. Walton
-- [O novo testamento e o povo de Deus](Kindle/AZW3/N.%20T.%20Wright/O%20novo%20testamento%20e%20o%20povo%20de%20Deus.azw3) — N. T. Wright
 - [O Novo Testamento em 15 palavras - Nijay Gupta](Kindle/AZW3/Nijay%20Gupta/O%20Novo%20Testamento%20em%2015%20palavras%20-%20Nijay%20Gupta.azw3) — Nijay Gupta
 - [O Novo Testamento em 15 Palavras - Nijay K. Gupta](Kindle/AZW3/Nijay%20K.%20Gupta/O%20Novo%20Testamento%20em%2015%20Palavras%20-%20Nijay%20K.%20Gupta.azw3) — Nijay K. Gupta
 - [O Profeta Pródigo Jonas E O Mistério Da Misericórdia De Deus](Kindle/AZW3/Timothy%20Keller/O%20Profeta%20Pródigo%20Jonas%20E%20O%20Mistério%20Da%20Misericórdia%20De%20Deus.azw3) — Timothy Keller
@@ -1502,7 +1499,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vendedor na era digital, O César Frazão & João Kepler (1)](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Vendedor%20na%20era%20digital,%20O%20César%20Frazão%20&%20João%20Kepler%20(1).azw3) — FELIPE IVO PEREIRA
 - [Vida através da morte: estudo da epístola aos Romanos](Kindle/KFX/Charles%20Stanley/Vida%20através%20da%20morte_%20estudo%20da%20epístola%20aos%20Romanos.kfx) — Charles Stanley
 
-## Religião e espiritualidade · Pregação e ministério (170)
+## Religião e espiritualidade · Pregação e ministério (171)
 
 - [1 Timóteo - O pastor, sua vida e sua obra - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Timóteo%20-%20O%20pastor,%20sua%20vida%20e%20sua%20obra%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [101 idéias criativas para cultos domésticos (101 ideias)](EPUB/Merkh_%20David/101%20idéias%20criativas%20para%20cultos%20domésticos%20(101%20ideias).epub) — Merkh| David
@@ -1631,6 +1628,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Efeito Voluntário](Kindle/AZW3/Jason%20Young/O%20Efeito%20Voluntário.azw3) — Jason Young
 - [O Espírito na igreja nodrm](Kindle/AZW3/Craig%20Keener/O%20Espírito%20na%20igreja%20nodrm.azw3) — Craig Keener
 - [O fazedor de discípulos nodrm](Kindle/AZW3/Danilo%20Figueira/O%20fazedor%20de%20discípulos%20nodrm.azw3) — Danilo Figueira
+- [O Natal escondido: a surpreendente verdade por trás do nascimento de Cristo](EPUB/Timothy%20Keller/O%20Natal%20escondido_%20a%20surpreendente%20verdade%20por%20trás%20do%20nascimento%20de%20Cristo.epub) — Timothy Keller
 - [O pastor e o aconselhamento](Kindle/AZW3/Deepak%20Reju/O%20pastor%20e%20o%20aconselhamento.azw3) — Deepak Reju
 - [O que todo pastor deve saber - Gary L. McIntosh e Charles Arn (PT-BR)](Kindle/AZW3/Gary%20L.%20McIntosh/O%20que%20todo%20pastor%20deve%20saber%20-%20Gary%20L.%20McIntosh%20e%20Charles%20Arn%20(PT-BR).azw3) — Gary L. McIntosh
 - [O que todo pastor deve saber: 101 regras práticas indispensáveis para liderar sua igreja](EPUB/Gary%20L.%20McIntosh/O%20que%20todo%20pastor%20deve%20saber_%20101%20regras%20práticas%20indispensáveis%20para%20liderar%20sua%20igreja.epub) — Gary L. McIntosh; Charles Arn
@@ -1705,7 +1703,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Teologia sistemática ao alcance de todos](EPUB/Wayne%20Grudem/Teologia%20sistemática%20ao%20alcance%20de%20todos.epub) — Wayne Grudem
 - [Uma teologia de Paulo e suas cartas: A dádiva do novo domínio em Cristo](Kindle/AZW3/Douglas%20J.%20Moo/Uma%20teologia%20de%20Paulo%20e%20suas%20cartas_%20A%20dádiva%20do%20novo%20domínio%20em%20Cristo.azw3) — Douglas J. Moo
 
-## Religião e espiritualidade · Vida cristã e devoção (252)
+## Religião e espiritualidade · Vida cristã e devoção (253)
 
 - [1 Pedro - Com os pés no vale e o coração no céu - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Pedro%20-%20Com%20os%20pés%20no%20vale%20e%20o%20coração%20no%20céu%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [365 dias de narrativas poderosas](Kindle/KFX/Thaís%20Machado/365%20dias%20de%20narrativas%20poderosas.kfx) — Thaís Machado
@@ -1889,6 +1887,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Misterio do Trem Azul](Kindle/KFX/Agatha%20Christie/O%20Misterio%20do%20Trem%20Azul.kfx) — Agatha Christie
 - [O Misterio do Trem Azul - Agatha Christie](Kindle/AZW3/Agatha%20Christie/O%20Misterio%20do%20Trem%20Azul%20-%20Agatha%20Christie.azw3) — Agatha Christie
 - [O Mistério dos Sete Relógios](Kindle/AZW3/Agatha%20Christie/O%20Mistério%20dos%20Sete%20Relógios.azw3) — Agatha Christie
+- [O novo testamento e o povo de Deus](Kindle/AZW3/N.%20T.%20Wright/O%20novo%20testamento%20e%20o%20povo%20de%20Deus.azw3) — N. T. Wright
 - [O Pequeno Grupo Cheio do Espírito — Liderando Seu Grupo a Experimentar os Dons Espirituais - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/O%20Pequeno%20Grupo%20Cheio%20do%20Espírito%20—%20Liderando%20Seu%20Grupo%20a%20Experimentar%20os%20Dons%20Espirituais%20-%20Joel%20Co.azw3) — Joel Comiskey
 - [O Poder Criativo de Deus](Kindle/AZW3/Charles%20Capps/O%20Poder%20Criativo%20de%20Deus.azw3) — Charles Capps
 - [O Poder Criativo de Deus para a](Kindle/KFX/Charles%20Capps-1/O%20Poder%20Criativo%20de%20Deus%20para%20a.kfx) — Charles Capps-1.
@@ -1972,7 +1971,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Musculação](Kindle/AZW3/Marçal%20Guerreiro%20do%20Amaral%20Campos%20Filho/Musculação.azw3) — Marçal Guerreiro do Amaral Campos Filho
 - [O Ciclo da Vida - Russell Foster](Kindle/AZW3/Russell%20Foster/O%20Ciclo%20da%20Vida%20-%20Russell%20Foster.azw3) — Russell Foster
 
-## Saúde e bem-estar · Saúde física e medicina (12)
+## Saúde e bem-estar · Saúde física e medicina (13)
 
 - [A energia da vida](Kindle/AZW3/Tony%20Robbins_%20Peter%20Diamandis/A%20energia%20da%20vida.azw3) — Tony Robbins| Peter Diamandis.
 - [A Morte é um Dia Que Vale a Pena Viver Ana Cláudia Arantes](Kindle/AZW3/Ana%20Cláudia%20Arantes/A%20Morte%20é%20um%20Dia%20Que%20Vale%20a%20Pena%20Viver%20Ana%20Cláudia%20Arantes.azw3) — Ana Cláudia Arantes
@@ -1985,6 +1984,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Mentes dispersas](Kindle/KFX/Gabor%20Maté/Mentes%20dispersas.kfx) — Gabor Maté
 - [Mude seus horarios, mude sua vi - Suhas Kshirsagar](Kindle/AZW3/Suhas%20Kshirsagar/Mude%20seus%20horarios,%20mude%20sua%20vi%20-%20Suhas%20Kshirsagar.azw3) — Suhas Kshirsagar
 - [Mude seus horários, mude sua vida: Como usar o relógio biológico para perder peso, reduzir o estresse, dormir melhor e ter mais saúde e energia](Kindle/AZW/Suhas%20Kshirsagar/Mude%20seus%20horários,%20mude%20sua%20vida_%20Como%20usar%20o%20relógio%20biológico%20para%20perder%20peso,%20reduzir%20o%20estress.azw) — Suhas Kshirsagar
+- [O nervo vago - Kevin J. Tracey](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20nervo%20vago%20-%20Kevin%20J.%20Tracey.azw3) — FELIPE IVO PEREIRA
 - [O paradoxo dos vegetais - Steven R. Gundry](Kindle/AZW3/Steven%20R.%20Gundry/O%20paradoxo%20dos%20vegetais%20-%20Steven%20R.%20Gundry.azw3) — Steven R. Gundry
 
 ## Saúde e bem-estar · Saúde mental e emoções (77)
