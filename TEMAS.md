@@ -10,8 +10,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Ciência e natureza | 38 |
 | Educação e desenvolvimento pessoal | 216 |
 | Família e relacionamentos | 37 |
-| Humanidades e sociedade | 186 |
-| Negócios e carreira | 381 |
+| Humanidades e sociedade | 185 |
+| Negócios e carreira | 382 |
 | Outros | 348 |
 | Referência e idiomas | 21 |
 | Religião e espiritualidade | 607 |
@@ -485,7 +485,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Uma Breve História da Filosofia - Nigel Warburton](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20Breve%20História%20da%20Filosofia%20-%20Nigel%20Warburton.azw3) — FELIPE IVO PEREIRA
 - [Uma Breve História das Guerras Geoffrey Blainey 2014;2023 Fundamentos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20Breve%20História%20das%20Guerras%20Geoffrey%20Blainey%202014;2023%20Fundamentos.azw3) — FELIPE IVO PEREIRA
 
-## Humanidades e sociedade · Política, direito e sociedade (87)
+## Humanidades e sociedade · Política, direito e sociedade (86)
 
 - [12 Princípios para uma vida extraordinária](Kindle/KFX/Paulo%20Vieira/12%20Princípios%20para%20uma%20vida%20extraordinária.kfx) — Paulo Vieira
 - [50 perguntas sobre lei da atração para iniciantes](Kindle/KFX/William%20Sanches/50%20perguntas%20sobre%20lei%20da%20atração%20para%20iniciantes.kfx) — William Sanches
@@ -550,7 +550,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Poder do Subconsciente - Joseph Murphy](Kindle/AZW3/Joseph%20Murphy/O%20Poder%20do%20Subconsciente%20-%20Joseph%20Murphy.azw3) — Joseph Murphy
 - [O Poder dos 5 Segundos](Kindle/KFX/Mel%20Robbins/O%20Poder%20dos%205%20Segundos.kfx) — Mel Robbins
 - [O Poder dos 5 Segundos - Mel Robbins](Kindle/AZW3/Mel%20Robbins/O%20Poder%20dos%205%20Segundos%20-%20Mel%20Robbins.azw3) — Mel Robbins
-- [O poder dos ecossistemas](Kindle/KFX/Felipe%20Pacheco%20Borges/O%20poder%20dos%20ecossistemas.kfx) — Felipe Pacheco Borges
 - [O poder dos ecossistemas - Felipe Pacheco Borges (1)](Kindle/AZW3/Felipe%20Pacheco%20Borges/O%20poder%20dos%20ecossistemas%20-%20Felipe%20Pacheco%20Borges%20(1).azw3) — Felipe Pacheco Borges
 - [O Poder dos Momentos - Chip e Dan Heath - PTBR](Kindle/AZW3/Chip%20Heath%20e%20Dan%20Heath/O%20Poder%20dos%20Momentos%20-%20Chip%20e%20Dan%20Heath%20-%20PTBR.azw3) — Chip Heath e Dan Heath
 - [O Poder dos Momentos: por que certas experiências têm um impacto extraordinário](EPUB/Chip%20Heath/O%20Poder%20dos%20Momentos_%20por%20que%20certas%20experiências%20têm%20um%20impacto%20extraordinário.epub) — Chip Heath; Dan Heath
@@ -779,7 +778,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tudo o que você precisa saber sobre economia](Kindle/AZW/Alfred%20Mill/Tudo%20o%20que%20você%20precisa%20saber%20sobre%20economia.azw) — Alfred Mill
 - [Virada financeira](Kindle/KFX/Patricia%20Lages/Virada%20financeira.kfx) — Patricia Lages
 
-## Negócios e carreira · Gestão, liderança e empreendedorismo (142)
+## Negócios e carreira · Gestão, liderança e empreendedorismo (143)
 
 - [1 ano em 12 semanas](Kindle/KFX/Brian%20P%20Moran/1%20ano%20em%2012%20semanas.kfx) — Brian P Moran
 - [100 coisas que pessoas produtivas fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20produtivas%20fazem.kfx) — Nigel Cumberland
@@ -893,6 +892,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Líder Criativo - Ed Young (PT-BR) - edição profissional](Kindle/AZW3/Ed%20Young/O%20Líder%20Criativo%20-%20Ed%20Young%20(PT-BR)%20-%20edição%20profissional.azw3) — Ed Young
 - [O MBA da vida real: Como entender as regras do jogo, liderar uma equipe de sucesso e vencer os desafios](Kindle/AZW/Jack%20Welch/O%20MBA%20da%20vida%20real_%20Como%20entender%20as%20regras%20do%20jogo,%20liderar%20uma%20equipe%20de%20sucesso%20e%20vencer%20os%20desaf.azw) — Jack Welch
 - [O poder de mudar hábitos: Como reconhecer fraquezas e potencializar suas habilidades](Kindle/AZW/Caiene%20Cassoli/O%20poder%20de%20mudar%20hábitos_%20Como%20reconhecer%20fraquezas%20e%20potencializar%20suas%20habilidades.azw) — Caiene Cassoli
+- [O poder dos ecossistemas](Kindle/KFX/Felipe%20Pacheco%20Borges/O%20poder%20dos%20ecossistemas.kfx) — Felipe Pacheco Borges
 - [O princípio 80/20: Os segredos para conseguir mais com menos nos negócios e na vida](Kindle/AZW/Richard%20Koch/O%20princípio%2080_20_%20Os%20segredos%20para%20conseguir%20mais%20com%20menos%20nos%20negócios%20e%20na%20vida.azw) — Richard Koch
 - [O princípio do progresso - Teresa Amabile](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20princípio%20do%20progresso%20-%20Teresa%20Amabile.azw3) — FELIPE IVO PEREIRA
 - [Onboarding orquestrado a metodologia inovadora para fazer seus novos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Onboarding%20orquestrado%20a%20metodologia%20inovadora%20para%20fazer%20seus%20novos.azw3) — FELIPE IVO PEREIRA
