@@ -8,11 +8,11 @@ Classificação editorial automática a partir do título, tags e descrição di
 |---|---:|
 | Artes e literatura | 47 |
 | Ciência e natureza | 41 |
-| Educação e desenvolvimento pessoal | 255 |
+| Educação e desenvolvimento pessoal | 256 |
 | Família e relacionamentos | 46 |
-| Humanidades e sociedade | 188 |
-| Negócios e carreira | 424 |
-| Outros | 199 |
+| Humanidades e sociedade | 189 |
+| Negócios e carreira | 425 |
+| Outros | 196 |
 | Referência e idiomas | 21 |
 | Religião e espiritualidade | 648 |
 | Saúde e bem-estar | 106 |
@@ -118,7 +118,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Quebrando o hábito de ser você mesmo](Kindle/KFX/Joe%20Dispenza/Quebrando%20o%20hábito%20de%20ser%20você%20mesmo.kfx) — Joe Dispenza
 - [Uma introdução à metafísica](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20introdução%20à%20metafísica.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Aprendizagem e ensino (62)
+## Educação e desenvolvimento pessoal · Aprendizagem e ensino (63)
 
 - [(TRAD) origens da mitologia A a Z - Annette Giosec](Kindle/AZW3/Annette%20Giesecke/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z%20-%20Annette%20Giosec.azw3) — Annette Giesecke
 - [333 páginas para tirar seu projeto do papel](Kindle/KFX/Daniel%20Larusso/333%20páginas%20para%20tirar%20seu%20projeto%20do%20papel.kfx) — Daniel Larusso; Gabriel Gomes; Luciano Braga
@@ -128,6 +128,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [As últimas coisas George Eldon Ladd](Kindle/AZW3/George%20Eldon%20Ladd/As%20últimas%20coisas%20George%20Eldon%20Ladd.azw3) — George Eldon Ladd
 - [As Zonas Azuis - Dan Buettner](Kindle/AZW3/Dan%20Buettner/As%20Zonas%20Azuis%20-%20Dan%20Buettner.azw3) — Dan Buettner
 - [Bíblia Um Estudo Panorâmico E Cronológico](Kindle/AZW3/Gerson%20Lopes%20Fonteles/Bíblia%20Um%20Estudo%20Panorâmico%20E%20Cronológico.azw3) — Gerson Lopes Fonteles
+- [C. S. Lewis, Richard Dawkins](Kindle/KFX/Alister%20McGrath/C.%20S.%20Lewis,%20Richard%20Dawkins.kfx) — Alister McGrath
 - [Como educar meninos](Kindle/AZW3/Michael%20C.%20Reichert/Como%20educar%20meninos.azw3) — Michael C. Reichert
 - [Como eliminar vermes e parasitas com óleos essenciais](Kindle/KFX/Gisele%20Vargas/Como%20eliminar%20vermes%20e%20parasitas%20com%20óleos%20essenciais.kfx) — Gisele Vargas
 - [Como Estudar A Bíblia O Que Você Precisa Entender Para Ler E Entender](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Como%20Estudar%20A%20Bíblia%20O%20Que%20Você%20Precisa%20Entender%20Para%20Ler%20E%20Entender.azw3) — FELIPE IVO PEREIRA
@@ -431,7 +432,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Sexo divino uma visão cativante sobre relacionamentos cristãos em](Kindle/AZW3/Jonathan%20Grant/Sexo%20divino%20uma%20visão%20cativante%20sobre%20relacionamentos%20cristãos%20em.azw3) — Jonathan Grant
 - [Supercomunicadores](Kindle/AZW3/Charles%20Duhigg/Supercomunicadores.azw3) — Charles Duhigg
 
-## Humanidades e sociedade · Filosofia e ética (45)
+## Humanidades e sociedade · Filosofia e ética (46)
 
 - [#umdiasemreclamar - Davi Lago & Marcelo Galuppo](Kindle/AZW3/Davi%20Lago/#umdiasemreclamar%20-%20Davi%20Lago%20&%20Marcelo%20Galuppo.azw3) — Davi Lago
 - [100 minutos para entender Aristóteles](Kindle/KFX/Coleção%20Saberes/100%20minutos%20para%20entender%20Aristóteles.kfx) — Coleção Saberes
@@ -444,6 +445,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [A lógica e a inteligência da vida](Kindle/AZW3/Lúcia%20Helena%20Galvão/A%20lógica%20e%20a%20inteligência%20da%20vida.azw3) — Lúcia Helena Galvão
 - [A Vida Dos Estoicos A Arte de Viver, de Z](Kindle/KFX/Ryan%20Holiday/A%20Vida%20Dos%20Estoicos%20A%20Arte%20de%20Viver,%20de%20Z.kfx) — Ryan Holiday
 - [A Vida Dos Estoicos A Arte de Viver, de Z - Ryan Holiday](Kindle/AZW3/Ryan%20Holiday/A%20Vida%20Dos%20Estoicos%20A%20Arte%20de%20Viver,%20de%20Z%20-%20Ryan%20Holiday.azw3) — Ryan Holiday
+- [A vida feliz](Kindle/AZW3/Sêneca/A%20vida%20feliz.azw3) — Sêneca
 - [Agenda Estoica](Kindle/KFX/Lúcia%20Helena%20Galvão/Agenda%20Estoica.kfx) — Lúcia Helena Galvão
 - [Aventuras pela filosofia com meus filhos - Scott Hershovitz](Kindle/AZW3/Scott%20Hershovitz/Aventuras%20pela%20filosofia%20com%20meus%20filhos%20-%20Scott%20Hershovitz.azw3) — Scott Hershovitz
 - [Box Sobre uma vida melhor - Seneca](Kindle/KFX/Sêneca/Box%20Sobre%20uma%20vida%20melhor%20-%20Seneca.kfx) — Sêneca
@@ -628,7 +630,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Visoes e Ilusoes Politicas - David T. Koyzis](Kindle/AZW3/David%20koyzis/Visoes%20e%20Ilusoes%20Politicas%20-%20David%20T.%20Koyzis.azw3) — David koyzis
 - [Woke S A a farsa da justiça social empresarial Vivek Ramaswamy](Kindle/AZW3/Vivek%20Ramaswamy/Woke%20S%20A%20a%20farsa%20da%20justiça%20social%20empresarial%20Vivek%20Ramaswamy.azw3) — Vivek Ramaswamy
 
-## Negócios e carreira · Finanças e investimentos (220)
+## Negócios e carreira · Finanças e investimentos (221)
 
 - [100 coisas que milionários fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20milionários%20fazem.kfx) — Nigel Cumberland
 - [50 ideias de economia que você precisa conhecer](Kindle/AZW/Edmund%20Conway/50%20ideias%20de%20economia%20que%20você%20precisa%20conhecer.azw) — Edmund Conway
@@ -660,6 +662,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [A religião do bolsonarismo](Kindle/AZW3/Yago%20Martins/A%20religião%20do%20bolsonarismo.azw3) — Yago Martins
 - [A RIQUEZA DA VIDA SIMPLES](Kindle/KFX/Gustavo%20Cerbasi/A%20RIQUEZA%20DA%20VIDA%20SIMPLES.kfx) — Gustavo Cerbasi
 - [A RIQUEZA DA VIDA SIMPLES - Gustavo Cerbasi](Kindle/AZW3/Gustavo%20Cerbasi/A%20RIQUEZA%20DA%20VIDA%20SIMPLES%20-%20Gustavo%20Cerbasi.azw3) — Gustavo Cerbasi
+- [A singularidade está próxima](Kindle/KFX/Ray%20Kurzweil/A%20singularidade%20está%20próxima.kfx) — Ray Kurzweil
 - [A teoria geral do emprego, do juro e da moeda](Kindle/AZW/John%20Maynard%20Keynes/A%20teoria%20geral%20do%20emprego,%20do%20juro%20e%20da%20moeda.azw) — John Maynard Keynes
 - [A vaca roxa](Kindle/AZW3/Seth%20Godin/A%20vaca%20roxa.azw3) — Seth Godin
 - [A vista do topo Va alem do suc](Kindle/KFX/Zig%20Ziglar/A%20vista%20do%20topo%20Va%20alem%20do%20suc.kfx) — Zig Ziglar
@@ -1061,7 +1064,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (199)
+## Outros · A classificar (196)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1085,9 +1088,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [A Oferta Cristã e o Dízimo](Kindle/KFX/J.%20H.%20Smith/A%20Oferta%20Cristã%20e%20o%20Dízimo.kfx) — J. H. Smith
 - [A pedra verde (Txano e Óscar 1)](Kindle/KFX/Julio%20Santos%20García/A%20pedra%20verde%20(Txano%20e%20Óscar%201).kfx) — Julio Santos García; Patricia Pérez Redondo
 - [A Raiz da Rejeição Joyce Meyer](Kindle/AZW3/Unknown/A%20Raiz%20da%20Rejeição%20Joyce%20Meyer.azw3) — Unknown
-- [A singularidade está próxima](Kindle/KFX/Ray%20Kurzweil/A%20singularidade%20está%20próxima.kfx) — Ray Kurzweil
 - [A tumba do imperador tigre: Livro infantil ilustrado (7 a 12 anos) (As aventuras de Txano e Oscar)](Kindle/AZW3/Julio%20Santos%20García/A%20tumba%20do%20imperador%20tigre_%20Livro%20infantil%20ilustrado%20(7%20a%2012%20anos)%20(As%20aventuras%20de%20Txano%20e%20Oscar).azw3) — Julio Santos García
-- [A vida feliz](Kindle/AZW3/Sêneca/A%20vida%20feliz.azw3) — Sêneca
 - [A Volta do Filho Pródigo Henri J. M. Nouwen](Kindle/AZW3/A%20Volta%20do%20Filho%20Prodigo%20compressed/A%20Volta%20do%20Filho%20Pródigo%20Henri%20J.%20M.%20Nouwen.azw3) — A Volta do Filho Prodigo compressed
 - [a-ceia-do-senhor-c-h-mackintosh](Kindle/AZW3/C.%20H.%20Mackintosh/a-ceia-do-senhor-c-h-mackintosh.azw3) — C. H. Mackintosh
 - [A-nossa-esperanca-J-N-DARBY](Kindle/AZW3/J.%20N.%20Darby/A-nossa-esperanca-J-N-DARBY.azw3) — J. N. Darby
@@ -1103,7 +1104,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Atila Lima](Kindle/KFX/O%20Poder%20da%20Mente%20Milionaria/Atila%20Lima.kfx) — O Poder da Mente Milionaria
 - [Autopsy of a Deceased Church nodrm ptBR](Kindle/AZW3/Thom%20S.%20Rainer/Autopsy%20of%20a%20Deceased%20Church%20nodrm%20ptBR.azw3) — Thom S. Rainer
 - [Bruna Ruschel Moreira Como Ter Boas](Kindle/AZW3/Bruna%20Ruschel%20Moreira/Bruna%20Ruschel%20Moreira%20Como%20Ter%20Boas.azw3) — Bruna Ruschel Moreira
-- [C. S. Lewis, Richard Dawkins](Kindle/KFX/Alister%20McGrath/C.%20S.%20Lewis,%20Richard%20Dawkins.kfx) — Alister McGrath
 - [Capacitado para Liderar — Treinamento em Vídeo para Facilitadores de Pequenos Grupos - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Capacitado%20para%20Liderar%20—%20Treinamento%20em%20Vídeo%20para%20Facilitadores%20de%20Pequenos%20Grupos%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
 - [Cartas a um novo convertido](Kindle/KFX/Edward%20Dennett/Cartas%20a%20um%20novo%20convertido.kfx) — Edward Dennett
 - [Cartas-a-um-novo-convertido-Edward-Dennett](Kindle/AZW3/Edward%20Dennett/Cartas-a-um-novo-convertido-Edward-Dennett.azw3) — Edward Dennett
@@ -1287,7 +1287,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Portuguese-English Dictionary](Kindle/AZW/Priberam/Portuguese-English%20Dictionary.azw) — Priberam
 - [Português Para Não Pagar Mico](Kindle/AZW3/Noslen%20Borges/Português%20Para%20Não%20Pagar%20Mico.azw3) — Noslen Borges
 
-## Religião e espiritualidade · Bíblia e interpretação (163)
+## Religião e espiritualidade · Bíblia e interpretação (162)
 
 - [1 Coríntios - Como resolver conflitos na igreja - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Coríntios%20-%20Como%20resolver%20conflitos%20na%20igreja%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [1 e 2 Tessalonicenses - Como se preparar para a segunda vinda de Cristo - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20e%202%20Tessalonicenses%20-%20Como%20se%20preparar%20para%20a%20segunda%20vinda%20de%20Cristo%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
@@ -1313,7 +1313,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Aqueles da bíblia](Kindle/KFX/André%20Daniel%20Reinke/Aqueles%20da%20bíblia.kfx) — André Daniel Reinke
 - [As escrituras e a autoridade de Deus](Kindle/AZW3/N.T.%20Wright/As%20escrituras%20e%20a%20autoridade%20de%20Deus.azw3) — N.T. Wright
 - [As Escrituras e a Autoridade de Deus - N. T. Wright](Kindle/AZW3/N.%20T.%20Wright/As%20Escrituras%20e%20a%20Autoridade%20de%20Deus%20-%20N.%20T.%20Wright.azw3) — N. T. Wright
-- [AS INSTITUTAS DA RELIGIÃO CRISTÃ JOÃO CALVINO Unknown Author](Kindle/AZW3/Unknown%20Author/AS%20INSTITUTAS%20DA%20RELIGIÃO%20CRISTÃ%20JOÃO%20CALVINO%20Unknown%20Author.azw3) — Unknown Author
 - [As lições de Salomão](Kindle/AZW3/Mark%20Atteberry/As%20lições%20de%20Salomão.azw3) — Mark Atteberry
 - [Boas novas o evangelho de Jesus Cristo John F MacArthur Jr Z Library](Kindle/AZW3/John%20MacArthur/Boas%20novas%20o%20evangelho%20de%20Jesus%20Cristo%20John%20F%20MacArthur%20Jr%20Z%20Library.azw3) — John MacArthur
 - [Boas novas: o evangelho de Jesus Cristo](Kindle/KFX/John%20F.%20MacArthur%20Jr/Boas%20novas_%20o%20evangelho%20de%20Jesus%20Cristo.kfx) — John F. MacArthur Jr.
@@ -1635,7 +1634,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Você Pode Fazer Coaching — Como Ajudar Líderes a Construir Igrejas Saudáveis - Joel Comiskey, Sam Scaggs e Ben Wong](Kindle/AZW3/Joel%20Comiskey/Você%20Pode%20Fazer%20Coaching%20—%20Como%20Ajudar%20Líderes%20a%20Construir%20Igrejas%20Saudáveis%20-%20Joel%20Comiskey,%20Sam%20Sc.azw3) — Joel Comiskey
 - [Wikichurch discipulado engajado, empoderado & viral nodrm](Kindle/AZW3/Steve%20Murrell/Wikichurch%20discipulado%20engajado,%20empoderado%20&%20viral%20nodrm.azw3) — Steve Murrell
 
-## Religião e espiritualidade · Teologia e doutrina (25)
+## Religião e espiritualidade · Teologia e doutrina (26)
 
 - [a evoluao e a queda implicaoes da ciencia moderna para a teologia](Kindle/AZW3/Unknown/a%20evoluao%20e%20a%20queda%20implicaoes%20da%20ciencia%20moderna%20para%20a%20teologia.azw3) — Unknown
 - [A Fe na era do ceticismo](Kindle/AZW3/Timothy%20Keller/A%20Fe%20na%20era%20do%20ceticismo.azw3) — Timothy Keller
@@ -1643,6 +1642,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Aliancismo progressivo tracand - Stephen Wellum](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Aliancismo%20progressivo%20tracand%20-%20Stephen%20Wellum.azw3) — FELIPE IVO PEREIRA
 - [Amando a Deus no mundo: Por uma cosmovisão reformada](Kindle/AZW3/Heber%20Campos%20Jr/Amando%20a%20Deus%20no%20mundo_%20Por%20uma%20cosmovisão%20reformada.azw3) — Heber Campos Jr.
 - [Apologética pura e simples](Kindle/AZW3/Alister%20McGrath/Apologética%20pura%20e%20simples.azw3) — Alister McGrath
+- [AS INSTITUTAS DA RELIGIÃO CRISTÃ JOÃO CALVINO Unknown Author](Kindle/AZW3/Unknown%20Author/AS%20INSTITUTAS%20DA%20RELIGIÃO%20CRISTÃ%20JOÃO%20CALVINO%20Unknown%20Author.azw3) — Unknown Author
 - [Atraia, Venda, Lucre](Kindle/KFX/Suellen%20Lops/Atraia,%20Venda,%20Lucre.kfx) — Suellen Lops
 - [Box Teologia Sistemático-Carismática: a conexão pneumática entre as principais doutrinas da fé cristã](Kindle/KFX/César%20Moisés%20Carvalho/Box%20Teologia%20Sistemático-Carismática_%20a%20conexão%20pneumática%20entre%20as%20principais%20doutrinas%20da%20fé%20crist.kfx) — César Moisés Carvalho; Céfora Carvalho
 - [Cristianismo Antigo para Tempos Novos](Kindle/AZW3/Paul%20Freston/Cristianismo%20Antigo%20para%20Tempos%20Novos.azw3) — Paul Freston

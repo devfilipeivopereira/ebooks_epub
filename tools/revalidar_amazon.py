@@ -6,15 +6,12 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from coletar_amazon import clean_title, description_is_synopsis, description_language_ok, title_score
+from decisoes_amazon import decision_for, load_decisions
 
 ROOT = Path(__file__).resolve().parents[1]
 books = {book["id"]: book for book in json.loads((ROOT / "catalogo.json").read_text(encoding="utf-8"))}
-rejected = set()
 decisions = ROOT / "DECISOES_AMAZON.csv"
-if decisions.exists():
-    with decisions.open(encoding="utf-8-sig", newline="") as stream:
-        rejected = {int(row["ID Calibre"]) for row in csv.DictReader(stream)
-                    if row["Decisão"] == "rejeitar"}
+decisions = load_decisions(decisions)
 latest = {}
 for line in (ROOT / "dados_amazon.jsonl").read_text(encoding="utf-8").splitlines():
     try:
@@ -25,7 +22,8 @@ for line in (ROOT / "dados_amazon.jsonl").read_text(encoding="utf-8").splitlines
 
 suspects = []
 for book_id, item in latest.items():
-    if item.get("status") != "verificado" or book_id not in books or book_id in rejected:
+    if (item.get("status") != "verificado" or book_id not in books
+            or decision_for(decisions, book_id, item) == "rejeitar"):
         continue
     book = books[book_id]
     score = title_score(clean_title(book["title"], book.get("authors", "")), item["amazon_title"], item.get("amazon_authors", ""))

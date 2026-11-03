@@ -9,6 +9,7 @@ import json
 from pathlib import Path
 
 from coletar_amazon import clean_title, description_language_ok, title_score
+from decisoes_amazon import decision_for, load_decisions
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -18,9 +19,7 @@ def main():
     parser.add_argument("--apply", action="store_true")
     args = parser.parse_args()
     books = {book["id"]: book for book in json.loads((ROOT / "catalogo.json").read_text(encoding="utf-8"))}
-    decisions = {}
-    with (ROOT / "DECISOES_AMAZON.csv").open(encoding="utf-8-sig", newline="") as stream:
-        decisions = {int(row["ID Calibre"]): row["Decisão"] for row in csv.DictReader(stream)}
+    decisions = load_decisions(ROOT / "DECISOES_AMAZON.csv")
     latest, verified = {}, {}
     checkpoint = ROOT / "dados_amazon.jsonl"
     for line in checkpoint.read_text(encoding="utf-8").splitlines():
@@ -34,7 +33,7 @@ def main():
     recover = []
     for book_id, item in latest.items():
         if (item.get("status") != "revisao_pendente" or book_id not in books
-                or book_id not in verified or book_id in decisions):
+                or book_id not in verified or decision_for(decisions, book_id, verified[book_id])):
             continue
         book, prior = books[book_id], verified[book_id]
         score = title_score(clean_title(book["title"], book.get("authors", "")),

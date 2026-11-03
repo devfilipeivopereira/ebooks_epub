@@ -14,6 +14,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from calibre.db.legacy import LibraryDatabase
+from decisoes_amazon import decision_for, load_decisions
 
 ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = Path(r"D:\CalibreLibrary")
@@ -22,12 +23,8 @@ LOG = ROOT / "mesclagens_amazon.jsonl"
 parser = argparse.ArgumentParser()
 parser.add_argument("--apply", action="store_true")
 arguments = parser.parse_args([arg for arg in sys.argv[1:] if arg != "--"])
-rejected = set()
 decisions = ROOT / "DECISOES_AMAZON.csv"
-if decisions.exists():
-    with decisions.open(encoding="utf-8-sig", newline="") as stream:
-        rejected = {int(row["ID Calibre"]) for row in csv.DictReader(stream)
-                    if row["Decisão"] == "rejeitar"}
+decisions = load_decisions(decisions)
 
 latest = {}
 for line in (ROOT / "dados_amazon.jsonl").read_text(encoding="utf-8").splitlines():
@@ -39,7 +36,7 @@ for line in (ROOT / "dados_amazon.jsonl").read_text(encoding="utf-8").splitlines
 
 groups = defaultdict(list)
 for book_id, item in latest.items():
-    if item.get("status") == "verificado" and item.get("asin") and book_id not in rejected:
+    if item.get("status") == "verificado" and item.get("asin") and decision_for(decisions, book_id, item) != "rejeitar":
         groups[item["asin"]].append(book_id)
 
 with sqlite3.connect(LIBRARY / "metadata.db") as conn:

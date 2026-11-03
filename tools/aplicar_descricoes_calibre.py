@@ -8,23 +8,18 @@ import re
 from pathlib import Path
 
 from calibre.db.legacy import LibraryDatabase
+from decisoes_amazon import decision_for, load_decisions
 
 ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = Path(r"D:\CalibreLibrary")
 DATA = ROOT / "dados_amazon.jsonl"
 DECISIONS = ROOT / "DECISOES_AMAZON.csv"
 REVIEW = ROOT / "REVISAO_AMAZON.csv"
-rejected = set()
-approved = set()
-if DECISIONS.exists():
-    with DECISIONS.open(encoding="utf-8-sig", newline="") as stream:
-        decisions = {int(row["ID Calibre"]): row["Decisão"] for row in csv.DictReader(stream)}
-    rejected = {book_id for book_id, decision in decisions.items() if decision == "rejeitar"}
-    approved = {book_id for book_id, decision in decisions.items() if decision == "aprovar"}
+decisions = load_decisions(DECISIONS)
+review = set()
 if REVIEW.exists():
     with REVIEW.open(encoding="utf-8-sig", newline="") as stream:
-        rejected.update(int(row["ID Calibre"]) for row in csv.DictReader(stream)
-                        if int(row["ID Calibre"]) not in approved)
+        review = {(int(row["ID Calibre"]), row["ASIN"].upper()) for row in csv.DictReader(stream)}
 results = {}
 for line in DATA.read_text(encoding="utf-8").splitlines():
     try:
@@ -40,7 +35,10 @@ linked = 0
 comments_to_apply = {}
 identifiers_to_apply = {}
 for book_id, item in results.items():
-    if item.get("status") != "verificado" or book_id in rejected or not api.has_id(book_id):
+    decision = decision_for(decisions, book_id, item)
+    if (item.get("status") != "verificado" or decision == "rejeitar"
+            or (book_id, item.get("asin", "").upper()) in review and decision != "aprovar"
+            or not api.has_id(book_id)):
         continue
     description = item.get("description", "").strip()
     if len(description) < 90 or not item.get("product_url", "").startswith("https://www.amazon.com.br/dp/"):

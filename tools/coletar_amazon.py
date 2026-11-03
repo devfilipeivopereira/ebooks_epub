@@ -19,6 +19,7 @@ from urllib.parse import quote_plus
 from playwright.sync_api import sync_playwright
 from rapidfuzz import fuzz
 from langdetect import detect, LangDetectException
+from decisoes_amazon import decision_for, load_decisions
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG = ROOT / "catalogo.json"
@@ -146,13 +147,10 @@ def existing_results():
                 results[item["id"]] = item
             except (ValueError, KeyError):
                 continue
-    if DECISIONS.exists():
-        with DECISIONS.open(encoding="utf-8-sig", newline="") as stream:
-            for row in csv.DictReader(stream):
-                if row["Decisão"] == "rejeitar":
-                    book_id = int(row["ID Calibre"])
-                    if book_id in results:
-                        results[book_id] = {"id": book_id, "status": "rejeitado_na_revisao"}
+    decisions = load_decisions(DECISIONS)
+    for book_id, item in list(results.items()):
+        if decision_for(decisions, book_id, item) == "rejeitar":
+            results[book_id] = {"id": book_id, "status": "rejeitado_na_revisao"}
     return results
 
 
