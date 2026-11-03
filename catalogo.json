@@ -14048,7 +14048,7 @@
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=Coisas+Maiores%3A+Sonhe+grande%2C+comece+pequeno%3B+agende+a+vis%C3%A3o+de+Deus+para+sua+vida+Steven+Furtick",
     "amazon_product_url": "",
-    "amazon_status": "revisao_pendente"
+    "amazon_status": "sem_correspondencia_confiavel"
   },
   {
     "id": 90,
@@ -14275,15 +14275,15 @@
         "sha256": "9f2a8029c737512ac8bbbe1a046e09b4c6db0ff82a153d4f18f7748931643245"
       }
     ],
-    "description": "",
-    "description_source": "indisponível",
-    "amazon_description": "",
-    "theme": "Outros",
-    "subtheme": "A classificar",
+    "description": "Publicado anteriormente com o título Porquê? Mais de 300.000 exemplares vendidos no Brasil. \"Um dos livros mais úteis e poderosos que eu li em anos. Simples e elegante, nos mostra como líderes devem liderar.\" – William Ury, coautor de Como chegar ao sim Por que algumas pessoas e organizações são mais inovadoras, admiradas e lucrativas do que outras? Por que algumas despertam grande lealdade por parte de clientes e funcionários? Para Simon Sinek, a resposta está no forte senso de propósito que as inspira a darem o melhor de si para uma causa expressiva – o porquê. Ao publicar esse livro, o autor iniciou um movimento que tem ajudado milhões de pessoas a encontrar um sentido maior no próprio trabalho e, assim, inspirar colegas e clientes. Ilustrando suas ideias com as fascinantes histórias de Martin Luther King, Steve Jobs e os irmãos Wright, Simon mostra que as pessoas só irão se dedicar de corpo e alma a um movimento, ideia, produto ou serviço se compreenderem o verdadeiro propósito por trás deles. Nesse livro, você verá como pensam, agem e se comunicam os líderes que exercem a maior influência, e também descobrirá um modelo a partir do qual as pessoas podem ser inspiradas, movimentos podem ser criados e organizações, construídas. E tudo isso começa pelo porquê. Leia mais",
+    "description_source": "Amazon Brasil",
+    "amazon_description": "Publicado anteriormente com o título Porquê? Mais de 300.000 exemplares vendidos no Brasil. \"Um dos livros mais úteis e poderosos que eu li em anos. Simples e elegante, nos mostra como líderes devem liderar.\" – William Ury, coautor de Como chegar ao sim Por que algumas pessoas e organizações são mais inovadoras, admiradas e lucrativas do que outras? Por que algumas despertam grande lealdade por parte de clientes e funcionários? Para Simon Sinek, a resposta está no forte senso de propósito que as inspira a darem o melhor de si para uma causa expressiva – o porquê. Ao publicar esse livro, o autor iniciou um movimento que tem ajudado milhões de pessoas a encontrar um sentido maior no próprio trabalho e, assim, inspirar colegas e clientes. Ilustrando suas ideias com as fascinantes histórias de Martin Luther King, Steve Jobs e os irmãos Wright, Simon mostra que as pessoas só irão se dedicar de corpo e alma a um movimento, ideia, produto ou serviço se compreenderem o verdadeiro propósito por trás deles. Nesse livro, você verá como pensam, agem e se comunicam os líderes que exercem a maior influência, e também descobrirá um modelo a partir do qual as pessoas podem ser inspiradas, movimentos podem ser criados e organizações, construídas. E tudo isso começa pelo porquê. Leia mais",
+    "theme": "Educação e desenvolvimento pessoal",
+    "subtheme": "Desenvolvimento pessoal",
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=Comece+pelo+porque+Simon+Sinek",
-    "amazon_product_url": "",
-    "amazon_status": "rejeitado na revisão"
+    "amazon_product_url": "https://www.amazon.com.br/dp/B07HP9MDJW",
+    "amazon_status": "verificado"
   },
   {
     "id": 1857,
@@ -14337,7 +14337,7 @@
     ],
     "amazon_search_url": "https://www.amazon.com.br/s?k=Coment%C3%A1rio+B%C3%ADblico+Expositivo+Antigo+Testamento%2C+Vol+II+-+Hist%C3%B3ricos+-+Warren+W.+Wiersbe+Warren+W.+Wiersbe",
     "amazon_product_url": "",
-    "amazon_status": "rejeitado na revisão"
+    "amazon_status": "sem_correspondencia_confiavel"
   },
   {
     "id": 1627,

@@ -8,11 +8,11 @@ Classificação editorial automática a partir do título, tags e descrição di
 |---|---:|
 | Artes e literatura | 47 |
 | Ciência e natureza | 41 |
-| Educação e desenvolvimento pessoal | 256 |
+| Educação e desenvolvimento pessoal | 257 |
 | Família e relacionamentos | 46 |
 | Humanidades e sociedade | 189 |
 | Negócios e carreira | 425 |
-| Outros | 196 |
+| Outros | 195 |
 | Referência e idiomas | 21 |
 | Religião e espiritualidade | 648 |
 | Saúde e bem-estar | 106 |
@@ -184,7 +184,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tenha a Vida Que Deseja - Richard Bandler](Kindle/AZW3/Richard%20Bandler/Tenha%20a%20Vida%20Que%20Deseja%20-%20Richard%20Bandler.azw3) — Richard Bandler
 - [Ultra-aprendizado - Scott Young](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ultra-aprendizado%20-%20Scott%20Young.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (193)
+## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (194)
 
 - [10 habilidades que farão você chegar lá](Kindle/KFX/Walter%20Longo/10%20habilidades%20que%20farão%20você%20chegar%20lá.kfx) — Walter Longo
 - [100 coisas que líderes de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20líderes%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
@@ -243,6 +243,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Campo de batalha da mente vencendo a batalha em sua mente](Kindle/AZW3/Joyce%20Meyer/Campo%20de%20batalha%20da%20mente%20vencendo%20a%20batalha%20em%20sua%20mente.azw3) — Joyce Meyer
 - [Carisma e poder](Kindle/KFX/Ian%20Kershaw/Carisma%20e%20poder.kfx) — Ian Kershaw
 - [Chatbots para Telegram](Kindle/KFX/Frizzarin/Chatbots%20para%20Telegram.kfx) — Frizzarin
+- [Comece pelo porque](Kindle/KFX/Simon%20Sinek/Comece%20pelo%20porque.kfx) — Simon Sinek
 - [Como Conseguir o Que Deseja](Kindle/AZW3/Wallace%20D%20Wattles/Como%20Conseguir%20o%20Que%20Deseja.azw3) — Wallace D Wattles
 - [Como convencer alguem em 90 seg](Kindle/KFX/Nicholas%20Boothman/Como%20convencer%20alguem%20em%2090%20seg.kfx) — Nicholas Boothman
 - [Como escrever bem](Kindle/AZW3/William%20Zinsser/Como%20escrever%20bem.azw3) — William Zinsser
@@ -1064,7 +1065,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (196)
+## Outros · A classificar (195)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1115,7 +1116,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Cole Nussbaumer Knaflic](Kindle/KFX/Storytelling%20com%20Dados-Alta%20Books/Cole%20Nussbaumer%20Knaflic.kfx) — Storytelling com Dados-Alta Books
 - [Colecao Saberes](Kindle/KFX/100%20minutos%20para%20entender%20Freud/Colecao%20Saberes.kfx) — 100 minutos para entender Freud
 - [Coleção Saberes - 100 minutos para entender Freud](Kindle/AZW3/Coleção%20Saberes/Coleção%20Saberes%20-%20100%20minutos%20para%20entender%20Freud.azw3) — Coleção Saberes
-- [Comece pelo porque](Kindle/KFX/Simon%20Sinek/Comece%20pelo%20porque.kfx) — Simon Sinek
 - [Como fazer grandes coisas - Bent Gardner - Dan Flyvbjerg](Kindle/AZW3/Dan%20Gardner/Como%20fazer%20grandes%20coisas%20-%20Bent%20Gardner%20-%20Dan%20Flyvbjerg.azw3) — Dan Gardner
 - [Como ficar rico](Kindle/KFX/Ramit%20Sethi/Como%20ficar%20rico.kfx) — Ramit Sethi
 - [Como foi nos dias de Noe_ Adver](Kindle/KFX/Jeff%20Kinley/Como%20foi%20nos%20dias%20de%20Noe_%20Adver.kfx) — Jeff Kinley
