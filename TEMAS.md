@@ -11,8 +11,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Educação e desenvolvimento pessoal | 224 |
 | Família e relacionamentos | 40 |
 | Humanidades e sociedade | 183 |
-| Negócios e carreira | 392 |
-| Outros | 324 |
+| Negócios e carreira | 393 |
+| Outros | 323 |
 | Referência e idiomas | 21 |
 | Religião e espiritualidade | 609 |
 | Saúde e bem-estar | 98 |
@@ -585,7 +585,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Visoes e Ilusoes Politicas - David T. Koyzis](Kindle/AZW3/David%20koyzis/Visoes%20e%20Ilusoes%20Politicas%20-%20David%20T.%20Koyzis.azw3) — David koyzis
 - [Woke S A a farsa da justiça social empresarial Vivek Ramaswamy](Kindle/AZW3/Vivek%20Ramaswamy/Woke%20S%20A%20a%20farsa%20da%20justiça%20social%20empresarial%20Vivek%20Ramaswamy.azw3) — Vivek Ramaswamy
 
-## Negócios e carreira · Finanças e investimentos (206)
+## Negócios e carreira · Finanças e investimentos (207)
 
 - [100 coisas que milionários fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20milionários%20fazem.kfx) — Nigel Cumberland
 - [50 ideias de economia que você precisa conhecer](Kindle/AZW/Edmund%20Conway/50%20ideias%20de%20economia%20que%20você%20precisa%20conhecer.azw) — Edmund Conway
@@ -779,6 +779,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Os Fundos de Investimento em Direitos Creditórios (FIDC)](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%20Fundos%20de%20Investimento%20em%20Direitos%20Creditórios%20(FIDC).azw3) — FELIPE IVO PEREIRA
 - [Os grandes magos do mercado financeiro](Kindle/AZW3/Jack%20D%20Schwager/Os%20grandes%20magos%20do%20mercado%20financeiro.azw3) — Jack D Schwager
 - [Os magos desconhecidos do mercado financeiro](Kindle/AZW3/Jack%20Schwager/Os%20magos%20desconhecidos%20do%20mercado%20financeiro.azw3) — Jack Schwager
+- [Os quatro medos que nos impedem de viver](Kindle/AZW3/Eudes%20Séméria/Os%20quatro%20medos%20que%20nos%20impedem%20de%20viver.azw3) — Eudes Séméria
 - [Pequenas Atitudes, grandes mudanças](Kindle/KFX/Caroline%20L.%20Arnold/Pequenas%20Atitudes,%20grandes%20mudanças.kfx) — Caroline L. Arnold
 - [perguntasfinancas](Kindle/AZW3/Newheiser_%20Jim/perguntasfinancas.azw3) — Newheiser| Jim
 - [Perícia financeira - Paulo Cordeiro De Mello](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Perícia%20financeira%20-%20Paulo%20Cordeiro%20De%20Mello.azw3) — FELIPE IVO PEREIRA
@@ -986,7 +987,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (324)
+## Outros · A classificar (323)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1148,7 +1149,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [o-centro-de-todo-descanso-E-J-Checkley](Kindle/AZW3/E.%20J.%20Checkley/o-centro-de-todo-descanso-E-J-Checkley.azw3) — E. J. Checkley
 - [Opcoes Na Pratica](Kindle/KFX/Aprenda%20Do%20Zero/Opcoes%20Na%20Pratica.kfx) — Aprenda Do Zero
 - [Os 32 princípios Rener Gracie, Paul Volponi 2023 Intrinseca](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Os%2032%20princípios%20Rener%20Gracie,%20Paul%20Volponi%202023%20Intrinseca.azw3) — FELIPE IVO PEREIRA
-- [Os quatro medos que nos impedem de viver](Kindle/AZW3/Eudes%20Séméria/Os%20quatro%20medos%20que%20nos%20impedem%20de%20viver.azw3) — Eudes Séméria
 - [Otimismo Pratico](Kindle/KFX/Dra.%20Sue%20Varna/Otimismo%20Pratico.kfx) — Dra. Sue Varna
 - [Otimismo Prático - Dra. Sue Varna](Kindle/AZW3/Sue%20Varma/Otimismo%20Prático%20-%20Dra.%20Sue%20Varna.azw3) — Sue Varma
 - [Otimista Racional, O - Matt Ridley (1)](Kindle/AZW3/Matt%20Ridley/Otimista%20Racional,%20O%20-%20Matt%20Ridley%20(1).azw3) — Matt Ridley
