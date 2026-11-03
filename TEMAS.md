@@ -7,14 +7,14 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Tema | Livros |
 |---|---:|
 | Artes e literatura | 47 |
-| Ciência e natureza | 38 |
+| Ciência e natureza | 39 |
 | Educação e desenvolvimento pessoal | 223 |
 | Família e relacionamentos | 38 |
 | Humanidades e sociedade | 182 |
-| Negócios e carreira | 388 |
-| Outros | 337 |
+| Negócios e carreira | 389 |
+| Outros | 334 |
 | Referência e idiomas | 21 |
-| Religião e espiritualidade | 608 |
+| Religião e espiritualidade | 609 |
 | Saúde e bem-estar | 98 |
 | Tecnologia e computação | 112 |
 
@@ -74,7 +74,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Dragon Ball - Volume 33](Kindle/AZW3/Akira%20Toriyama/Dragon%20Ball%20-%20Volume%2033.azw3) — Akira Toriyama
 - [Dragon Ball - Volume 34](Kindle/AZW3/Akira%20Toriyama/Dragon%20Ball%20-%20Volume%2034.azw3) — Akira Toriyama
 
-## Ciência e natureza · Ciências exatas e naturais (38)
+## Ciência e natureza · Ciências exatas e naturais (39)
 
 - [A ciencia da sorte](Kindle/KFX/Adam%20Kucharski%20Zahar/A%20ciencia%20da%20sorte.kfx) — Adam Kucharski Zahar
 - [A ciencia de ficar rico](Kindle/KFX/Wallace%20D.%20Wattles/A%20ciencia%20de%20ficar%20rico.kfx) — Wallace D. Wattles
@@ -111,6 +111,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O poder da consciência, vol. 5](Kindle/KFX/Neville%20Goddard/O%20poder%20da%20consciência,%20vol.%205.kfx) — Neville Goddard
 - [O poder da paciencia](Kindle/KFX/M.%20J.%20Ryan/O%20poder%20da%20paciencia.kfx) — M. J. Ryan
 - [O poder da paciencia - M. J. Ryan](Kindle/AZW3/M.%20J.%20Ryan/O%20poder%20da%20paciencia%20-%20M.%20J.%20Ryan.azw3) — M. J. Ryan
+- [O viés otimista](Kindle/AZW3/Tali%20Sharot/O%20viés%20otimista.azw3) — Tali Sharot
 - [O viés otimista: Por que somos programados para ver o mundo pelo lado positivo](Kindle/AZW/Tali%20Sharot/O%20viés%20otimista_%20Por%20que%20somos%20programados%20para%20ver%20o%20mundo%20pelo%20lado%20positivo.azw) — Tali Sharot
 - [Outlive A arte e a ciência Peter Attia Bill Gifford](Kindle/AZW3/Peter%20Attia/Outlive%20A%20arte%20e%20a%20ciência%20Peter%20Attia%20Bill%20Gifford.azw3) — Peter Attia
 - [Uma introdução à metafísica](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20introdução%20à%20metafísica.azw3) — FELIPE IVO PEREIRA
@@ -787,7 +788,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tudo o que você precisa saber sobre economia](Kindle/AZW/Alfred%20Mill/Tudo%20o%20que%20você%20precisa%20saber%20sobre%20economia.azw) — Alfred Mill
 - [Virada financeira](Kindle/KFX/Patricia%20Lages/Virada%20financeira.kfx) — Patricia Lages
 
-## Negócios e carreira · Gestão, liderança e empreendedorismo (144)
+## Negócios e carreira · Gestão, liderança e empreendedorismo (145)
 
 - [1 ano em 12 semanas](Kindle/KFX/Brian%20P%20Moran/1%20ano%20em%2012%20semanas.kfx) — Brian P Moran
 - [100 coisas que pessoas produtivas fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20produtivas%20fazem.kfx) — Nigel Cumberland
@@ -905,6 +906,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O princípio 80/20: Os segredos para conseguir mais com menos nos negócios e na vida](Kindle/AZW/Richard%20Koch/O%20princípio%2080_20_%20Os%20segredos%20para%20conseguir%20mais%20com%20menos%20nos%20negócios%20e%20na%20vida.azw) — Richard Koch
 - [O princípio do progresso - Teresa Amabile](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20princípio%20do%20progresso%20-%20Teresa%20Amabile.azw3) — FELIPE IVO PEREIRA
 - [O que eu não posso deixar de fazer hoje](Kindle/AZW/Carlos%20Júlio/O%20que%20eu%20não%20posso%20deixar%20de%20fazer%20hoje.azw) — Carlos Júlio
+- [O visionário e o integrador](Kindle/AZW3/Gino%20Wickman/O%20visionário%20e%20o%20integrador.azw3) — Gino Wickman
 - [Onboarding orquestrado a metodologia inovadora para fazer seus novos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Onboarding%20orquestrado%20a%20metodologia%20inovadora%20para%20fazer%20seus%20novos.azw3) — FELIPE IVO PEREIRA
 - [Onze anéis](Kindle/KFX/Phil%20Jackson/Onze%20anéis.kfx) — Phil Jackson
 - [Oportunidades disfarcadas 2 - Carlos Domingos](Kindle/AZW3/Carlos%20Domingos/Oportunidades%20disfarcadas%202%20-%20Carlos%20Domingos.azw3) — Carlos Domingos
@@ -976,7 +978,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (337)
+## Outros · A classificar (334)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1135,10 +1137,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Rei Escondido e a Promessa In - Filipe Ivo Pereira](Kindle/AZW3/Filipe%20Ivo%20Pereira/O%20Rei%20Escondido%20e%20a%20Promessa%20In%20-%20Filipe%20Ivo%20Pereira.azw3) — Filipe Ivo Pereira
 - [O Segredo - Rhonda Byrne](Kindle/AZW3/Digital%20Source/O%20Segredo%20-%20Rhonda%20Byrne.azw3) — Digital Source
 - [O sentimento é o segredo Vol. 4 Neville Goddard](Kindle/AZW3/Unknown/O%20sentimento%20é%20o%20segredo%20Vol.%204%20Neville%20Goddard.azw3) — Unknown
-- [O visionário e o integrador](Kindle/AZW3/Gino%20Wickman/O%20visionário%20e%20o%20integrador.azw3) — Gino Wickman
-- [O viés otimista](Kindle/AZW3/Tali%20Sharot/O%20viés%20otimista.azw3) — Tali Sharot
 - [o-centro-de-todo-descanso-E-J-Checkley](Kindle/AZW3/E.%20J.%20Checkley/o-centro-de-todo-descanso-E-J-Checkley.azw3) — E. J. Checkley
-- [Obediência e intimidade](Kindle/AZW3/Devi%20Titus/Obediência%20e%20intimidade.azw3) — Devi Titus
 - [Onde os Sonhos Acontecem_ Meus 15 anos com](Kindle/KFX/Robert%20Iger/Onde%20os%20Sonhos%20Acontecem_%20Meus%2015%20anos%20com.kfx) — Robert Iger
 - [Opcoes Na Pratica](Kindle/KFX/Aprenda%20Do%20Zero/Opcoes%20Na%20Pratica.kfx) — Aprenda Do Zero
 - [Operando com Trading Systems](Kindle/KFX/Rivadavila%20S.%20Malheiros/Operando%20com%20Trading%20Systems.kfx) — Rivadavila S. Malheiros
@@ -1704,7 +1703,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Teologia sistemática ao alcance de todos](EPUB/Wayne%20Grudem/Teologia%20sistemática%20ao%20alcance%20de%20todos.epub) — Wayne Grudem
 - [Uma teologia de Paulo e suas cartas: A dádiva do novo domínio em Cristo](Kindle/AZW3/Douglas%20J.%20Moo/Uma%20teologia%20de%20Paulo%20e%20suas%20cartas_%20A%20dádiva%20do%20novo%20domínio%20em%20Cristo.azw3) — Douglas J. Moo
 
-## Religião e espiritualidade · Vida cristã e devoção (253)
+## Religião e espiritualidade · Vida cristã e devoção (254)
 
 - [1 Pedro - Com os pés no vale e o coração no céu - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Pedro%20-%20Com%20os%20pés%20no%20vale%20e%20o%20coração%20no%20céu%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [365 dias de narrativas poderosas](Kindle/KFX/Thaís%20Machado/365%20dias%20de%20narrativas%20poderosas.kfx) — Thaís Machado
@@ -1906,6 +1905,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O que é ser humano Verdades e mitos sobre quem somos Iain Provan](Kindle/AZW3/Iain%20Provan/O%20que%20é%20ser%20humano%20Verdades%20e%20mitos%20sobre%20quem%20somos%20Iain%20Provan.azw3) — Iain Provan
 - [O sofrimento roubou minha fé - Ismael Sobrinho](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20sofrimento%20roubou%20minha%20fé%20-%20Ismael%20Sobrinho.azw3) — FELIPE IVO PEREIRA
 - [O-Jesus-Que-Eu-Nunca-Conheci-Philip-Yancey](Kindle/AZW3/manoel%20ramos%20de%20oliveira/O-Jesus-Que-Eu-Nunca-Conheci-Philip-Yancey.azw3) — manoel ramos de oliveira
+- [Obediência e intimidade](Kindle/AZW3/Devi%20Titus/Obediência%20e%20intimidade.azw3) — Devi Titus
 - [Oração A Arte de Acreditar Vol. 3 Neville Goddard](Kindle/AZW3/Unknown/Oração%20A%20Arte%20de%20Acreditar%20Vol.%203%20Neville%20Goddard.azw3) — Unknown
 - [Oração Fervente Priscilla Shirer](Kindle/AZW3/Unknown/Oração%20Fervente%20Priscilla%20Shirer.azw3) — Unknown
 - [Oração: a arte de acreditar, vol. 3](Kindle/KFX/Neville%20Goddard/Oração_%20a%20arte%20de%20acreditar,%20vol.%203.kfx) — Neville Goddard
