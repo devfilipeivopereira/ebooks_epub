@@ -7,10 +7,10 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Tema | Livros |
 |---|---:|
 | Artes e literatura | 47 |
-| Ciência e natureza | 36 |
+| Ciência e natureza | 37 |
 | Educação e desenvolvimento pessoal | 216 |
 | Família e relacionamentos | 37 |
-| Humanidades e sociedade | 188 |
+| Humanidades e sociedade | 187 |
 | Negócios e carreira | 381 |
 | Outros | 348 |
 | Referência e idiomas | 21 |
@@ -74,7 +74,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Dragon Ball - Volume 33](Kindle/AZW3/Akira%20Toriyama/Dragon%20Ball%20-%20Volume%2033.azw3) — Akira Toriyama
 - [Dragon Ball - Volume 34](Kindle/AZW3/Akira%20Toriyama/Dragon%20Ball%20-%20Volume%2034.azw3) — Akira Toriyama
 
-## Ciência e natureza · Ciências exatas e naturais (36)
+## Ciência e natureza · Ciências exatas e naturais (37)
 
 - [A ciencia da sorte](Kindle/KFX/Adam%20Kucharski%20Zahar/A%20ciencia%20da%20sorte.kfx) — Adam Kucharski Zahar
 - [A ciencia de ficar rico](Kindle/KFX/Wallace%20D.%20Wattles/A%20ciencia%20de%20ficar%20rico.kfx) — Wallace D. Wattles
@@ -108,6 +108,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Iniciação à Lógica Matemática Edgard](Kindle/AZW3/Unknown/Iniciação%20à%20Lógica%20Matemática%20Edgard.azw3) — Unknown
 - [Nao tenho a menor ideia - Jorge Cham](Kindle/AZW3/Jorge%20Cham/Nao%20tenho%20a%20menor%20ideia%20-%20Jorge%20Cham.azw3) — Jorge Cham
 - [Neurociência Para Leigos](Kindle/KFX/Frank%20Amthor/Neurociência%20Para%20Leigos.kfx) — Frank Amthor
+- [O poder da consciência, vol. 5](Kindle/KFX/Neville%20Goddard/O%20poder%20da%20consciência,%20vol.%205.kfx) — Neville Goddard
 - [O poder da paciencia - M. J. Ryan](Kindle/AZW3/M.%20J.%20Ryan/O%20poder%20da%20paciencia%20-%20M.%20J.%20Ryan.azw3) — M. J. Ryan
 - [O viés otimista: Por que somos programados para ver o mundo pelo lado positivo](Kindle/AZW/Tali%20Sharot/O%20viés%20otimista_%20Por%20que%20somos%20programados%20para%20ver%20o%20mundo%20pelo%20lado%20positivo.azw) — Tali Sharot
 - [Outlive A arte e a ciência Peter Attia Bill Gifford](Kindle/AZW3/Peter%20Attia/Outlive%20A%20arte%20e%20a%20ciência%20Peter%20Attia%20Bill%20Gifford.azw3) — Peter Attia
@@ -483,7 +484,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Uma Breve História da Filosofia - Nigel Warburton](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20Breve%20História%20da%20Filosofia%20-%20Nigel%20Warburton.azw3) — FELIPE IVO PEREIRA
 - [Uma Breve História das Guerras Geoffrey Blainey 2014;2023 Fundamentos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20Breve%20História%20das%20Guerras%20Geoffrey%20Blainey%202014;2023%20Fundamentos.azw3) — FELIPE IVO PEREIRA
 
-## Humanidades e sociedade · Política, direito e sociedade (89)
+## Humanidades e sociedade · Política, direito e sociedade (88)
 
 - [12 Princípios para uma vida extraordinária](Kindle/KFX/Paulo%20Vieira/12%20Princípios%20para%20uma%20vida%20extraordinária.kfx) — Paulo Vieira
 - [50 perguntas sobre lei da atração para iniciantes](Kindle/KFX/William%20Sanches/50%20perguntas%20sobre%20lei%20da%20atração%20para%20iniciantes.kfx) — William Sanches
@@ -537,7 +538,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O poder da autorresponsabilidade - Paulo Vieira](Kindle/AZW3/Paulo%20Vieira/O%20poder%20da%20autorresponsabilidade%20-%20Paulo%20Vieira.azw3) — Paulo Vieira
 - [O poder da bênção](Kindle/AZW3/Alan%20Wright/O%20poder%20da%20bênção.azw3) — Alan Wright
 - [O Poder da Consciência Vol. 5 Neville Goddard](Kindle/AZW3/Unknown/O%20Poder%20da%20Consciência%20Vol.%205%20Neville%20Goddard.azw3) — Unknown
-- [O poder da consciência, vol. 5](Kindle/KFX/Neville%20Goddard/O%20poder%20da%20consciência,%20vol.%205.kfx) — Neville Goddard
 - [O poder da coragem - Jober Chaves](Kindle/AZW3/Jober%20Chaves/O%20poder%20da%20coragem%20-%20Jober%20Chaves.azw3) — Jober Chaves
 - [O PODER DA GRATIDÃO](PDF/Filipe%20Ivo%20Pereira/O%20PODER%20DA%20GRATIDÃO.pdf) — Filipe Ivo Pereira
 - [O poder da paciencia](Kindle/KFX/M.%20J.%20Ryan/O%20poder%20da%20paciencia.kfx) — M. J. Ryan
