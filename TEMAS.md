@@ -12,11 +12,11 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Família e relacionamentos | 40 |
 | Humanidades e sociedade | 183 |
 | Negócios e carreira | 397 |
-| Outros | 317 |
+| Outros | 316 |
 | Referência e idiomas | 21 |
 | Religião e espiritualidade | 610 |
 | Saúde e bem-estar | 98 |
-| Tecnologia e computação | 114 |
+| Tecnologia e computação | 115 |
 
 ## Artes e literatura · Arte, música e design (15)
 
@@ -992,7 +992,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (317)
+## Outros · A classificar (316)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1159,7 +1159,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Oxford Dictionary of English](Kindle/AZW/Oxford%20University%20Press/Oxford%20Dictionary%20of%20English.azw) — Oxford University Press
 - [Padrões de alta performance Napoleon Hill Joel Jota](Kindle/AZW3/Napoleon%20Hill/Padrões%20de%20alta%20performance%20Napoleon%20Hill%20Joel%20Jota.azw3) — Napoleon Hill
 - [Pai Rico, Pai Pobre - Edicao de - T. Kiyosaki, Robert](Kindle/AZW3/Robert%20T.%20Kiyosaki/Pai%20Rico,%20Pai%20Pobre%20-%20Edicao%20de%20-%20T.%20Kiyosaki,%20Robert.azw3) — Robert T. Kiyosaki
-- [Palavras mágicas Jonah Berger](Kindle/AZW3/Jonah%20Berger/Palavras%20mágicas%20Jonah%20Berger.azw3) — Jonah Berger
 - [Pare de se sabotar e dê a volta por cima Flip Flippen, Chris J White](Kindle/AZW3/Chris%20J.%20White%20Flip%20Flippen/Pare%20de%20se%20sabotar%20e%20dê%20a%20volta%20por%20cima%20Flip%20Flippen,%20Chris%20J%20White.azw3) — Chris J. White Flip Flippen
 - [Paulo para todos Gálatas e Tessalonicenses](Kindle/AZW3/N.T.%20Wright/Paulo%20para%20todos%20Gálatas%20e%20Tessalonicenses.azw3) — N.T. Wright
 - [Pensar em apostas: decidindo com inteligência quando não se tem todos os fatos](Kindle/KFX/Annie%20Duke/Pensar%20em%20apostas_%20decidindo%20com%20inteligência%20quando%20não%20se%20tem%20todos%20os%20fatos.kfx) — Annie Duke
@@ -2174,7 +2173,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Web Scraping com Python - 2ª Edição](Kindle/KFX/Ryan%20Mitchell/Web%20Scraping%20com%20Python%20-%202ª%20Edição.kfx) — Ryan Mitchell
 - [Web Scraping com Python -- Mitchell, Ryan -- 2021 -- Novatec Editora -- 0fa0a47ffdda595a887483faf0570ea3 -- Anna’s Archive](Kindle/AZW3/Ryan%20Mitchell/Web%20Scraping%20com%20Python%20--%20Mitchell,%20Ryan%20--%202021%20--%20Novatec%20Editora%20--%200fa0a47ffdda595a887483faf057.azw3) — Ryan Mitchell
 
-## Tecnologia e computação · UX, produtos e tecnologia (11)
+## Tecnologia e computação · UX, produtos e tecnologia (12)
 
 - [A alegria em ficar de fora](Kindle/AZW3/Andre%20Carvalhal/A%20alegria%20em%20ficar%20de%20fora.azw3) — Andre Carvalhal
 - [Introdução ao GraphQL](Kindle/KFX/Eve%20Porcello/Introdução%20ao%20GraphQL.kfx) — Eve Porcello; Alex Banks
@@ -2184,6 +2183,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Linux eficiente na linha de comando Daniel Barrett](Kindle/AZW3/Daniel%20J.%20Barrett/Linux%20eficiente%20na%20linha%20de%20comando%20Daniel%20Barrett.azw3) — Daniel J. Barrett
 - [Onde os Sonhos Acontecem_ Meus 15 anos com](Kindle/KFX/Robert%20Iger/Onde%20os%20Sonhos%20Acontecem_%20Meus%2015%20anos%20com.kfx) — Robert Iger
 - [Operando com Trading Systems](Kindle/KFX/Rivadavila%20S.%20Malheiros/Operando%20com%20Trading%20Systems.kfx) — Rivadavila S. Malheiros
+- [Palavras mágicas Jonah Berger](Kindle/AZW3/Jonah%20Berger/Palavras%20mágicas%20Jonah%20Berger.azw3) — Jonah Berger
 - [UX estratégico](Kindle/AZW3/Gabriel%20Pinheiro%20Maciel%20da%20Silva/UX%20estratégico.azw3) — Gabriel Pinheiro Maciel da Silva
 - [Ux Research com sotaque brasileiro](Kindle/AZW3/Cecília%20Henriques/Ux%20Research%20com%20sotaque%20brasileiro.azw3) — Cecília Henriques
 - [UX Strategy](Kindle/AZW3/Levy_%20Jaime/UX%20Strategy.azw3) — Levy| Jaime
