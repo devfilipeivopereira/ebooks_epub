@@ -12,9 +12,9 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Família e relacionamentos | 37 |
 | Humanidades e sociedade | 188 |
 | Negócios e carreira | 379 |
-| Outros | 357 |
+| Outros | 354 |
 | Referência e idiomas | 21 |
-| Religião e espiritualidade | 603 |
+| Religião e espiritualidade | 606 |
 | Saúde e bem-estar | 98 |
 | Tecnologia e computação | 112 |
 
@@ -961,7 +961,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (357)
+## Outros · A classificar (354)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1109,9 +1109,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O feitiço escarlate: Livro infantil ilustrado (7 a 12 anos) (As aventuras de Txano e Oscar 5)](Kindle/AZW3/Julio%20Santos%20García/O%20feitiço%20escarlate_%20Livro%20infantil%20ilustrado%20(7%20a%2012%20anos)%20(As%20aventuras%20de%20Txano%20e%20Oscar%205).azw3) — Julio Santos García
 - [O Filho Rico - Felipe Miranda](Kindle/AZW3/Miranda_Felipe/O%20Filho%20Rico%20-%20Felipe%20Miranda.azw3) — Miranda|Felipe
 - [O melhor perdedor vence por qu - Hougaard, Tom](Kindle/AZW3/Tom%20Hougaard/O%20melhor%20perdedor%20vence%20por%20qu%20-%20Hougaard,%20Tom.azw3) — Tom Hougaard
-- [O Misterio do Trem Azul](Kindle/KFX/Agatha%20Christie/O%20Misterio%20do%20Trem%20Azul.kfx) — Agatha Christie
-- [O Misterio do Trem Azul - Agatha Christie](Kindle/AZW3/Agatha%20Christie/O%20Misterio%20do%20Trem%20Azul%20-%20Agatha%20Christie.azw3) — Agatha Christie
-- [O Mistério dos Sete Relógios](Kindle/AZW3/Agatha%20Christie/O%20Mistério%20dos%20Sete%20Relógios.azw3) — Agatha Christie
 - [O método Wim Hof Ative todo o seu potencial humano](Kindle/AZW3/Wim%20Hof/O%20método%20Wim%20Hof%20Ative%20todo%20o%20seu%20potencial%20humano.azw3) — Wim Hof
 - [O Natal escondido: a surpreendente verdade por trás do nascimento de Cristo](EPUB/Timothy%20Keller/O%20Natal%20escondido_%20a%20surpreendente%20verdade%20por%20trás%20do%20nascimento%20de%20Cristo.epub) — Timothy Keller
 - [O nervo vago - Kevin J. Tracey](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20nervo%20vago%20-%20Kevin%20J.%20Tracey.azw3) — FELIPE IVO PEREIRA
@@ -1708,7 +1705,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Teologia sistemática ao alcance de todos](EPUB/Wayne%20Grudem/Teologia%20sistemática%20ao%20alcance%20de%20todos.epub) — Wayne Grudem
 - [Uma teologia de Paulo e suas cartas: A dádiva do novo domínio em Cristo](Kindle/AZW3/Douglas%20J.%20Moo/Uma%20teologia%20de%20Paulo%20e%20suas%20cartas_%20A%20dádiva%20do%20novo%20domínio%20em%20Cristo.azw3) — Douglas J. Moo
 
-## Religião e espiritualidade · Vida cristã e devoção (249)
+## Religião e espiritualidade · Vida cristã e devoção (252)
 
 - [1 Pedro - Com os pés no vale e o coração no céu - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Pedro%20-%20Com%20os%20pés%20no%20vale%20e%20o%20coração%20no%20céu%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [365 dias de narrativas poderosas](Kindle/KFX/Thaís%20Machado/365%20dias%20de%20narrativas%20poderosas.kfx) — Thaís Machado
@@ -1889,6 +1886,9 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O livro da vida](Kindle/AZW3/Jiddu%20Krishnamurti/O%20livro%20da%20vida.azw3) — Jiddu Krishnamurti
 - [O livro da vida - Jiddu Krishnamurti](Kindle/AZW3/Jiddu%20Krishnamurti/O%20livro%20da%20vida%20-%20Jiddu%20Krishnamurti.azw3) — Jiddu Krishnamurti
 - [O livro essencial da mitologia - Thomas Bulfinch](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20livro%20essencial%20da%20mitologia%20-%20Thomas%20Bulfinch.azw3) — FELIPE IVO PEREIRA
+- [O Misterio do Trem Azul](Kindle/KFX/Agatha%20Christie/O%20Misterio%20do%20Trem%20Azul.kfx) — Agatha Christie
+- [O Misterio do Trem Azul - Agatha Christie](Kindle/AZW3/Agatha%20Christie/O%20Misterio%20do%20Trem%20Azul%20-%20Agatha%20Christie.azw3) — Agatha Christie
+- [O Mistério dos Sete Relógios](Kindle/AZW3/Agatha%20Christie/O%20Mistério%20dos%20Sete%20Relógios.azw3) — Agatha Christie
 - [O Pequeno Grupo Cheio do Espírito — Liderando Seu Grupo a Experimentar os Dons Espirituais - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/O%20Pequeno%20Grupo%20Cheio%20do%20Espírito%20—%20Liderando%20Seu%20Grupo%20a%20Experimentar%20os%20Dons%20Espirituais%20-%20Joel%20Co.azw3) — Joel Comiskey
 - [O Poder Criativo de Deus](Kindle/AZW3/Charles%20Capps/O%20Poder%20Criativo%20de%20Deus.azw3) — Charles Capps
 - [O Poder Criativo de Deus para a](Kindle/KFX/Charles%20Capps-1/O%20Poder%20Criativo%20de%20Deus%20para%20a.kfx) — Charles Capps-1.
