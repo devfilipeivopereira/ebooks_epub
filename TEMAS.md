@@ -8,13 +8,13 @@ Classificação editorial automática a partir do título, tags e descrição di
 |---|---:|
 | Artes e literatura | 47 |
 | Ciência e natureza | 36 |
-| Educação e desenvolvimento pessoal | 208 |
-| Família e relacionamentos | 35 |
+| Educação e desenvolvimento pessoal | 209 |
+| Família e relacionamentos | 36 |
 | Humanidades e sociedade | 187 |
 | Negócios e carreira | 378 |
-| Outros | 373 |
+| Outros | 370 |
 | Referência e idiomas | 21 |
-| Religião e espiritualidade | 597 |
+| Religião e espiritualidade | 598 |
 | Saúde e bem-estar | 98 |
 | Tecnologia e computação | 112 |
 
@@ -113,7 +113,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Outlive A arte e a ciência Peter Attia Bill Gifford](Kindle/AZW3/Peter%20Attia/Outlive%20A%20arte%20e%20a%20ciência%20Peter%20Attia%20Bill%20Gifford.azw3) — Peter Attia
 - [Uma introdução à metafísica](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20introdução%20à%20metafísica.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Aprendizagem e ensino (49)
+## Educação e desenvolvimento pessoal · Aprendizagem e ensino (50)
 
 - [(TRAD) origens da mitologia A a Z - Annette Giosec](Kindle/AZW3/Annette%20Giesecke/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z%20-%20Annette%20Giosec.azw3) — Annette Giesecke
 - [333 páginas para tirar seu projeto do papel](Kindle/KFX/Daniel%20Larusso/333%20páginas%20para%20tirar%20seu%20projeto%20do%20papel.kfx) — Daniel Larusso; Gabriel Gomes; Luciano Braga
@@ -154,6 +154,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O alvorecer da alegria indestrutível leituras diárias para o Advento](Kindle/AZW3/John%20Piper/O%20alvorecer%20da%20alegria%20indestrutível%20leituras%20diárias%20para%20o%20Advento.azw3) — John Piper
 - [O Andar do Bebado](Kindle/AZW3/Leonard%20Mlodinow/O%20Andar%20do%20Bebado.azw3) — Leonard Mlodinow
 - [O Curso do Despertar](Kindle/AZW3/Joe%20Vitale/O%20Curso%20do%20Despertar.azw3) — Joe Vitale
+- [O Filho Rico - Felipe Miranda](Kindle/AZW3/Miranda_Felipe/O%20Filho%20Rico%20-%20Felipe%20Miranda.azw3) — Miranda|Felipe
 - [O significado do casamento - Keller, Timothy](Kindle/AZW3/Timothy%20Keller/O%20significado%20do%20casamento%20-%20Keller,%20Timothy.azw3) — Timothy Keller
 - [Para ler como um escritor: Um guia para quem gosta de livros e para quem quer escrevê-los](Kindle/AZW/Francine%20Prose/Para%20ler%20como%20um%20escritor_%20Um%20guia%20para%20quem%20gosta%20de%20livros%20e%20para%20quem%20quer%20escrevê-los.azw) — Francine Prose
 - [Para Novos Gerentes 10 Leituras Essenciais](Kindle/KFX/Harvard%20Business%20Review/Para%20Novos%20Gerentes%2010%20Leituras%20Essenciais.kfx) — Harvard Business Review
@@ -327,7 +328,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Você pode realizar seu sonho Coleção Motivação com John C Maxwell](Kindle/AZW3/John%20C.%20Maxwell/Você%20pode%20realizar%20seu%20sonho%20Coleção%20Motivação%20com%20John%20C%20Maxwell.azw3) — John C. Maxwell
 - [Zen na arte da escrita - Ray Bradbury](Kindle/AZW3/Ray%20Bradbury/Zen%20na%20arte%20da%20escrita%20-%20Ray%20Bradbury.azw3) — Ray Bradbury
 
-## Família e relacionamentos · Parentalidade e família (25)
+## Família e relacionamentos · Parentalidade e família (26)
 
 - [1001 coisas para fazer antes do casamento morrer](Kindle/AZW3/Alessandra%20Leite%20Pasqualini/1001%20coisas%20para%20fazer%20antes%20do%20casamento%20morrer.azw3) — Alessandra Leite Pasqualini; JB Pasqualini
 - [1001 conselhos de sabedoria para meus filhos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/1001%20conselhos%20de%20sabedoria%20para%20meus%20filhos.azw3) — FELIPE IVO PEREIRA
@@ -347,6 +348,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Discipulando a Familia](Kindle/AZW3/Matt%20Chandler/Discipulando%20a%20Familia.azw3) — Matt Chandler
 - [Duas pulgas e nenhum cachorro](Kindle/AZW3/Craig%20Hill/Duas%20pulgas%20e%20nenhum%20cachorro.azw3) — Craig Hill
 - [Famílias indestrutíveis](Kindle/AZW3/Rafael%20Nery/Famílias%20indestrutíveis.azw3) — Rafael Nery
+- [O filho rico](Kindle/KFX/Felipe%20Miranda/O%20filho%20rico.kfx) — Felipe Miranda
 - [O Segredo Dos Dogon (Livro 4): Livro Infantil Ilustrado (7 a 12 Anos)](Kindle/AZW3/Julio%20Santos%20García/O%20Segredo%20Dos%20Dogon%20(Livro%204)_%20Livro%20Infantil%20Ilustrado%20(7%20a%2012%20Anos).azw3) — Julio Santos García
 - [O significado do casamento](Kindle/KFX/Keller_%20Timothy/O%20significado%20do%20casamento.kfx) — Keller| Timothy
 - [Pais conscientes, vínculos indestrutíveis Shefali Tsabary](Kindle/AZW3/Shefali%20Tsabary/Pais%20conscientes,%20vínculos%20indestrutíveis%20Shefali%20Tsabary.azw3) — Shefali Tsabary
@@ -951,7 +953,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (373)
+## Outros · A classificar (370)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1096,10 +1098,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Discípulo Radical nodrm](Kindle/AZW3/John%20Stott/O%20Discípulo%20Radical%20nodrm.azw3) — John Stott
 - [O ego é seu inimigo](Kindle/AZW3/Ryan%20Holiday/O%20ego%20é%20seu%20inimigo.azw3) — Ryan Holiday
 - [O Enigma De Israel](Kindle/AZW3/Henrique%20Cymerman/O%20Enigma%20De%20Israel.azw3) — Henrique Cymerman
-- [O fator Melquisedeque](Kindle/AZW3/Don%20Richardson/O%20fator%20Melquisedeque.azw3) — Don Richardson
 - [O feitiço escarlate: Livro infantil ilustrado (7 a 12 anos) (As aventuras de Txano e Oscar 5)](Kindle/AZW3/Julio%20Santos%20García/O%20feitiço%20escarlate_%20Livro%20infantil%20ilustrado%20(7%20a%2012%20anos)%20(As%20aventuras%20de%20Txano%20e%20Oscar%205).azw3) — Julio Santos García
-- [O filho rico](Kindle/KFX/Felipe%20Miranda/O%20filho%20rico.kfx) — Felipe Miranda
-- [O Filho Rico - Felipe Miranda](Kindle/AZW3/Miranda_Felipe/O%20Filho%20Rico%20-%20Felipe%20Miranda.azw3) — Miranda|Felipe
 - [O homem e aquilo que ele pensa](Kindle/AZW3/James%20Allen/O%20homem%20e%20aquilo%20que%20ele%20pensa.azw3) — James Allen
 - [O jogo da vida e como jogá-lo](Kindle/AZW3/Florence%20Scovel%20Shinn/O%20jogo%20da%20vida%20e%20como%20jogá-lo.azw3) — Florence Scovel Shinn
 - [O jogo infinito](Kindle/KFX/Simon%20Sinek/O%20jogo%20infinito.kfx) — Simon Sinek
@@ -1351,7 +1350,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Portuguese-English Dictionary](Kindle/AZW/Priberam/Portuguese-English%20Dictionary.azw) — Priberam
 - [Português Para Não Pagar Mico](Kindle/AZW3/Noslen%20Borges/Português%20Para%20Não%20Pagar%20Mico.azw3) — Noslen Borges
 
-## Religião e espiritualidade · Bíblia e interpretação (156)
+## Religião e espiritualidade · Bíblia e interpretação (155)
 
 - [1 Coríntios - Como resolver conflitos na igreja - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Coríntios%20-%20Como%20resolver%20conflitos%20na%20igreja%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [1 e 2 Tessalonicenses - Como se preparar para a segunda vinda de Cristo - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20e%202%20Tessalonicenses%20-%20Como%20se%20preparar%20para%20a%20segunda%20vinda%20de%20Cristo%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
@@ -1472,7 +1471,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O coração da Bíblia (John MacArthur)](Kindle/AZW3/John%20MacArthur/O%20coração%20da%20Bíblia%20(John%20MacArthur).azw3) — John MacArthur
 - [O custo do discipulado Jonas Madureira](Kindle/AZW3/Jonas%20Madureira/O%20custo%20do%20discipulado%20Jonas%20Madureira.azw3) — Jonas Madureira
 - [O estranho no caminho de Emaús: quem era o homem? Qual era a mensagem?](EPUB/John%20R.%20Cross/O%20estranho%20no%20caminho%20de%20Emaús_%20quem%20era%20o%20homem_%20Qual%20era%20a%20mensagem.epub) — John R. Cross
-- [O evangelho segundo Jesus](Kindle/KFX/John%20MacArthur/O%20evangelho%20segundo%20Jesus.kfx) — John MacArthur
 - [O jogo: a Bíblia da sedução](Kindle/AZW3/Neil%20Strauss/O%20jogo_%20a%20Bíblia%20da%20sedução.azw3) — Neil Strauss
 - [O Livro dos livros - Edição Literária da Bíblia Sagrada](EPUB/Brasil_%20Sociedade%20Bíblica%20do/O%20Livro%20dos%20livros%20-%20Edição%20Literária%20da%20Bíblia%20Sagrada.epub) — Brasil| Sociedade Bíblica do
 - [O mundo perdido de Enoque: O livro de Enoque e sua influência no Novo Testamento](Kindle/AZW3/Kenner%20Terra/O%20mundo%20perdido%20de%20Enoque_%20O%20livro%20de%20Enoque%20e%20sua%20influência%20no%20Novo%20Testamento.azw3) — Kenner Terra
@@ -1713,7 +1711,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Teologia sistemática ao alcance de todos](EPUB/Wayne%20Grudem/Teologia%20sistemática%20ao%20alcance%20de%20todos.epub) — Wayne Grudem
 - [Uma teologia de Paulo e suas cartas: A dádiva do novo domínio em Cristo](Kindle/AZW3/Douglas%20J.%20Moo/Uma%20teologia%20de%20Paulo%20e%20suas%20cartas_%20A%20dádiva%20do%20novo%20domínio%20em%20Cristo.azw3) — Douglas J. Moo
 
-## Religião e espiritualidade · Vida cristã e devoção (244)
+## Religião e espiritualidade · Vida cristã e devoção (246)
 
 - [1 Pedro - Com os pés no vale e o coração no céu - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Pedro%20-%20Com%20os%20pés%20no%20vale%20e%20o%20coração%20no%20céu%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [365 dias de narrativas poderosas](Kindle/KFX/Thaís%20Machado/365%20dias%20de%20narrativas%20poderosas.kfx) — Thaís Machado
@@ -1883,7 +1881,9 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O eclipse da graça](Kindle/AZW3/Philip%20Yancey/O%20eclipse%20da%20graça.azw3) — Philip Yancey
 - [O evangelho segundo Deus](Kindle/KFX/John%20MacArthur/O%20evangelho%20segundo%20Deus.kfx) — John MacArthur
 - [O evangelho segundo Deus - John MacArthur](Kindle/AZW3/John%20MacArthur/O%20evangelho%20segundo%20Deus%20-%20John%20MacArthur.azw3) — John MacArthur
+- [O evangelho segundo Jesus](Kindle/KFX/John%20MacArthur/O%20evangelho%20segundo%20Jesus.kfx) — John MacArthur
 - [O Evangelho Segundo Jesus (John MacArthur) (Z-Library)](Kindle/AZW3/John%20MacArthur/O%20Evangelho%20Segundo%20Jesus%20(John%20MacArthur)%20(Z-Library).azw3) — John MacArthur
+- [O fator Melquisedeque](Kindle/AZW3/Don%20Richardson/O%20fator%20Melquisedeque.azw3) — Don Richardson
 - [O Jesus Historico](Kindle/KFX/Darrell%20L.%20Bock/O%20Jesus%20Historico.kfx) — Darrell L. Bock; J. Ed Komoszewski
 - [O Jesus Histórico - Darrel L. Bock, J. Ed Komoszweski](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20Jesus%20Histórico%20-%20Darrel%20L.%20Bock,%20J.%20Ed%20Komoszweski.azw3) — FELIPE IVO PEREIRA
 - [O Jesus que as mulheres viram](Kindle/AZW3/Rebecca%20McLaughlin/O%20Jesus%20que%20as%20mulheres%20viram.azw3) — Rebecca McLaughlin
