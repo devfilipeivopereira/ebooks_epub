@@ -9,13 +9,13 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Artes e literatura | 47 |
 | Ciência e natureza | 36 |
 | Educação e desenvolvimento pessoal | 204 |
-| Família e relacionamentos | 34 |
-| Humanidades e sociedade | 182 |
-| Negócios e carreira | 370 |
-| Outros | 398 |
+| Família e relacionamentos | 35 |
+| Humanidades e sociedade | 185 |
+| Negócios e carreira | 371 |
+| Outros | 391 |
 | Referência e idiomas | 21 |
-| Religião e espiritualidade | 593 |
-| Saúde e bem-estar | 95 |
+| Religião e espiritualidade | 594 |
+| Saúde e bem-estar | 96 |
 | Tecnologia e computação | 112 |
 
 ## Artes e literatura · Arte, música e design (14)
@@ -351,7 +351,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Resgate seu filho das telas vença a dependência digital e restaure](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Resgate%20seu%20filho%20das%20telas%20vença%20a%20dependência%20digital%20e%20restaure.azw3) — FELIPE IVO PEREIRA
 - [Resgate seu filho das telas: vença a dependência digital e restaure o vínculo familiar](Kindle/KFX/Cassiana%20Modolo%20Tardivo/Resgate%20seu%20filho%20das%20telas_%20vença%20a%20dependência%20digital%20e%20restaure%20o%20vínculo%20familiar.kfx) — Cassiana Modolo Tardivo
 
-## Família e relacionamentos · Relacionamentos (9)
+## Família e relacionamentos · Relacionamentos (10)
 
 - [A arte natural da sedução](Kindle/AZW3/Richard%20La%20Ruina/A%20arte%20natural%20da%20sedução.azw3) — Richard La Ruina
 - [A surpreendente ciência dos relacionamentos](Kindle/KFX/Eric%20Barker/A%20surpreendente%20ciência%20dos%20relacionamentos.kfx) — Eric Barker
@@ -361,6 +361,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [As cinco linguagens do amor](Kindle/AZW3/Gary%20Chapman/As%20cinco%20linguagens%20do%20amor.azw3) — Gary Chapman
 - [As cinco linguagens do amor de Deus](Kindle/AZW3/Gary%20Chapman/As%20cinco%20linguagens%20do%20amor%20de%20Deus.azw3) — Gary Chapman
 - [Como conversar com qualquer pessoa](Kindle/AZW3/Leil%20Lowndes/Como%20conversar%20com%20qualquer%20pessoa.azw3) — Leil Lowndes
+- [Medo de dar certo - Natália Sousa](Kindle/AZW3/Natália%20Sousa/Medo%20de%20dar%20certo%20-%20Natália%20Sousa.azw3) — Natália Sousa
 - [Relacionamento Para Leigos](Kindle/KFX/Frederico%20Mattos/Relacionamento%20Para%20Leigos.kfx) — Frederico Mattos
 
 ## Humanidades e sociedade · Filosofia e ética (44)
@@ -410,7 +411,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [W. Gary Crampton - Filosofia Cristã Para Leigos](Kindle/AZW3/W.%20Gary%20Crampton/W.%20Gary%20Crampton%20-%20Filosofia%20Cristã%20Para%20Leigos.azw3) — W. Gary Crampton
 - [W. Gary Crampton - Filosofia Cristã Para Leigos (1)](Kindle/AZW3/W.%20Gary%20Crampton/W.%20Gary%20Crampton%20-%20Filosofia%20Cristã%20Para%20Leigos%20(1).azw3) — W. Gary Crampton
 
-## Humanidades e sociedade · História e biografias (51)
+## Humanidades e sociedade · História e biografias (52)
 
 - [21 Licoes para o Seculo XXI](Kindle/AZW3/Yuval%20Noah%20Harari/21%20Licoes%20para%20o%20Seculo%20XXI.azw3) — Yuval Noah Harari
 - [A boa sorte](Kindle/KFX/Alex%20Rovira%20Celma/A%20boa%20sorte.kfx) — Alex Rovira Celma; Fernando Trías de Bes
@@ -444,6 +445,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Implacaveis Como nos conquista](Kindle/KFX/Yuval%20Noah%20Harari/Implacaveis%20Como%20nos%20conquista.kfx) — Yuval Noah Harari
 - [Implacaveis Como nos conquista - Harari, Yuval Noah](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Implacaveis%20Como%20nos%20conquista%20-%20Harari,%20Yuval%20Noah.azw3) — FELIPE IVO PEREIRA
 - [Israel](Kindle/MOBI/Anita%20Shapira/Israel.mobi) — Anita Shapira
+- [Milagres Da Vida Moderna](Kindle/AZW3/Louise%20Hay/Milagres%20Da%20Vida%20Moderna.azw3) — Louise Hay
 - [N T Wright Paulo uma biografia Thomas Nelson Brasil 2019](Kindle/AZW3/N.%20T.%20Wright/N%20T%20Wright%20Paulo%20uma%20biografia%20Thomas%20Nelson%20Brasil%202019.azw3) — N. T. Wright
 - [Nexus](Kindle/AZW3/Yuval%20Noah%20Harari/Nexus.azw3) — Yuval Noah Harari
 - [Nexus - Yuval Noah Harari](Kindle/AZW3/Yuval%20Noah%20Harari/Nexus%20-%20Yuval%20Noah%20Harari.azw3) — Yuval Noah Harari
@@ -464,7 +466,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Uma Breve História da Filosofia - Nigel Warburton](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20Breve%20História%20da%20Filosofia%20-%20Nigel%20Warburton.azw3) — FELIPE IVO PEREIRA
 - [Uma Breve História das Guerras Geoffrey Blainey 2014;2023 Fundamentos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20Breve%20História%20das%20Guerras%20Geoffrey%20Blainey%202014;2023%20Fundamentos.azw3) — FELIPE IVO PEREIRA
 
-## Humanidades e sociedade · Política, direito e sociedade (87)
+## Humanidades e sociedade · Política, direito e sociedade (89)
 
 - [12 Princípios para uma vida extraordinária](Kindle/KFX/Paulo%20Vieira/12%20Princípios%20para%20uma%20vida%20extraordinária.kfx) — Paulo Vieira
 - [50 perguntas sobre lei da atração para iniciantes](Kindle/KFX/William%20Sanches/50%20perguntas%20sobre%20lei%20da%20atração%20para%20iniciantes.kfx) — William Sanches
@@ -505,6 +507,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Liberte o poder do seu subconsciente](Kindle/AZW3/Joseph%20Murphy/Liberte%20o%20poder%20do%20seu%20subconsciente.azw3) — Joseph Murphy
 - [Manhãs poderosas](Kindle/KFX/Neder%20Izaac/Manhãs%20poderosas.kfx) — Neder Izaac
 - [Manhãs Poderosas Neder Izaac](Kindle/AZW3/Neder%20Izaac/Manhãs%20Poderosas%20Neder%20Izaac.azw3) — Neder Izaac
+- [Manual do TDAH](Kindle/KFX/Natasha%20Ganem/Manual%20do%20TDAH.kfx) — Natasha Ganem; Raphael Rangel
+- [Mate o dragão](Kindle/KFX/Israel%20Subirá/Mate%20o%20dragão.kfx) — Israel Subirá
 - [O animal social](Kindle/AZW3/Elliot%20Aronson%20Joshua%20Aronson/O%20animal%20social.azw3) — Elliot Aronson Joshua Aronson
 - [O Líder Criativo: Liberte o Poder do Seu Potencial Criativo](EPUB/Ed%20Young/O%20Líder%20Criativo_%20Liberte%20o%20Poder%20do%20Seu%20Potencial%20Criativo.epub) — Ed Young
 - [O MÉTODO - Phil Stutz e Barry Michels](Kindle/AZW3/Phil%20Stutz%20e%20Barry%20Michels/O%20MÉTODO%20-%20Phil%20Stutz%20e%20Barry%20Michels.azw3) — Phil Stutz e Barry Michels
@@ -751,7 +755,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tudo o que você precisa saber sobre economia](Kindle/AZW/Alfred%20Mill/Tudo%20o%20que%20você%20precisa%20saber%20sobre%20economia.azw) — Alfred Mill
 - [Virada financeira](Kindle/KFX/Patricia%20Lages/Virada%20financeira.kfx) — Patricia Lages
 
-## Negócios e carreira · Gestão, liderança e empreendedorismo (140)
+## Negócios e carreira · Gestão, liderança e empreendedorismo (141)
 
 - [1 ano em 12 semanas](Kindle/KFX/Brian%20P%20Moran/1%20ano%20em%2012%20semanas.kfx) — Brian P Moran
 - [100 coisas que pessoas produtivas fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20produtivas%20fazem.kfx) — Nigel Cumberland
@@ -843,6 +847,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Lições de estratégia (10 leituras essenciais)](Kindle/KFX/Harvard%20Business%20Review/Lições%20de%20estratégia%20(10%20leituras%20essenciais).kfx) — Harvard Business Review
 - [Lições de liderança de Spurgeon - Larry J. Michael](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Lições%20de%20liderança%20de%20Spurgeon%20-%20Larry%20J.%20Michael.azw3) — FELIPE IVO PEREIRA
 - [Manhãs Poderosas: 25 minutos de hábitos matinais que vão transformar sua vida](Kindle/AZW/Neder%20Izaac/Manhãs%20Poderosas_%2025%20minutos%20de%20hábitos%20matinais%20que%20vão%20transformar%20sua%20vida.azw) — Neder Izaac
+- [Marco Zero](Kindle/AZW3/Joe%20Vitale/Marco%20Zero.azw3) — Joe Vitale
 - [Mini-Hábitos: Hábitos Menores, Maiores Resultados](Kindle/AZW/Stephen%20Guise/Mini-Hábitos_%20Hábitos%20Menores,%20Maiores%20Resultados.azw) — Stephen Guise
 - [Navegando nas montanhas - Liderança cristã em território inexplorado - Tod Bolsinger (PT-BR)](Kindle/AZW3/Tod%20Bolsinger/Navegando%20nas%20montanhas%20-%20Liderança%20cristã%20em%20território%20inexplorado%20-%20Tod%20Bolsinger%20(PT-BR).azw3) — Tod Bolsinger
 - [Navegando nas montanhas: liderança cristã em território inexplorado](EPUB/Tod%20Bolsinger/Navegando%20nas%20montanhas_%20liderança%20cristã%20em%20território%20inexplorado.epub) — Tod Bolsinger
@@ -933,7 +938,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (398)
+## Outros · A classificar (391)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1040,23 +1045,16 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [John Bevere](Kindle/KFX/O%20esplendor%20de%20Deus/John%20Bevere.kfx) — O esplendor de Deus
 - [JONATAS-Faltou-uma-coisa-Charles-Stanley](Kindle/AZW3/C.%20STANLEY/JONATAS-Faltou-uma-coisa-Charles-Stanley.azw3) — C. STANLEY
 - [Joseph F Hair & Outros Análise Multivariada](Kindle/AZW3/Tatham_%20Anderson/Joseph%20F%20Hair%20&%20Outros%20Análise%20Multivariada.azw3) — Tatham| Anderson
-- [Mantenha o Fim em Vista (Vivendo em Vitória) - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Mantenha%20o%20Fim%20em%20Vista%20(Vivendo%20em%20Vitória)%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
 - [Manual do Mentor Charles Cezar (1)](Kindle/AZW3/Charles%20Cezar/Manual%20do%20Mentor%20Charles%20Cezar%20(1).azw3) — Charles Cezar
-- [Manual do TDAH](Kindle/KFX/Natasha%20Ganem/Manual%20do%20TDAH.kfx) — Natasha Ganem; Raphael Rangel
 - [Manual do TDAH Natasha Ganem, Raphael Rangel](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Manual%20do%20TDAH%20Natasha%20Ganem,%20Raphael%20Rangel.azw3) — FELIPE IVO PEREIRA
 - [Marcell Mazzoni - Síndrome do Impostor](Kindle/AZW3/Alpz%20Brasil/Marcell%20Mazzoni%20-%20Síndrome%20do%20Impostor.azw3) — Alpz Brasil
-- [Marco Zero](Kindle/AZW3/Joe%20Vitale/Marco%20Zero.azw3) — Joe Vitale
-- [Mate o dragão](Kindle/KFX/Israel%20Subirá/Mate%20o%20dragão.kfx) — Israel Subirá
 - [Maçonaria Para Leigos](Kindle/KFX/A.%20G.%20Olyver/Maçonaria%20Para%20Leigos.kfx) — A. G. Olyver
 - [Maçonaria Para Leigos - A. G. Olyver](Kindle/AZW3/A.%20G.%20Olyver/Maçonaria%20Para%20Leigos%20-%20A.%20G.%20Olyver.azw3) — A. G. Olyver
 - [Meditação Guia para Iniciantes @REVISTAVIRTUALBR](Kindle/AZW3/Saulo%20Mello/Meditação%20Guia%20para%20Iniciantes%20@REVISTAVIRTUALBR.azw3) — Saulo Mello
 - [Meditação para céticos ansiosos Dan Harris & Jeff Warren](Kindle/AZW3/Dan%20Harris/Meditação%20para%20céticos%20ansiosos%20Dan%20Harris%20&%20Jeff%20Warren.azw3) — Dan Harris
 - [Meditação: guia para iniciantes](Kindle/KFX/Saulo%20Mello/Meditação_%20guia%20para%20iniciantes.kfx) — Saulo Mello
-- [Medo de dar certo - Natália Sousa](Kindle/AZW3/Natália%20Sousa/Medo%20de%20dar%20certo%20-%20Natália%20Sousa.azw3) — Natália Sousa
 - [Menos Achismo Mais Dados Gustavo Esteves](Kindle/AZW3/Gustavo%20Esteves/Menos%20Achismo%20Mais%20Dados%20Gustavo%20Esteves.azw3) — Gustavo Esteves
-- [Mentes dispersas](Kindle/KFX/Gabor%20Maté/Mentes%20dispersas.kfx) — Gabor Maté
 - [Michael Casagrande - 365 Dias de Inspiração](Kindle/AZW3/Michael%20Casagrande/Michael%20Casagrande%20-%20365%20Dias%20de%20Inspiração.azw3) — Michael Casagrande
-- [Milagres Da Vida Moderna](Kindle/AZW3/Louise%20Hay/Milagres%20Da%20Vida%20Moderna.azw3) — Louise Hay
 - [Mindset de crescimento](Kindle/KFX/Eduardo%20Briceño/Mindset%20de%20crescimento.kfx) — Eduardo Briceño
 - [Minha decisão](Kindle/KFX/Edward%20Dennett/Minha%20decisão.kfx) — Edward Dennett
 - [Mitos gregos para jovens leitor](Kindle/KFX/Nathaniel%20Hawthorne/Mitos%20gregos%20para%20jovens%20leitor.kfx) — Nathaniel Hawthorne
@@ -1518,7 +1516,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vendedor na era digital, O César Frazão & João Kepler (1)](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Vendedor%20na%20era%20digital,%20O%20César%20Frazão%20&%20João%20Kepler%20(1).azw3) — FELIPE IVO PEREIRA
 - [Vida através da morte: estudo da epístola aos Romanos](Kindle/KFX/Charles%20Stanley/Vida%20através%20da%20morte_%20estudo%20da%20epístola%20aos%20Romanos.kfx) — Charles Stanley
 
-## Religião e espiritualidade · Pregação e ministério (171)
+## Religião e espiritualidade · Pregação e ministério (170)
 
 - [1 Timóteo - O pastor, sua vida e sua obra - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Timóteo%20-%20O%20pastor,%20sua%20vida%20e%20sua%20obra%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [101 idéias criativas para cultos domésticos (101 ideias)](EPUB/Merkh_%20David/101%20idéias%20criativas%20para%20cultos%20domésticos%20(101%20ideias).epub) — Merkh| David
@@ -1627,7 +1625,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Machucados pela igreja: E a esperança de um Evangelho que cura](Kindle/AZW3/Tiago%20Mattes/Machucados%20pela%20igreja_%20E%20a%20esperança%20de%20um%20Evangelho%20que%20cura.azw3) — Tiago Mattes
 - [Malaquias - A igreja no tribunal de Deus - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/Malaquias%20-%20A%20igreja%20no%20tribunal%20de%20Deus%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [Manhãs com Spurgeon: 365 meditações do príncipe dos pregadores](EPUB/Charles%20H.%20Spurgeon/Manhãs%20com%20Spurgeon_%20365%20meditações%20do%20príncipe%20dos%20pregadores.epub) — Charles H. Spurgeon
-- [Maturidade e destino: desvendando a igreja sonhada por Deus](Kindle/AZW3/Cristiano%20Miranda/Maturidade%20e%20destino_%20desvendando%20a%20igreja%20sonhada%20por%20Deus.azw3) — Cristiano Miranda
 - [minha-decisao-edward-dennett](Kindle/AZW3/Edward%20Dennett/minha-decisao-edward-dennett.azw3) — Edward Dennett
 - [Ministério de mulheres](Kindle/KFX/Gloria%20Furman/Ministério%20de%20mulheres.kfx) — Gloria Furman; Kathleen Nielson
 - [Ministério de Mulheres Gloria Furman Kathleen Nielson](Kindle/AZW3/Gloria%20Furman/Ministério%20de%20Mulheres%20Gloria%20Furman%20Kathleen%20Nielson.azw3) — Gloria Furman
@@ -1722,7 +1719,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Teologia sistemática ao alcance de todos](EPUB/Wayne%20Grudem/Teologia%20sistemática%20ao%20alcance%20de%20todos.epub) — Wayne Grudem
 - [Uma teologia de Paulo e suas cartas: A dádiva do novo domínio em Cristo](Kindle/AZW3/Douglas%20J.%20Moo/Uma%20teologia%20de%20Paulo%20e%20suas%20cartas_%20A%20dádiva%20do%20novo%20domínio%20em%20Cristo.azw3) — Douglas J. Moo
 
-## Religião e espiritualidade · Vida cristã e devoção (238)
+## Religião e espiritualidade · Vida cristã e devoção (240)
 
 - [1 Pedro - Com os pés no vale e o coração no céu - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Pedro%20-%20Com%20os%20pés%20no%20vale%20e%20o%20coração%20no%20céu%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [365 dias de narrativas poderosas](Kindle/KFX/Thaís%20Machado/365%20dias%20de%20narrativas%20poderosas.kfx) — Thaís Machado
@@ -1864,9 +1861,11 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Lectures and Clippings From My Scrap Book (Classic Reprint)](Kindle/AZW3/Lilla%20D.%20Windsor/Lectures%20and%20Clippings%20From%20My%20Scrap%20Book%20(Classic%20Reprint).azw3) — Lilla D. Windsor
 - [Livro de Apoio O Deus que Governa o Mundo e Cuida da Família Adulto](Kindle/AZW3/Silas%20Queiroz/Livro%20de%20Apoio%20O%20Deus%20que%20Governa%20o%20Mundo%20e%20Cuida%20da%20Família%20Adulto.azw3) — Silas Queiroz
 - [Luchas: Cómo seguir a Jesús en un mundo de selfies (Spanish Edition)](EPUB/Groeschel_%20Craig/Luchas_%20Cómo%20seguir%20a%20Jesús%20en%20un%20mundo%20de%20selfies%20(Spanish%20Edition).epub) — Groeschel| Craig
+- [Mantenha o Fim em Vista (Vivendo em Vitória) - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Mantenha%20o%20Fim%20em%20Vista%20(Vivendo%20em%20Vitória)%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
 - [Manual de Aconselhamento Cristão Cognitivo](Kindle/AZW3/Neudelon%20Azevedo/Manual%20de%20Aconselhamento%20Cristão%20Cognitivo.azw3) — Neudelon Azevedo
 - [Maravilhosa Graça](Kindle/AZW3/Charles%20Spurgeon/Maravilhosa%20Graça.azw3) — Charles Spurgeon
 - [Mate o Dragão Israel Subirá](Kindle/AZW3/Israel%20Subirá/Mate%20o%20Dragão%20Israel%20Subirá.azw3) — Israel Subirá
+- [Maturidade e destino: desvendando a igreja sonhada por Deus](Kindle/AZW3/Cristiano%20Miranda/Maturidade%20e%20destino_%20desvendando%20a%20igreja%20sonhada%20por%20Deus.azw3) — Cristiano Miranda
 - [Mesas, Lugares & Estações: Sabendo quando acolher, quando esperar e quando deixar ir](EPUB/Russell%20Hylton/Mesas,%20Lugares%20&%20Estações_%20Sabendo%20quando%20acolher,%20quando%20esperar%20e%20quando%20deixar%20ir.epub) — Russell Hylton
 - [Mil anos com Jesus Matthew Bryce Ervin](Kindle/AZW3/Matthew%20Bryce%20Ervin/Mil%20anos%20com%20Jesus%20Matthew%20Bryce%20Ervin.azw3) — Matthew Bryce Ervin
 - [Miqueias - A justiça e a misericórdia de Deus - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/Miqueias%20-%20A%20justiça%20e%20a%20misericórdia%20de%20Deus%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
@@ -1974,7 +1973,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Em defesa da dieta cetogênica Gary Taubes](Kindle/AZW3/Gary%20Taubes/Em%20defesa%20da%20dieta%20cetogênica%20Gary%20Taubes.azw3) — Gary Taubes
 - [Musculação](Kindle/AZW3/Marçal%20Guerreiro%20do%20Amaral%20Campos%20Filho/Musculação.azw3) — Marçal Guerreiro do Amaral Campos Filho
 
-## Saúde e bem-estar · Saúde física e medicina (11)
+## Saúde e bem-estar · Saúde física e medicina (12)
 
 - [A energia da vida](Kindle/AZW3/Tony%20Robbins_%20Peter%20Diamandis/A%20energia%20da%20vida.azw3) — Tony Robbins| Peter Diamandis.
 - [A Morte é um Dia Que Vale a Pena Viver Ana Cláudia Arantes](Kindle/AZW3/Ana%20Cláudia%20Arantes/A%20Morte%20é%20um%20Dia%20Que%20Vale%20a%20Pena%20Viver%20Ana%20Cláudia%20Arantes.azw3) — Ana Cláudia Arantes
@@ -1984,6 +1983,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Fábrica de Campeões](Kindle/AZW/José%20Rubens%20D'Elia/Fábrica%20de%20Campeões.azw) — José Rubens D'Elia
 - [Mais Fatos e Mitos sobre a sua Saúde](Kindle/AZW/Dr.%20Fernando%20Lucchese/Mais%20Fatos%20e%20Mitos%20sobre%20a%20sua%20Saúde.azw) — Dr. Fernando Lucchese
 - [Medico de homens e de almas](Kindle/KFX/Taylor%20Caldwell/Medico%20de%20homens%20e%20de%20almas.kfx) — Taylor Caldwell
+- [Mentes dispersas](Kindle/KFX/Gabor%20Maté/Mentes%20dispersas.kfx) — Gabor Maté
 - [Mude seus horarios, mude sua vi - Suhas Kshirsagar](Kindle/AZW3/Suhas%20Kshirsagar/Mude%20seus%20horarios,%20mude%20sua%20vi%20-%20Suhas%20Kshirsagar.azw3) — Suhas Kshirsagar
 - [Mude seus horários, mude sua vida: Como usar o relógio biológico para perder peso, reduzir o estresse, dormir melhor e ter mais saúde e energia](Kindle/AZW/Suhas%20Kshirsagar/Mude%20seus%20horários,%20mude%20sua%20vida_%20Como%20usar%20o%20relógio%20biológico%20para%20perder%20peso,%20reduzir%20o%20estress.azw) — Suhas Kshirsagar
 - [O paradoxo dos vegetais - Steven R. Gundry](Kindle/AZW3/Steven%20R.%20Gundry/O%20paradoxo%20dos%20vegetais%20-%20Steven%20R.%20Gundry.azw3) — Steven R. Gundry

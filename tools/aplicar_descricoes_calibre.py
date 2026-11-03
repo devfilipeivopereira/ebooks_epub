@@ -23,6 +23,8 @@ db = LibraryDatabase(str(LIBRARY))
 api = db.new_api
 applied = 0
 linked = 0
+comments_to_apply = {}
+identifiers_to_apply = {}
 for book_id, item in results.items():
     if item.get("status") != "verificado" or not api.has_id(book_id):
         continue
@@ -31,7 +33,7 @@ for book_id, item in results.items():
         continue
     old_comment = re.sub(r"<[^>]+>", " ", api.field_for("comments", book_id) or "").strip()
     if len(old_comment) < 35 or old_comment.lower().startswith(("downloaded from", "isbn", "não há", "null")):
-        api.set_field("comments", {book_id: description})
+        comments_to_apply[book_id] = description
         applied += 1
     asin = item.get("asin", "")
     if re.fullmatch(r"[A-Z0-9]{10,13}", asin):
@@ -43,6 +45,10 @@ for book_id, item in results.items():
                 key = f"amazon_br_{suffix}"
                 suffix += 1
             identifiers[key] = asin
-            api.set_field("identifiers", {book_id: identifiers})
+            identifiers_to_apply[book_id] = identifiers
             linked += 1
+if comments_to_apply:
+    api.set_field("comments", comments_to_apply)
+if identifiers_to_apply:
+    api.set_field("identifiers", identifiers_to_apply)
 print(f"Descrições aplicadas: {applied}; fichas vinculadas por identificador: {linked}")
