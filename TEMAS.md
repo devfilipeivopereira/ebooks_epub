@@ -8,14 +8,14 @@ Classificação editorial automática a partir do título, tags e descrição di
 |---|---:|
 | Artes e literatura | 47 |
 | Ciência e natureza | 38 |
-| Educação e desenvolvimento pessoal | 216 |
+| Educação e desenvolvimento pessoal | 219 |
 | Família e relacionamentos | 38 |
-| Humanidades e sociedade | 184 |
-| Negócios e carreira | 382 |
-| Outros | 348 |
+| Humanidades e sociedade | 181 |
+| Negócios e carreira | 384 |
+| Outros | 347 |
 | Referência e idiomas | 21 |
-| Religião e espiritualidade | 607 |
-| Saúde e bem-estar | 99 |
+| Religião e espiritualidade | 608 |
+| Saúde e bem-estar | 97 |
 | Tecnologia e computação | 112 |
 
 ## Artes e literatura · Arte, música e design (14)
@@ -170,7 +170,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tenha a Vida Que Deseja - Richard Bandler](Kindle/AZW3/Richard%20Bandler/Tenha%20a%20Vida%20Que%20Deseja%20-%20Richard%20Bandler.azw3) — Richard Bandler
 - [Ultra-aprendizado - Scott Young](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ultra-aprendizado%20-%20Scott%20Young.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (164)
+## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (167)
 
 - [100 coisas que líderes de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20líderes%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
 - [100 coisas que pessoas de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
@@ -306,6 +306,9 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O poder do foco](Kindle/KFX/Jack%20Canfield/O%20poder%20do%20foco%20[Calibre-549].kfx) — Jack Canfield; Mark Victor Hansen; Les Hewitt
 - [O Poder Do Pensamento Positivo](Kindle/KFX/Norman%20Peale/O%20Poder%20Do%20Pensamento%20Positivo.kfx) — Norman Peale
 - [O Poder Do Pensamento Positivo - Norman Peale (completo)](Kindle/AZW3/Norman%20Vincent%20Peale/O%20Poder%20Do%20Pensamento%20Positivo%20-%20Norman%20Peale%20(completo).azw3) — Norman Vincent Peale
+- [O que as pessoas mentalmente fo](Kindle/KFX/Amy%20Morin/O%20que%20as%20pessoas%20mentalmente%20fo.kfx) — Amy Morin
+- [O que as pessoas mentalmente fo - Amy Morin](Kindle/AZW3/Amy%20Morin/O%20que%20as%20pessoas%20mentalmente%20fo%20-%20Amy%20Morin.azw3) — Amy Morin
+- [O que eu sei de verdade](Kindle/KFX/Oprah%20Winfrey/O%20que%20eu%20sei%20de%20verdade.kfx) — Oprah Winfrey
 - [O trader disciplinado: desenvolver atitudes ganhadoras](Kindle/AZW/Mark%20Douglas/O%20trader%20disciplinado_%20desenvolver%20atitudes%20ganhadoras.azw) — Mark Douglas
 - [Organize sua Mente](Kindle/KFX/S.J.%20Scott_%20Barrie%20Davenport/Organize%20sua%20Mente.kfx) — S.J. Scott| Barrie Davenport
 - [Organize sua Mente - S.J. Scott, Barrie Davenport](Kindle/AZW3/S.J.%20Scott/Organize%20sua%20Mente%20-%20S.J.%20Scott,%20Barrie%20Davenport.azw3) — S.J. Scott
@@ -486,7 +489,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Uma Breve História da Filosofia - Nigel Warburton](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20Breve%20História%20da%20Filosofia%20-%20Nigel%20Warburton.azw3) — FELIPE IVO PEREIRA
 - [Uma Breve História das Guerras Geoffrey Blainey 2014;2023 Fundamentos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20Breve%20História%20das%20Guerras%20Geoffrey%20Blainey%202014;2023%20Fundamentos.azw3) — FELIPE IVO PEREIRA
 
-## Humanidades e sociedade · Política, direito e sociedade (85)
+## Humanidades e sociedade · Política, direito e sociedade (82)
 
 - [12 Princípios para uma vida extraordinária](Kindle/KFX/Paulo%20Vieira/12%20Princípios%20para%20uma%20vida%20extraordinária.kfx) — Paulo Vieira
 - [50 perguntas sobre lei da atração para iniciantes](Kindle/KFX/William%20Sanches/50%20perguntas%20sobre%20lei%20da%20atração%20para%20iniciantes.kfx) — William Sanches
@@ -515,7 +518,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Culturas de crescimento - Mary Murphy](Kindle/AZW3/Mary%20Murphy/Culturas%20de%20crescimento%20-%20Mary%20Murphy.azw3) — Mary Murphy
 - [De Sarney a Temer - Nossa Incipiente Democracia](Kindle/AZW/Rafael%20Moia%20Filho/De%20Sarney%20a%20Temer%20-%20Nossa%20Incipiente%20Democracia.azw) — Rafael Moia Filho
 - [Direito E Inteligência Artificial O Que Os Algoritmos Têm A Ensinar](Kindle/AZW3/Hugo%20de%20Brito%20Machado/Direito%20E%20Inteligência%20Artificial%20O%20Que%20Os%20Algoritmos%20Têm%20A%20Ensinar.azw3) — Hugo de Brito Machado
-- [Do mil ao milhão](Kindle/KFX/Thiago%20Nigro/Do%20mil%20ao%20milhão.kfx) — Thiago Nigro
 - [Em Defesa de Israel](Kindle/KFX/Alan%20Dershowitz/Em%20Defesa%20de%20Israel.kfx) — Alan Dershowitz
 - [Enciclonerdia - Almanaque de Cultura Nerd](Kindle/AZW/Luis%20F.%20Fernandes/Enciclonerdia%20-%20Almanaque%20de%20Cultura%20Nerd.azw) — Luis F. Fernandes
 - [Fielmente diferente - Recuperando a clareza bíblica em uma cultura secular - Natasha Crain (PT-BR)](Kindle/AZW3/Natasha%20Crain/Fielmente%20diferente%20-%20Recuperando%20a%20clareza%20bíblica%20em%20uma%20cultura%20secular%20-%20Natasha%20Crain%20(PT-BR).azw3) — Natasha Crain
@@ -525,10 +527,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Idolatria Política Yago Martins](Kindle/AZW3/Yago%20Martins/Idolatria%20Política%20Yago%20Martins.azw3) — Yago Martins
 - [Liberalismo](EPUB/Ludwig%20von%20Mises/Liberalismo.epub) — Ludwig von Mises
 - [Liberte o poder do seu subconsciente](Kindle/AZW3/Joseph%20Murphy/Liberte%20o%20poder%20do%20seu%20subconsciente.azw3) — Joseph Murphy
-- [Manhãs poderosas](Kindle/KFX/Neder%20Izaac/Manhãs%20poderosas.kfx) — Neder Izaac
-- [Manhãs Poderosas Neder Izaac](Kindle/AZW3/Neder%20Izaac/Manhãs%20Poderosas%20Neder%20Izaac.azw3) — Neder Izaac
 - [Manual do TDAH](Kindle/KFX/Natasha%20Ganem/Manual%20do%20TDAH.kfx) — Natasha Ganem; Raphael Rangel
-- [Mate o dragão](Kindle/KFX/Israel%20Subirá/Mate%20o%20dragão.kfx) — Israel Subirá
 - [O animal social](Kindle/AZW3/Elliot%20Aronson%20Joshua%20Aronson/O%20animal%20social.azw3) — Elliot Aronson Joshua Aronson
 - [O Líder Criativo: Liberte o Poder do Seu Potencial Criativo](EPUB/Ed%20Young/O%20Líder%20Criativo_%20Liberte%20o%20Poder%20do%20Seu%20Potencial%20Criativo.epub) — Ed Young
 - [O MÉTODO - Phil Stutz e Barry Michels](Kindle/AZW3/Phil%20Stutz%20e%20Barry%20Michels/O%20MÉTODO%20-%20Phil%20Stutz%20e%20Barry%20Michels.azw3) — Phil Stutz e Barry Michels
@@ -558,6 +557,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O poder latente da alma](Kindle/KFX/Watchman%20Nee/O%20poder%20latente%20da%20alma.kfx) — Watchman Nee
 - [O poder latente da alma Watchman Nee](Kindle/AZW3/Watchman%20Nee/O%20poder%20latente%20da%20alma%20Watchman%20Nee.azw3) — Watchman Nee
 - [O Poder Secreto da Alegria](Kindle/AZW3/Rhema%20Brasil%20Publicações/O%20Poder%20Secreto%20da%20Alegria.azw3) — Rhema Brasil Publicações
+- [O príncipe](EPUB/Nicolau%20Maquiavel/O%20príncipe.epub) — Nicolau Maquiavel
 - [O que os donos do poder não querem que você sabia](Kindle/AZW/Eduardo%20Moreira/O%20que%20os%20donos%20do%20poder%20não%20querem%20que%20você%20sabia.azw) — Eduardo Moreira
 - [Pense bem antes de enviar](Kindle/AZW/Dr.%20Emerson%20Eggerichs/Pense%20bem%20antes%20de%20enviar.azw) — Dr. Emerson Eggerichs
 - [Poder e alta performance](Kindle/KFX/Paulo%20Vieira/Poder%20e%20alta%20performance.kfx) — Paulo Vieira
@@ -574,7 +574,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Visoes e Ilusoes Politicas - David T. Koyzis](Kindle/AZW3/David%20koyzis/Visoes%20e%20Ilusoes%20Politicas%20-%20David%20T.%20Koyzis.azw3) — David koyzis
 - [Woke S A a farsa da justiça social empresarial Vivek Ramaswamy](Kindle/AZW3/Vivek%20Ramaswamy/Woke%20S%20A%20a%20farsa%20da%20justiça%20social%20empresarial%20Vivek%20Ramaswamy.azw3) — Vivek Ramaswamy
 
-## Negócios e carreira · Finanças e investimentos (201)
+## Negócios e carreira · Finanças e investimentos (202)
 
 - [100 coisas que milionários fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20milionários%20fazem.kfx) — Nigel Cumberland
 - [50 ideias de economia que você precisa conhecer](Kindle/AZW/Edmund%20Conway/50%20ideias%20de%20economia%20que%20você%20precisa%20conhecer.azw) — Edmund Conway
@@ -748,6 +748,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O poder da reputação: Aprenda a construir e usar sua imagem para ser bem-sucedido no ambiente de trabalho](Kindle/AZW/John%20Whitfield/O%20poder%20da%20reputação_%20Aprenda%20a%20construir%20e%20usar%20sua%20imagem%20para%20ser%20bem-sucedido%20no%20ambiente%20de%20tra.azw) — John Whitfield
 - [O poder das afirmações positivas](Kindle/AZW3/Louise%20L.%20Hay/O%20poder%20das%20afirmações%20positivas.azw3) — Louise L. Hay
 - [O poder milagroso para alcançar riquezas infinitas](Kindle/AZW3/Joseph%20Murphy/O%20poder%20milagroso%20para%20alcançar%20riquezas%20infinitas.azw3) — Joseph Murphy
+- [O Primeiro Milhao para Casais](Kindle/KFX/Pedro%20Queiroga%20Carrilho/O%20Primeiro%20Milhao%20para%20Casais.kfx) — Pedro Queiroga Carrilho
 - [O Primeiro Milhão para Casais - Pedro Queiroga Carrilho](Kindle/AZW3/Pedro%20Queiroga%20Carrilho/O%20Primeiro%20Milhão%20para%20Casais%20-%20Pedro%20Queiroga%20Carrilho.azw3) — Pedro Queiroga Carrilho
 - [O principio 80 20 - Richard Koch](Kindle/AZW3/Richard%20Koch/O%20principio%2080%2020%20-%20Richard%20Koch.azw3) — Richard Koch
 - [O Que o Dinheiro não Compra](Kindle/AZW/Michael%20Sandel/O%20Que%20o%20Dinheiro%20não%20Compra.azw) — Michael Sandel
@@ -778,7 +779,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tudo o que você precisa saber sobre economia](Kindle/AZW/Alfred%20Mill/Tudo%20o%20que%20você%20precisa%20saber%20sobre%20economia.azw) — Alfred Mill
 - [Virada financeira](Kindle/KFX/Patricia%20Lages/Virada%20financeira.kfx) — Patricia Lages
 
-## Negócios e carreira · Gestão, liderança e empreendedorismo (143)
+## Negócios e carreira · Gestão, liderança e empreendedorismo (144)
 
 - [1 ano em 12 semanas](Kindle/KFX/Brian%20P%20Moran/1%20ano%20em%2012%20semanas.kfx) — Brian P Moran
 - [100 coisas que pessoas produtivas fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20produtivas%20fazem.kfx) — Nigel Cumberland
@@ -895,6 +896,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O poder dos ecossistemas](Kindle/KFX/Felipe%20Pacheco%20Borges/O%20poder%20dos%20ecossistemas.kfx) — Felipe Pacheco Borges
 - [O princípio 80/20: Os segredos para conseguir mais com menos nos negócios e na vida](Kindle/AZW/Richard%20Koch/O%20princípio%2080_20_%20Os%20segredos%20para%20conseguir%20mais%20com%20menos%20nos%20negócios%20e%20na%20vida.azw) — Richard Koch
 - [O princípio do progresso - Teresa Amabile](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20princípio%20do%20progresso%20-%20Teresa%20Amabile.azw3) — FELIPE IVO PEREIRA
+- [O que eu não posso deixar de fazer hoje](Kindle/AZW/Carlos%20Júlio/O%20que%20eu%20não%20posso%20deixar%20de%20fazer%20hoje.azw) — Carlos Júlio
 - [Onboarding orquestrado a metodologia inovadora para fazer seus novos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Onboarding%20orquestrado%20a%20metodologia%20inovadora%20para%20fazer%20seus%20novos.azw3) — FELIPE IVO PEREIRA
 - [Onze anéis](Kindle/KFX/Phil%20Jackson/Onze%20anéis.kfx) — Phil Jackson
 - [Oportunidades disfarcadas 2 - Carlos Domingos](Kindle/AZW3/Carlos%20Domingos/Oportunidades%20disfarcadas%202%20-%20Carlos%20Domingos.azw3) — Carlos Domingos
@@ -965,7 +967,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (348)
+## Outros · A classificar (347)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1044,6 +1046,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Diário de um CEO Steven Bartlett](Kindle/AZW3/Steven%20Bartlett/Diário%20de%20um%20CEO%20Steven%20Bartlett.azw3) — Steven Bartlett
 - [Diccionario de la lengua española](Kindle/AZW/Real%20Academia%20Española/Diccionario%20de%20la%20lengua%20española.azw) — Real Academia Española
 - [Direto ao Ponto - K. Anders Ericsson, Robert Pool](Kindle/AZW3/Anders%20Ericsson/Direto%20ao%20Ponto%20-%20K.%20Anders%20Ericsson,%20Robert%20Pool.azw3) — Anders Ericsson
+- [Do mil ao milhão](Kindle/KFX/Thiago%20Nigro/Do%20mil%20ao%20milhão.kfx) — Thiago Nigro
 - [Dominando-o-Ciclo-de-Mercado-apr](Kindle/AZW3/Unknown/Dominando-o-Ciclo-de-Mercado-apr.azw3) — Unknown
 - [Efeito Sombra](Kindle/AZW3/Depack/Efeito%20Sombra.azw3) — Depack
 - [Ego transformado](Kindle/KFX/Timothy%20Keller%20OFICIAL/Ego%20transformado.kfx) — Timothy Keller OFICIAL
@@ -1078,9 +1081,12 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [John Bevere](Kindle/KFX/O%20esplendor%20de%20Deus/John%20Bevere.kfx) — O esplendor de Deus
 - [JONATAS-Faltou-uma-coisa-Charles-Stanley](Kindle/AZW3/C.%20STANLEY/JONATAS-Faltou-uma-coisa-Charles-Stanley.azw3) — C. STANLEY
 - [Joseph F Hair & Outros Análise Multivariada](Kindle/AZW3/Tatham_%20Anderson/Joseph%20F%20Hair%20&%20Outros%20Análise%20Multivariada.azw3) — Tatham| Anderson
+- [Manhãs poderosas](Kindle/KFX/Neder%20Izaac/Manhãs%20poderosas.kfx) — Neder Izaac
+- [Manhãs Poderosas Neder Izaac](Kindle/AZW3/Neder%20Izaac/Manhãs%20Poderosas%20Neder%20Izaac.azw3) — Neder Izaac
 - [Manual do Mentor Charles Cezar (1)](Kindle/AZW3/Charles%20Cezar/Manual%20do%20Mentor%20Charles%20Cezar%20(1).azw3) — Charles Cezar
 - [Manual do TDAH Natasha Ganem, Raphael Rangel](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Manual%20do%20TDAH%20Natasha%20Ganem,%20Raphael%20Rangel.azw3) — FELIPE IVO PEREIRA
 - [Marcell Mazzoni - Síndrome do Impostor](Kindle/AZW3/Alpz%20Brasil/Marcell%20Mazzoni%20-%20Síndrome%20do%20Impostor.azw3) — Alpz Brasil
+- [Mate o dragão](Kindle/KFX/Israel%20Subirá/Mate%20o%20dragão.kfx) — Israel Subirá
 - [Maçonaria Para Leigos](Kindle/KFX/A.%20G.%20Olyver/Maçonaria%20Para%20Leigos.kfx) — A. G. Olyver
 - [Maçonaria Para Leigos - A. G. Olyver](Kindle/AZW3/A.%20G.%20Olyver/Maçonaria%20Para%20Leigos%20-%20A.%20G.%20Olyver.azw3) — A. G. Olyver
 - [Meditação Guia para Iniciantes @REVISTAVIRTUALBR](Kindle/AZW3/Saulo%20Mello/Meditação%20Guia%20para%20Iniciantes%20@REVISTAVIRTUALBR.azw3) — Saulo Mello
@@ -1116,12 +1122,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O método Wim Hof Ative todo o seu potencial humano](Kindle/AZW3/Wim%20Hof/O%20método%20Wim%20Hof%20Ative%20todo%20o%20seu%20potencial%20humano.azw3) — Wim Hof
 - [O Paradoxo da Paixão Brad Stulberg, Steve MagnessAlta Books](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20Paradoxo%20da%20Paixão%20Brad%20Stulberg,%20Steve%20MagnessAlta%20Books.azw3) — FELIPE IVO PEREIRA
 - [O paradoxo dos vegetais](Kindle/KFX/Steven%20R.%20Gundry/O%20paradoxo%20dos%20vegetais.kfx) — Steven R. Gundry
-- [O Primeiro Milhao para Casais](Kindle/KFX/Pedro%20Queiroga%20Carrilho/O%20Primeiro%20Milhao%20para%20Casais.kfx) — Pedro Queiroga Carrilho
 - [O primeiro é mais importante](Kindle/KFX/Stephen%20R.%20Covey/O%20primeiro%20é%20mais%20importante.kfx) — Stephen R. Covey; A. Roger Merrill; Rebecca R. Merrill
-- [O profeta pródigo](Kindle/KFX/Timothy%20Keller/O%20profeta%20pródigo.kfx) — Timothy Keller
-- [O príncipe](EPUB/Nicolau%20Maquiavel/O%20príncipe.epub) — Nicolau Maquiavel
-- [O que eu não posso deixar de fazer hoje](Kindle/AZW/Carlos%20Júlio/O%20que%20eu%20não%20posso%20deixar%20de%20fazer%20hoje.azw) — Carlos Júlio
-- [O que eu sei de verdade](Kindle/KFX/Oprah%20Winfrey/O%20que%20eu%20sei%20de%20verdade.kfx) — Oprah Winfrey
 - [O que os ricos sabem e não contam](Kindle/KFX/Brian%20Sher/O%20que%20os%20ricos%20sabem%20e%20não%20contam.kfx) — Brian Sher
 - [O que é ser Homem](Kindle/AZW3/Scott%20Galloway/O%20que%20é%20ser%20Homem.azw3) — Scott Galloway
 - [O que é ser humano](Kindle/KFX/Iain%20Provan/O%20que%20é%20ser%20humano.kfx) — Iain Provan
@@ -1340,7 +1341,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Portuguese-English Dictionary](Kindle/AZW/Priberam/Portuguese-English%20Dictionary.azw) — Priberam
 - [Português Para Não Pagar Mico](Kindle/AZW3/Noslen%20Borges/Português%20Para%20Não%20Pagar%20Mico.azw3) — Noslen Borges
 
-## Religião e espiritualidade · Bíblia e interpretação (156)
+## Religião e espiritualidade · Bíblia e interpretação (157)
 
 - [1 Coríntios - Como resolver conflitos na igreja - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Coríntios%20-%20Como%20resolver%20conflitos%20na%20igreja%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [1 e 2 Tessalonicenses - Como se preparar para a segunda vinda de Cristo - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20e%202%20Tessalonicenses%20-%20Como%20se%20preparar%20para%20a%20segunda%20vinda%20de%20Cristo%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
@@ -1469,6 +1470,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Mundo Perdido dos Profetas — Profecia do Antigo Testamento e Literatura Apocalíptica no Contexto Antigo - John H. Walton](Kindle/AZW3/John%20H.%20Walton/O%20Mundo%20Perdido%20dos%20Profetas%20—%20Profecia%20do%20Antigo%20Testamento%20e%20Literatura%20Apocalíptica%20no%20Contexto%20A.azw3) — John H. Walton
 - [O Novo Testamento em 15 palavras - Nijay Gupta](Kindle/AZW3/Nijay%20Gupta/O%20Novo%20Testamento%20em%2015%20palavras%20-%20Nijay%20Gupta.azw3) — Nijay Gupta
 - [O Novo Testamento em 15 Palavras - Nijay K. Gupta](Kindle/AZW3/Nijay%20K.%20Gupta/O%20Novo%20Testamento%20em%2015%20Palavras%20-%20Nijay%20K.%20Gupta.azw3) — Nijay K. Gupta
+- [O profeta pródigo](Kindle/KFX/Timothy%20Keller/O%20profeta%20pródigo.kfx) — Timothy Keller
 - [O Profeta Pródigo Jonas E O Mistério Da Misericórdia De Deus](Kindle/AZW3/Timothy%20Keller/O%20Profeta%20Pródigo%20Jonas%20E%20O%20Mistério%20Da%20Misericórdia%20De%20Deus.azw3) — Timothy Keller
 - [O que a Bíblia diz sobre o Espírito Santo](Kindle/KFX/Stanley%20M.%20Horton/O%20que%20a%20Bíblia%20diz%20sobre%20o%20Espírito%20Santo.kfx) — Stanley M. Horton
 - [O que a bíblia diz sobre o Espírito Santo Stan Z Library](Kindle/AZW3/Stanley%20M.%20Horton/O%20que%20a%20bíblia%20diz%20sobre%20o%20Espírito%20Santo%20Stan%20Z%20Library.azw3) — Stanley M. Horton
@@ -1987,7 +1989,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O nervo vago - Kevin J. Tracey](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20nervo%20vago%20-%20Kevin%20J.%20Tracey.azw3) — FELIPE IVO PEREIRA
 - [O paradoxo dos vegetais - Steven R. Gundry](Kindle/AZW3/Steven%20R.%20Gundry/O%20paradoxo%20dos%20vegetais%20-%20Steven%20R.%20Gundry.azw3) — Steven R. Gundry
 
-## Saúde e bem-estar · Saúde mental e emoções (77)
+## Saúde e bem-estar · Saúde mental e emoções (75)
 
 - [100 maneiras de vencer](Kindle/KFX/Nigel%20Cumberland/100%20maneiras%20de%20vencer.kfx) — Nigel Cumberland
 - [7 maneiras de ser feliz](Kindle/KFX/Luc%20Ferry/7%20maneiras%20de%20ser%20feliz.kfx) — Luc Ferry
@@ -2049,8 +2051,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Jogo Mental Do Poker Estrate - Barry Carter](Kindle/AZW3/Barry%20Carter/O%20Jogo%20Mental%20Do%20Poker%20Estrate%20-%20Barry%20Carter.azw3) — Barry Carter
 - [O Maior Segredo - Rhonda Byrne](Kindle/AZW3/Rhonda%20Byrne/O%20Maior%20Segredo%20-%20Rhonda%20Byrne.azw3) — Rhonda Byrne
 - [O Que as Lembranças De Infância Revelam Sobre Você: E O Que Você Pode Fazer Em Relação a Isso](Kindle/AZW/Kevin%20Leman/O%20Que%20as%20Lembranças%20De%20Infância%20Revelam%20Sobre%20Você_%20E%20O%20Que%20Você%20Pode%20Fazer%20Em%20Relação%20a%20Isso.azw) — Kevin Leman
-- [O que as pessoas mentalmente fo](Kindle/KFX/Amy%20Morin/O%20que%20as%20pessoas%20mentalmente%20fo.kfx) — Amy Morin
-- [O que as pessoas mentalmente fo - Amy Morin](Kindle/AZW3/Amy%20Morin/O%20que%20as%20pessoas%20mentalmente%20fo%20-%20Amy%20Morin.azw3) — Amy Morin
 - [O Que Eu Sei De Verdade - Oprah Winfrey](Kindle/AZW3/Oprah%20Winfrey/O%20Que%20Eu%20Sei%20De%20Verdade%20-%20Oprah%20Winfrey.azw3) — Oprah Winfrey
 - [O segredo da mentalidade judaica](Kindle/AZW/Dor%20Leon%20Attar/O%20segredo%20da%20mentalidade%20judaica.azw) — Dor Leon Attar
 - [O VIÉS OTIMISTA - Tali Sharot](Kindle/AZW3/Tali%20Sharot/O%20VIÉS%20OTIMISTA%20-%20Tali%20Sharot.azw3) — Tali Sharot

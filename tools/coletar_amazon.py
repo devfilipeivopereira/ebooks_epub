@@ -224,13 +224,24 @@ def get_product(page, asin):
     return url, title, byline, description
 
 
+def description_is_synopsis(value):
+    """Descarta anúncios de estado físico e kits usados como falsa sinopse."""
+    text = normalize(value)
+    condition_prefixes = (
+        "atencao ano correto do exemplar", "livros novos e fisicos este kit contem",
+        "livro de capas em brochura", "livro em bom estado", "livro usado em bom estado",
+        "brochura em bom estado", "brochura otimo estado",
+    )
+    return len(value.strip()) >= 90 and not text.startswith(condition_prefixes)
+
+
 def process(page, book):
     cleaned_title = clean_title(book["title"], book.get("authors", ""))
     for asin in direct_ids(book):
         url, title, byline, description = get_product(page, asin)
         score = title_score(cleaned_title, title, byline)
         author_match = author_ok(book.get("authors", ""), byline)
-        if score >= (92 if author_match is None else 83) and author_match is not False and len(description) >= 90 and description_language_ok(book, description):
+        if score >= (92 if author_match is None else 83) and author_match is not False and description_is_synopsis(description) and description_language_ok(book, description):
             return {"id": book["id"], "status": "verificado", "asin": asin,
                     "product_url": url, "search_url": "", "amazon_title": title,
                     "amazon_authors": byline, "title_score": round(score, 1),
@@ -252,7 +263,7 @@ def process(page, book):
         score = title_score(cleaned_title, title, byline)
         author_match = author_ok(book.get("authors", ""), byline)
         threshold = 92 if author_match is None else 83
-        if score < threshold or author_match is False or len(description) < 90 or not description_language_ok(book, description):
+        if score < threshold or author_match is False or not description_is_synopsis(description) or not description_language_ok(book, description):
             continue
         return {"id": book["id"], "status": "verificado", "asin": asin,
                 "product_url": url, "search_url": search_url, "amazon_title": title,

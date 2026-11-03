@@ -5,7 +5,7 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-from coletar_amazon import clean_title, description_language_ok, title_score
+from coletar_amazon import clean_title, description_is_synopsis, description_language_ok, title_score
 
 ROOT = Path(__file__).resolve().parents[1]
 books = {book["id"]: book for book in json.loads((ROOT / "catalogo.json").read_text(encoding="utf-8"))}
@@ -31,7 +31,7 @@ for book_id, item in latest.items():
     score = title_score(clean_title(book["title"], book.get("authors", "")), item["amazon_title"], item.get("amazon_authors", ""))
     language = description_language_ok(book, item["description"])
     threshold = 92 if item.get("author_match") is None else 83
-    if score < threshold or not language:
+    if score < threshold or not language or not description_is_synopsis(item["description"]):
         suspects.append((book, item, score, language))
 
 with (ROOT / "REVISAO_AMAZON.csv").open("w", encoding="utf-8-sig", newline="") as stream:
