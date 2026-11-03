@@ -8,13 +8,13 @@ Classificação editorial automática a partir do título, tags e descrição di
 |---|---:|
 | Artes e literatura | 48 |
 | Ciência e natureza | 39 |
-| Educação e desenvolvimento pessoal | 224 |
+| Educação e desenvolvimento pessoal | 225 |
 | Família e relacionamentos | 40 |
 | Humanidades e sociedade | 183 |
-| Negócios e carreira | 395 |
-| Outros | 321 |
+| Negócios e carreira | 397 |
+| Outros | 317 |
 | Referência e idiomas | 21 |
-| Religião e espiritualidade | 609 |
+| Religião e espiritualidade | 610 |
 | Saúde e bem-estar | 98 |
 | Tecnologia e computação | 114 |
 
@@ -173,7 +173,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tenha a Vida Que Deseja - Richard Bandler](Kindle/AZW3/Richard%20Bandler/Tenha%20a%20Vida%20Que%20Deseja%20-%20Richard%20Bandler.azw3) — Richard Bandler
 - [Ultra-aprendizado - Scott Young](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ultra-aprendizado%20-%20Scott%20Young.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (171)
+## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (172)
 
 - [100 coisas que líderes de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20líderes%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
 - [100 coisas que pessoas de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
@@ -323,6 +323,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Os princípios do sucesso](PDF/Jack%20Canfield/Os%20princípios%20do%20sucesso.pdf) — Jack Canfield; Janet Switzer
 - [Os Segredos da Mente Milionaria](Kindle/KFX/T.%20Harv%20Eker/Os%20Segredos%20da%20Mente%20Milionaria.kfx) — T. Harv Eker
 - [Os Segredos da Mente Milionária - T. Harv Eker](Kindle/AZW3/T.%20Harv%20Eker/Os%20Segredos%20da%20Mente%20Milionária%20-%20T.%20Harv%20Eker.azw3) — T. Harv Eker
+- [Padrões de alta performance](Kindle/KFX/Napoleon%20Hill/Padrões%20de%20alta%20performance.kfx) — Napoleon Hill; Joel Jota
 - [Pensamento eficaz](Kindle/KFX/Shane%20Parrish/Pensamento%20eficaz.kfx) — Shane Parrish
 - [Penso e acontece - Bob Proctor (1)](Kindle/AZW3/Bob%20Proctor/Penso%20e%20acontece%20-%20Bob%20Proctor%20(1).azw3) — Bob Proctor
 - [Planejando livros de sucesso: o que especialistas precisam saber antes de escrever um livro](EPUB/Eldes%20Saullo/Planejando%20livros%20de%20sucesso_%20o%20que%20especialistas%20precisam%20saber%20antes%20de%20escrever%20um%20livro.epub) — Eldes Saullo
@@ -585,7 +586,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Visoes e Ilusoes Politicas - David T. Koyzis](Kindle/AZW3/David%20koyzis/Visoes%20e%20Ilusoes%20Politicas%20-%20David%20T.%20Koyzis.azw3) — David koyzis
 - [Woke S A a farsa da justiça social empresarial Vivek Ramaswamy](Kindle/AZW3/Vivek%20Ramaswamy/Woke%20S%20A%20a%20farsa%20da%20justiça%20social%20empresarial%20Vivek%20Ramaswamy.azw3) — Vivek Ramaswamy
 
-## Negócios e carreira · Finanças e investimentos (207)
+## Negócios e carreira · Finanças e investimentos (209)
 
 - [100 coisas que milionários fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20milionários%20fazem.kfx) — Nigel Cumberland
 - [50 ideias de economia que você precisa conhecer](Kindle/AZW/Edmund%20Conway/50%20ideias%20de%20economia%20que%20você%20precisa%20conhecer.azw) — Edmund Conway
@@ -780,6 +781,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Os grandes magos do mercado financeiro](Kindle/AZW3/Jack%20D%20Schwager/Os%20grandes%20magos%20do%20mercado%20financeiro.azw3) — Jack D Schwager
 - [Os magos desconhecidos do mercado financeiro](Kindle/AZW3/Jack%20Schwager/Os%20magos%20desconhecidos%20do%20mercado%20financeiro.azw3) — Jack Schwager
 - [Os quatro medos que nos impedem de viver](Kindle/AZW3/Eudes%20Séméria/Os%20quatro%20medos%20que%20nos%20impedem%20de%20viver.azw3) — Eudes Séméria
+- [Pai Rico, Pai Pobre - Edicao de](Kindle/KFX/T.%20Kiyosaki_%20Robert/Pai%20Rico,%20Pai%20Pobre%20-%20Edicao%20de.kfx) — T. Kiyosaki| Robert
+- [Palavras](Kindle/AZW3/Kenneth%20E%20Hagin/Palavras.azw3) — Kenneth E Hagin
 - [Pequenas Atitudes, grandes mudanças](Kindle/KFX/Caroline%20L.%20Arnold/Pequenas%20Atitudes,%20grandes%20mudanças.kfx) — Caroline L. Arnold
 - [perguntasfinancas](Kindle/AZW3/Newheiser_%20Jim/perguntasfinancas.azw3) — Newheiser| Jim
 - [Perícia financeira - Paulo Cordeiro De Mello](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Perícia%20financeira%20-%20Paulo%20Cordeiro%20De%20Mello.azw3) — FELIPE IVO PEREIRA
@@ -989,7 +992,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (321)
+## Outros · A classificar (317)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1155,11 +1158,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Otimista Racional, O - Matt Ridley (1)](Kindle/AZW3/Matt%20Ridley/Otimista%20Racional,%20O%20-%20Matt%20Ridley%20(1).azw3) — Matt Ridley
 - [Oxford Dictionary of English](Kindle/AZW/Oxford%20University%20Press/Oxford%20Dictionary%20of%20English.azw) — Oxford University Press
 - [Padrões de alta performance Napoleon Hill Joel Jota](Kindle/AZW3/Napoleon%20Hill/Padrões%20de%20alta%20performance%20Napoleon%20Hill%20Joel%20Jota.azw3) — Napoleon Hill
-- [Padrões de alta performance](Kindle/KFX/Napoleon%20Hill/Padrões%20de%20alta%20performance.kfx) — Napoleon Hill; Joel Jota
-- [Pai Rico, Pai Pobre - Edicao de](Kindle/KFX/T.%20Kiyosaki_%20Robert/Pai%20Rico,%20Pai%20Pobre%20-%20Edicao%20de.kfx) — T. Kiyosaki| Robert
 - [Pai Rico, Pai Pobre - Edicao de - T. Kiyosaki, Robert](Kindle/AZW3/Robert%20T.%20Kiyosaki/Pai%20Rico,%20Pai%20Pobre%20-%20Edicao%20de%20-%20T.%20Kiyosaki,%20Robert.azw3) — Robert T. Kiyosaki
-- [Paixão por Israel](Kindle/KFX/André%20Daniel%20Reinke/Paixão%20por%20Israel.kfx) — André Daniel Reinke
-- [Palavras](Kindle/AZW3/Kenneth%20E%20Hagin/Palavras.azw3) — Kenneth E Hagin
 - [Palavras mágicas Jonah Berger](Kindle/AZW3/Jonah%20Berger/Palavras%20mágicas%20Jonah%20Berger.azw3) — Jonah Berger
 - [Pare de se sabotar e dê a volta por cima Flip Flippen, Chris J White](Kindle/AZW3/Chris%20J.%20White%20Flip%20Flippen/Pare%20de%20se%20sabotar%20e%20dê%20a%20volta%20por%20cima%20Flip%20Flippen,%20Chris%20J%20White.azw3) — Chris J. White Flip Flippen
 - [Paulo para todos Gálatas e Tessalonicenses](Kindle/AZW3/N.T.%20Wright/Paulo%20para%20todos%20Gálatas%20e%20Tessalonicenses.azw3) — N.T. Wright
@@ -1496,7 +1495,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vendedor na era digital, O César Frazão & João Kepler (1)](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Vendedor%20na%20era%20digital,%20O%20César%20Frazão%20&%20João%20Kepler%20(1).azw3) — FELIPE IVO PEREIRA
 - [Vida através da morte: estudo da epístola aos Romanos](Kindle/KFX/Charles%20Stanley/Vida%20através%20da%20morte_%20estudo%20da%20epístola%20aos%20Romanos.kfx) — Charles Stanley
 
-## Religião e espiritualidade · Pregação e ministério (171)
+## Religião e espiritualidade · Pregação e ministério (172)
 
 - [1 Timóteo - O pastor, sua vida e sua obra - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Timóteo%20-%20O%20pastor,%20sua%20vida%20e%20sua%20obra%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [101 idéias criativas para cultos domésticos (101 ideias)](EPUB/Merkh_%20David/101%20idéias%20criativas%20para%20cultos%20domésticos%20(101%20ideias).epub) — Merkh| David
@@ -1633,6 +1632,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Olhe Antes de Você Ser um Líder: Como Discernir e Moldar Sua Cultura na Igreja](EPUB/Aubrey%20Malphurs/Olhe%20Antes%20de%20Você%20Ser%20um%20Líder_%20Como%20Discernir%20e%20Moldar%20Sua%20Cultura%20na%20Igreja.epub) — Aubrey Malphurs
 - [OlheAntesDeVoceSerUmLider ptBR](Kindle/AZW3/Aubrey%20Malphurs/OlheAntesDeVoceSerUmLider%20ptBR.azw3) — Aubrey Malphurs
 - [Os sermões dos marica](Kindle/AZW3/Yago%20Martins/Os%20sermões%20dos%20marica.azw3) — Yago Martins
+- [Paixão por Israel](Kindle/KFX/André%20Daniel%20Reinke/Paixão%20por%20Israel.kfx) — André Daniel Reinke
 - [Paulo para todos Cartas Pastorais](Kindle/AZW3/N.T.%20Wright/Paulo%20para%20todos%20Cartas%20Pastorais.azw3) — N.T. Wright
 - [Planejamento estratégico para igrejas](Kindle/AZW3/Josué%20Campanhã/Planejamento%20estratégico%20para%20igrejas.azw3) — Josué Campanhã
 - [Plantando Igrejas que se Reproduzem — Iniciando uma Rede de Igrejas Simples - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Plantando%20Igrejas%20que%20se%20Reproduzem%20—%20Iniciando%20uma%20Rede%20de%20Igrejas%20Simples%20-%20Joel%20Comiskey.azw3) — Joel Comiskey

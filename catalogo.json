@@ -44576,7 +44576,7 @@
     ],
     "amazon_search_url": "https://www.amazon.com.br/s?k=Oxford+Dictionary+of+English+Oxford+University+Press",
     "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_status": "rejeitado na revisão"
   },
   {
     "id": 906,
@@ -44601,7 +44601,7 @@
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=P%2Arra+Sai+Dessa%2C+Cara%3A+10+Tapas+na+Cara+Para+Quem+Quer+Mudar+de+Rumo+Alain+Rocha",
     "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_status": "sem_resultado"
   },
   {
     "id": 1839,
@@ -44626,7 +44626,7 @@
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=Padro%CC%83es+de+alta+performance+Napoleon+Hill+Joel+Jota+Napoleon+Hill",
     "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_status": "sem_correspondencia_confiavel"
   },
   {
     "id": 523,
@@ -44643,15 +44643,15 @@
         "sha256": "0c7a164889736b95c8da35180caa71701fee29e33494b9f494951b86bdcb782c"
       }
     ],
-    "description": "",
-    "description_source": "indisponível",
-    "amazon_description": "",
-    "theme": "Outros",
-    "subtheme": "A classificar",
+    "description": "A FORÇA DO HÁBITO PARA ATINGIR A ALTA PERFORMANCE O SUCESSO pode ser compreendido como uma série de hábitos – ações deliberadas ao longo do tempo que, devido à repetição, tornam-se automáticos. Uma vez que esses hábitos de sucesso são incorporados à rotina, eles atuam dentro dela porque desenvolveram um padrão alojado em nossa mente subconsciente. O princípio pelo qual uma ideia germina e cresce em sua mente até se tornar um hábito foi chamado por Napoleon Hill de Força Cósmica do Hábito. Joel Jota, por sua vez, explica que os padrões de alta performance que aprendeu durante sua trajetória no esporte mudaram sua vida e podem ser aplicadas em qualquer área da vida. Essa força é definitiva e tem sido utilizada e demonstrada pelos maiores indivíduos do mundo. E nunca falha. Funciona para todos, quer para uma pessoa humilde, quer para um magnata dos negócios. A sua finalidade é perpetuar tudo depois da sua própria espécie, incluindo os hábitos de pensamento do homem. Uma vez alocado em nossa mente subconsciente, esses hábitos de rotina têm a determinação e persistência de ervas daninhas, mas, inversamente, agora deliberadamente cultivados, são mais elevados, funcionais e produtivos. Eles são fruto dos nossos pensamentos, e são colocados intencionalmente dentro da nossa psique interior. Uma vez encontrada a chave para esse tesouro, toda a bondade do Universo será nossa para o pedir o que quisermos. Esta edição apresenta uma verdadeira conversa entre Joel Jota, influenciador digital e empresário brasileiro, expert em produtividade e vida equilibrada, com Napoleon Hill, o pai do desenvolvimento pessoal e criador das Leis do Sucesso. Ex-nadador da Seleção Brasileira, Joel tem uma trajetória ímpar, que serve de inspiração para empreendedores e atletas brasileiros. Leia mais",
+    "description_source": "Amazon Brasil",
+    "amazon_description": "A FORÇA DO HÁBITO PARA ATINGIR A ALTA PERFORMANCE O SUCESSO pode ser compreendido como uma série de hábitos – ações deliberadas ao longo do tempo que, devido à repetição, tornam-se automáticos. Uma vez que esses hábitos de sucesso são incorporados à rotina, eles atuam dentro dela porque desenvolveram um padrão alojado em nossa mente subconsciente. O princípio pelo qual uma ideia germina e cresce em sua mente até se tornar um hábito foi chamado por Napoleon Hill de Força Cósmica do Hábito. Joel Jota, por sua vez, explica que os padrões de alta performance que aprendeu durante sua trajetória no esporte mudaram sua vida e podem ser aplicadas em qualquer área da vida. Essa força é definitiva e tem sido utilizada e demonstrada pelos maiores indivíduos do mundo. E nunca falha. Funciona para todos, quer para uma pessoa humilde, quer para um magnata dos negócios. A sua finalidade é perpetuar tudo depois da sua própria espécie, incluindo os hábitos de pensamento do homem. Uma vez alocado em nossa mente subconsciente, esses hábitos de rotina têm a determinação e persistência de ervas daninhas, mas, inversamente, agora deliberadamente cultivados, são mais elevados, funcionais e produtivos. Eles são fruto dos nossos pensamentos, e são colocados intencionalmente dentro da nossa psique interior. Uma vez encontrada a chave para esse tesouro, toda a bondade do Universo será nossa para o pedir o que quisermos. Esta edição apresenta uma verdadeira conversa entre Joel Jota, influenciador digital e empresário brasileiro, expert em produtividade e vida equilibrada, com Napoleon Hill, o pai do desenvolvimento pessoal e criador das Leis do Sucesso. Ex-nadador da Seleção Brasileira, Joel tem uma trajetória ímpar, que serve de inspiração para empreendedores e atletas brasileiros. Leia mais",
+    "theme": "Educação e desenvolvimento pessoal",
+    "subtheme": "Desenvolvimento pessoal",
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=Padr%C3%B5es+de+alta+performance+Napoleon+Hill",
-    "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_product_url": "https://www.amazon.com.br/dp/6550472512",
+    "amazon_status": "verificado"
   },
   {
     "id": 932,
@@ -44668,15 +44668,15 @@
         "sha256": "26cbacf0355829954b4b0b87a7de07b64e20489e5b6adfe5cb1be8a174f144fa"
       }
     ],
-    "description": "",
-    "description_source": "indisponível",
-    "amazon_description": "",
-    "theme": "Outros",
-    "subtheme": "A classificar",
+    "description": "O livro de finanças pessoais mais vendido de sempre! Edição revista e atualizada - inclui 9 secções de estudo O CLÁSSICO DAS FINANÇAS PESSOAIS QUE SE MANTÉM ATUAL Desfaz o mito de que precisa de ter um salário elevado para enriquecer - especialmente num mundo onde a tecnologia, os robôs e a economia global estão a mudar as regras. Ensina porque adquirir e criar ativos pode ser mais importante para o seu futuro do que um grande salário. Desafia a crença de que a sua casa é um ativo - como milhões de pessoas aprenderam quando a bolha imobiliária rebentou. Recorda-nos porque não podemos depender do sistema escolar para ensinar os nossos filhos sobre dinheiro - e por que razão essa competência fundamental para a vida é mais importante hoje do que nunca. Explica o que deve ensinar aos seus filhos sobre dinheiro - para que possam estar reparados para os desafios e oportunidades do mundo de hoje e desfrutar da vida rica que merecem. \"A principal razão pela qual as pessoas enfrentam dificuldades financeiras é porque passaram anos na escola, mas nada aprenderam sobre dinheiro. O resultado é que aprendem a trabalhar por dinheiro… mas nunca aprendem a fazer com que o dinheiro trabalhe para elas.\" Robert T. Kiyosaki Leia mais",
+    "description_source": "Amazon Brasil",
+    "amazon_description": "O livro de finanças pessoais mais vendido de sempre! Edição revista e atualizada - inclui 9 secções de estudo O CLÁSSICO DAS FINANÇAS PESSOAIS QUE SE MANTÉM ATUAL Desfaz o mito de que precisa de ter um salário elevado para enriquecer - especialmente num mundo onde a tecnologia, os robôs e a economia global estão a mudar as regras. Ensina porque adquirir e criar ativos pode ser mais importante para o seu futuro do que um grande salário. Desafia a crença de que a sua casa é um ativo - como milhões de pessoas aprenderam quando a bolha imobiliária rebentou. Recorda-nos porque não podemos depender do sistema escolar para ensinar os nossos filhos sobre dinheiro - e por que razão essa competência fundamental para a vida é mais importante hoje do que nunca. Explica o que deve ensinar aos seus filhos sobre dinheiro - para que possam estar reparados para os desafios e oportunidades do mundo de hoje e desfrutar da vida rica que merecem. \"A principal razão pela qual as pessoas enfrentam dificuldades financeiras é porque passaram anos na escola, mas nada aprenderam sobre dinheiro. O resultado é que aprendem a trabalhar por dinheiro… mas nunca aprendem a fazer com que o dinheiro trabalhe para elas.\" Robert T. Kiyosaki Leia mais",
+    "theme": "Negócios e carreira",
+    "subtheme": "Finanças e investimentos",
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=Pai+Rico%2C+Pai+Pobre+-+Edicao+de+T.+Kiyosaki%7C+Robert",
-    "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_product_url": "https://www.amazon.com.br/dp/9895896883",
+    "amazon_status": "verificado"
   },
   {
     "id": 2088,
@@ -44701,7 +44701,7 @@
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=Pai+Rico%2C+Pai+Pobre+-+Edicao+de+-+T.+Kiyosaki%2C+Robert+Robert+T.+Kiyosaki",
     "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_status": "sem_correspondencia_confiavel"
   },
   {
     "id": 2065,
@@ -44726,7 +44726,7 @@
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=Pais+conscientes%2C+v%C3%ADnculos+indestrut%C3%ADveis+Shefali+Tsabary+Shefali+Tsabary",
     "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_status": "sem_correspondencia_confiavel"
   },
   {
     "id": 860,
@@ -44743,15 +44743,15 @@
         "sha256": "28fb2c727fde1558423427aab3988f92f892305ecfe41cf6cca2c4560f44456b"
       }
     ],
-    "description": "",
-    "description_source": "indisponível",
-    "amazon_description": "",
-    "theme": "Outros",
-    "subtheme": "A classificar",
+    "description": "Por que os evangélicos são apaixonados por Israel? Nos últimos 150 anos, o protestantismo tem demonstrado uma evidente aproximação com os judeus e com Israel. No Brasil, essa relação vai além de uma simples afinidade: trata-se de uma verdadeira paixão, manifestada de diversas formas. Isso inclui o uso de símbolos e festas judaicas nas igrejas, a especulação escatológica constante em notícias sobre Israel, o aumento das viagens religiosas à Terra Santa e o apoio incondicional ao Estado Judaico. Enfim, tudo o que vem de Israel parece despertar um entusiasmo singular em boa parte dos evangélicos. Mas quais são as razões por trás dessa paixão? André Daniel Reinke explora as razões teológicas desse fenômeno, conectando a teologia com a história e a sociologia a fim de revelar sua complexidade e ambiguidade. Sem adotar uma posição partidária, o autor busca compreender e esclarecer o tema, com o objetivo de criar pontes de diálogo entre evangélicos, judeus e a sociedade brasileira. Esta obra é fundamental para que o leitor compreenda a complexa relação dos evangélicos com os judeus, o judaísmo e Israel, bem como seu impacto no diálogo religioso e político no Brasil. Leia mais",
+    "description_source": "Amazon Brasil",
+    "amazon_description": "Por que os evangélicos são apaixonados por Israel? Nos últimos 150 anos, o protestantismo tem demonstrado uma evidente aproximação com os judeus e com Israel. No Brasil, essa relação vai além de uma simples afinidade: trata-se de uma verdadeira paixão, manifestada de diversas formas. Isso inclui o uso de símbolos e festas judaicas nas igrejas, a especulação escatológica constante em notícias sobre Israel, o aumento das viagens religiosas à Terra Santa e o apoio incondicional ao Estado Judaico. Enfim, tudo o que vem de Israel parece despertar um entusiasmo singular em boa parte dos evangélicos. Mas quais são as razões por trás dessa paixão? André Daniel Reinke explora as razões teológicas desse fenômeno, conectando a teologia com a história e a sociologia a fim de revelar sua complexidade e ambiguidade. Sem adotar uma posição partidária, o autor busca compreender e esclarecer o tema, com o objetivo de criar pontes de diálogo entre evangélicos, judeus e a sociedade brasileira. Esta obra é fundamental para que o leitor compreenda a complexa relação dos evangélicos com os judeus, o judaísmo e Israel, bem como seu impacto no diálogo religioso e político no Brasil. Leia mais",
+    "theme": "Religião e espiritualidade",
+    "subtheme": "Pregação e ministério",
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=Paix%C3%A3o+por+Israel+Andr%C3%A9+Daniel+Reinke",
-    "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_product_url": "https://www.amazon.com.br/dp/6552171668",
+    "amazon_status": "verificado"
   },
   {
     "id": 524,
@@ -44774,15 +44774,15 @@
         "sha256": "ffc380a1a155e34609ab88385ef28753e14b6c03515334d59d29e268b9f5928a"
       }
     ],
-    "description": "",
-    "description_source": "indisponível",
-    "amazon_description": "",
-    "theme": "Outros",
-    "subtheme": "A classificar",
+    "description": "\"Palavras\" do autor Kenneth E. Hagin, é uma clássica obra da literatura cristã que aborda a importância de sempre mantermos uma confissão positiva para que tenhamos uma vida boa. Sabemos que confissões e declarações positivas podem trazer felicidade e saúde para nós e para outros, como também o hábito de confissões e declarações negativas podem trazer doenças e até morte. Kenneth E. Hagin traz neste livro informações específicas como nossas palavras podem afetar outras pessoas, como podemos curar outras pessoas através de nossas palavras e indagações acerca do que está sendo nossa confissão a todo momento. \"A morte e a vida estão no poder da língua; e aquele que a ama comerá do seu fruto.\" (Provérbios 18:21) Neste livro você aprenderá que as suas palavras são importantes! Você precisa andar com essa consciência, porque ela estabelece os limites de sua vida. Você nunca realizará nada além das palavras que você fala. Você nunca conseguirá nada além daquilo que você declara. Fale a Palavra de Deus, e tenha a sua vida renovada dia após dia.",
+    "description_source": "Amazon Brasil",
+    "amazon_description": "\"Palavras\" do autor Kenneth E. Hagin, é uma clássica obra da literatura cristã que aborda a importância de sempre mantermos uma confissão positiva para que tenhamos uma vida boa. Sabemos que confissões e declarações positivas podem trazer felicidade e saúde para nós e para outros, como também o hábito de confissões e declarações negativas podem trazer doenças e até morte. Kenneth E. Hagin traz neste livro informações específicas como nossas palavras podem afetar outras pessoas, como podemos curar outras pessoas através de nossas palavras e indagações acerca do que está sendo nossa confissão a todo momento. \"A morte e a vida estão no poder da língua; e aquele que a ama comerá do seu fruto.\" (Provérbios 18:21) Neste livro você aprenderá que as suas palavras são importantes! Você precisa andar com essa consciência, porque ela estabelece os limites de sua vida. Você nunca realizará nada além das palavras que você fala. Você nunca conseguirá nada além daquilo que você declara. Fale a Palavra de Deus, e tenha a sua vida renovada dia após dia.",
+    "theme": "Negócios e carreira",
+    "subtheme": "Finanças e investimentos",
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=Palavras+Kenneth+E+Hagin",
-    "amazon_product_url": "",
-    "amazon_status": "não verificado"
+    "amazon_product_url": "https://www.amazon.com.br/dp/B083ZK737C",
+    "amazon_status": "verificado"
   },
   {
     "id": 2011,
