@@ -13,11 +13,18 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = Path(r"D:\CalibreLibrary")
 DATA = ROOT / "dados_amazon.jsonl"
 DECISIONS = ROOT / "DECISOES_AMAZON.csv"
+REVIEW = ROOT / "REVISAO_AMAZON.csv"
 rejected = set()
+approved = set()
 if DECISIONS.exists():
     with DECISIONS.open(encoding="utf-8-sig", newline="") as stream:
-        rejected = {int(row["ID Calibre"]) for row in csv.DictReader(stream)
-                    if row["Decisão"] == "rejeitar"}
+        decisions = {int(row["ID Calibre"]): row["Decisão"] for row in csv.DictReader(stream)}
+    rejected = {book_id for book_id, decision in decisions.items() if decision == "rejeitar"}
+    approved = {book_id for book_id, decision in decisions.items() if decision == "aprovar"}
+if REVIEW.exists():
+    with REVIEW.open(encoding="utf-8-sig", newline="") as stream:
+        rejected.update(int(row["ID Calibre"]) for row in csv.DictReader(stream)
+                        if int(row["ID Calibre"]) not in approved)
 results = {}
 for line in DATA.read_text(encoding="utf-8").splitlines():
     try:

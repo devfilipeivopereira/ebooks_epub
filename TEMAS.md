@@ -8,13 +8,13 @@ Classificação editorial automática a partir do título, tags e descrição di
 |---|---:|
 | Artes e literatura | 47 |
 | Ciência e natureza | 36 |
-| Educação e desenvolvimento pessoal | 211 |
+| Educação e desenvolvimento pessoal | 212 |
 | Família e relacionamentos | 37 |
-| Humanidades e sociedade | 187 |
+| Humanidades e sociedade | 188 |
 | Negócios e carreira | 378 |
-| Outros | 364 |
+| Outros | 360 |
 | Referência e idiomas | 21 |
-| Religião e espiritualidade | 601 |
+| Religião e espiritualidade | 603 |
 | Saúde e bem-estar | 98 |
 | Tecnologia e computação | 112 |
 
@@ -113,7 +113,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Outlive A arte e a ciência Peter Attia Bill Gifford](Kindle/AZW3/Peter%20Attia/Outlive%20A%20arte%20e%20a%20ciência%20Peter%20Attia%20Bill%20Gifford.azw3) — Peter Attia
 - [Uma introdução à metafísica](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20introdução%20à%20metafísica.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Aprendizagem e ensino (50)
+## Educação e desenvolvimento pessoal · Aprendizagem e ensino (51)
 
 - [(TRAD) origens da mitologia A a Z - Annette Giosec](Kindle/AZW3/Annette%20Giesecke/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z%20-%20Annette%20Giosec.azw3) — Annette Giesecke
 - [333 páginas para tirar seu projeto do papel](Kindle/KFX/Daniel%20Larusso/333%20páginas%20para%20tirar%20seu%20projeto%20do%20papel.kfx) — Daniel Larusso; Gabriel Gomes; Luciano Braga
@@ -155,6 +155,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Andar do Bebado](Kindle/AZW3/Leonard%20Mlodinow/O%20Andar%20do%20Bebado.azw3) — Leonard Mlodinow
 - [O Curso do Despertar](Kindle/AZW3/Joe%20Vitale/O%20Curso%20do%20Despertar.azw3) — Joe Vitale
 - [O livro secreto do escritor](Kindle/KFX/Lilian%20Cardoso/O%20livro%20secreto%20do%20escritor.kfx) — Lilian Cardoso
+- [O livro secreto do escritor Lilian Cardoso](Kindle/AZW3/Lilian%20Cardoso/O%20livro%20secreto%20do%20escritor%20Lilian%20Cardoso.azw3) — Lilian Cardoso
 - [O significado do casamento - Keller, Timothy](Kindle/AZW3/Timothy%20Keller/O%20significado%20do%20casamento%20-%20Keller,%20Timothy.azw3) — Timothy Keller
 - [Para ler como um escritor: Um guia para quem gosta de livros e para quem quer escrevê-los](Kindle/AZW/Francine%20Prose/Para%20ler%20como%20um%20escritor_%20Um%20guia%20para%20quem%20gosta%20de%20livros%20e%20para%20quem%20quer%20escrevê-los.azw) — Francine Prose
 - [Para Novos Gerentes 10 Leituras Essenciais](Kindle/KFX/Harvard%20Business%20Review/Para%20Novos%20Gerentes%2010%20Leituras%20Essenciais.kfx) — Harvard Business Review
@@ -420,7 +421,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [W. Gary Crampton - Filosofia Cristã Para Leigos](Kindle/AZW3/W.%20Gary%20Crampton/W.%20Gary%20Crampton%20-%20Filosofia%20Cristã%20Para%20Leigos.azw3) — W. Gary Crampton
 - [W. Gary Crampton - Filosofia Cristã Para Leigos (1)](Kindle/AZW3/W.%20Gary%20Crampton/W.%20Gary%20Crampton%20-%20Filosofia%20Cristã%20Para%20Leigos%20(1).azw3) — W. Gary Crampton
 
-## Humanidades e sociedade · História e biografias (54)
+## Humanidades e sociedade · História e biografias (55)
 
 - [21 Licoes para o Seculo XXI](Kindle/AZW3/Yuval%20Noah%20Harari/21%20Licoes%20para%20o%20Seculo%20XXI.azw3) — Yuval Noah Harari
 - [A boa sorte](Kindle/KFX/Alex%20Rovira%20Celma/A%20boa%20sorte.kfx) — Alex Rovira Celma; Fernando Trías de Bes
@@ -462,6 +463,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Cavaleiro Preso Na Armadura](Kindle/AZW3/Robert%20Fisher/O%20Cavaleiro%20Preso%20Na%20Armadura.azw3) — Robert Fisher
 - [O Dragão de Jade (Livro 3): Livro Infantil Ilustrado (7 a 12 Anos)](Kindle/AZW3/Julio%20Santos%20García/O%20Dragão%20de%20Jade%20(Livro%203)_%20Livro%20Infantil%20Ilustrado%20(7%20a%2012%20Anos).azw3) — Julio Santos García
 - [O homem mais inteligente da história](Kindle/KFX/Augusto%20Cury/O%20homem%20mais%20inteligente%20da%20história.kfx) — Augusto Cury
+- [O longo caminho para a utopia - J. Bradford Delong](Kindle/AZW3/J.%20Bradford%20DeLong/O%20longo%20caminho%20para%20a%20utopia%20-%20J.%20Bradford%20Delong.azw3) — J. Bradford DeLong
 - [Os 50 Acontecimentos Finais na História da Humanidade](Kindle/KFX/Robert%20J.Morgan/Os%2050%20Acontecimentos%20Finais%20na%20História%20da%20Humanidade.kfx) — Robert J.Morgan
 - [Panorama das histórias em quadrinhos no Brasil](Kindle/KFX/Waldomiro%20Vergueiro/Panorama%20das%20histórias%20em%20quadrinhos%20no%20Brasil.kfx) — Waldomiro Vergueiro
 - [Panorama das histórias em quadrinhos no Brasil Waldomiro Vergueiro](Kindle/AZW3/Waldomiro%20Vergueiro/Panorama%20das%20histórias%20em%20quadrinhos%20no%20Brasil%20Waldomiro%20Vergueiro.azw3) — Waldomiro Vergueiro
@@ -956,7 +958,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (364)
+## Outros · A classificar (360)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1103,10 +1105,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Enigma De Israel](Kindle/AZW3/Henrique%20Cymerman/O%20Enigma%20De%20Israel.azw3) — Henrique Cymerman
 - [O feitiço escarlate: Livro infantil ilustrado (7 a 12 anos) (As aventuras de Txano e Oscar 5)](Kindle/AZW3/Julio%20Santos%20García/O%20feitiço%20escarlate_%20Livro%20infantil%20ilustrado%20(7%20a%2012%20anos)%20(As%20aventuras%20de%20Txano%20e%20Oscar%205).azw3) — Julio Santos García
 - [O Filho Rico - Felipe Miranda](Kindle/AZW3/Miranda_Felipe/O%20Filho%20Rico%20-%20Felipe%20Miranda.azw3) — Miranda|Felipe
-- [O livro secreto do escritor Lilian Cardoso](Kindle/AZW3/Lilian%20Cardoso/O%20livro%20secreto%20do%20escritor%20Lilian%20Cardoso.azw3) — Lilian Cardoso
-- [O longo caminho para a utopia - J. Bradford Delong](Kindle/AZW3/J.%20Bradford%20DeLong/O%20longo%20caminho%20para%20a%20utopia%20-%20J.%20Bradford%20Delong.azw3) — J. Bradford DeLong
-- [O Manuscrito Original](Kindle/KFX/Napoleon%20Hill/O%20Manuscrito%20Original.kfx) — Napoleon Hill
-- [O Manuscrito Original - Napoleon Hill](Kindle/AZW3/Napoleon%20Hill/O%20Manuscrito%20Original%20-%20Napoleon%20Hill.azw3) — Napoleon Hill
 - [O melhor perdedor vence por qu - Hougaard, Tom](Kindle/AZW3/Tom%20Hougaard/O%20melhor%20perdedor%20vence%20por%20qu%20-%20Hougaard,%20Tom.azw3) — Tom Hougaard
 - [O mesmo de sempre](Kindle/AZW3/Morgan%20Housel/O%20mesmo%20de%20sempre.azw3) — Morgan Housel
 - [O METODO](Kindle/KFX/Phil%20Stutz%20e%20Barry%20Michels/O%20METODO.kfx) — Phil Stutz e Barry Michels
@@ -1347,7 +1345,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Portuguese-English Dictionary](Kindle/AZW/Priberam/Portuguese-English%20Dictionary.azw) — Priberam
 - [Português Para Não Pagar Mico](Kindle/AZW3/Noslen%20Borges/Português%20Para%20Não%20Pagar%20Mico.azw3) — Noslen Borges
 
-## Religião e espiritualidade · Bíblia e interpretação (155)
+## Religião e espiritualidade · Bíblia e interpretação (157)
 
 - [1 Coríntios - Como resolver conflitos na igreja - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Coríntios%20-%20Como%20resolver%20conflitos%20na%20igreja%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [1 e 2 Tessalonicenses - Como se preparar para a segunda vinda de Cristo - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20e%202%20Tessalonicenses%20-%20Como%20se%20preparar%20para%20a%20segunda%20vinda%20de%20Cristo%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
@@ -1470,6 +1468,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O estranho no caminho de Emaús: quem era o homem? Qual era a mensagem?](EPUB/John%20R.%20Cross/O%20estranho%20no%20caminho%20de%20Emaús_%20quem%20era%20o%20homem_%20Qual%20era%20a%20mensagem.epub) — John R. Cross
 - [O Livro de Mórmon](Kindle/AZW3/Joseph%20Smith/O%20Livro%20de%20Mórmon.azw3) — Joseph Smith
 - [O Livro dos livros - Edição Literária da Bíblia Sagrada](EPUB/Brasil_%20Sociedade%20Bíblica%20do/O%20Livro%20dos%20livros%20-%20Edição%20Literária%20da%20Bíblia%20Sagrada.epub) — Brasil| Sociedade Bíblica do
+- [O Manuscrito Original](Kindle/KFX/Napoleon%20Hill/O%20Manuscrito%20Original.kfx) — Napoleon Hill
+- [O Manuscrito Original - Napoleon Hill](Kindle/AZW3/Napoleon%20Hill/O%20Manuscrito%20Original%20-%20Napoleon%20Hill.azw3) — Napoleon Hill
 - [O mundo perdido de Enoque: O livro de Enoque e sua influência no Novo Testamento](Kindle/AZW3/Kenner%20Terra/O%20mundo%20perdido%20de%20Enoque_%20O%20livro%20de%20Enoque%20e%20sua%20influência%20no%20Novo%20Testamento.azw3) — Kenner Terra
 - [O Mundo Perdido dos Profetas — Profecia do Antigo Testamento e Literatura Apocalíptica no Contexto Antigo - John H. Walton](Kindle/AZW3/John%20H.%20Walton/O%20Mundo%20Perdido%20dos%20Profetas%20—%20Profecia%20do%20Antigo%20Testamento%20e%20Literatura%20Apocalíptica%20no%20Contexto%20A.azw3) — John H. Walton
 - [O novo testamento e o povo de Deus](Kindle/AZW3/N.%20T.%20Wright/O%20novo%20testamento%20e%20o%20povo%20de%20Deus.azw3) — N. T. Wright
