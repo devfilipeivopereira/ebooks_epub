@@ -2560,7 +2560,7 @@
     ],
     "amazon_search_url": "https://www.amazon.com.br/s?k=A+autoridade+do+crente+-+Kennet+-+DESKTOP+DESKTOP",
     "amazon_product_url": "",
-    "amazon_status": "sem_correspondencia_confiavel"
+    "amazon_status": "sem_resultado"
   },
   {
     "id": 1196,
@@ -3098,13 +3098,13 @@
     ],
     "description": "Livro, A cultura importa. Autor, Roger Scruton. LVM Editora.",
     "description_source": "Calibre",
-    "amazon_description": "",
+    "amazon_description": "O que é cultura? Por que devemos preservá-la? E como?Em A cultura importa, Roger Scruton defende a cultura ocidental contra as críticas internas e os inimigos externos e argumenta que os rumores de sua queda são completamente exagerados, que suas raízes vão além de uma estrutura social que pode ser golpeada pela política e pelos costumes.O autor mostra que cultura ocidental é uma fonte inesgotável de conhecimento moral e o sarcasmo em voga que a classifica como \"nada mais que um legado inútil de homens brancos europeus\" deve ser permanentemente refutado. Permeando as artes, a filosofia, entre outros itens constituintes de nossa cultura, defende o que T. S. Eliot chamou de \"busca comum do verdadeiro julgamento\" em contrapartida aos ataques dos novos acadêmicos.Roger Scruton é insistente em seu apelo à nossa civilização, que, mais do que nunca, necessita de autoconhecimento e autoconfiança que somente a cultura tradicional pode oferecer, mostrando, em especial, que aquela liberdade e autonomia que tanto se busca com filosofias confusas e progressismos políticos atabalhoados, já foi alcançada com a clássica cultura ocidental.",
     "theme": "Humanidades e sociedade",
     "subtheme": "Política, direito e sociedade",
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=A+cultura+importa+%28Roger+Scruton%29+Roger+Scruton",
-    "amazon_product_url": "",
-    "amazon_status": "revisao_pendente"
+    "amazon_product_url": "https://www.amazon.com.br/dp/6550521858",
+    "amazon_status": "verificado"
   },
   {
     "id": 332,
@@ -3297,7 +3297,7 @@
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=A+Ep%C3%ADstola+de+Tiago+-+v.1.0+-+Bruce+Anstey+Bruce+Anstey",
     "amazon_product_url": "",
-    "amazon_status": "sem_resultado"
+    "amazon_status": "sem_correspondencia_confiavel"
   },
   {
     "id": 712,
@@ -3544,7 +3544,7 @@
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=A+Experi%C3%AAncia+do+Lar+Devi+Titus+Unknown",
     "amazon_product_url": "",
-    "amazon_status": "revisao_pendente"
+    "amazon_status": "sem_correspondencia_confiavel"
   },
   {
     "id": 1119,
@@ -3667,15 +3667,15 @@
         "sha256": "dc63287f8fb245cca0ea873edb18b6baffd1618a8086616fffccb41d3f197f5d"
       }
     ],
-    "description": "",
-    "description_source": "indisponível",
-    "amazon_description": "",
+    "description": "Eli sabia usar as palavras. Ganhava a vida com elas — e foi por elas que a vida lhe cobrou o preço: no dia do enterro da mãe, descobriu que não tinha nenhuma que servisse. A herança coube num bolso: o relógio do avô, parado, que a mãe guardou por trinta anos. Dentro dele, dobrada onde deveria estar o mecanismo, uma carta com a letra do avô e uma frase que parecia esperar por Eli desde antes de ele nascer: \"Quando as palavras secarem, procura a Fonte.\" Assim começa a travessia: um caminho de poeira e encontros — um relojoeiro que escuta máquinas paradas, uma florista cega que enxerga o que vibra, um homem de ciência que quis medir Deus num laboratório e não soube dizer o que encontrou. A cada passo, a pergunta muda de tamanho: a Fonte é um lugar? Uma pessoa? Ou algo que não se diz com palavra nenhuma? A Fonte é um romance sobre a força que as palavras têm de secar uma vida — e de fazê-la brotar de novo. Na linhagem de O Alquimista, de Paulo Coelho, e de O Pequeno Príncipe, uma travessia breve para quem sente que já disse tudo e, mesmo assim, não encontra o que dizer. Leia mais",
+    "description_source": "Amazon Brasil",
+    "amazon_description": "Eli sabia usar as palavras. Ganhava a vida com elas — e foi por elas que a vida lhe cobrou o preço: no dia do enterro da mãe, descobriu que não tinha nenhuma que servisse. A herança coube num bolso: o relógio do avô, parado, que a mãe guardou por trinta anos. Dentro dele, dobrada onde deveria estar o mecanismo, uma carta com a letra do avô e uma frase que parecia esperar por Eli desde antes de ele nascer: \"Quando as palavras secarem, procura a Fonte.\" Assim começa a travessia: um caminho de poeira e encontros — um relojoeiro que escuta máquinas paradas, uma florista cega que enxerga o que vibra, um homem de ciência que quis medir Deus num laboratório e não soube dizer o que encontrou. A cada passo, a pergunta muda de tamanho: a Fonte é um lugar? Uma pessoa? Ou algo que não se diz com palavra nenhuma? A Fonte é um romance sobre a força que as palavras têm de secar uma vida — e de fazê-la brotar de novo. Na linhagem de O Alquimista, de Paulo Coelho, e de O Pequeno Príncipe, uma travessia breve para quem sente que já disse tudo e, mesmo assim, não encontra o que dizer. Leia mais",
     "theme": "Outros",
     "subtheme": "A classificar",
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=A+Fonte+-+Dra.+Tara+Swart+FELIPE+IVO+PEREIRA",
-    "amazon_product_url": "",
-    "amazon_status": "sem_correspondencia_confiavel"
+    "amazon_product_url": "https://www.amazon.com.br/dp/B0HKT9Y6KW",
+    "amazon_status": "verificado"
   },
   {
     "id": 397,
@@ -3723,15 +3723,15 @@
         "sha256": "d1b05b15a4b3221796fa60ffc925948cc408a240783e7560de3f363e06cb28af"
       }
     ],
-    "description": "",
-    "description_source": "indisponível",
-    "amazon_description": "",
-    "theme": "Outros",
-    "subtheme": "A classificar",
+    "description": "Quando Jesus cumpriu sua missão entre os homens, ele se fez servo de todos, curando os doentes, cuidando dos abatidos e pregando o evangelho às multidões. Em tudo isso, concentrou-se na tarefa de fazer discípulos ― pessoas que aprendessem dele e seguissem seus passos. Após sua morte e ressurreição, antes de subir ao céu, disse a seus seguidores: “vão e façam discípulos de todas as nações”. A formação de um discípulo o levará ao padrão de compromisso estabelecido por Jesus para que você reproduza esse mesmo padrão na vida de outros discípulos. Com uma abordagem prática e progressiva, dr. Phillips descreve o discipulado como um relacionamento duradouro e pessoal, assim planejado pelo Mestre. O chamado para participar dessa tarefa não é um dom especial, mas sim uma ordem a obedecer; é, na verdade, uma aventura ímpar que todos os discípulos de Cristo devem experimentar!",
+    "description_source": "Amazon Brasil",
+    "amazon_description": "Quando Jesus cumpriu sua missão entre os homens, ele se fez servo de todos, curando os doentes, cuidando dos abatidos e pregando o evangelho às multidões. Em tudo isso, concentrou-se na tarefa de fazer discípulos ― pessoas que aprendessem dele e seguissem seus passos. Após sua morte e ressurreição, antes de subir ao céu, disse a seus seguidores: “vão e façam discípulos de todas as nações”. A formação de um discípulo o levará ao padrão de compromisso estabelecido por Jesus para que você reproduza esse mesmo padrão na vida de outros discípulos. Com uma abordagem prática e progressiva, dr. Phillips descreve o discipulado como um relacionamento duradouro e pessoal, assim planejado pelo Mestre. O chamado para participar dessa tarefa não é um dom especial, mas sim uma ordem a obedecer; é, na verdade, uma aventura ímpar que todos os discípulos de Cristo devem experimentar!",
+    "theme": "Religião e espiritualidade",
+    "subtheme": "Pregação e ministério",
     "tags": [],
     "amazon_search_url": "https://www.amazon.com.br/s?k=A+Formacao+de+Um+Discipulo+-+Keith+Phillips+Keith+Phillips",
-    "amazon_product_url": "",
-    "amazon_status": "sem_correspondencia_confiavel"
+    "amazon_product_url": "https://www.amazon.com.br/dp/8573671602",
+    "amazon_status": "verificado"
   },
   {
     "id": 1049,

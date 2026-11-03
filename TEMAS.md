@@ -12,9 +12,9 @@ Classificação editorial automática a partir do título, tags e descrição di
 | Família e relacionamentos | 46 |
 | Humanidades e sociedade | 188 |
 | Negócios e carreira | 422 |
-| Outros | 202 |
+| Outros | 201 |
 | Referência e idiomas | 21 |
-| Religião e espiritualidade | 647 |
+| Religião e espiritualidade | 648 |
 | Saúde e bem-estar | 106 |
 | Tecnologia e computação | 117 |
 
@@ -1059,7 +1059,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (202)
+## Outros · A classificar (201)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1074,7 +1074,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [A Epístola de Tiago - v.1.0 - Bruce Anstey](Kindle/AZW3/Bruce%20Anstey/A%20Epístola%20de%20Tiago%20-%20v.1.0%20-%20Bruce%20Anstey.azw3) — Bruce Anstey
 - [A Experiência do Lar Devi Titus](Kindle/AZW3/Unknown/A%20Experiência%20do%20Lar%20Devi%20Titus.azw3) — Unknown
 - [A Fonte - Dra. Tara Swart](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/A%20Fonte%20-%20Dra.%20Tara%20Swart.azw3) — FELIPE IVO PEREIRA
-- [A Formacao de Um Discipulo - Keith Phillips](Kindle/AZW3/Keith%20Phillips/A%20Formacao%20de%20Um%20Discipulo%20-%20Keith%20Phillips.azw3) — Keith Phillips
 - [A Grande Ideia](EPUB/Dave%20Ferguson/A%20Grande%20Ideia.epub) — Dave Ferguson; Jon Ferguson; Eric Bramlett
 - [A Grande Ideia - Dave Ferguson, Jon Ferguson e Eric Bramlett - PTBR](Kindle/AZW3/Dave%20Ferguson/A%20Grande%20Ideia%20-%20Dave%20Ferguson,%20Jon%20Ferguson%20e%20Eric%20Bramlett%20-%20PTBR.azw3) — Dave Ferguson
 - [A liberacao do sobrenatural](Kindle/KFX/Vitor/A%20liberacao%20do%20sobrenatural.kfx) — Vitor
@@ -1454,7 +1453,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vida através da morte: estudo da epístola aos Romanos](Kindle/KFX/Charles%20Stanley/Vida%20através%20da%20morte_%20estudo%20da%20epístola%20aos%20Romanos.kfx) — Charles Stanley
 - [X](Kindle/KFX/John%20Bevere/X.kfx) — John Bevere
 
-## Religião e espiritualidade · Pregação e ministério (178)
+## Religião e espiritualidade · Pregação e ministério (179)
 
 - [1 Timóteo - O pastor, sua vida e sua obra - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Timóteo%20-%20O%20pastor,%20sua%20vida%20e%20sua%20obra%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [101 idéias criativas para cultos domésticos (101 ideias)](EPUB/Merkh_%20David/101%20idéias%20criativas%20para%20cultos%20domésticos%20(101%20ideias).epub) — Merkh| David
@@ -1469,6 +1468,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [A arte da paternidade espiritual Discípulos (Discipulado ativo) nodrm](Kindle/AZW3/Douglas%20W.%20de%20Andrade/A%20arte%20da%20paternidade%20espiritual%20Discípulos%20(Discipulado%20ativo)%20nodrm.azw3) — Douglas W. de Andrade
 - [A arte e o oficio da pregacao biblica](Kindle/AZW3/Haddon%20Robinson/A%20arte%20e%20o%20oficio%20da%20pregacao%20biblica.azw3) — Haddon Robinson
 - [A arte perdida de fazer discípulos nodrm](Kindle/AZW3/leroy%20Eims/A%20arte%20perdida%20de%20fazer%20discípulos%20nodrm.azw3) — leroy Eims
+- [A Formacao de Um Discipulo - Keith Phillips](Kindle/AZW3/Keith%20Phillips/A%20Formacao%20de%20Um%20Discipulo%20-%20Keith%20Phillips.azw3) — Keith Phillips
 - [A Grande Ideia da Pregacao PT-BR](Kindle/AZW3/Keith%20Willhite/A%20Grande%20Ideia%20da%20Pregacao%20PT-BR.azw3) — Keith Willhite
 - [A grande ideia da pregação: conectando a Bíblia às pessoas](EPUB/Keith%20Willhite/A%20grande%20ideia%20da%20pregação_%20conectando%20a%20Bíblia%20às%20pessoas.epub) — Keith Willhite
 - [A História Da Pregação (volume 1)](Kindle/AZW3/Benjamin%20K.%20Forrest...[et%20al.]/A%20História%20Da%20Pregação%20(volume%201).azw3) — Benjamin K. Forrest...[et al.]
