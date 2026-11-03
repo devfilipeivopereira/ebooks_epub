@@ -1,5 +1,5 @@
 {
-  "books": 2106,
+  "books": 2091,
   "files": 2445,
   "bytes": 7867538576,
   "formats": {
@@ -10,5 +10,5 @@
     "MOBI": 14,
     "PDF": 4
   },
-  "books_with_covers": 2106
+  "books_with_covers": 2091
 }
