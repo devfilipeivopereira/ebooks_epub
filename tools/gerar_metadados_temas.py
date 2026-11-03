@@ -16,6 +16,7 @@ from urllib.parse import quote_plus
 
 ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(r"D:\CalibreLibrary")
+AMAZON_DATA = ROOT / "dados_amazon.jsonl"
 
 
 class TextParser(HTMLParser):
@@ -100,6 +101,14 @@ def classify(title, tags, description):
 
 def main():
     books = json.loads((ROOT / "catalogo.json").read_text(encoding="utf-8"))
+    amazon = {}
+    if AMAZON_DATA.exists():
+        for line in AMAZON_DATA.read_text(encoding="utf-8").splitlines():
+            try:
+                item = json.loads(line)
+                amazon[item["id"]] = item
+            except (ValueError, KeyError):
+                continue
     db = sqlite3.connect(f"file:{LIBRARY / 'metadata.db'}?mode=ro", uri=True)
     comments = {}
     for book, text in db.execute("SELECT book,text FROM comments"):
@@ -112,24 +121,29 @@ def main():
     rows = []
     for book in books:
         book_id = book["id"]
-        description = comments.get(book_id, "")
+        source_data = amazon.get(book_id, {})
+        verified = source_data.get("status") == "verificado"
+        amazon_description = source_data.get("description", "") if verified else ""
+        description = comments.get(book_id, "") or amazon_description
         theme, subtheme = classify(book["title"], "; ".join(tags[book_id]), description)
         book["description"] = description
-        book["description_source"] = "Calibre" if description else "indisponível"
+        from_amazon = bool(amazon_description and re.sub(r"\s+", " ", comments.get(book_id, "")).strip() == re.sub(r"\s+", " ", amazon_description).strip())
+        book["description_source"] = "Amazon Brasil" if from_amazon or amazon_description and not comments.get(book_id) else "Calibre" if comments.get(book_id) else "indisponível"
+        book["amazon_description"] = amazon_description
         book["theme"] = theme
         book["subtheme"] = subtheme
         book["tags"] = tags[book_id]
         book["amazon_search_url"] = "https://www.amazon.com.br/s?k=" + quote_plus(book["title"] + " " + book["authors"].split(";")[0])
-        book["amazon_product_url"] = ""
-        book["amazon_status"] = "não verificado"
+        book["amazon_product_url"] = source_data.get("product_url", "") if verified else ""
+        book["amazon_status"] = "verificado" if verified else source_data.get("status", "não verificado")
         rows.append(book)
     (ROOT / "catalogo.json").write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
     with (ROOT / "catalogo.csv").open("w", encoding="utf-8-sig", newline="") as f:
         writer = csv.writer(f)
-        writer.writerow(["ID Calibre", "Título", "Autores", "Idiomas", "Identificadores", "Tema", "Subtema", "Tags Calibre", "Descrição", "Fonte da descrição", "Busca Amazon", "URL do produto Amazon", "Status Amazon", "Formato", "Arquivo", "Tamanho (bytes)", "SHA-256", "Capa"])
+        writer.writerow(["ID Calibre", "Título", "Autores", "Idiomas", "Identificadores", "Tema", "Subtema", "Tags Calibre", "Descrição", "Fonte da descrição", "Descrição Amazon", "Busca Amazon", "URL do produto Amazon", "Status Amazon", "Formato", "Arquivo", "Tamanho (bytes)", "SHA-256", "Capa"])
         for book in rows:
             for item in book["files"]:
-                writer.writerow([book["id"], book["title"], book["authors"], book["languages"], book["identifiers"], book["theme"], book["subtheme"], "; ".join(book["tags"]), book["description"], book["description_source"], book["amazon_search_url"], book["amazon_product_url"], book["amazon_status"], item["format"], item["path"], item["bytes"], item["sha256"], book["cover"]])
+                writer.writerow([book["id"], book["title"], book["authors"], book["languages"], book["identifiers"], book["theme"], book["subtheme"], "; ".join(book["tags"]), book["description"], book["description_source"], book["amazon_description"], book["amazon_search_url"], book["amazon_product_url"], book["amazon_status"], item["format"], item["path"], item["bytes"], item["sha256"], book["cover"]])
     grouped = defaultdict(list)
     for book in rows:
         grouped[(book["theme"], book["subtheme"])].append(book)
@@ -155,8 +169,8 @@ def main():
         writer = csv.writer(f)
         writer.writerow(["ID Calibre", "Título", "Autores", "Identificadores", "Busca Amazon", "URL do produto verificada", "Descrição Amazon", "Status"])
         for book in rows:
-            writer.writerow([book["id"], book["title"], book["authors"], book["identifiers"], book["amazon_search_url"], "", "", "não verificado"])
-    print(json.dumps({"books": len(rows), "with_description": sum(bool(b["description"]) for b in rows), "without_description": sum(not b["description"] for b in rows), "themes": dict(counts)}, ensure_ascii=False))
+            writer.writerow([book["id"], book["title"], book["authors"], book["identifiers"], book["amazon_search_url"], book["amazon_product_url"], book["amazon_description"], book["amazon_status"]])
+    print(json.dumps({"books": len(rows), "with_description": sum(bool(b["description"]) for b in rows), "without_description": sum(not b["description"] for b in rows), "amazon_verified": sum(b["amazon_status"] == "verificado" for b in rows), "themes": dict(counts)}, ensure_ascii=False))
 
 
 if __name__ == "__main__":

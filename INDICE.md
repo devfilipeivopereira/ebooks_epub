@@ -1,8 +1,6 @@
 # Índice dos ebooks
 
-Veja também a [classificação por temas e subtemas](TEMAS.md).
-
-Livros: **2106**  
+Livros: **2091**  
 Arquivos: **2445**  
 
 Consulte [`catalogo.csv`](catalogo.csv) para filtrar os formatos e [`catalogo.json`](catalogo.json) para integração com ferramentas.
@@ -78,14 +76,10 @@ Consulte [`catalogo.csv`](catalogo.csv) para filtrar os formatos e [`catalogo.js
 | 84 Perguntas Que Vendem Técnicas E Ferramentas Do Coaching De Vendas | Jaques Grinberg | AZW3, KFX | [`AZW3`](Kindle/AZW3/Jaques Grinberg/84 Perguntas Que Vendem Técnicas E Ferramentas Do Coaching De Vendas.azw3)<br>[`KFX`](Kindle/KFX/Jaques Grinberg/84 Perguntas Que Vendem Técnicas E Ferramentas Do Coaching De Vendas.kfx) |
 | @BibliotecaCrista A Mente do Espírito Craig S Keener 1 | Craig S. Keener | AZW3 | [`AZW3`](Kindle/AZW3/Craig S. Keener/@BibliotecaCrista A Mente do Espírito Craig S Keener 1.azw3) |
 | A 3a ALTERNATIVA | Stephen R. Covey | KFX | [`KFX`](Kindle/KFX/Stephen R. Covey/A 3a ALTERNATIVA.kfx) |
-| A alegria em ficar de fora | Andre Carvalhal | KFX | [`KFX`](Kindle/KFX/Andre Carvalhal/A alegria em ficar de fora.kfx) |
-| A alegria em ficar de fora - André Carvalhal | André Carvalhal | AZW3 | [`AZW3`](Kindle/AZW3/André Carvalhal/A alegria em ficar de fora - André Carvalhal.azw3) |
-| A arte da comunicacao de impacto | Shana Wajntraub | KFX | [`KFX`](Kindle/KFX/Shana Wajntraub/A arte da comunicacao de impacto.kfx) |
-| A arte da comunicação de impacto - Shana Wajntraub | Shana Wajntraub | AZW3 | [`AZW3`](Kindle/AZW3/Shana Wajntraub/A arte da comunicação de impacto - Shana Wajntraub.azw3) |
-| A Arte da Escolha | Sheena Iyengar | KFX | [`KFX`](Kindle/KFX/Sheena Iyengar/A Arte da Escolha.kfx) |
-| A Arte da Escolha - Sheena Iyengar | Sheena Iyengar | AZW3 | [`AZW3`](Kindle/AZW3/Sheena Iyengar/A Arte da Escolha - Sheena Iyengar.azw3) |
-| A arte da estatistica | David Spiegelhalter | KFX | [`KFX`](Kindle/KFX/David Spiegelhalter/A arte da estatistica.kfx) |
-| A arte da estatistica - David Spiegelhalter | David Spiegelhalter | AZW3 | [`AZW3`](Kindle/AZW3/David Spiegelhalter/A arte da estatistica - David Spiegelhalter.azw3) |
+| A alegria em ficar de fora | Andre Carvalhal | AZW3, KFX | [`AZW3`](Kindle/AZW3/Andre Carvalhal/A alegria em ficar de fora.azw3)<br>[`KFX`](Kindle/KFX/Andre Carvalhal/A alegria em ficar de fora.kfx) |
+| A arte da comunicacao de impacto | Shana Wajntraub | AZW3, KFX | [`AZW3`](Kindle/AZW3/Shana Wajntraub/A arte da comunicacao de impacto.azw3)<br>[`KFX`](Kindle/KFX/Shana Wajntraub/A arte da comunicacao de impacto.kfx) |
+| A Arte da Escolha | Sheena Iyengar | AZW3, KFX | [`AZW3`](Kindle/AZW3/Sheena Iyengar/A Arte da Escolha.azw3)<br>[`KFX`](Kindle/KFX/Sheena Iyengar/A Arte da Escolha.kfx) |
+| A arte da estatistica | David Spiegelhalter | AZW3, KFX | [`AZW3`](Kindle/AZW3/David Spiegelhalter/A arte da estatistica.azw3)<br>[`KFX`](Kindle/KFX/David Spiegelhalter/A arte da estatistica.kfx) |
 | A arte da insubordinação - Todd Kashdan | Todd Kashdan | AZW3 | [`AZW3`](Kindle/AZW3/Todd Kashdan/A arte da insubordinação - Todd Kashdan.azw3) |
 | A arte da oração | Kenneth E. Hagin | KFX | [`KFX`](Kindle/KFX/Kenneth E. Hagin/A arte da oração.kfx) |
 | A arte da paternidade espiritual Discípulos (Discipulado ativo) nodrm | Douglas W. de Andrade | AZW3 | [`AZW3`](Kindle/AZW3/Douglas W. de Andrade/A arte da paternidade espiritual Discípulos (Discipulado ativo) nodrm.azw3) |
@@ -95,16 +89,14 @@ Consulte [`catalogo.csv`](catalogo.csv) para filtrar os formatos e [`catalogo.js
 | A Arte de Enganar | Kevin D. Mitnick | KFX | [`KFX`](Kindle/KFX/Kevin D. Mitnick/A Arte de Enganar.kfx) |
 | A Arte de Escrever Ensinada em 20 Lições | Wagner Ferreira | AZW3, KFX | [`AZW3`](Kindle/AZW3/Wagner Ferreira/A Arte de Escrever Ensinada em 20 Lições.azw3)<br>[`KFX`](Kindle/KFX/Wagner Ferreira/A Arte de Escrever Ensinada em 20 Lições.kfx) |
 | A Arte de Escrever Para a Web - Paulo Maccedo | Paulo Maccedo | AZW3 | [`AZW3`](Kindle/AZW3/Paulo Maccedo/A Arte de Escrever Para a Web - Paulo Maccedo.azw3) |
-| A Arte de Fazer Escolhas | Louis Burlamaqui | KFX | [`KFX`](Kindle/KFX/Louis Burlamaqui/A Arte de Fazer Escolhas.kfx) |
-| A Arte de Fazer Escolhas - Louis Burlamaqui | Louis Burlamaqui | AZW3 | [`AZW3`](Kindle/AZW3/Louis Burlamaqui/A Arte de Fazer Escolhas - Louis Burlamaqui.azw3) |
+| A Arte de Fazer Escolhas | Louis Burlamaqui | AZW3, KFX | [`AZW3`](Kindle/AZW3/Louis Burlamaqui/A Arte de Fazer Escolhas.azw3)<br>[`KFX`](Kindle/KFX/Louis Burlamaqui/A Arte de Fazer Escolhas.kfx) |
 | A arte de ganhar dinheiro | P.T. Barnum | AZW3 | [`AZW3`](Kindle/AZW3/P.T. Barnum/A arte de ganhar dinheiro.azw3) |
 | A arte de ganhar dinheiro (P. T. Barnum) | P.T. Barnum | AZW3 | [`AZW3`](Kindle/AZW3/P.T. Barnum/A arte de ganhar dinheiro (P. T. Barnum).azw3) |
 | A arte de gastar dinheiro | Morgan Housel | AZW3, KFX | [`AZW3`](Kindle/AZW3/Morgan Housel/A arte de gastar dinheiro.azw3)<br>[`KFX`](Kindle/KFX/Morgan Housel/A arte de gastar dinheiro.kfx) |
 | A Arte de Lidar com Pessoas | Jamil Albuquerque | AZW3 | [`AZW3`](Kindle/AZW3/Jamil Albuquerque/A Arte de Lidar com Pessoas.azw3) |
 | A Arte de Ouvir - Aconselhamento bíblico | Ivanilza Belmiro Erdos | AZW3 | [`AZW3`](Kindle/AZW3/Ivanilza Belmiro Erdos/A Arte de Ouvir - Aconselhamento bíblico.azw3) |
 | A arte de pensar claramente | Rolf Dobelli | EPUB, KFX | [`EPUB`](EPUB/Rolf Dobelli/A arte de pensar claramente.epub)<br>[`KFX`](Kindle/KFX/Rolf Dobelli/A arte de pensar claramente.kfx) |
-| A arte de pensar com clareza A | Hasard Lee | KFX | [`KFX`](Kindle/KFX/Hasard Lee/A arte de pensar com clareza A.kfx) |
-| A arte de pensar com clareza A - Hasard Lee | Hasard Lee | AZW3 | [`AZW3`](Kindle/AZW3/Hasard Lee/A arte de pensar com clareza A - Hasard Lee.azw3) |
+| A arte de pensar com clareza A | Hasard Lee | AZW3, KFX | [`AZW3`](Kindle/AZW3/Hasard Lee/A arte de pensar com clareza A.azw3)<br>[`KFX`](Kindle/KFX/Hasard Lee/A arte de pensar com clareza A.kfx) |
 | A arte e o oficio da pregacao biblica | Haddon Robinson | AZW3 | [`AZW3`](Kindle/AZW3/Haddon Robinson/A arte e o oficio da pregacao biblica.azw3) |
 | A arte natural da sedução | Richard La Ruina | AZW3, KFX | [`AZW3`](Kindle/AZW3/Richard La Ruina/A arte natural da sedução.azw3)<br>[`KFX`](Kindle/KFX/Richard La Ruina/A arte natural da sedução.kfx) |
 | A arte perdida de fazer discípulos nodrm | leroy Eims | AZW3 | [`AZW3`](Kindle/AZW3/leroy Eims/A arte perdida de fazer discípulos nodrm.azw3) |
@@ -117,21 +109,17 @@ Consulte [`catalogo.csv`](catalogo.csv) para filtrar os formatos e [`catalogo.js
 | A Bíblia e o futuro | Anthony A. Hoekema | AZW3 | [`AZW3`](Kindle/AZW3/Anthony A. Hoekema/A Bíblia e o futuro.azw3) |
 | A Bíblia Sagrada Cronológica | Da Lima\| Jair Silva | EPUB | [`EPUB`](EPUB/Da Lima_ Jair Silva/A Bíblia Sagrada Cronológica.epub) |
 | A Ceia do Senhor | C. H. Mackintosh | KFX | [`KFX`](Kindle/KFX/C. H. Mackintosh/A Ceia do Senhor.kfx) |
-| A Chave mestra das riquezas | Napoleon Hill | KFX | [`KFX`](Kindle/KFX/Napoleon Hill/A Chave mestra das riquezas.kfx) |
-| A Chave mestra das riquezas - Napoleon Hill | Napoleon Hill | AZW3 | [`AZW3`](Kindle/AZW3/Napoleon Hill/A Chave mestra das riquezas - Napoleon Hill.azw3) |
+| A Chave mestra das riquezas | Napoleon Hill | AZW3, KFX | [`AZW3`](Kindle/AZW3/Napoleon Hill/A Chave mestra das riquezas.azw3)<br>[`KFX`](Kindle/KFX/Napoleon Hill/A Chave mestra das riquezas.kfx) |
 | A ciencia da sorte | Adam Kucharski Zahar | KFX | [`KFX`](Kindle/KFX/Adam Kucharski Zahar/A ciencia da sorte.kfx) |
 | A ciencia de ficar rico | Wallace D. Wattles | KFX | [`KFX`](Kindle/KFX/Wallace D. Wattles/A ciencia de ficar rico.kfx) |
-| A Ciencia do Bem-Estar | Wallace D. Wattles | KFX | [`KFX`](Kindle/KFX/Wallace D. Wattles/A Ciencia do Bem-Estar.kfx) |
-| A Ciencia do Bem-Estar - Wallace D. Wattles | Wallace D. Wattles | AZW3 | [`AZW3`](Kindle/AZW3/Wallace D. Wattles/A Ciencia do Bem-Estar - Wallace D. Wattles.azw3) |
-| A ciencia do sucesso | Napoleon Hill | KFX | [`KFX`](Kindle/KFX/Napoleon Hill/A ciencia do sucesso.kfx) |
+| A Ciencia do Bem-Estar | Wallace D. Wattles | AZW3, KFX | [`AZW3`](Kindle/AZW3/Wallace D. Wattles/A Ciencia do Bem-Estar.azw3)<br>[`KFX`](Kindle/KFX/Wallace D. Wattles/A Ciencia do Bem-Estar.kfx) |
+| A ciencia do sucesso | Napoleon Hill | AZW3, KFX | [`AZW3`](Kindle/AZW3/Napoleon Hill/A ciencia do sucesso.azw3)<br>[`KFX`](Kindle/KFX/Napoleon Hill/A ciencia do sucesso.kfx) |
 | a ciência da sorte - Adam Kucharski Zahar | Adam Kucharski | AZW3 | [`AZW3`](Kindle/AZW3/Adam Kucharski/a ciência da sorte - Adam Kucharski Zahar.azw3) |
 | A ciência das boas decisões | Richard Davis / Edmundo Barreiros | AZW3 | [`AZW3`](Kindle/AZW3/Richard Davis _ Edmundo Barreiros/A ciência das boas decisões.azw3) |
 | A ciência do desconforto - Dra. Maíra Soliani | Maíra Soliani. | AZW3 | [`AZW3`](Kindle/AZW3/Maíra Soliani/A ciência do desconforto - Dra. Maíra Soliani.azw3) |
-| A ciência do sucesso - Napoleon Hill | Napoleon Hill | AZW3 | [`AZW3`](Kindle/AZW3/Napoleon Hill/A ciência do sucesso - Napoleon Hill.azw3) |
 | A construção de uma vida | Jim Collins | AZW3 | [`AZW3`](Kindle/AZW3/Jim Collins/A construção de uma vida.azw3) |
 | A Coragem de Não Agradar | Ichiro Kishimi e Fumitake Koga | AZW3, KFX | [`AZW3`](Kindle/AZW3/Ichiro Kishimi e Fumitake Koga/A Coragem de Não Agradar.azw3)<br>[`KFX`](Kindle/KFX/Ichiro Kishimi e Fumitake Koga/A Coragem de Não Agradar.kfx) |
-| A crise do conforto | Michael Easter | KFX | [`KFX`](Kindle/KFX/Michael Easter/A crise do conforto.kfx) |
-| A crise do conforto - Michael Easter | Michael Easter | AZW3 | [`AZW3`](Kindle/AZW3/Michael Easter/A crise do conforto - Michael Easter.azw3) |
+| A crise do conforto | Michael Easter | AZW3, KFX | [`AZW3`](Kindle/AZW3/Michael Easter/A crise do conforto.azw3)<br>[`KFX`](Kindle/KFX/Michael Easter/A crise do conforto.kfx) |
 | A cultura da experimentação | Stefan H. Thomke | KFX | [`KFX`](Kindle/KFX/Stefan H. Thomke/A cultura da experimentação.kfx) |
 | A cultura do jejum | Luciano Subirá | KFX | [`KFX`](Kindle/KFX/Luciano Subirá/A cultura do jejum.kfx) |
 | A cultura importa (Roger Scruton) | Roger Scruton | AZW3 | [`AZW3`](Kindle/AZW3/Roger Scruton/A cultura importa (Roger Scruton).azw3) |
@@ -139,15 +127,12 @@ Consulte [`catalogo.csv`](catalogo.csv) para filtrar os formatos e [`catalogo.js
 | A dor da liderança: Lições para o crescimento | Samuel R. Chand | AZW3, EPUB | [`AZW3`](Kindle/AZW3/Samuel R. Chand/A dor da liderança_ Lições para o crescimento.azw3)<br>[`EPUB`](EPUB/Samuel R. Chand/A dor da liderança_ Lições para o crescimento.epub) |
 | A emoção na sala de aula | Unknown | AZW3 | [`AZW3`](Kindle/AZW3/Unknown/A emoção na sala de aula.azw3) |
 | A Empregada | FreidaMcFadden | AZW3 | [`AZW3`](Kindle/AZW3/FreidaMcFadden/A Empregada.azw3) |
-| A energia da vida | Tony Robbins\| Peter Diamandis. | KFX | [`KFX`](Kindle/KFX/Tony Robbins_ Peter Diamandis/A energia da vida.kfx) |
-| A energia da vida - Tony Robbins, Peter Diamandis. | Tony Robbins | AZW3 | [`AZW3`](Kindle/AZW3/Tony Robbins/A energia da vida - Tony Robbins, Peter Diamandis.azw3) |
+| A energia da vida | Tony Robbins\| Peter Diamandis. | AZW3, KFX | [`AZW3`](Kindle/AZW3/Tony Robbins_ Peter Diamandis/A energia da vida.azw3)<br>[`KFX`](Kindle/KFX/Tony Robbins_ Peter Diamandis/A energia da vida.kfx) |
 | A Epistola de Tiago - v.1.0 | Bruce Anstey | KFX | [`KFX`](Kindle/KFX/Bruce Anstey/A Epistola de Tiago - v.1.0.kfx) |
 | A Epístola de Tiago - v.1.0 - Bruce Anstey | Bruce Anstey | AZW3 | [`AZW3`](Kindle/AZW3/Bruce Anstey/A Epístola de Tiago - v.1.0 - Bruce Anstey.azw3) |
 | A Era da Loucura - Como o mundo moderno tornou a felicidade uma meta (quase) impossível | Michael Foley | AZW | [`AZW`](Kindle/AZW/Michael Foley/A Era da Loucura - Como o mundo moderno tornou a felicidade uma meta (quase) impossível.azw) |
-| A Escada para o Triunfo | Napoleon Hill | KFX | [`KFX`](Kindle/KFX/Napoleon Hill/A Escada para o Triunfo.kfx) |
-| A Escada para o Triunfo - Napoleon Hill | Napoleon Hill | AZW3 | [`AZW3`](Kindle/AZW3/Napoleon Hill/A Escada para o Triunfo - Napoleon Hill.azw3) |
-| A Escuta de Jesus | Sarah Young | KFX | [`KFX`](Kindle/KFX/Sarah Young/A Escuta de Jesus.kfx) |
-| A Escuta de Jesus - Sarah Young | Sarah Young | AZW3 | [`AZW3`](Kindle/AZW3/Sarah Young/A Escuta de Jesus - Sarah Young.azw3) |
+| A Escada para o Triunfo | Napoleon Hill | AZW3, KFX | [`AZW3`](Kindle/AZW3/Napoleon Hill/A Escada para o Triunfo.azw3)<br>[`KFX`](Kindle/KFX/Napoleon Hill/A Escada para o Triunfo.kfx) |
+| A Escuta de Jesus | Sarah Young | AZW3, KFX | [`AZW3`](Kindle/AZW3/Sarah Young/A Escuta de Jesus.azw3)<br>[`KFX`](Kindle/KFX/Sarah Young/A Escuta de Jesus.kfx) |
 | A Estrategia da Inovacao Radical - Pedro Waengertner | Pedro Waengertner | AZW3 | [`AZW3`](Kindle/AZW3/Pedro Waengertner/A Estrategia da Inovacao Radical - Pedro Waengertner.azw3) |
 | a evoluao e a queda implicaoes da ciencia moderna para a teologia | Unknown | AZW3 | [`AZW3`](Kindle/AZW3/Unknown/a evoluao e a queda implicaoes da ciencia moderna para a teologia.azw3) |
 | A evolução e a queda: implicações da ciência moderna para a teologia cristã | James K. A. Smith; William T. Cavanaugh (orgs.) | KFX | [`KFX`](Kindle/KFX/James K. A. Smith/A evolução e a queda_ implicações da ciência moderna para a teologia cristã.kfx) |
@@ -156,17 +141,15 @@ Consulte [`catalogo.csv`](catalogo.csv) para filtrar os formatos e [`catalogo.js
 | A Experiência do Lar Devi Titus | Unknown | AZW3 | [`AZW3`](Kindle/AZW3/Unknown/A Experiência do Lar Devi Titus.azw3) |
 | A família em meio à tormenta | Moore\| Russell | EPUB | [`EPUB`](EPUB/Moore_ Russell/A família em meio à tormenta.epub) |
 | A família que você sempre quis | Gary Chapman | AZW3 | [`AZW3`](Kindle/AZW3/Gary Chapman/A família que você sempre quis.azw3) |
-| A Fe na era do ceticismo | Timothy Keller | KFX | [`KFX`](Kindle/KFX/Timothy Keller/A Fe na era do ceticismo.kfx) |
+| A Fe na era do ceticismo | Timothy Keller | AZW3, KFX | [`AZW3`](Kindle/AZW3/Timothy Keller/A Fe na era do ceticismo.azw3)<br>[`KFX`](Kindle/KFX/Timothy Keller/A Fe na era do ceticismo.kfx) |
 | A felicidade é inútil Clóvis De Barros Filho | Clóvis de Barros Filho | AZW3 | [`AZW3`](Kindle/AZW3/Clóvis de Barros Filho/A felicidade é inútil Clóvis De Barros Filho.azw3) |
 | A Fonte - Dra. Tara Swart | FELIPE IVO PEREIRA | AZW3 | [`AZW3`](Kindle/AZW3/FELIPE IVO PEREIRA/A Fonte - Dra. Tara Swart.azw3) |
 | A fonte do poder: um chamado para o invisível | Dani Nuevo | EPUB, KFX | [`EPUB`](EPUB/Dani Nuevo/A fonte do poder_ um chamado para o invisível.epub)<br>[`KFX`](Kindle/KFX/Dani Nuevo/A fonte do poder_ um chamado para o invisível.kfx) |
 | A Formacao de Um Discipulo - Keith Phillips | Keith Phillips | AZW3 | [`AZW3`](Kindle/AZW3/Keith Phillips/A Formacao de Um Discipulo - Keith Phillips.azw3) |
-| A FORMULA DO LANCAMENTO | Jeff Walker | KFX | [`KFX`](Kindle/KFX/Jeff Walker/A FORMULA DO LANCAMENTO.kfx) |
+| A FORMULA DO LANCAMENTO | Jeff Walker | AZW3, KFX | [`AZW3`](Kindle/AZW3/Jeff Walker/A FORMULA DO LANCAMENTO.azw3)<br>[`KFX`](Kindle/KFX/Jeff Walker/A FORMULA DO LANCAMENTO.kfx) |
 | A força da palavra criadora | Florence Scovel Shinn | AZW3 | [`AZW3`](Kindle/AZW3/Florence Scovel Shinn/A força da palavra criadora.azw3) |
-| A Fé na era do ceticismo - Timothy Keller | Timothy Keller | AZW3 | [`AZW3`](Kindle/AZW3/Timothy Keller/A Fé na era do ceticismo - Timothy Keller.azw3) |
 | A fé remove montanhas: 31 dias devocionais | Filipe Ivo Pereira | AZW3, KFX | [`AZW3`](Kindle/AZW3/Filipe Ivo Pereira/A fé remove montanhas_ 31 dias devocionais.azw3)<br>[`KFX`](Kindle/KFX/Filipe Ivo Pereira/A fé remove montanhas_ 31 dias devocionais.kfx) |
 | A fórmula do empreendedorismo | FELIPE IVO PEREIRA | AZW3 | [`AZW3`](Kindle/AZW3/FELIPE IVO PEREIRA/A fórmula do empreendedorismo.azw3) |
-| A FÓRMULA DO LANÇAMENTO - Jeff Walker | Jeff Walker | AZW3 | [`AZW3`](Kindle/AZW3/Jeff Walker/A FÓRMULA DO LANÇAMENTO - Jeff Walker.azw3) |
 | A Fórmula Mágica de Joel Greenblatt para Bater o Mercado de Ações - Joel Greenblatt | Joel Greenblatt | AZW3 | [`AZW3`](Kindle/AZW3/Joel Greenblatt/A Fórmula Mágica de Joel Greenblatt para Bater o Mercado de Ações - Joel Greenblatt.azw3) |
 | A Fórmula Mágica para Bater o Mercado de Ações | Joel Greenblatt | KFX | [`KFX`](Kindle/KFX/Joel Greenblatt/A Fórmula Mágica para Bater o Mercado de Ações.kfx) |
 | A geracao ansiosa | Jonathan Haidt | KFX | [`KFX`](Kindle/KFX/Jonathan Haidt/A geracao ansiosa.kfx) |

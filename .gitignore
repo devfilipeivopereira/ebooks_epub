@@ -2,11 +2,15 @@
 !.gitignore
 !.gitattributes
 !README.md
+!requirements-scraping.txt
 !DOCUMENTACAO.md
 !INDICE.md
 !TEMAS.md
 !DESCRICOES_PENDENTES.csv
 !AMAZON_A_VERIFICAR.csv
+!dados_amazon.jsonl
+!mesclagens_amazon.jsonl
+!REVISAO_AMAZON.csv
 !catalogo.csv
 !catalogo.json
 !_inventory.json
@@ -20,3 +24,8 @@
 !capas/**
 !tools/
 !tools/gerar_metadados_temas.py
+!tools/coletar_amazon.py
+!tools/aplicar_descricoes_calibre.py
+!tools/mesclar_duplicados_amazon.py
+!tools/revalidar_amazon.py
+!tools/retirar_fichas_em_revisao.py

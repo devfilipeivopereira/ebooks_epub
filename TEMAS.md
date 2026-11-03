@@ -6,30 +6,28 @@ Classificação editorial automática a partir do título, tags e descrição di
 
 | Tema | Livros |
 |---|---:|
-| Artes e literatura | 49 |
+| Artes e literatura | 47 |
 | Ciência e natureza | 36 |
-| Educação e desenvolvimento pessoal | 160 |
-| Família e relacionamentos | 29 |
-| Humanidades e sociedade | 153 |
-| Negócios e carreira | 317 |
-| Outros | 613 |
-| Referência e idiomas | 19 |
-| Religião e espiritualidade | 541 |
-| Saúde e bem-estar | 78 |
+| Educação e desenvolvimento pessoal | 203 |
+| Família e relacionamentos | 34 |
+| Humanidades e sociedade | 178 |
+| Negócios e carreira | 367 |
+| Outros | 408 |
+| Referência e idiomas | 21 |
+| Religião e espiritualidade | 591 |
+| Saúde e bem-estar | 95 |
 | Tecnologia e computação | 111 |
 
-## Artes e literatura · Arte, música e design (16)
+## Artes e literatura · Arte, música e design (14)
 
-- [A Arte da Escolha](Kindle/KFX/Sheena%20Iyengar/A%20Arte%20da%20Escolha.kfx) — Sheena Iyengar
-- [A Arte da Escolha - Sheena Iyengar](Kindle/AZW3/Sheena%20Iyengar/A%20Arte%20da%20Escolha%20-%20Sheena%20Iyengar.azw3) — Sheena Iyengar
+- [A Arte da Escolha](Kindle/AZW3/Sheena%20Iyengar/A%20Arte%20da%20Escolha.azw3) — Sheena Iyengar
+- [A arte da estatistica](Kindle/AZW3/David%20Spiegelhalter/A%20arte%20da%20estatistica.azw3) — David Spiegelhalter
 - [A arte da insubordinação - Todd Kashdan](Kindle/AZW3/Todd%20Kashdan/A%20arte%20da%20insubordinação%20-%20Todd%20Kashdan.azw3) — Todd Kashdan
 - [A arte da procrastinação: Como realizar tarefas deixando-as para depois](Kindle/AZW/John%20Perry/A%20arte%20da%20procrastinação_%20Como%20realizar%20tarefas%20deixando-as%20para%20depois.azw) — John Perry
 - [A Arte da Sedução](Kindle/AZW3/Robert%20Greene/A%20Arte%20da%20Sedução.azw3) — Robert Greene
 - [A Arte de Enganar](Kindle/KFX/Kevin%20D.%20Mitnick/A%20Arte%20de%20Enganar.kfx) — Kevin D. Mitnick
 - [A Arte de Lidar com Pessoas](Kindle/AZW3/Jamil%20Albuquerque/A%20Arte%20de%20Lidar%20com%20Pessoas.azw3) — Jamil Albuquerque
-- [A arte de pensar com clareza A](Kindle/KFX/Hasard%20Lee/A%20arte%20de%20pensar%20com%20clareza%20A.kfx) — Hasard Lee
-- [A arte de pensar com clareza A - Hasard Lee](Kindle/AZW3/Hasard%20Lee/A%20arte%20de%20pensar%20com%20clareza%20A%20-%20Hasard%20Lee.azw3) — Hasard Lee
-- [A arte natural da sedução](Kindle/AZW3/Richard%20La%20Ruina/A%20arte%20natural%20da%20sedução.azw3) — Richard La Ruina
+- [A arte de pensar com clareza A](Kindle/AZW3/Hasard%20Lee/A%20arte%20de%20pensar%20com%20clareza%20A.azw3) — Hasard Lee
 - [A Realidade é Plástica A Arte da Hipnose Impromptu Anthony Jacquin](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/A%20Realidade%20é%20Plástica%20A%20Arte%20da%20Hipnose%20Impromptu%20Anthony%20Jacquin.azw3) — FELIPE IVO PEREIRA
 - [A Sombra da Dúvida - Talbot Davis - PTBR](Kindle/AZW3/Unknown/A%20Sombra%20da%20Dúvida%20-%20Talbot%20Davis%20-%20PTBR.azw3) — Unknown
 - [Articulando Decisões de Design](Kindle/KFX/Tom%20Greever/Articulando%20Decisões%20de%20Design.kfx) — Tom Greever
@@ -37,16 +35,16 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Atos para todos Atos 1-12 - Parte 1](Kindle/AZW3/N.T.%20Wright/Atos%20para%20todos%20Atos%201-12%20-%20Parte%201.azw3) — N.T. Wright
 - [No limite a arte de arriscar tudo (Nate Silver)](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/No%20limite%20a%20arte%20de%20arriscar%20tudo%20(Nate%20Silver).azw3) — FELIPE IVO PEREIRA
 
-## Artes e literatura · Ficção e romances (3)
+## Artes e literatura · Ficção e romances (4)
 
 - [A Experiência da Mesa](Kindle/AZW/Devi%20Titus/A%20Experiência%20da%20Mesa.azw) — Devi Titus
+- [A sabedoria dos idiotas - Nasrudin Hodja](Kindle/AZW3/Nasrudin%20Hodja/A%20sabedoria%20dos%20idiotas%20-%20Nasrudin%20Hodja.azw3) — Nasrudin Hodja
 - [Clube do livro dos homens](Kindle/AZW/Lyssa%20Kay%20Adams/Clube%20do%20livro%20dos%20homens.azw) — Lyssa Kay Adams
 - [Pregar como Poesia - Paul Scott Wilson](Kindle/AZW3/Paul%20Scott%20Wilson/Pregar%20como%20Poesia%20-%20Paul%20Scott%20Wilson.azw3) — Paul Scott Wilson
 
-## Artes e literatura · Quadrinhos e mangá (30)
+## Artes e literatura · Quadrinhos e mangá (29)
 
 - [Dragon Ball - Volume 05](Kindle/AZW3/Akira%20Toriyama/Dragon%20Ball%20-%20Volume%2005.azw3) — Akira Toriyama
-- [Dragon Ball - Volume 06](Kindle/AZW3/Akira%20Toriyama/Dragon%20Ball%20-%20Volume%2006.azw3) — Akira Toriyama
 - [Dragon Ball - Volume 07](Kindle/AZW3/Akira%20Toriyama/Dragon%20Ball%20-%20Volume%2007.azw3) — Akira Toriyama
 - [Dragon Ball - Volume 08](Kindle/AZW3/Akira%20Toriyama/Dragon%20Ball%20-%20Volume%2008.azw3) — Akira Toriyama
 - [Dragon Ball - Volume 09](Kindle/AZW3/Akira%20Toriyama/Dragon%20Ball%20-%20Volume%2009.azw3) — Akira Toriyama
@@ -80,19 +78,19 @@ Classificação editorial automática a partir do título, tags e descrição di
 
 - [A ciencia da sorte](Kindle/KFX/Adam%20Kucharski%20Zahar/A%20ciencia%20da%20sorte.kfx) — Adam Kucharski Zahar
 - [A ciencia de ficar rico](Kindle/KFX/Wallace%20D.%20Wattles/A%20ciencia%20de%20ficar%20rico.kfx) — Wallace D. Wattles
-- [A Ciencia do Bem-Estar](Kindle/KFX/Wallace%20D.%20Wattles/A%20Ciencia%20do%20Bem-Estar.kfx) — Wallace D. Wattles
-- [A Ciencia do Bem-Estar - Wallace D. Wattles](Kindle/AZW3/Wallace%20D.%20Wattles/A%20Ciencia%20do%20Bem-Estar%20-%20Wallace%20D.%20Wattles.azw3) — Wallace D. Wattles
+- [A Ciencia do Bem-Estar](Kindle/AZW3/Wallace%20D.%20Wattles/A%20Ciencia%20do%20Bem-Estar.azw3) — Wallace D. Wattles
+- [A ciencia do sucesso](Kindle/AZW3/Napoleon%20Hill/A%20ciencia%20do%20sucesso.azw3) — Napoleon Hill
 - [a ciência da sorte - Adam Kucharski Zahar](Kindle/AZW3/Adam%20Kucharski/a%20ciência%20da%20sorte%20-%20Adam%20Kucharski%20Zahar.azw3) — Adam Kucharski
 - [A ciência das boas decisões](Kindle/AZW3/Richard%20Davis%20_%20Edmundo%20Barreiros/A%20ciência%20das%20boas%20decisões.azw3) — Richard Davis / Edmundo Barreiros
 - [A ciência do desconforto - Dra. Maíra Soliani](Kindle/AZW3/Maíra%20Soliani/A%20ciência%20do%20desconforto%20-%20Dra.%20Maíra%20Soliani.azw3) — Maíra Soliani.
 - [A evolução e a queda: implicações da ciência moderna para a teologia cristã](Kindle/KFX/James%20K.%20A.%20Smith/A%20evolução%20e%20a%20queda_%20implicações%20da%20ciência%20moderna%20para%20a%20teologia%20cristã.kfx) — James K. A. Smith; William T. Cavanaugh (orgs.)
 - [A nova ciência da longevidade](Kindle/AZW3/Rose%20Anne%20Kenny/A%20nova%20ciência%20da%20longevidade.azw3) — Rose Anne Kenny
-- [A surpreendente ciência dos relacionamentos](Kindle/KFX/Eric%20Barker/A%20surpreendente%20ciência%20dos%20relacionamentos.kfx) — Eric Barker
 - [A Surpreendente Ciência dos Relacionamentos Eric Barker Z Library](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/A%20Surpreendente%20Ciência%20dos%20Relacionamentos%20Eric%20Barker%20Z%20Library.azw3) — FELIPE IVO PEREIRA
 - [As Leis da Natureza Humana](Kindle/KFX/Robert%20Greene/As%20Leis%20da%20Natureza%20Humana.kfx) — Robert Greene
 - [As matematicas da vida e da mor](Kindle/KFX/Kit%20Yates/As%20matematicas%20da%20vida%20e%20da%20mor.kfx) — Kit Yates
 - [As matematicas da vida e da mor - Kit Yates](Kindle/AZW3/Kit%20Yates/As%20matematicas%20da%20vida%20e%20da%20mor%20-%20Kit%20Yates.azw3) — Kit Yates
 - [As-Leis-da-Natureza-Humana-Robert-Greene](Kindle/AZW3/Robert%20Greene/As-Leis-da-Natureza-Humana-Robert-Greene.azw3) — Robert Greene
+- [Auge do desempenho](Kindle/KFX/Brad%20Stulberg/Auge%20do%20desempenho.kfx) — Brad Stulberg; Steve Magness
 - [Biblio Química Evidências das Ciências Biomédicas na Bíblia](Kindle/AZW3/Thiago%20de%20Melo%20Costa%20Pereira/Biblio%20Química%20Evidências%20das%20Ciências%20Biomédicas%20na%20Bíblia.azw3) — Thiago de Melo Costa Pereira
 - [Breves respostas para grandes questões](Kindle/AZW/Stephen%20Hawking/Breves%20respostas%20para%20grandes%20questões.azw) — Stephen Hawking
 - [Ciencia-e-religiao -Fundamentos-Alister-McGrath](Kindle/AZW3/Alister%20McGrath/Ciencia-e-religiao%20-Fundamentos-Alister-McGrath.azw3) — Alister McGrath
@@ -115,25 +113,38 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Outlive A arte e a ciência Peter Attia Bill Gifford](Kindle/AZW3/Peter%20Attia/Outlive%20A%20arte%20e%20a%20ciência%20Peter%20Attia%20Bill%20Gifford.azw3) — Peter Attia
 - [Uma introdução à metafísica](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20introdução%20à%20metafísica.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Aprendizagem e ensino (32)
+## Educação e desenvolvimento pessoal · Aprendizagem e ensino (45)
 
 - [(TRAD) origens da mitologia A a Z - Annette Giosec](Kindle/AZW3/Annette%20Giesecke/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z%20-%20Annette%20Giosec.azw3) — Annette Giesecke
+- [333 páginas para tirar seu projeto do papel](Kindle/KFX/Daniel%20Larusso/333%20páginas%20para%20tirar%20seu%20projeto%20do%20papel.kfx) — Daniel Larusso; Gabriel Gomes; Luciano Braga
 - [365 dias extraordinários: O livro de preceitos do Sr. Browne](Kindle/AZW/R.%20J.%20Palacio/365%20dias%20extraordinários_%20O%20livro%20de%20preceitos%20do%20Sr.%20Browne.azw) — R. J. Palacio
-- [Alto desempenho (10 leituras essenciais](Kindle/KFX/Harvard%20Business%20Review/Alto%20desempenho%20(10%20leituras%20essenciais.kfx) — Harvard Business Review
-- [Alto desempenho (10 leituras essenciais - HBR)](Kindle/AZW3/Harvard%20Business%20Review/Alto%20desempenho%20(10%20leituras%20essenciais%20-%20HBR).azw3) — Harvard Business Review
+- [A maravilhosa trama das coisas](Kindle/KFX/Robin%20Wall%20Kimmerer/A%20maravilhosa%20trama%20das%20coisas.kfx) — Robin Wall Kimmerer
+- [A maravilhosa trama das coisas - Robin Wall Kimmerer](Kindle/AZW3/Robin%20Wall%20Kimmerer/A%20maravilhosa%20trama%20das%20coisas%20-%20Robin%20Wall%20Kimmerer.azw3) — Robin Wall Kimmerer
+- [As últimas coisas George Eldon Ladd](Kindle/AZW3/George%20Eldon%20Ladd/As%20últimas%20coisas%20George%20Eldon%20Ladd.azw3) — George Eldon Ladd
+- [As Zonas Azuis - Dan Buettner](Kindle/AZW3/Dan%20Buettner/As%20Zonas%20Azuis%20-%20Dan%20Buettner.azw3) — Dan Buettner
 - [Bíblia Um Estudo Panorâmico E Cronológico](Kindle/AZW3/Gerson%20Lopes%20Fonteles/Bíblia%20Um%20Estudo%20Panorâmico%20E%20Cronológico.azw3) — Gerson Lopes Fonteles
+- [C. S. Lewis, Richard Dawkins](Kindle/KFX/Alister%20McGrath/C.%20S.%20Lewis,%20Richard%20Dawkins.kfx) — Alister McGrath
+- [Como educar meninos](Kindle/AZW3/Michael%20C.%20Reichert/Como%20educar%20meninos.azw3) — Michael C. Reichert
+- [Como eliminar vermes e parasitas com óleos essenciais](Kindle/KFX/Gisele%20Vargas/Como%20eliminar%20vermes%20e%20parasitas%20com%20óleos%20essenciais.kfx) — Gisele Vargas
 - [Como Estudar A Bíblia O Que Você Precisa Entender Para Ler E Entender](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Como%20Estudar%20A%20Bíblia%20O%20Que%20Você%20Precisa%20Entender%20Para%20Ler%20E%20Entender.azw3) — FELIPE IVO PEREIRA
+- [Como pensar de forma direta e i](Kindle/KFX/Woo-kyoung%20Ahn/Como%20pensar%20de%20forma%20direta%20e%20i.kfx) — Woo-kyoung Ahn
 - [Desvendando os recursos do CSS](Kindle/KFX/Renata%20Hiromi/Desvendando%20os%20recursos%20do%20CSS.kfx) — Renata Hiromi
+- [Devagar](Kindle/AZW3/Carl%20Honoré/Devagar.azw3) — Carl Honoré
+- [Efésios - Comentário exegético - Harold W. Hoehner](Kindle/AZW3/Harold%20W.%20Hoehner/Efésios%20-%20Comentário%20exegético%20-%20Harold%20W.%20Hoehner.azw3) — Harold W. Hoehner
 - [Ego transformado - Timothy Keller OFICIAL](Kindle/AZW3/Timothy%20Keller/Ego%20transformado%20-%20Timothy%20Keller%20OFICIAL.azw3) — Timothy Keller
 - [Escola de profetas](Kindle/KFX/Kris%20Vallotton/Escola%20de%20profetas.kfx) — Kris Vallotton
 - [Escola de Profetas Kris Vallotton](Kindle/AZW3/Unknown/Escola%20de%20Profetas%20Kris%20Vallotton.azw3) — Unknown
-- [Esperança Em Tempos de Medo Timothy Keller](Kindle/AZW3/Timothy%20Keller/Esperança%20Em%20Tempos%20de%20Medo%20Timothy%20Keller.azw3) — Timothy Keller
+- [Estratégias Didáticas Para Aulas Criativas](Kindle/AZW3/Simão%20de%20Miranda/Estratégias%20Didáticas%20Para%20Aulas%20Criativas.azw3) — Simão de Miranda
+- [Estudos bíblicos expositivos em Ester e Rute: a graça de Deus em favor dos marginalizados e indignos](EPUB/Iain%20M.%20Duguid/Estudos%20bíblicos%20expositivos%20em%20Ester%20e%20Rute_%20a%20graça%20de%20Deus%20em%20favor%20dos%20marginalizados%20e%20indignos.epub) — Iain M. Duguid
 - [Faca-os ler!_ Para nao criar cr](Kindle/KFX/Michel%20Desmurget/Faca-os%20ler!_%20Para%20nao%20criar%20cr.kfx) — Michel Desmurget
 - [Faça a pergunta certa - Jeff Wetzler](Kindle/AZW3/Jeff%20Wetzler/Faça%20a%20pergunta%20certa%20-%20Jeff%20Wetzler.azw3) — Jeff Wetzler
 - [Gamification Como Criar Experiências De Aprendizagem Engajadoras](Kindle/AZW3/Flora%20Alves/Gamification%20Como%20Criar%20Experiências%20De%20Aprendizagem%20Engajadoras.azw3) — Flora Alves
+- [Gene da juventude](Kindle/KFX/Elainne%20Ourives/Gene%20da%20juventude.kfx) — Elainne Ourives
 - [Gerenciando a si mesmo (10 leituras essenciais - HBR)](Kindle/AZW3/Harvard%20Business%20Review/Gerenciando%20a%20si%20mesmo%20(10%20leituras%20essenciais%20-%20HBR).azw3) — Harvard Business Review
 - [Gerenciando a si mesmo (10 leituras essenciais)](Kindle/KFX/Harvard%20Business%20Review/Gerenciando%20a%20si%20mesmo%20(10%20leituras%20essenciais).kfx) — Harvard Business Review
+- [Gerenciando pessoas](Kindle/KFX/Harvard%20Business%20Review/Gerenciando%20pessoas.kfx) — Harvard Business Review
 - [Guia De Estudos A Formação De Um Discípulo](Kindle/AZW3/Sara%20Macedo/Guia%20De%20Estudos%20A%20Formação%20De%20Um%20Discípulo.azw3) — Sara Macedo
+- [Guia Front end O Caminho Das Pedras Para Ser Um Dev Front end](Kindle/AZW3/Diego%20Eis/Guia%20Front%20end%20O%20Caminho%20Das%20Pedras%20Para%20Ser%20Um%20Dev%20Front%20end.azw3) — Diego Eis
 - [Ler e produzir textos](Kindle/AZW3/Ivan%20Vale%20de%20Sousa/Ler%20e%20produzir%20textos.azw3) — Ivan Vale de Sousa
 - [Ler para Viver - Sandra Barão Nobre](Kindle/AZW3/Sandra%20Barão%20Nobre/Ler%20para%20Viver%20-%20Sandra%20Barão%20Nobre.azw3) — Sandra Barão Nobre
 - [Manual de leitura em voz alta Jim Trelease 2025 Kírion](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Manual%20de%20leitura%20em%20voz%20alta%20Jim%20Trelease%202025%20Kírion.azw3) — FELIPE IVO PEREIRA
@@ -150,7 +161,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tenha a Vida Que Deseja - Richard Bandler](Kindle/AZW3/Richard%20Bandler/Tenha%20a%20Vida%20Que%20Deseja%20-%20Richard%20Bandler.azw3) — Richard Bandler
 - [Ultra-aprendizado - Scott Young](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ultra-aprendizado%20-%20Scott%20Young.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (128)
+## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (158)
 
 - [100 coisas que líderes de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20líderes%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
 - [100 coisas que pessoas de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
@@ -162,66 +173,96 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [365 dias para se autoconhecer](Kindle/KFX/Thaissa%20Nilo/365%20dias%20para%20se%20autoconhecer.kfx) — Thaissa Nilo
 - [365 Dias para se Autoconhecer Thaissa Nilo](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/365%20Dias%20para%20se%20Autoconhecer%20Thaissa%20Nilo.azw3) — FELIPE IVO PEREIRA
 - [40 ideias do pensamento positivo](Kindle/KFX/Damrong%20Pinkoon/40%20ideias%20do%20pensamento%20positivo.kfx) — Damrong Pinkoon
+- [40 Pensamentos de Jesus](Kindle/KFX/Renato%20Cardoso/40%20Pensamentos%20de%20Jesus.kfx) — Renato Cardoso
 - [581506426-o-Pode-Do-Foco-Jack-Canfield-e-Mark-Hensen(1)](Kindle/AZW3/Unknown/581506426-o-Pode-Do-Foco-Jack-Canfield-e-Mark-Hensen(1).azw3) — Unknown
 - [@BibliotecaCrista A Mente do Espírito Craig S Keener 1](Kindle/AZW3/Craig%20S.%20Keener/@BibliotecaCrista%20A%20Mente%20do%20Espírito%20Craig%20S%20Keener%201.azw3) — Craig S. Keener
-- [A arte da comunicacao de impacto](Kindle/KFX/Shana%20Wajntraub/A%20arte%20da%20comunicacao%20de%20impacto.kfx) — Shana Wajntraub
-- [A arte da comunicação de impacto - Shana Wajntraub](Kindle/AZW3/Shana%20Wajntraub/A%20arte%20da%20comunicação%20de%20impacto%20-%20Shana%20Wajntraub.azw3) — Shana Wajntraub
+- [A arte da comunicacao de impacto](Kindle/AZW3/Shana%20Wajntraub/A%20arte%20da%20comunicacao%20de%20impacto.azw3) — Shana Wajntraub
 - [A Arte de Escrever Ensinada em 20 Lições](Kindle/AZW3/Wagner%20Ferreira/A%20Arte%20de%20Escrever%20Ensinada%20em%2020%20Lições.azw3) — Wagner Ferreira
 - [A Arte de Escrever Para a Web - Paulo Maccedo](Kindle/AZW3/Paulo%20Maccedo/A%20Arte%20de%20Escrever%20Para%20a%20Web%20-%20Paulo%20Maccedo.azw3) — Paulo Maccedo
-- [A Arte de Fazer Escolhas](Kindle/KFX/Louis%20Burlamaqui/A%20Arte%20de%20Fazer%20Escolhas.kfx) — Louis Burlamaqui
-- [A Arte de Fazer Escolhas - Louis Burlamaqui](Kindle/AZW3/Louis%20Burlamaqui/A%20Arte%20de%20Fazer%20Escolhas%20-%20Louis%20Burlamaqui.azw3) — Louis Burlamaqui
+- [A Arte de Fazer Escolhas](Kindle/AZW3/Louis%20Burlamaqui/A%20Arte%20de%20Fazer%20Escolhas.azw3) — Louis Burlamaqui
 - [A arte de pensar claramente](EPUB/Rolf%20Dobelli/A%20arte%20de%20pensar%20claramente.epub) — Rolf Dobelli
-- [A ciencia do sucesso](Kindle/KFX/Napoleon%20Hill/A%20ciencia%20do%20sucesso.kfx) — Napoleon Hill
-- [A ciência do sucesso - Napoleon Hill](Kindle/AZW3/Napoleon%20Hill/A%20ciência%20do%20sucesso%20-%20Napoleon%20Hill.azw3) — Napoleon Hill
-- [A Escada para o Triunfo - Napoleon Hill](Kindle/AZW3/Napoleon%20Hill/A%20Escada%20para%20o%20Triunfo%20-%20Napoleon%20Hill.azw3) — Napoleon Hill
+- [A Escada para o Triunfo](Kindle/AZW3/Napoleon%20Hill/A%20Escada%20para%20o%20Triunfo.azw3) — Napoleon Hill
+- [A grande aventura masculina John Eldredge](Kindle/AZW3/John%20Eldredge/A%20grande%20aventura%20masculina%20John%20Eldredge.azw3) — John Eldredge
 - [A lógica do Cisne Negro: O impacto do altamente improvável](Kindle/AZW/Nassim%20Nicholas%20Taleb/A%20lógica%20do%20Cisne%20Negro_%20O%20impacto%20do%20altamente%20improvável.azw) — Nassim Nicholas Taleb
 - [A Mente do Espirito](Kindle/KFX/Craig%20S%20Keener/A%20Mente%20do%20Espirito.kfx) — Craig S Keener
-- [A mente vencendo o humor: mude como você se sente, mudando o modo como você pensa](Kindle/KFX/Dennis%20Greenberger/A%20mente%20vencendo%20o%20humor_%20mude%20como%20você%20se%20sente,%20mudando%20o%20modo%20como%20você%20pensa.kfx) — Dennis Greenberger; Christine A. Padesky
+- [A Quietude e a Chave - RYAN HOLIDAY](Kindle/AZW3/Ryan%20Holiday/A%20Quietude%20e%20a%20Chave%20-%20RYAN%20HOLIDAY.azw3) — Ryan Holiday
+- [A quietude é a chave](Kindle/KFX/Ryan%20Holiday/A%20quietude%20é%20a%20chave.kfx) — Ryan Holiday
 - [A Semente da Vitoria](Kindle/AZW3/Nuno%20Cobra/A%20Semente%20da%20Vitoria.azw3) — Nuno Cobra
+- [A singularidade está próxima](Kindle/KFX/Ray%20Kurzweil/A%20singularidade%20está%20próxima.kfx) — Ray Kurzweil
 - [A Terceira Medida do Sucesso - Arianna Huffington (1)](Kindle/AZW3/Arianna%20Huffington/A%20Terceira%20Medida%20do%20Sucesso%20-%20Arianna%20Huffington%20(1).azw3) — Arianna Huffington
 - [Activate: Uma Abordagem Totalmente Nova para Pequenos Grupos](EPUB/Nelson%20Searcy/Activate_%20Uma%20Abordagem%20Totalmente%20Nova%20para%20Pequenos%20Grupos.epub) — Nelson Searcy; Kerrick Thomas
+- [Alimento para o cerebro](Kindle/AZW3/Max%20Lugavere_%20Paul%20Grewal/Alimento%20para%20o%20cerebro.azw3) — Max Lugavere| Paul Grewal
+- [Alto desempenho (10 leituras essenciais](Kindle/KFX/Harvard%20Business%20Review/Alto%20desempenho%20(10%20leituras%20essenciais.kfx) — Harvard Business Review
+- [Alto desempenho (10 leituras essenciais - HBR)](Kindle/AZW3/Harvard%20Business%20Review/Alto%20desempenho%20(10%20leituras%20essenciais%20-%20HBR).azw3) — Harvard Business Review
 - [ANSIEDADE COMO ENFRENTAR O MAL DO SÉCULO](Kindle/AZW3/Augusto%20Cury/ANSIEDADE%20COMO%20ENFRENTAR%20O%20MAL%20DO%20SÉCULO.azw3) — Augusto Cury
+- [Antes feito do que perfeito](Kindle/AZW3/Gabi%20Lopes/Antes%20feito%20do%20que%20perfeito.azw3) — Gabi Lopes
+- [Antes Tarde do que Nunca](Kindle/AZW3/Rich%20Karlgaard/Antes%20Tarde%20do%20que%20Nunca.azw3) — Rich Karlgaard
 - [As 16 Leis do Sucesso](Kindle/KFX/Napoleon%20Hill/As%2016%20Leis%20do%20Sucesso.kfx) — Napoleon Hill
+- [As 17 leis do triunfo](Kindle/AZW3/Jamil%20Albuquerque/As%2017%20leis%20do%20triunfo.azw3) — Jamil Albuquerque; Márcio Abbud; Walter Kaltenbach
 - [As 3 escolhas para o sucesso](Kindle/KFX/Stephen%20R.%20Covey/As%203%20escolhas%20para%20o%20sucesso.kfx) — Stephen R. Covey
 - [As 3 escolhas para o sucesso - Stephen R. Covey](Kindle/AZW3/Stephen%20R.%20Covey/As%203%20escolhas%20para%20o%20sucesso%20-%20Stephen%20R.%20Covey.azw3) — Stephen R. Covey
+- [As 3 leis do desempenho](Kindle/KFX/Steve%20Zaffron/As%203%20leis%20do%20desempenho.kfx) — Steve Zaffron
+- [As Ferramentas Intelectuais dos Gênios: 40 Princípios que o tornarão mais inteligente e o ensinarão a pensar como um gênio](Kindle/AZW/I.%20C.%20Robledo/As%20Ferramentas%20Intelectuais%20dos%20Gênios_%2040%20Princípios%20que%20o%20tornarão%20mais%20inteligente%20e%20o%20ensinarão.azw) — I. C. Robledo
+- [As Mentiras Que os Homens Contam](Kindle/KFX/Luiz%20Fernando%20Verissimo/As%20Mentiras%20Que%20os%20Homens%20Contam.kfx) — Luiz Fernando Verissimo
+- [As Mentiras Que os Homens Contam - Luiz Fernando Veríssimo](Kindle/AZW3/Luis%20Fernando%20Verissimo/As%20Mentiras%20Que%20os%20Homens%20Contam%20-%20Luiz%20Fernando%20Veríssimo.azw3) — Luis Fernando Verissimo
+- [As Regras de Ouro](Kindle/KFX/Napoleon%20Hill/As%20Regras%20de%20Ouro.kfx) — Napoleon Hill
 - [As Regras de Ouro - Napoleon Hill](Kindle/AZW3/Napoleon%20Hill/As%20Regras%20de%20Ouro%20-%20Napoleon%20Hill.azw3) — Napoleon Hill
 - [As seis disciplinas do pensamento estrategico Michael D Watkins](Kindle/AZW3/Michael%20D.%20Watkins/As%20seis%20disciplinas%20do%20pensamento%20estrategico%20Michael%20D%20Watkins.azw3) — Michael D. Watkins
 - [Atila Lima - O Poder da Mente Milionária](Kindle/AZW3/Átila%20Lima/Atila%20Lima%20-%20O%20Poder%20da%20Mente%20Milionária.azw3) — Átila Lima
+- [Atitudes extraordinárias](Kindle/AZW3/Renato%20Grinberg/Atitudes%20extraordinárias.azw3) — Renato Grinberg
 - [Ative - Uma Abordagem Totalmente Nova para Pequenos Grupos (PT-BR) - edição profissional](Kindle/AZW3/Nelson%20Searcy/Ative%20-%20Uma%20Abordagem%20Totalmente%20Nova%20para%20Pequenos%20Grupos%20(PT-BR)%20-%20edição%20profissional.azw3) — Nelson Searcy
 - [Ative Sua Mente Descubra Como A Neurociência Pode Alavancar O Seu](Kindle/AZW3/Arnoni%20Caldarti/Ative%20Sua%20Mente%20Descubra%20Como%20A%20Neurociência%20Pode%20Alavancar%20O%20Seu.azw3) — Arnoni Caldarti
+- [Até que nada mais importe](Kindle/KFX/Luciano%20Subirá/Até%20que%20nada%20mais%20importe.kfx) — Luciano Subirá
 - [Auge do desempenho (Brad Stulberg Steve Magness)](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Auge%20do%20desempenho%20(Brad%20Stulberg%20Steve%20Magness).azw3) — FELIPE IVO PEREIRA
 - [Aumente o poder do seu subconsciente](Kindle/AZW3/Joseph%20Murphy/Aumente%20o%20poder%20do%20seu%20subconsciente.azw3) — Joseph Murphy
 - [Campo de batalha da mente vencendo a batalha em sua mente](Kindle/AZW3/Joyce%20Meyer/Campo%20de%20batalha%20da%20mente%20vencendo%20a%20batalha%20em%20sua%20mente.azw3) — Joyce Meyer
 - [Carisma e poder](Kindle/KFX/Ian%20Kershaw/Carisma%20e%20poder.kfx) — Ian Kershaw
+- [Chatbots para Telegram](Kindle/KFX/Frizzarin/Chatbots%20para%20Telegram.kfx) — Frizzarin
 - [Como Conseguir o Que Deseja](Kindle/AZW3/Wallace%20D%20Wattles/Como%20Conseguir%20o%20Que%20Deseja.azw3) — Wallace D Wattles
 - [Como convencer alguem em 90 seg](Kindle/KFX/Nicholas%20Boothman/Como%20convencer%20alguem%20em%2090%20seg.kfx) — Nicholas Boothman
 - [Como escrever bem](Kindle/AZW3/William%20Zinsser/Como%20escrever%20bem.azw3) — William Zinsser
 - [Como Escrever Boas Notas](Kindle/AZW3/Sönke%20Ahrens/Como%20Escrever%20Boas%20Notas.azw3) — Sönke Ahrens
 - [Como Escrever Séries - Sônia Rodrigues](Kindle/AZW3/Sonia%20Rodrigues/Como%20Escrever%20Séries%20-%20Sônia%20Rodrigues.azw3) — Sonia Rodrigues
 - [Como fazer com que coisas boas aconteçam entenda seu cérebro, gerencie](Kindle/AZW3/Marian%20Rojas%20Estapé/Como%20fazer%20com%20que%20coisas%20boas%20aconteçam%20entenda%20seu%20cérebro,%20gerencie.azw3) — Marian Rojas Estapé
+- [Como Liderar uma Ótima Reunião de Pequeno Grupo - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Como%20Liderar%20uma%20Ótima%20Reunião%20de%20Pequeno%20Grupo%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
 - [Comunicacao que Transforma Andy Stanley Lane Jones PT-BR](Kindle/AZW3/Andy%20Stanley/Comunicacao%20que%20Transforma%20Andy%20Stanley%20Lane%20Jones%20PT-BR.azw3) — Andy Stanley
+- [Comunicação e liderança: volume 1](EPUB/Leny%20Kyrillos/Comunicação%20e%20liderança_%20volume%201.epub) — Leny Kyrillos; Carlos Alberto Sardenberg
 - [COMUNICAÇÃO EFICIENTE COMO ESCREVER MENSAGENS COM CLAREZA, CONCISÃO](Kindle/AZW3/Vivian%20Rio%20Stella/COMUNICAÇÃO%20EFICIENTE%20COMO%20ESCREVER%20MENSAGENS%20COM%20CLAREZA,%20CONCISÃO.azw3) — Vivian Rio Stella
 - [Comunicação que transforma](EPUB/Andy%20Stanley/Comunicação%20que%20transforma.epub) — Andy Stanley; Lane Jones
 - [Criando um segundo cérebro](Kindle/KFX/Tiago%20Forte/Criando%20um%20segundo%20cérebro.kfx) — Tiago Forte
 - [Criando um Segundo Cérebro: Um método comprovado para organizar sua vida digital](Kindle/KFX/Tiago%20Forte/Criando%20um%20Segundo%20Cérebro_%20Um%20método%20comprovado%20para%20organizar%20sua%20vida%20digital.kfx) — Tiago Forte
+- [Crie sua própria sorte](Kindle/AZW3/Joyce%20Rodrigues/Crie%20sua%20própria%20sorte.azw3) — Joyce Rodrigues
 - [Cérebro de escassez](Kindle/AZW3/Michael%20Easter/Cérebro%20de%20escassez.azw3) — Michael Easter
+- [Dar e receber](Kindle/KFX/Adam%20Grant/Dar%20e%20receber.kfx) — Adam Grant
 - [Dar e receber (Adam Grant)](Kindle/AZW3/Adam%20Grant/Dar%20e%20receber%20(Adam%20Grant).azw3) — Adam Grant
+- [Deixar ir](Kindle/KFX/David%20R.%20Hawkins/Deixar%20ir.kfx) — David R. Hawkins
+- [Desafios da liderança (10 leituras essenciais - HBR)](Kindle/AZW3/Harvard%20Business%20Review/Desafios%20da%20liderança%20(10%20leituras%20essenciais%20-%20HBR).azw3) — Harvard Business Review
+- [Desafios da liderança (10 leituras essenciais)](Kindle/KFX/Harvard%20Business%20Review/Desafios%20da%20liderança%20(10%20leituras%20essenciais).kfx) — Harvard Business Review
 - [Descobrindo o Método Zettelkasten Como Organizar Pensamentos e Transformar](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Descobrindo%20o%20Método%20Zettelkasten%20Como%20Organizar%20Pensamentos%20e%20Transformar.azw3) — FELIPE IVO PEREIRA
+- [Destrave a sua vida e saia do rascunho](Kindle/KFX/Fernanda%20Tochetto/Destrave%20a%20sua%20vida%20e%20saia%20do%20rascunho.kfx) — Fernanda Tochetto
 - [Destrave seu cérebro](Kindle/KFX/Faith%20Harper/Destrave%20seu%20cérebro.kfx) — Faith Harper
 - [Destrave seu cérebro Faith Harper](Kindle/AZW3/Faith%20Harper/Destrave%20seu%20cérebro%20Faith%20Harper.azw3) — Faith Harper
+- [Dez mitos sobre Israel](Kindle/KFX/Ilan%20Pappe/Dez%20mitos%20sobre%20Israel.kfx) — Ilan Pappe
 - [Disciplina e destino](Kindle/AZW3/Ryan%20Holiday/Disciplina%20e%20destino.azw3) — Ryan Holiday
-- [Do que voce realmente precisa para liderar](Kindle/KFX/Robert%20Steven%20Kaplan/Do%20que%20voce%20realmente%20precisa%20para%20liderar.kfx) — Robert Steven Kaplan
-- [Do que você realmente precisa para liderar - Robert Steven](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Do%20que%20você%20realmente%20precisa%20para%20liderar%20-%20Robert%20Steven.azw3) — FELIPE IVO PEREIRA
 - [Doze homens extraordinariamente comuns](Kindle/KFX/John%20F.%20MacArthur%20Jr/Doze%20homens%20extraordinariamente%20comuns.kfx) — John F. MacArthur Jr.
 - [Doze homens extraordinariamente comuns John F MacArthur Jr Z Library](Kindle/AZW3/John%20MacArthur/Doze%20homens%20extraordinariamente%20comuns%20John%20F%20MacArthur%20Jr%20Z%20Library.azw3) — John MacArthur
 - [Escolhas Inteligentes Para Melhorar Sua Vida](Kindle/KFX/Devi%20Titus/Escolhas%20Inteligentes%20Para%20Melhorar%20Sua%20Vida.kfx) — Devi Titus
+- [Esqueça sua melhor versão](Kindle/AZW3/Juliana%20Goes/Esqueça%20sua%20melhor%20versão.azw3) — Juliana Goes
 - [Essencialismo: A disciplinada busca por menos](Kindle/AZW/Greg%20McKeown/Essencialismo_%20A%20disciplinada%20busca%20por%20menos.azw) — Greg McKeown
 - [Foco roubado: os ladrões de atenção da vida moderna](Kindle/AZW3/Johann%20Hari/Foco%20roubado_%20os%20ladrões%20de%20atenção%20da%20vida%20moderna.azw3) — Johann Hari
+- [Fogo no Parquinho](Kindle/AZW3/Yago%20Martins/Fogo%20no%20Parquinho.azw3) — Yago Martins
 - [Foque a Ação, Colecione Resultados - André Heller](Kindle/AZW3/André%20Heller/Foque%20a%20Ação,%20Colecione%20Resultados%20-%20André%20Heller.azw3) — André Heller
+- [Fora de Serie - Outliers](Kindle/KFX/Malcolm%20Gladwell/Fora%20de%20Serie%20-%20Outliers.kfx) — Malcolm Gladwell
+- [Força mental (10 leituras essenciais - HBR)](Kindle/AZW3/Harvard%20Business%20Review/Força%20mental%20(10%20leituras%20essenciais%20-%20HBR).azw3) — Harvard Business Review
+- [Força mental (10 leituras essenciais)](Kindle/KFX/Harvard%20Business%20Review/Força%20mental%20(10%20leituras%20essenciais).kfx) — Harvard Business Review
 - [Frases perfeitas para lidar com pessoas difíceis](Kindle/AZW/Susan%20F.%20Benjamin/Frases%20perfeitas%20para%20lidar%20com%20pessoas%20difíceis.azw) — Susan F. Benjamin
+- [Gerenciando vendas (10 leituras essenciais - HBR)](Kindle/AZW3/Harvard%20Business%20Review/Gerenciando%20vendas%20(10%20leituras%20essenciais%20-%20HBR).azw3) — Harvard Business Review
+- [Gerenciando vendas (10 leituras essenciais)](Kindle/KFX/Harvard%20Business%20Review/Gerenciando%20vendas%20(10%20leituras%20essenciais).kfx) — Harvard Business Review
 - [Haroldo Dutra Dias - A Bússola e o Leme (Oficial)](Kindle/AZW3/Haroldo%20Dutra%20Dias/Haroldo%20Dutra%20Dias%20-%20A%20Bússola%20e%20o%20Leme%20(Oficial).azw3) — Haroldo Dutra Dias
+- [Hora de avançar](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Hora%20de%20avançar.azw3) — FELIPE IVO PEREIRA
 - [Incrivelmente Simples A obsessao](Kindle/AZW3/Ken%20Segall/Incrivelmente%20Simples%20A%20obsessao.azw3) — Ken Segall
 - [Inteligência do Carisma](Kindle/KFX/Heni%20Ozi%20Cukier/Inteligência%20do%20Carisma.kfx) — Heni Ozi Cukier
+- [Intoxicação digital](Kindle/KFX/Augusto%20Cury/Intoxicação%20digital.kfx) — Augusto Cury
 - [Jonathan Haidt - A Mente Moralista](Kindle/AZW3/Jonathan%20Haidt/Jonathan%20Haidt%20-%20A%20Mente%20Moralista.azw3) — Jonathan Haidt
 - [Jordan Ellenber - O Poder do Pensamento Matemático](Kindle/AZW3/Jordan%20Ellenberg/Jordan%20Ellenber%20-%20O%20Poder%20do%20Pensamento%20Matemático.azw3) — Jordan Ellenberg
 - [Lavagem cerebral](Kindle/KFX/Manny%20Arango/Lavagem%20cerebral.kfx) — Manny Arango
@@ -281,16 +322,16 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Você pode realizar seu sonho Coleção Motivação com John C Maxwell](Kindle/AZW3/John%20C.%20Maxwell/Você%20pode%20realizar%20seu%20sonho%20Coleção%20Motivação%20com%20John%20C%20Maxwell.azw3) — John C. Maxwell
 - [Zen na arte da escrita - Ray Bradbury](Kindle/AZW3/Ray%20Bradbury/Zen%20na%20arte%20da%20escrita%20-%20Ray%20Bradbury.azw3) — Ray Bradbury
 
-## Família e relacionamentos · Parentalidade e família (24)
+## Família e relacionamentos · Parentalidade e família (25)
 
 - [1001 coisas para fazer antes do casamento morrer](Kindle/AZW3/Alessandra%20Leite%20Pasqualini/1001%20coisas%20para%20fazer%20antes%20do%20casamento%20morrer.azw3) — Alessandra Leite Pasqualini; JB Pasqualini
 - [1001 conselhos de sabedoria para meus filhos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/1001%20conselhos%20de%20sabedoria%20para%20meus%20filhos.azw3) — FELIPE IVO PEREIRA
+- [12 horas de sono com 12 semanas de vida: um método prático e natural para seu bebê dormir a noite toda](Kindle/AZW3/Suzy%20Giordano/12%20horas%20de%20sono%20com%2012%20semanas%20de%20vida_%20um%20método%20prático%20e%20natural%20para%20seu%20bebê%20dormir%20a%20noite%20to.azw3) — Suzy Giordano; Lisa Abidin
 - [14 filhos... e nenhuma dívida!](Kindle/AZW3/Sam/14%20filhos...%20e%20nenhuma%20dívida!.azw3) — Sam; Rob Fatzinger
 - [A família em meio à tormenta](EPUB/Moore_%20Russell/A%20família%20em%20meio%20à%20tormenta.epub) — Moore| Russell
 - [A família que você sempre quis](Kindle/AZW3/Gary%20Chapman/A%20família%20que%20você%20sempre%20quis.azw3) — Gary Chapman
 - [Andando em família](Kindle/KFX/Alessandro%20Vilas%20Boas/Andando%20em%20família.kfx) — Alessandro Vilas Boas
 - [Andando em família Alessandro Vilas Boas](Kindle/AZW3/Alessandro%20Vilas%20Boas/Andando%20em%20família%20Alessandro%20Vilas%20Boas.azw3) — Alessandro Vilas Boas
-- [As 5 linguagens do amor das crianças](Kindle/AZW3/Ross%20Campbell/As%205%20linguagens%20do%20amor%20das%20crianças.azw3) — Ross Campbell
 - [As 5 linguagens do amor dos adolescentes](Kindle/AZW3/Gary%20Chapman/As%205%20linguagens%20do%20amor%20dos%20adolescentes.azw3) — Gary Chapman
 - [As 5 marcas de uma familia saudavel](Kindle/AZW3/Gary%20Chapman/As%205%20marcas%20de%20uma%20familia%20saudavel.azw3) — Gary Chapman
 - [As Crônicas De Nárnia - Volume Único (C.S Lewis)](Kindle/AZW3/C.%20S.%20Lewis/As%20Crônicas%20De%20Nárnia%20-%20Volume%20Único%20(C.S%20Lewis).azw3) — C. S. Lewis
@@ -299,6 +340,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Desafio aos Pais](Kindle/KFX/Paul%20Tripp/Desafio%20aos%20Pais.kfx) — Paul Tripp
 - [Desafio Aos Pais Paul Tripp](Kindle/AZW3/Paul%20Tripp/Desafio%20Aos%20Pais%20Paul%20Tripp.azw3) — Paul Tripp
 - [Discipulando a Familia](Kindle/AZW3/Matt%20Chandler/Discipulando%20a%20Familia.azw3) — Matt Chandler
+- [Duas pulgas e nenhum cachorro](Kindle/AZW3/Craig%20Hill/Duas%20pulgas%20e%20nenhum%20cachorro.azw3) — Craig Hill
 - [Famílias indestrutíveis](Kindle/AZW3/Rafael%20Nery/Famílias%20indestrutíveis.azw3) — Rafael Nery
 - [O Segredo Dos Dogon (Livro 4): Livro Infantil Ilustrado (7 a 12 Anos)](Kindle/AZW3/Julio%20Santos%20García/O%20Segredo%20Dos%20Dogon%20(Livro%204)_%20Livro%20Infantil%20Ilustrado%20(7%20a%2012%20Anos).azw3) — Julio Santos García
 - [O significado do casamento](Kindle/KFX/Keller_%20Timothy/O%20significado%20do%20casamento.kfx) — Keller| Timothy
@@ -308,31 +350,44 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Resgate seu filho das telas vença a dependência digital e restaure](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Resgate%20seu%20filho%20das%20telas%20vença%20a%20dependência%20digital%20e%20restaure.azw3) — FELIPE IVO PEREIRA
 - [Resgate seu filho das telas: vença a dependência digital e restaure o vínculo familiar](Kindle/KFX/Cassiana%20Modolo%20Tardivo/Resgate%20seu%20filho%20das%20telas_%20vença%20a%20dependência%20digital%20e%20restaure%20o%20vínculo%20familiar.kfx) — Cassiana Modolo Tardivo
 
-## Família e relacionamentos · Relacionamentos (5)
+## Família e relacionamentos · Relacionamentos (9)
 
+- [A arte natural da sedução](Kindle/AZW3/Richard%20La%20Ruina/A%20arte%20natural%20da%20sedução.azw3) — Richard La Ruina
+- [A surpreendente ciência dos relacionamentos](Kindle/KFX/Eric%20Barker/A%20surpreendente%20ciência%20dos%20relacionamentos.kfx) — Eric Barker
 - [Amor é um verbo](Kindle/AZW3/Gary%20Chapman/Amor%20é%20um%20verbo.azw3) — Gary Chapman
+- [As 5 linguagens do amor das crianças](Kindle/AZW3/Ross%20Campbell/As%205%20linguagens%20do%20amor%20das%20crianças.azw3) — Ross Campbell
 - [As 5 linguagens do amor para homens](Kindle/AZW3/Randy%20Southern/As%205%20linguagens%20do%20amor%20para%20homens.azw3) — Randy Southern
 - [As cinco linguagens do amor](Kindle/AZW3/Gary%20Chapman/As%20cinco%20linguagens%20do%20amor.azw3) — Gary Chapman
+- [As cinco linguagens do amor de Deus](Kindle/AZW3/Gary%20Chapman/As%20cinco%20linguagens%20do%20amor%20de%20Deus.azw3) — Gary Chapman
 - [Como conversar com qualquer pessoa](Kindle/AZW3/Leil%20Lowndes/Como%20conversar%20com%20qualquer%20pessoa.azw3) — Leil Lowndes
 - [Relacionamento Para Leigos](Kindle/KFX/Frederico%20Mattos/Relacionamento%20Para%20Leigos.kfx) — Frederico Mattos
 
-## Humanidades e sociedade · Filosofia e ética (34)
+## Humanidades e sociedade · Filosofia e ética (43)
 
 - [#umdiasemreclamar - Davi Lago & Marcelo Galuppo](Kindle/AZW3/Davi%20Lago/#umdiasemreclamar%20-%20Davi%20Lago%20&%20Marcelo%20Galuppo.azw3) — Davi Lago
 - [100 minutos para entender Aristóteles](Kindle/KFX/Coleção%20Saberes/100%20minutos%20para%20entender%20Aristóteles.kfx) — Coleção Saberes
 - [100 minutos para entender Platão](Kindle/KFX/Coleção%20Saberes/100%20minutos%20para%20entender%20Platão.kfx) — Coleção Saberes
+- [A Historia da Filosofia, Vol 1](Kindle/KFX/Will%20Durant/A%20Historia%20da%20Filosofia,%20Vol%201.kfx) — Will Durant
+- [A Historia da Filosofia, Vol 2](Kindle/KFX/Will%20Durant/A%20Historia%20da%20Filosofia,%20Vol%202.kfx) — Will Durant
+- [A História da Filosofia, Vol 1 - Will Durant](Kindle/AZW3/Will%20Durant/A%20História%20da%20Filosofia,%20Vol%201%20-%20Will%20Durant.azw3) — Will Durant
+- [A História da Filosofia, Vol 2 - Will Durant](Kindle/AZW3/Will%20Durant/A%20História%20da%20Filosofia,%20Vol%202%20-%20Will%20Durant.azw3) — Will Durant
 - [A Imaginação Profética — Um Chamado para a Formação de Comunidades Cristãs Contraculturais - Walter Brueggemann](Kindle/AZW3/Walter%20Brueggemann/A%20Imaginação%20Profética%20—%20Um%20Chamado%20para%20a%20Formação%20de%20Comunidades%20Cristãs%20Contraculturais%20-%20Walter.azw3) — Walter Brueggemann
+- [A lógica e a inteligência da vida](Kindle/AZW3/Lúcia%20Helena%20Galvão/A%20lógica%20e%20a%20inteligência%20da%20vida.azw3) — Lúcia Helena Galvão
 - [A Vida Dos Estoicos A Arte de Viver, de Z](Kindle/KFX/Ryan%20Holiday/A%20Vida%20Dos%20Estoicos%20A%20Arte%20de%20Viver,%20de%20Z.kfx) — Ryan Holiday
 - [A Vida Dos Estoicos A Arte de Viver, de Z - Ryan Holiday](Kindle/AZW3/Ryan%20Holiday/A%20Vida%20Dos%20Estoicos%20A%20Arte%20de%20Viver,%20de%20Z%20-%20Ryan%20Holiday.azw3) — Ryan Holiday
+- [A vida feliz](Kindle/AZW3/Sêneca/A%20vida%20feliz.azw3) — Sêneca
 - [Agenda Estoica](Kindle/KFX/Lúcia%20Helena%20Galvão/Agenda%20Estoica.kfx) — Lúcia Helena Galvão
 - [Aventuras pela filosofia com meus filhos - Scott Hershovitz](Kindle/AZW3/Scott%20Hershovitz/Aventuras%20pela%20filosofia%20com%20meus%20filhos%20-%20Scott%20Hershovitz.azw3) — Scott Hershovitz
 - [Box Sobre uma vida melhor - Seneca](Kindle/KFX/Sêneca/Box%20Sobre%20uma%20vida%20melhor%20-%20Seneca.kfx) — Sêneca
 - [C. S. Lewis, Richard Dawkins e](Kindle/AZW3/Alister%20McGrath/C.%20S.%20Lewis,%20Richard%20Dawkins%20e.azw3) — Alister McGrath
 - [Cartas de um resiliente II_ Ass - Seneca](Kindle/KFX/Sêneca/Cartas%20de%20um%20resiliente%20II_%20Ass%20-%20Seneca.kfx) — Sêneca
 - [Cartas de um resiliente_ Perceb - Seneca](Kindle/KFX/Sêneca/Cartas%20de%20um%20resiliente_%20Perceb%20-%20Seneca.kfx) — Sêneca
+- [Contra um mundo melhor: ensaios do afeto](EPUB/Luiz%20Felipe%20Pondé/Contra%20um%20mundo%20melhor_%20ensaios%20do%20afeto.epub) — Luiz Felipe Pondé
+- [Cultivando um Coração de Virtudes - Vigen Guroian](Kindle/AZW3/Vigen%20Guroian/Cultivando%20um%20Coração%20de%20Virtudes%20-%20Vigen%20Guroian.azw3) — Vigen Guroian
 - [Diario Estoico_ 366 Licoes Sobre Sabedoria](Kindle/KFX/Ryan%20Holiday/Diario%20Estoico_%20366%20Licoes%20Sobre%20Sabedoria.kfx) — Ryan Holiday
 - [Em Defesa do Preconceito](Kindle/AZW3/Theodore%20Dalrymple/Em%20Defesa%20do%20Preconceito.azw3) — Theodore Dalrymple
 - [Estoicismo - John Sellars](Kindle/AZW3/John%20Sellars/Estoicismo%20-%20John%20Sellars.azw3) — John Sellars
+- [Estoicismo e a arte da felicidade](Kindle/KFX/Robertson_%20Donald/Estoicismo%20e%20a%20arte%20da%20felicidade.kfx) — Robertson| Donald
 - [Filosofia 2021](Kindle/KFX/Bastter/Filosofia%202021.kfx) — Bastter
 - [Filosofia Crista Para Leigos](Kindle/KFX/W.%20Gary%20Crampton/Filosofia%20Crista%20Para%20Leigos.kfx) — W. Gary Crampton
 - [Filosofia para mortais: pensar bem para viver bem](EPUB/Daniel%20Gomes%20de%20Carvalho/Filosofia%20para%20mortais_%20pensar%20bem%20para%20viver%20bem.epub) — Daniel Gomes de Carvalho
@@ -353,22 +408,30 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [W. Gary Crampton - Filosofia Cristã Para Leigos](Kindle/AZW3/W.%20Gary%20Crampton/W.%20Gary%20Crampton%20-%20Filosofia%20Cristã%20Para%20Leigos.azw3) — W. Gary Crampton
 - [W. Gary Crampton - Filosofia Cristã Para Leigos (1)](Kindle/AZW3/W.%20Gary%20Crampton/W.%20Gary%20Crampton%20-%20Filosofia%20Cristã%20Para%20Leigos%20(1).azw3) — W. Gary Crampton
 
-## Humanidades e sociedade · História e biografias (42)
+## Humanidades e sociedade · História e biografias (51)
 
 - [21 Licoes para o Seculo XXI](Kindle/AZW3/Yuval%20Noah%20Harari/21%20Licoes%20para%20o%20Seculo%20XXI.azw3) — Yuval Noah Harari
-- [A Historia da Filosofia, Vol 1](Kindle/KFX/Will%20Durant/A%20Historia%20da%20Filosofia,%20Vol%201.kfx) — Will Durant
-- [A Historia da Filosofia, Vol 2](Kindle/KFX/Will%20Durant/A%20Historia%20da%20Filosofia,%20Vol%202.kfx) — Will Durant
+- [A boa sorte](Kindle/KFX/Alex%20Rovira%20Celma/A%20boa%20sorte.kfx) — Alex Rovira Celma; Fernando Trías de Bes
 - [A História - The Zondervan Corporation](Kindle/AZW3/The%20Zondervan%20Corporation/A%20História%20-%20The%20Zondervan%20Corporation.azw3) — The Zondervan Corporation
-- [A História da Filosofia, Vol 1 - Will Durant](Kindle/AZW3/Will%20Durant/A%20História%20da%20Filosofia,%20Vol%201%20-%20Will%20Durant.azw3) — Will Durant
-- [A História da Filosofia, Vol 2 - Will Durant](Kindle/AZW3/Will%20Durant/A%20História%20da%20Filosofia,%20Vol%202%20-%20Will%20Durant.azw3) — Will Durant
 - [A História: a Bíblia contada como uma só história do começo ao fim](Kindle/KFX/The%20Zondervan%20Corporation/A%20História_%20a%20Bíblia%20contada%20como%20uma%20só%20história%20do%20começo%20ao%20fim.kfx) — The Zondervan Corporation
 - [A jornada da humanidade As ori](Kindle/KFX/Oded%20Galor/A%20jornada%20da%20humanidade%20As%20ori.kfx) — Oded Galor
 - [A jornada da humanidade As ori - Oded Galor](Kindle/AZW3/Oded%20Galor/A%20jornada%20da%20humanidade%20As%20ori%20-%20Oded%20Galor.azw3) — Oded Galor
+- [A Magia](Kindle/AZW3/Rhonda%20Byrne/A%20Magia.azw3) — Rhonda Byrne
 - [A moeda e a lei: uma história monetária brasileira, 1933-2013](Kindle/AZW/Gustavo%20Henrique%20Barroso%20Franco/A%20moeda%20e%20a%20lei_%20uma%20história%20monetária%20brasileira,%201933-2013.azw) — Gustavo Henrique Barroso Franco
 - [A revolucao dos musculos Uma n](Kindle/KFX/Gabrielle%20Lyon/A%20revolucao%20dos%20musculos%20Uma%20n.kfx) — Gabrielle Lyon
 - [A revolucao dos musculos Uma n - Gabrielle Lyon](Kindle/AZW3/Gabrielle%20Lyon/A%20revolucao%20dos%20musculos%20Uma%20n%20-%20Gabrielle%20Lyon.azw3) — Gabrielle Lyon
+- [A vida nao e facil Como a filo](Kindle/KFX/Kieran%20Setiya/A%20vida%20nao%20e%20facil%20Como%20a%20filo.kfx) — Kieran Setiya
+- [A vida nao e facil Como a filo - Kieran Setiya](Kindle/AZW3/Kieran%20Setiya/A%20vida%20nao%20e%20facil%20Como%20a%20filo%20-%20Kieran%20Setiya.azw3) — Kieran Setiya
+- [As Crônicas de Nárnia: volume único](Kindle/KFX/C.%20S.%20Lewis/As%20Crônicas%20de%20Nárnia_%20volume%20único.kfx) — C. S. Lewis
+- [As ideias e mentes mais brilhan](Kindle/KFX/Will%20Durant/As%20ideias%20e%20mentes%20mais%20brilhan.kfx) — Will Durant
+- [As ideias e mentes mais brilhan - Will Durant](Kindle/AZW3/Will%20Durant/As%20ideias%20e%20mentes%20mais%20brilhan%20-%20Will%20Durant.azw3) — Will Durant
 - [Augusto Cury O homem mais inteligente da História Editora Sextante](Kindle/AZW3/Augusto%20Cury/Augusto%20Cury%20O%20homem%20mais%20inteligente%20da%20História%20Editora%20Sextante.azw3) — Augusto Cury
+- [Brasil: o futuro que queremos](EPUB/Roberto%20Rodrigues/Brasil_%20o%20futuro%20que%20queremos.epub) — Roberto Rodrigues; Paulo Saldiva; Paulo Roberto de Almeida; Nabil Bonduki; Milton Leite; Luís Eduardo Assis; Jaime Lerner; Glauco Arbix; Fabio Feldmann; Eduardo Muylaert; Cláudia Costin; Antônio Corrêa de Lacerda; Jaime Pinsky
 - [Breve Historia de Quase Tudo](Kindle/AZW3/Bill%20Bryson/Breve%20Historia%20de%20Quase%20Tudo.azw3) — Bill Bryson
+- [Crie palestras inesqueciveis](Kindle/KFX/Dennis%20Penna/Crie%20palestras%20inesqueciveis.kfx) — Dennis Penna
+- [Erros foram cometidos](Kindle/AZW3/Elliot%20Aronson%20Carol%20Tavris/Erros%20foram%20cometidos.azw3) — Elliot Aronson Carol Tavris
+- [Foguete não tem ré](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Foguete%20não%20tem%20ré.azw3) — FELIPE IVO PEREIRA
+- [George MacDonald: uma antologia](EPUB/George%20MacDonald/George%20MacDonald_%20uma%20antologia.epub) — George MacDonald; C. S. Lewis (org.)
 - [HA HA HA Uma Vida de Alegria (](Kindle/KFX/Bud%20Wright/HA%20HA%20HA%20Uma%20Vida%20de%20Alegria%20(.kfx) — Bud Wright
 - [Historia da filosofia e teologi](Kindle/KFX/John%20M.%20Frame/Historia%20da%20filosofia%20e%20teologi.kfx) — John M. Frame
 - [Historia economica global_ Uma](Kindle/KFX/Robert%20C.%20Allen/Historia%20economica%20global_%20Uma.kfx) — Robert C. Allen
@@ -376,6 +439,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [História dos Hebreus — De Abraão à Queda de Jerusalém - Flávio Josefo](Kindle/AZW3/Flávio%20Josefo/História%20dos%20Hebreus%20—%20De%20Abraão%20à%20Queda%20de%20Jerusalém%20-%20Flávio%20Josefo.azw3) — Flávio Josefo
 - [Histórias Magnéticas](Kindle/AZW3/Gabrielle%20Dolan/Histórias%20Magnéticas.azw3) — Gabrielle Dolan
 - [Imperio da dor_ A ascensao e qu](Kindle/KFX/Patrick%20Radden%20Keefe/Imperio%20da%20dor_%20A%20ascensao%20e%20qu.kfx) — Patrick Radden Keefe
+- [Implacaveis Como nos conquista](Kindle/KFX/Yuval%20Noah%20Harari/Implacaveis%20Como%20nos%20conquista.kfx) — Yuval Noah Harari
 - [Implacaveis Como nos conquista - Harari, Yuval Noah](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Implacaveis%20Como%20nos%20conquista%20-%20Harari,%20Yuval%20Noah.azw3) — FELIPE IVO PEREIRA
 - [Israel](Kindle/MOBI/Anita%20Shapira/Israel.mobi) — Anita Shapira
 - [N T Wright Paulo uma biografia Thomas Nelson Brasil 2019](Kindle/AZW3/N.%20T.%20Wright/N%20T%20Wright%20Paulo%20uma%20biografia%20Thomas%20Nelson%20Brasil%202019.azw3) — N. T. Wright
@@ -398,8 +462,9 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Uma Breve História da Filosofia - Nigel Warburton](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20Breve%20História%20da%20Filosofia%20-%20Nigel%20Warburton.azw3) — FELIPE IVO PEREIRA
 - [Uma Breve História das Guerras Geoffrey Blainey 2014;2023 Fundamentos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20Breve%20História%20das%20Guerras%20Geoffrey%20Blainey%202014;2023%20Fundamentos.azw3) — FELIPE IVO PEREIRA
 
-## Humanidades e sociedade · Política, direito e sociedade (77)
+## Humanidades e sociedade · Política, direito e sociedade (84)
 
+- [12 Princípios para uma vida extraordinária](Kindle/KFX/Paulo%20Vieira/12%20Princípios%20para%20uma%20vida%20extraordinária.kfx) — Paulo Vieira
 - [50 perguntas sobre lei da atração para iniciantes](Kindle/KFX/William%20Sanches/50%20perguntas%20sobre%20lei%20da%20atração%20para%20iniciantes.kfx) — William Sanches
 - [A Batalha pela verdade: Da manipulação da linguagem à desconstrução da família: a engenharia social que ameaça a civilização ocidental](Kindle/AZW3/Tassos%20Lycurgo/A%20Batalha%20pela%20verdade_%20Da%20manipulação%20da%20linguagem%20à%20desconstrução%20da%20família_%20a%20engenharia%20social.azw3) — Tassos Lycurgo
 - [A cultura da experimentação](Kindle/KFX/Stefan%20H.%20Thomke/A%20cultura%20da%20experimentação.kfx) — Stefan H. Thomke
@@ -414,6 +479,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [As 48 leis do poder](Kindle/KFX/Robert%20Greene/As%2048%20leis%20do%20poder.kfx) — Robert Greene; Joost Elffers
 - [As-48-Leis-do-Poder-Robert-Greene](Kindle/AZW3/Joost%20Elffers%20Robert%20Greene/As-48-Leis-do-Poder-Robert-Greene.azw3) — Joost Elffers Robert Greene
 - [Brevidade inteligente O poder - Jim VandeHei](Kindle/AZW3/Jim%20VandeHei/Brevidade%20inteligente%20O%20poder%20-%20Jim%20VandeHei.azw3) — Jim VandeHei
+- [Cocriador da realidade](Kindle/KFX/Elainne%20Ourives/Cocriador%20da%20realidade.kfx) — Elainne Ourives
+- [Cocriador da realidade Elainne Ourives](Kindle/AZW3/Elainne%20Ourives/Cocriador%20da%20realidade%20Elainne%20Ourives.azw3) — Elainne Ourives
 - [Como desarmar a cultura woke](Kindle/KFX/Charles%20Pincourt/Como%20desarmar%20a%20cultura%20woke.kfx) — Charles Pincourt; James Lindsay
 - [Como desarmar a cultura Woke Charles Pincourt e James Lindsay](Kindle/AZW3/Cherles%20Pincourt%20e%20James%20Lindsay/Como%20desarmar%20a%20cultura%20Woke%20Charles%20Pincourt%20e%20James%20Lindsay.azw3) — Cherles Pincourt e James Lindsay
 - [Confissao vitoriosa_ O poder tr](Kindle/KFX/Carlos%20Alberto%20Bezerra/Confissao%20vitoriosa_%20O%20poder%20tr.kfx) — Carlos Alberto Bezerra
@@ -423,9 +490,13 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Culturas de crescimento](Kindle/KFX/Mary%20Murphy/Culturas%20de%20crescimento.kfx) — Mary Murphy
 - [Culturas de crescimento - Mary Murphy](Kindle/AZW3/Mary%20Murphy/Culturas%20de%20crescimento%20-%20Mary%20Murphy.azw3) — Mary Murphy
 - [De Sarney a Temer - Nossa Incipiente Democracia](Kindle/AZW/Rafael%20Moia%20Filho/De%20Sarney%20a%20Temer%20-%20Nossa%20Incipiente%20Democracia.azw) — Rafael Moia Filho
+- [Direito E Inteligência Artificial O Que Os Algoritmos Têm A Ensinar](Kindle/AZW3/Hugo%20de%20Brito%20Machado/Direito%20E%20Inteligência%20Artificial%20O%20Que%20Os%20Algoritmos%20Têm%20A%20Ensinar.azw3) — Hugo de Brito Machado
+- [Do mil ao milhão](Kindle/KFX/Thiago%20Nigro/Do%20mil%20ao%20milhão.kfx) — Thiago Nigro
+- [Em Defesa de Israel](Kindle/KFX/Alan%20Dershowitz/Em%20Defesa%20de%20Israel.kfx) — Alan Dershowitz
 - [Enciclonerdia - Almanaque de Cultura Nerd](Kindle/AZW/Luis%20F.%20Fernandes/Enciclonerdia%20-%20Almanaque%20de%20Cultura%20Nerd.azw) — Luis F. Fernandes
 - [Fielmente diferente - Recuperando a clareza bíblica em uma cultura secular - Natasha Crain (PT-BR)](Kindle/AZW3/Natasha%20Crain/Fielmente%20diferente%20-%20Recuperando%20a%20clareza%20bíblica%20em%20uma%20cultura%20secular%20-%20Natasha%20Crain%20(PT-BR).azw3) — Natasha Crain
 - [Fielmente diferente: recuperando a clareza bíblica em uma cultura secular](EPUB/Natasha%20Crain/Fielmente%20diferente_%20recuperando%20a%20clareza%20bíblica%20em%20uma%20cultura%20secular.epub) — Natasha Crain
+- [Ideologias - Gabriela Prioli](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ideologias%20-%20Gabriela%20Prioli.azw3) — FELIPE IVO PEREIRA
 - [Idolatria política](Kindle/KFX/Yago%20Martins/Idolatria%20política.kfx) — Yago Martins
 - [Idolatria Política Yago Martins](Kindle/AZW3/Yago%20Martins/Idolatria%20Política%20Yago%20Martins.azw3) — Yago Martins
 - [Liberte o poder do seu subconsciente](Kindle/AZW3/Joseph%20Murphy/Liberte%20o%20poder%20do%20seu%20subconsciente.azw3) — Joseph Murphy
@@ -478,7 +549,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Visoes e Ilusoes Politicas - David T. Koyzis](Kindle/AZW3/David%20koyzis/Visoes%20e%20Ilusoes%20Politicas%20-%20David%20T.%20Koyzis.azw3) — David koyzis
 - [Woke S A a farsa da justiça social empresarial Vivek Ramaswamy](Kindle/AZW3/Vivek%20Ramaswamy/Woke%20S%20A%20a%20farsa%20da%20justiça%20social%20empresarial%20Vivek%20Ramaswamy.azw3) — Vivek Ramaswamy
 
-## Negócios e carreira · Finanças e investimentos (163)
+## Negócios e carreira · Finanças e investimentos (192)
 
 - [100 coisas que milionários fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20milionários%20fazem.kfx) — Nigel Cumberland
 - [50 ideias de economia que você precisa conhecer](Kindle/AZW/Edmund%20Conway/50%20ideias%20de%20economia%20que%20você%20precisa%20conhecer.azw) — Edmund Conway
@@ -490,59 +561,83 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [A arte de gastar dinheiro](Kindle/AZW3/Morgan%20Housel/A%20arte%20de%20gastar%20dinheiro.azw3) — Morgan Housel
 - [A ascensão do dinheiro: a história financeira do mundo](Kindle/AZW/Niall%20Ferguson/A%20ascensão%20do%20dinheiro_%20a%20história%20financeira%20do%20mundo.azw) — Niall Ferguson; Cordelia Magalhaes
 - [A bola de neve: Warren Buffett e o negócio da vida](Kindle/AZW/Alice%20Schroeder/A%20bola%20de%20neve_%20Warren%20Buffett%20e%20o%20negócio%20da%20vida.azw) — Alice Schroeder
-- [A Chave mestra das riquezas](Kindle/KFX/Napoleon%20Hill/A%20Chave%20mestra%20das%20riquezas.kfx) — Napoleon Hill
-- [A Chave mestra das riquezas - Napoleon Hill](Kindle/AZW3/Napoleon%20Hill/A%20Chave%20mestra%20das%20riquezas%20-%20Napoleon%20Hill.azw3) — Napoleon Hill
+- [A Chave mestra das riquezas](Kindle/AZW3/Napoleon%20Hill/A%20Chave%20mestra%20das%20riquezas.azw3) — Napoleon Hill
+- [A força da palavra criadora](Kindle/AZW3/Florence%20Scovel%20Shinn/A%20força%20da%20palavra%20criadora.azw3) — Florence Scovel Shinn
 - [A Fórmula Mágica de Joel Greenblatt para Bater o Mercado de Ações - Joel Greenblatt](Kindle/AZW3/Joel%20Greenblatt/A%20Fórmula%20Mágica%20de%20Joel%20Greenblatt%20para%20Bater%20o%20Mercado%20de%20Ações%20-%20Joel%20Greenblatt.azw3) — Joel Greenblatt
 - [A Fórmula Mágica para Bater o Mercado de Ações](Kindle/KFX/Joel%20Greenblatt/A%20Fórmula%20Mágica%20para%20Bater%20o%20Mercado%20de%20Ações.kfx) — Joel Greenblatt
 - [A Grande Saída: saúde, riqueza e as origens da desigualdade](Kindle/KFX/Angus%20Deaton/A%20Grande%20Saída_%20saúde,%20riqueza%20e%20as%20origens%20da%20desigualdade.kfx) — Angus Deaton
+- [A hora dos economistas](Kindle/KFX/Binyamin%20Appelbaum/A%20hora%20dos%20economistas.kfx) — Binyamin Appelbaum
+- [A Hora dos Economistas (Binyamin Appelbaum)](Kindle/AZW3/Binyamin%20Appelbaum/A%20Hora%20dos%20Economistas%20(Binyamin%20Appelbaum).azw3) — Binyamin Appelbaum
+- [A magica de pensar grande A fo](Kindle/KFX/David%20J.%20Schwartz/A%20magica%20de%20pensar%20grande%20A%20fo.kfx) — David J. Schwartz
+- [A magica de pensar grande A fo - David J. Schwartz](Kindle/AZW3/David%20J.%20Schwartz/A%20magica%20de%20pensar%20grande%20A%20fo%20-%20David%20J.%20Schwartz.azw3) — David J. Schwartz
 - [A Metodologia Wyckoff em Profundidade: Como operar lógicamente os mercados financeiros](Kindle/AZW/Rubén%20Villahermosa/A%20Metodologia%20Wyckoff%20em%20Profundidade_%20Como%20operar%20lógicamente%20os%20mercados%20financeiros.azw) — Rubén Villahermosa
+- [A montanha e voce Como transfo](Kindle/KFX/Brianna%20Wiest/A%20montanha%20e%20voce%20Como%20transfo.kfx) — Brianna Wiest
+- [A Montanha é Você - Brianna Wiest](Kindle/AZW3/Brianna%20Wiest/A%20Montanha%20é%20Você%20-%20Brianna%20Wiest.azw3) — Brianna Wiest
+- [A morte é um dia que vale a pena viver](Kindle/KFX/Ana%20Claudia%20Arantes/A%20morte%20é%20um%20dia%20que%20vale%20a%20pena%20viver.kfx) — Ana Claudia Arantes
+- [A Pirâmide do fazer acontecer](Kindle/AZW3/Ricardo%20Jucá/A%20Pirâmide%20do%20fazer%20acontecer.azw3) — Ricardo Jucá
 - [A psicologia do dinheiro](Kindle/KFX/Dan%20Ariely/A%20psicologia%20do%20dinheiro.kfx) — Dan Ariely; Jeff Kreisler
 - [A Psicologia do Dinheiro - Dan Ariely](Kindle/AZW3/Ariely_%20Dan/A%20Psicologia%20do%20Dinheiro%20-%20Dan%20Ariely.azw3) — Ariely| Dan; Kreisler| Jeff
 - [A Psicologia Financeira](Kindle/MOBI/Morgan%20Housel/A%20Psicologia%20Financeira.mobi) — Morgan Housel
+- [A religião do bolsonarismo](Kindle/AZW3/Yago%20Martins/A%20religião%20do%20bolsonarismo.azw3) — Yago Martins
 - [A RIQUEZA DA VIDA SIMPLES](Kindle/KFX/Gustavo%20Cerbasi/A%20RIQUEZA%20DA%20VIDA%20SIMPLES.kfx) — Gustavo Cerbasi
 - [A RIQUEZA DA VIDA SIMPLES - Gustavo Cerbasi](Kindle/AZW3/Gustavo%20Cerbasi/A%20RIQUEZA%20DA%20VIDA%20SIMPLES%20-%20Gustavo%20Cerbasi.azw3) — Gustavo Cerbasi
+- [A teoria geral do emprego, do juro e da moeda](Kindle/AZW/John%20Maynard%20Keynes/A%20teoria%20geral%20do%20emprego,%20do%20juro%20e%20da%20moeda.azw) — John Maynard Keynes
+- [A vaca roxa](Kindle/AZW3/Seth%20Godin/A%20vaca%20roxa.azw3) — Seth Godin
+- [A vontade radical](Kindle/KFX/Susan%20Sontag/A%20vontade%20radical.kfx) — Susan Sontag
 - [A vontade radical - Susan Sontag](Kindle/AZW3/Susan%20Sontag/A%20vontade%20radical%20-%20Susan%20Sontag.azw3) — Susan Sontag
 - [A árvore de dinheiro - Guia para cultivar a sua independência financeira](Kindle/AZW/Jurandir%20Sell%20Macedo%20Jr/A%20árvore%20de%20dinheiro%20-%20Guia%20para%20cultivar%20a%20sua%20independência%20financeira.azw) — Jurandir Sell Macedo Jr
+- [A Única Coisa](Kindle/AZW3/Gary%20Keller%20Jay%20Papasan/A%20Única%20Coisa.azw3) — Gary Keller Jay Papasan
 - [Alegria e Triunfo II](Kindle/KFX/Lourenço%20Prado/Alegria%20e%20Triunfo%20II.kfx) — Lourenço Prado
 - [Alexandre Silva - Faça direito, faça dinheiro](Kindle/AZW3/Alexandre%20Silva/Alexandre%20Silva%20-%20Faça%20direito,%20faça%20dinheiro.azw3) — Alexandre Silva
 - [Alexandre Silva - Faça direito, faça dinheiro (1)](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Alexandre%20Silva%20-%20Faça%20direito,%20faça%20dinheiro%20(1).azw3) — FELIPE IVO PEREIRA
 - [Angus Deaton A grande saída saúde, riqueza e as origens da desigualdade](Kindle/AZW3/Angus%20Deaton/Angus%20Deaton%20A%20grande%20saída%20saúde,%20riqueza%20e%20as%20origens%20da%20desigualdade.azw3) — Angus Deaton
 - [Antifrágil (Nova edição): Coisas que se beneficiam com o caos](Kindle/AZW/Nassim%20Nicholas%20Taleb/Antifrágil%20(Nova%20edição)_%20Coisas%20que%20se%20beneficiam%20com%20o%20caos.azw) — Nassim Nicholas Taleb
+- [Análise Financeira com Python -](Kindle/KFX/Fernando%20Feltrin/Análise%20Financeira%20com%20Python%20-.kfx) — Fernando Feltrin
 - [Análise financeira das empresas](Kindle/KFX/José%20Pereira%20da%20Silva/Análise%20financeira%20das%20empresas.kfx) — José Pereira da Silva
 - [Análise Técnica Do Mercado Financeiro](Kindle/AZW3/Murphy_%20John%20J/Análise%20Técnica%20Do%20Mercado%20Financeiro.azw3) — Murphy| John J.
+- [Análise Técnica Para Leigos](Kindle/AZW/Barbara%20Rockefeller/Análise%20Técnica%20Para%20Leigos.azw) — Barbara Rockefeller
 - [Aprenda a operar no mercado de ações](Kindle/AZW/Alexander%20Elder/Aprenda%20a%20operar%20no%20mercado%20de%20ações.azw) — Alexander Elder
 - [Aprenda a Vender e Operar Vendido - Lucre com a Bolsa em Alta ou em Queda](Kindle/AZW/Alexander%20Elder/Aprenda%20a%20Vender%20e%20Operar%20Vendido%20-%20Lucre%20com%20a%20Bolsa%20em%20Alta%20ou%20em%20Queda.azw) — Alexander Elder
-- [Aprenda Inglês com Contos incríveis para iniciantes Jack Cac](Kindle/AZW3/Jack%20Cactus/Aprenda%20Inglês%20com%20Contos%20incríveis%20para%20iniciantes%20Jack%20Cac.azw3) — Jack Cactus
 - [Aprenda Inglês com Frases 1000 Frases para treinar nodrm](Kindle/AZW3/LFL%20Language%20Company/Aprenda%20Inglês%20com%20Frases%201000%20Frases%20para%20treinar%20nodrm.azw3) — LFL Language Company
 - [Aprendendo Node (Shelley Powers)](Kindle/AZW3/Shelley%20Powers/Aprendendo%20Node%20(Shelley%20Powers).azw3) — Shelley Powers
 - [As aplicações dos criptoativos](Kindle/AZW3/João%20Valente%20Filho/As%20aplicações%20dos%20criptoativos.azw3) — João Valente Filho
+- [As ideias têm consequências](Kindle/KFX/Richard%20M.%20Weaver/As%20ideias%20têm%20consequências.kfx) — Richard M. Weaver
 - [As Leis Dinâmicas Da Prosperidade](Kindle/AZW3/Catherine%20Ponder/As%20Leis%20Dinâmicas%20Da%20Prosperidade.azw3) — Catherine Ponder
 - [As leis secretas da economia: Revisitando Roberto Campos e as leis do Kafka](Kindle/AZW/Gustavo%20H.%20B.%20Franco/As%20leis%20secretas%20da%20economia_%20Revisitando%20Roberto%20Campos%20e%20as%20leis%20do%20Kafka.azw) — Gustavo H. B. Franco
+- [As transições e os choques - Martin Wolf](Kindle/AZW3/Martin%20Wolf/As%20transições%20e%20os%20choques%20-%20Martin%20Wolf.azw3) — Martin Wolf
 - [Assimetria](Kindle/KFX/Mathias%20Fulda/Assimetria.kfx) — Mathias Fulda
+- [Atenção Plena para Iniciantes](Kindle/KFX/Jon%20Kabat-Zinn/Atenção%20Plena%20para%20Iniciantes.kfx) — Jon Kabat-Zinn
 - [Axiomas De Zurique](Kindle/KFX/Max%20Gunther/Axiomas%20De%20Zurique.kfx) — Max Gunther
 - [Ações comuns, lucros extraordinários](Kindle/KFX/Philip%20Fisher/Ações%20comuns,%20lucros%20extraordinários.kfx) — Philip Fisher
 - [Bitcoin, Blockchain e muito dinheiro - Christian Aranha](Kindle/AZW3/Christian%20Aranha/Bitcoin,%20Blockchain%20e%20muito%20dinheiro%20-%20Christian%20Aranha.azw3) — Christian Aranha
 - [Bitcoin: A Moeda Na Era Digital](Kindle/AZW/Fernando%20Ulrich/Bitcoin_%20A%20Moeda%20Na%20Era%20Digital.azw) — Fernando Ulrich
 - [Blockchain Para leigos](Kindle/KFX/Tiana%20Laurence/Blockchain%20Para%20leigos.kfx) — Tiana Laurence
+- [Box](Kindle/KFX/Dale%20Carnegie/Box.kfx) — Dale Carnegie
+- [Box Dale Carnegie](Kindle/AZW3/Dale%20Carnegie/Box%20Dale%20Carnegie.azw3) — Dale Carnegie
 - [Brasill, uma economia que não aprende](Kindle/AZW/Andre%20Roncaglia%20e%20Paulo%20Gala/Brasill,%20uma%20economia%20que%20não%20aprende.azw) — Andre Roncaglia e Paulo Gala
+- [Bumerangue](Kindle/AZW/Michael%20Lewis/Bumerangue.azw) — Michael Lewis
 - [Buy & f da-$e como investir bem sem entrar em parafuso](Kindle/AZW3/Lucas%20Pit%20Money/Buy%20&%20f%20da-$e%20como%20investir%20bem%20sem%20entrar%20em%20parafuso.azw3) — Lucas Pit Money; Thiago Nigro
 - [Cartas a um jovem investidor](Kindle/KFX/Gustavo%20Cerbasi/Cartas%20a%20um%20jovem%20investidor.kfx) — Gustavo Cerbasi
 - [Casais inteligentes enriquecem juntos: Finanças para casais](Kindle/AZW/Gustavo%20Cerbasi/Casais%20inteligentes%20enriquecem%20juntos_%20Finanças%20para%20casais.azw) — Gustavo Cerbasi
 - [Chaves para a Economia Do ceu](Kindle/KFX/Manoel%20Sena%20Costa%20Sena/Chaves%20para%20a%20Economia%20Do%20ceu.kfx) — Manoel Sena Costa Sena
 - [COMO ATRAIR DINHEIRO](Kindle/AZW3/Joseph%20Murphy/COMO%20ATRAIR%20DINHEIRO.azw3) — Joseph Murphy
 - [Como Aumentar o seu Próprio Salário](Kindle/KFX/Napoleon%20Hill/Como%20Aumentar%20o%20seu%20Próprio%20Salário.kfx) — Napoleon Hill
+- [Como domar a dopamina](Kindle/AZW3/Michael%20E.%20Long/Como%20domar%20a%20dopamina.azw3) — Michael E. Long
+- [Como fazer grandes coisas - Bent Gardner](Kindle/KFX/Dan%20Flyvbjerg/Como%20fazer%20grandes%20coisas%20-%20Bent%20Gardner.kfx) — Dan Flyvbjerg
+- [Como ficar rico](Kindle/KFX/Ramit%20Sethi/Como%20ficar%20rico.kfx) — Ramit Sethi
 - [Como Organizar Sua Vida Financeira](Kindle/KFX/Gustavo%20Cerbasi/Como%20Organizar%20Sua%20Vida%20Financeira.kfx) — Gustavo Cerbasi
 - [Como se Transformar em um Operador e Investidor de Sucesso](Kindle/AZW/Alexander%20Elder/Como%20se%20Transformar%20em%20um%20Operador%20e%20Investidor%20de%20Sucesso.azw) — Alexander Elder
 - [Como surgem as inovacoes](Kindle/KFX/Matt%20Ridley/Como%20surgem%20as%20inovacoes.kfx) — Matt Ridley
 - [Contabilidade Geral para o Exame de Suficiência Marcelo e Rafael](Kindle/AZW3/Marcelo%20Cavalcanti%20Almeida/Contabilidade%20Geral%20para%20o%20Exame%20de%20Suficiência%20Marcelo%20e%20Rafael.azw3) — Marcelo Cavalcanti Almeida
 - [Crash](Kindle/AZW/Alexandre%20Versignassi/Crash.azw) — Alexandre Versignassi
-- [Crie um negocio milionario](Kindle/KFX/Elaine%20Pofeldt/Crie%20um%20negocio%20milionario.kfx) — Elaine Pofeldt
 - [Day Trading para leigos](Kindle/AZW/Ann%20C.%20Logue/Day%20Trading%20para%20leigos.azw) — Ann C. Logue
+- [Deixe de ser pobre](Kindle/KFX/Eduardo%20Felberg/Deixe%20de%20ser%20pobre.kfx) — Eduardo Felberg
 - [Desendivide-se](EPUB/Filipe%20Ivo%20Pereira/Desendivide-se.epub) — Filipe Ivo Pereira
 - [Desperte o Milionario que Ha Em Voce](Kindle/KFX/Carlos%20Wizard%20Martins/Desperte%20o%20Milionario%20que%20Ha%20Em%20Voce.kfx) — Carlos Wizard Martins
 - [Desperte o milionário que há em você: Como gerar prosperidade mudando suas atitudes e postura mental](Kindle/MOBI/Carlos%20Wizard%20Martins/Desperte%20o%20milionário%20que%20há%20em%20você_%20Como%20gerar%20prosperidade%20mudando%20suas%20atitudes%20e%20postura%20mental.mobi) — Carlos Wizard Martins
 - [Dinheiro Não é o Problema, Você é](Kindle/KFX/Gary%20M.%20Douglas/Dinheiro%20Não%20é%20o%20Problema,%20Você%20é.kfx) — Gary M. Douglas
 - [Dinheiro não é o problema, você é - Gary M. Douglas](Kindle/AZW3/Gary%20M.%20Douglas/Dinheiro%20não%20é%20o%20problema,%20você%20é%20-%20Gary%20M.%20Douglas.azw3) — Gary M. Douglas
+- [Dios, la avaricia y el Evangelio (de la prosperidad) (Spanish Edition) - Sample](EPUB/Hinn_%20Costi%20W/Dios,%20la%20avaricia%20y%20el%20Evangelio%20(de%20la%20prosperidad)%20(Spanish%20Edition)%20-%20Sample.epub) — Hinn| Costi W.
 - [DNA do dinheiro - Elainne Ourives](Kindle/AZW3/Elainne%20Ourives/DNA%20do%20dinheiro%20-%20Elainne%20Ourives.azw3) — Elainne Ourives.
 - [DNA Milionario](Kindle/KFX/Elainne%20Ourives/DNA%20Milionario.kfx) — Elainne Ourives
 - [Do Mil Ao Milhão @REVISTAVIRTUALBR Thiago Nigro](Kindle/AZW3/Thiago%20Nigro/Do%20Mil%20Ao%20Milhão%20@REVISTAVIRTUALBR%20Thiago%20Nigro.azw3) — Thiago Nigro
@@ -556,14 +651,19 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Economia: o que é, para que serve, como funciona](Kindle/KFX/Charles%20Wheelan/Economia_%20o%20que%20é,%20para%20que%20serve,%20como%20funciona.kfx) — Charles Wheelan
 - [Elainne Ourives Visualização holográfica Editora Gente 2023](Kindle/AZW3/Elainne%20Ourives/Elainne%20Ourives%20Visualização%20holográfica%20Editora%20Gente%202023.azw3) — Elainne Ourives
 - [Engenharia de Prompt para Devs - Ricardo Larguesa](Kindle/AZW3/Ricardo%20Pupo%20Larguesa/Engenharia%20de%20Prompt%20para%20Devs%20-%20Ricardo%20Larguesa.azw3) — Ricardo Pupo Larguesa
+- [ESCUTE](Kindle/KFX/Dale%20Carnegie/ESCUTE.kfx) — Dale Carnegie.
 - [Está tudo bem](Kindle/AZW3/Louise%20Hay/Está%20tudo%20bem.azw3) — Louise Hay
 - [Fake - Robert Kiyosaki](Kindle/AZW3/Robert%20Kiyosaki/Fake%20-%20Robert%20Kiyosaki.azw3) — Robert Kiyosaki
 - [Fake - Robert Kiyosaki (1)](Kindle/AZW3/Robert%20Kiyosaki/Fake%20-%20Robert%20Kiyosaki%20(1).azw3) — Robert Kiyosaki
+- [Fale](Kindle/AZW3/Alison%20Wood%20Brooks/Fale.azw3) — Alison Wood Brooks
+- [Fator de Enriquecimento](Kindle/KFX/Paulo%20Vieira/Fator%20de%20Enriquecimento.kfx) — Paulo Vieira
 - [Feliz, Sexy e Milionário - Steven Bartlett](Kindle/AZW3/Steven%20Bartlett/Feliz,%20Sexy%20e%20Milionário%20-%20Steven%20Bartlett.azw3) — Steven Bartlett
+- [Ferramentas dos Titas](Kindle/KFX/Tim%20Ferriss/Ferramentas%20dos%20Titas.kfx) — Tim Ferriss
 - [Ferramentas dos Titãs - Tim Ferris](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ferramentas%20dos%20Titãs%20-%20Tim%20Ferris.azw3) — FELIPE IVO PEREIRA
 - [Flash Boys: Revolta em Wall Street](Kindle/AZW/Michael%20Lewis/Flash%20Boys_%20Revolta%20em%20Wall%20Street.azw) — Michael Lewis
 - [Flutter na prática - Frank Zammetti](Kindle/AZW3/Frank%20Zammetti/Flutter%20na%20prática%20-%20Frank%20Zammetti.azw3) — Frank Zammetti
 - [Fora da Curva 1 Os Segredos dos Grandes Investidores Florian Bartunek](Kindle/AZW3/Pierre%20Moreau/Fora%20da%20Curva%201%20Os%20Segredos%20dos%20Grandes%20Investidores%20Florian%20Bartunek.azw3) — Pierre Moreau
+- [Fora da curva 2](Kindle/KFX/Florian%20Bartunek/Fora%20da%20curva%202.kfx) — Florian Bartunek; Pierre Moreau; Giuliana Napolitano
 - [Fora da Curva 2 Mais investidores revelam seus segredos Florian](Kindle/AZW3/Florian%20Bartunek/Fora%20da%20Curva%202%20Mais%20investidores%20revelam%20seus%20segredos%20Florian.azw3) — Florian Bartunek
 - [Fora da curva 2: Mais investidores incríveis revelam seus segredos — e você pode aprender com eles](Kindle/AZW/Florian%20Bartunek/Fora%20da%20curva%202_%20Mais%20investidores%20incríveis%20revelam%20seus%20segredos%20—%20e%20você%20pode%20aprender%20com%20eles.azw) — Florian Bartunek; Giuliana Napolitano; Pierre Moreau
 - [Fora da curva: Os segredos dos grandes investidores do Brasil - e o que você pode aprender com eles](Kindle/AZW/Pierre%20Moreau/Fora%20da%20curva_%20Os%20segredos%20dos%20grandes%20investidores%20do%20Brasil%20-%20e%20o%20que%20você%20pode%20aprender%20com%20eles.azw) — Pierre Moreau; Florian Bartunek; Giuliana Napolitano
@@ -644,63 +744,84 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tudo o que você precisa saber sobre economia](Kindle/AZW/Alfred%20Mill/Tudo%20o%20que%20você%20precisa%20saber%20sobre%20economia.azw) — Alfred Mill
 - [Virada financeira](Kindle/KFX/Patricia%20Lages/Virada%20financeira.kfx) — Patricia Lages
 
-## Negócios e carreira · Gestão, liderança e empreendedorismo (118)
+## Negócios e carreira · Gestão, liderança e empreendedorismo (139)
 
 - [1 ano em 12 semanas](Kindle/KFX/Brian%20P%20Moran/1%20ano%20em%2012%20semanas.kfx) — Brian P Moran
+- [100 coisas que pessoas produtivas fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20produtivas%20fazem.kfx) — Nigel Cumberland
 - [33 Estratégias de Guerra](Kindle/KFX/Robert%20Greene/33%20Estratégias%20de%20Guerra.kfx) — Robert Greene
 - [365 Hábitos Simples e Poderosos - Paulo Houch](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/365%20Hábitos%20Simples%20e%20Poderosos%20-%20Paulo%20Houch.azw3) — FELIPE IVO PEREIRA
 - [401 Frases Motivacionais de Empresários Famosos](Kindle/KFX/Mario%20Henrique%20Meireles/401%20Frases%20Motivacionais%20de%20Empresários%20Famosos.kfx) — Mario Henrique Meireles
+- [A 3a ALTERNATIVA](Kindle/KFX/Stephen%20R.%20Covey/A%203a%20ALTERNATIVA.kfx) — Stephen R. Covey
+- [A construção de uma vida](Kindle/AZW3/Jim%20Collins/A%20construção%20de%20uma%20vida.azw3) — Jim Collins
 - [A dor da liderança: Lições para o crescimento](Kindle/AZW3/Samuel%20R.%20Chand/A%20dor%20da%20liderança_%20Lições%20para%20o%20crescimento.azw3) — Samuel R. Chand
 - [A Estrategia da Inovacao Radical - Pedro Waengertner](Kindle/AZW3/Pedro%20Waengertner/A%20Estrategia%20da%20Inovacao%20Radical%20-%20Pedro%20Waengertner.azw3) — Pedro Waengertner
 - [A fórmula do empreendedorismo](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/A%20fórmula%20do%20empreendedorismo.azw3) — FELIPE IVO PEREIRA
 - [A incrível ciência das vendas: os erros que as empresas cometem na gestão de equipes comerciais e as comprovações científicas de como corrigi-los](Kindle/KFX/Luiz%20Gaziri/A%20incrível%20ciência%20das%20vendas_%20os%20erros%20que%20as%20empresas%20cometem%20na%20gestão%20de%20equipes%20comerciais%20e%20as.kfx) — Luiz Gaziri
+- [A Licao de Icaro](Kindle/AZW3/Seth%20Godin/A%20Licao%20de%20Icaro.azw3) — Seth Godin
+- [A liderança que Deus valoriza](Kindle/AZW3/Richard%20Stearns/A%20liderança%20que%20Deus%20valoriza.azw3) — Richard Stearns
 - [A pista da liderança - Steve Murrell (PT-BR)](Kindle/AZW3/Steve%20Murrell/A%20pista%20da%20liderança%20-%20Steve%20Murrell%20(PT-BR).azw3) — Steve Murrell
 - [A pista da liderança: uma estratégia para sucessão ministerial, transição de liderança e sustentabilidade pós-fundador](EPUB/Steve%20Murrell/A%20pista%20da%20liderança_%20uma%20estratégia%20para%20sucessão%20ministerial,%20transição%20de%20liderança%20e%20sustentabil.epub) — Steve Murrell
 - [A Revolução 8020 O Poder Da Escolha Menos Trabalho, Menos Preocupação](Kindle/AZW3/Richard%20Koch/A%20Revolução%208020%20O%20Poder%20Da%20Escolha%20Menos%20Trabalho,%20Menos%20Preocupação.azw3) — Richard Koch
 - [A sutil arte de ligar o f*da-se: Uma estratégia inusitada para uma vida melhor](Kindle/AZW/Mark%20Manson/A%20sutil%20arte%20de%20ligar%20o%20f_da-se_%20Uma%20estratégia%20inusitada%20para%20uma%20vida%20melhor.azw) — Mark Manson
+- [A Toalha e o Trono](EPUB/Filipe%20Ivo%20Pereira/A%20Toalha%20e%20o%20Trono.epub) — Filipe Ivo Pereira
 - [Aprendendo a Mudar](EPUB/Jim%20Herrington/Aprendendo%20a%20Mudar.epub) — Jim Herrington
 - [As 3 virtudes essenciais para trabalhar em equipe](Kindle/KFX/Patrick%20Lencioni/As%203%20virtudes%20essenciais%20para%20trabalhar%20em%20equipe.kfx) — Patrick Lencioni
 - [As regras de ouro: dez Segredos Para se Tornar um Campeão na Vida e nos Negócios](Kindle/AZW/Bob%20Bowman/As%20regras%20de%20ouro_%20dez%20Segredos%20Para%20se%20Tornar%20um%20Campeão%20na%20Vida%20e%20nos%20Negócios.azw) — Bob Bowman
 - [Atenção: o maior ativo do mundo](Kindle/AZW/Samuel%20Pereira/Atenção_%20o%20maior%20ativo%20do%20mundo.azw) — Samuel Pereira
 - [Autocontrole através da Auto-sugestão Consciente](PDF/Emile%20Coué/Autocontrole%20através%20da%20Auto-sugestão%20Consciente.pdf) — Emile Coué
+- [AWS Para Iniciantes Livro de Bolso (1)](Kindle/AZW3/Rogerio%20Guimaraes/AWS%20Para%20Iniciantes%20Livro%20de%20Bolso%20(1).azw3) — Rogerio Guimaraes
+- [AWS para iniciantes: livro de bolso](Kindle/KFX/Rogerio%20Guimaraes/AWS%20para%20iniciantes_%20livro%20de%20bolso.kfx) — Rogerio Guimaraes
 - [Blitzscaling: o caminho vertiginoso para construir negócios extremamente valiosos](Kindle/KFX/Reid%20Hoffman/Blitzscaling_%20o%20caminho%20vertiginoso%20para%20construir%20negócios%20extremamente%20valiosos.kfx) — Reid Hoffman; Chris Yeh
 - [Bons habitos, maus habitos](Kindle/KFX/Wendy%20Wood/Bons%20habitos,%20maus%20habitos.kfx) — Wendy Wood
 - [Bons hábitos, maus hábitos - Wendy Wood (1)](Kindle/AZW3/Wendy%20Wood/Bons%20hábitos,%20maus%20hábitos%20-%20Wendy%20Wood%20(1).azw3) — Wendy Wood
+- [Burnout Da exaustão à plenitude – Tiago Mattes](Kindle/AZW3/Tiago%20Mattes/Burnout%20Da%20exaustão%20à%20plenitude%20–%20Tiago%20Mattes.azw3) — Tiago Mattes
 - [Cadeia De Hábitos: Descubra 97 Hábitos Simples Que Podem Mudar Sua Vida](Kindle/AZW/S.%20J.%20Scott/Cadeia%20De%20Hábitos_%20Descubra%2097%20Hábitos%20Simples%20Que%20Podem%20Mudar%20Sua%20Vida.azw) — S. J. Scott
+- [Chamados para criar](Kindle/KFX/Jordan%20Raynor/Chamados%20para%20criar.kfx) — Jordan Raynor
 - [Chega de ser empresidiário - André Menezes](Kindle/AZW3/André%20Menezes/Chega%20de%20ser%20empresidiário%20-%20André%20Menezes.azw3) — André Menezes
 - [Cole Nussbaumer Knaflic - Storytelling com Dados-Alta Books](Kindle/AZW3/Cole%20Nussbaumer%20Knaflic/Cole%20Nussbaumer%20Knaflic%20-%20Storytelling%20com%20Dados-Alta%20Books.azw3) — Cole Nussbaumer Knaflic
+- [Como integrar fé e trabalho](Kindle/KFX/Timothy%20Keller/Como%20integrar%20fé%20e%20trabalho.kfx) — Timothy Keller; Katherine Leary Alsdorf
+- [Como mudar - Katy Milkman](Kindle/AZW3/Katy%20Milkman/Como%20mudar%20-%20Katy%20Milkman.azw3) — Katy Milkman
 - [Como pensar e viver melhor: ferramentas mentais para a vida e os negócios](EPUB/Rolf%20Dobelli/Como%20pensar%20e%20viver%20melhor_%20ferramentas%20mentais%20para%20a%20vida%20e%20os%20negócios.epub) — Rolf Dobelli
-- [Comunicação e liderança: volume 1](EPUB/Leny%20Kyrillos/Comunicação%20e%20liderança_%20volume%201.epub) — Leny Kyrillos; Carlos Alberto Sardenberg
+- [Conteúdo S.A.](Kindle/KFX/Joe%20Pulizzi/Conteúdo%20S.A.kfx) — Joe Pulizzi
 - [Criative se Liderança, inovação e criatividade Marcos Madaleno](Kindle/AZW3/Marcos%20Madaleno/Criative%20se%20Liderança,%20inovação%20e%20criatividade%20Marcos%20Madaleno.azw3) — Marcos Madaleno
+- [Crie um negocio milionario](Kindle/KFX/Elaine%20Pofeldt/Crie%20um%20negocio%20milionario.kfx) — Elaine Pofeldt
 - [Crie um negócio milionário - Elaine Pofeldt (1)](Kindle/AZW3/Elaine%20Pofeldt/Crie%20um%20negócio%20milionário%20-%20Elaine%20Pofeldt%20(1).azw3) — Elaine Pofeldt
+- [Data Science para negócios](Kindle/KFX/Tom%20Fawcett/Data%20Science%20para%20negócios.kfx) — Tom Fawcett; Foster Provost
 - [Desafios da gestão (10 leituras essenciais - HBR)](Kindle/AZW3/Harvard%20Business%20Review/Desafios%20da%20gestão%20(10%20leituras%20essenciais%20-%20HBR).azw3) — Harvard Business Review
 - [Desafios da gestão (10 leituras essenciais)](Kindle/KFX/Harvard%20Business%20Review/Desafios%20da%20gestão%20(10%20leituras%20essenciais).kfx) — Harvard Business Review
-- [Desafios da liderança (10 leituras essenciais - HBR)](Kindle/AZW3/Harvard%20Business%20Review/Desafios%20da%20liderança%20(10%20leituras%20essenciais%20-%20HBR).azw3) — Harvard Business Review
-- [Desafios da liderança (10 leituras essenciais)](Kindle/KFX/Harvard%20Business%20Review/Desafios%20da%20liderança%20(10%20leituras%20essenciais).kfx) — Harvard Business Review
 - [Desenvolvimento pessoal: 6 passos para eliminar maus hábitos e criar hábitos saudáveis: Sistema utilizado pelas pessoas mais bem-sucedidas do mundo para ... e positivos](Kindle/AZW/Steve%20Allen/Desenvolvimento%20pessoal_%206%20passos%20para%20eliminar%20maus%20hábitos%20e%20criar%20hábitos%20saudáveis_%20Sistema%20util.azw) — Steve Allen
 - [Dicionário-Startupês Ana-Letícia-Rico 2019](Kindle/AZW3/Ana%20Leticia%20Rico/Dicionário-Startupês%20Ana-Letícia-Rico%202019.azw3) — Ana Leticia Rico
+- [Direto ao Ponto](Kindle/KFX/K.%20Anders%20Ericsson_%20Robert%20Pool/Direto%20ao%20Ponto.kfx) — K. Anders Ericsson| Robert Pool
+- [Diário de um CEO](Kindle/KFX/Steven%20Bartlett/Diário%20de%20um%20CEO.kfx) — Steven Bartlett
+- [Do que voce realmente precisa para liderar](Kindle/KFX/Robert%20Steven%20Kaplan/Do%20que%20voce%20realmente%20precisa%20para%20liderar.kfx) — Robert Steven Kaplan
+- [Do que você realmente precisa para liderar - Robert Steven](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Do%20que%20você%20realmente%20precisa%20para%20liderar%20-%20Robert%20Steven.azw3) — FELIPE IVO PEREIRA
 - [Dê propósito: coloque a intenção certa no seu trabalho e preencha sua rotina de satisfação e significado](EPUB/João%20Branco/Dê%20propósito_%20coloque%20a%20intenção%20certa%20no%20seu%20trabalho%20e%20preencha%20sua%20rotina%20de%20satisfação%20e%20signifi.epub) — João Branco
 - [Eles irão além de você](Kindle/AZW3/Dênio%20Lara%20Junior/Eles%20irão%20além%20de%20você.azw3) — Dênio Lara Junior
+- [Em busca da alma feminina - John Eldredge](Kindle/AZW3/John%20Eldredge/Em%20busca%20da%20alma%20feminina%20-%20John%20Eldredge.azw3) — John Eldredge
 - [Empreenda com Sabedoria](EPUB/Filipe%20Ivo%20Pereira/Empreenda%20com%20Sabedoria.epub) — Filipe Ivo Pereira
 - [Empreendedorismo Para Subversivos - Facundo Guerra](Kindle/AZW3/Facundo%20Guerra/Empreendedorismo%20Para%20Subversivos%20-%20Facundo%20Guerra.azw3) — Facundo Guerra
 - [Este livro não vai te deixar rico](Kindle/MOBI/Startupdareal/Este%20livro%20não%20vai%20te%20deixar%20rico.mobi) — Startupdareal
 - [Este livro não vai te deixar rico: Descubra a verdade sobre empreendedorismo, startups e arte de ganhar dinheiro](Kindle/AZW/Startup%20Da%20Real/Este%20livro%20não%20vai%20te%20deixar%20rico_%20Descubra%20a%20verdade%20sobre%20empreendedorismo,%20startups%20e%20arte%20de%20gan.azw) — Startup Da Real
 - [Estratégia de UX Jaime Levy](Kindle/AZW3/Jaime%20Levy/Estratégia%20de%20UX%20Jaime%20Levy.azw3) — Jaime Levy
-- [Estratégias Didáticas Para Aulas Criativas](Kindle/AZW3/Simão%20de%20Miranda/Estratégias%20Didáticas%20Para%20Aulas%20Criativas.azw3) — Simão de Miranda
 - [Explosão de Liderança — Multiplicando Líderes de Pequenos Grupos - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Explosão%20de%20Liderança%20—%20Multiplicando%20Líderes%20de%20Pequenos%20Grupos%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
 - [Faça sua pergunta!](Kindle/KFX/Flávio%20Augusto%20da%20Silva/Faça%20sua%20pergunta!.kfx) — Flávio Augusto da Silva
 - [FAÇA SUA PERGUNTA! - Flávio Augusto Da Silva](Kindle/AZW3/Flávio%20Augusto%20da%20Silva/FAÇA%20SUA%20PERGUNTA!%20-%20Flávio%20Augusto%20Da%20Silva.azw3) — Flávio Augusto da Silva
+- [Ganhando tração](PDF/Gino%20Wickman/Ganhando%20tração.pdf) — Gino Wickman
 - [Gestão de Alta Performance Andrew S. Grove](Kindle/AZW3/Andrew%20S.%20Grove/Gestão%20de%20Alta%20Performance%20Andrew%20S.%20Grove.azw3) — Andrew S. Grove
 - [Gigantes da Estratégia David B Yoffie e Michael A Cusumano](Kindle/AZW3/David%20B.%20Yoffie%20e%20Michael%20A.%20Cusumano/Gigantes%20da%20Estratégia%20David%20B%20Yoffie%20e%20Michael%20A%20Cusumano.azw3) — David B. Yoffie e Michael A. Cusumano
+- [Grandes Decisões Sobre Pessoas](Kindle/AZW3/Claudio%20Fernández-Aráoz/Grandes%20Decisões%20Sobre%20Pessoas.azw3) — Claudio Fernández-Aráoz
 - [Habitos Espirituais](Kindle/KFX/David%20Mathis/Habitos%20Espirituais.kfx) — David Mathis
 - [Habitos Espirituais - David Mathis (1)](Kindle/AZW3/Unknown/Habitos%20Espirituais%20-%20David%20Mathis%20(1).azw3) — Unknown
+- [Hoje ser pequeno e ser grande](Kindle/KFX/Seth%20Godin/Hoje%20ser%20pequeno%20e%20ser%20grande.kfx) — Seth Godin
+- [Humanismo extremo](Kindle/KFX/Tom%20Peters/Humanismo%20extremo.kfx) — Tom Peters
 - [Humanismo Extremo Tom Peters](Kindle/AZW3/Tom%20Peters/Humanismo%20Extremo%20Tom%20Peters.azw3) — Tom Peters
 - [Hábitos Atômicos: Um Método Fácil E Comprovado De Criar Bons Hábitos E Se Livrar Dos Maus.](Kindle/AZW/James%20Clear/Hábitos%20Atômicos_%20Um%20Método%20Fácil%20E%20Comprovado%20De%20Criar%20Bons%20Hábitos%20E%20Se%20Livrar%20Dos%20Maus.azw) — James Clear
 - [Hábitos dos milionários - Napoleon Hill](Kindle/AZW3/Napoleon%20Hill/Hábitos%20dos%20milionários%20-%20Napoleon%20Hill.azw3) — Napoleon Hill
 - [IA para Empreendedores - Sample](EPUB/Rodrigues_%20Alexandre/IA%20para%20Empreendedores%20-%20Sample.epub) — Rodrigues| Alexandre
 - [IAfique-se ou Morra](Kindle/AZW3/Rodrigo%20Nascimento/IAfique-se%20ou%20Morra.azw3) — Rodrigo Nascimento
+- [Importação Inteligente](Kindle/KFX/Rodrigo%20Giraldelli/Importação%20Inteligente.kfx) — Rodrigo Giraldelli
+- [Inabalável](Kindle/KFX/Fabio%20Gurgel/Inabalável.kfx) — Fabio Gurgel
 - [Inspirado Como Criar Produtos](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Inspirado%20Como%20Criar%20Produtos.azw3) — FELIPE IVO PEREIRA
-- [Inteligencia emocional e lideranca](Kindle/AZW3/Daniel%20Goleman/Inteligencia%20emocional%20e%20lideranca.azw3) — Daniel Goleman
 - [Inteligência positiva: Por que só 20% das equipes e dos indivíduos alcançam seu verdadeiro potencial e como você pode alcançar o seu](Kindle/AZW/Shirzad%20Chamine/Inteligência%20positiva_%20Por%20que%20só%2020%%20das%20equipes%20e%20dos%20indivíduos%20alcançam%20seu%20verdadeiro%20potencial.azw) — Shirzad Chamine
 - [Isso você não aprende em Harvard Os ensinamentos de um dos maiores](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Isso%20você%20não%20aprende%20em%20Harvard%20Os%20ensinamentos%20de%20um%20dos%20maiores.azw3) — FELIPE IVO PEREIRA
 - [Jogos De Empresas Uma Nova Perspectiva De Aproveitamento E Uso](Kindle/AZW3/Pedro%20Paulo%20Hugo%20Wilhelm/Jogos%20De%20Empresas%20Uma%20Nova%20Perspectiva%20De%20Aproveitamento%20E%20Uso.azw3) — Pedro Paulo Hugo Wilhelm
@@ -769,20 +890,20 @@ Classificação editorial automática a partir do título, tags e descrição di
 
 - [84 Perguntas Que Vendem Técnicas E Ferramentas Do Coaching De Vendas](Kindle/AZW3/Jaques%20Grinberg/84%20Perguntas%20Que%20Vendem%20Técnicas%20E%20Ferramentas%20Do%20Coaching%20De%20Vendas.azw3) — Jaques Grinberg
 - [A Arte da Persuasão - James Borg](Kindle/AZW3/James%20Borg/A%20Arte%20da%20Persuasão%20-%20James%20Borg.azw3) — James Borg
-- [A FÓRMULA DO LANÇAMENTO - Jeff Walker](Kindle/AZW3/Jeff%20Walker/A%20FÓRMULA%20DO%20LANÇAMENTO%20-%20Jeff%20Walker.azw3) — Jeff Walker
+- [A FORMULA DO LANCAMENTO](Kindle/AZW3/Jeff%20Walker/A%20FORMULA%20DO%20LANCAMENTO.azw3) — Jeff Walker
 - [A Incrível Ciência das Vendas Os Erros que as Empresas Gaziri, Luiz](Kindle/AZW3/Luiz%20Gaziri/A%20Incrível%20Ciência%20das%20Vendas%20Os%20Erros%20que%20as%20Empresas%20Gaziri,%20Luiz.azw3) — Luiz Gaziri
 - [A Lição de Ícaro - Seth Godin](Kindle/AZW3/Seth%20Godin/A%20Lição%20de%20Ícaro%20-%20Seth%20Godin.azw3) — Seth Godin
 - [A mente de vendas - Helen Kensett](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/A%20mente%20de%20vendas%20-%20Helen%20Kensett.azw3) — FELIPE IVO PEREIRA
 - [Alfredo Soares - Todos Somos Uma Marca](Kindle/AZW3/Alfredo%20Soares/Alfredo%20Soares%20-%20Todos%20Somos%20Uma%20Marca.azw3) — Alfredo Soares
+- [Branding A Arte De Construir Marcas Marcos Hiller](Kindle/AZW3/Marcos%20Hiller/Branding%20A%20Arte%20De%20Construir%20Marcas%20Marcos%20Hiller.azw3) — Marcos Hiller
 - [Como falar em público e encantar](Kindle/AZW3/Dale%20Carnegie/Como%20falar%20em%20público%20e%20encantar.azw3) — Dale Carnegie
 - [Como vender qualquer coisa a qualquer um](Kindle/KFX/Joe%20Girard/Como%20vender%20qualquer%20coisa%20a%20qualquer%20um.kfx) — Joe Girard; Stanley H. Brown
 - [Como vender qualquer coisa a qualquer um Joe Girard, Stanley H Brown](Kindle/AZW3/Stanley%20H.%20Brown%20Joe%20Girard/Como%20vender%20qualquer%20coisa%20a%20qualquer%20um%20Joe%20Girard,%20Stanley%20H%20Brown.azw3) — Stanley H. Brown Joe Girard
 - [Contagio](Kindle/AZW3/Jonah%20Berger/Contagio.azw3) — Jonah Berger
 - [Copywriting O guia definitivo para transformar palavras em ouro](Kindle/AZW3/Jim%20Edwards/Copywriting%20O%20guia%20definitivo%20para%20transformar%20palavras%20em%20ouro.azw3) — Jim Edwards
+- [Desmarketize-se](Kindle/KFX/João%20Branco/Desmarketize-se.kfx) — João Branco
 - [Diálogos impossíveis](Kindle/AZW3/Luis%20Fernando%20Verissimo/Diálogos%20impossíveis.azw3) — Luis Fernando Verissimo
 - [Empreenda sem fronteiras - Bruno Pinheiro](Kindle/AZW3/Bruno%20Pinheiro/Empreenda%20sem%20fronteiras%20-%20Bruno%20Pinheiro.azw3) — Bruno Pinheiro
-- [Gerenciando vendas (10 leituras essenciais - HBR)](Kindle/AZW3/Harvard%20Business%20Review/Gerenciando%20vendas%20(10%20leituras%20essenciais%20-%20HBR).azw3) — Harvard Business Review
-- [Gerenciando vendas (10 leituras essenciais)](Kindle/KFX/Harvard%20Business%20Review/Gerenciando%20vendas%20(10%20leituras%20essenciais).kfx) — Harvard Business Review
 - [IA para Vendas - CODEINX AI SOLUTIONS](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/IA%20para%20Vendas%20-%20CODEINX%20AI%20SOLUTIONS.azw3) — FELIPE IVO PEREIRA
 - [Instagram marketing Rafael Terra](Kindle/AZW3/Rafael%20Terra/Instagram%20marketing%20Rafael%20Terra.azw3) — Rafael Terra
 - [Isso e Marketing](Kindle/AZW3/Seth%20Godin/Isso%20e%20Marketing.azw3) — Seth Godin
@@ -804,313 +925,108 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (613)
+## Outros · A classificar (408)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
 - [10 habilidades que farão você chegar lá](Kindle/KFX/Walter%20Longo/10%20habilidades%20que%20farão%20você%20chegar%20lá.kfx) — Walter Longo
-- [100 coisas que pessoas produtivas fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20produtivas%20fazem.kfx) — Nigel Cumberland
-- [100 maneiras de vencer](Kindle/KFX/Nigel%20Cumberland/100%20maneiras%20de%20vencer.kfx) — Nigel Cumberland
 - [100 minutos para entender Freud](Kindle/KFX/Coleção%20Saberes/100%20minutos%20para%20entender%20Freud.kfx) — Coleção Saberes
 - [100 minutos para entender Jung](Kindle/KFX/Coleção%20Saberes/100%20minutos%20para%20entender%20Jung.kfx) — Coleção Saberes
 - [100 minutos para entender Lacan](Kindle/KFX/Coleção%20Saberes/100%20minutos%20para%20entender%20Lacan.kfx) — Coleção Saberes
 - [100 minutos para entender Nietzsche](Kindle/KFX/Coleção%20Saberes/100%20minutos%20para%20entender%20Nietzsche.kfx) — Coleção Saberes
-- [12 Princípios para uma vida extraordinária](Kindle/KFX/Paulo%20Vieira/12%20Princípios%20para%20uma%20vida%20extraordinária.kfx) — Paulo Vieira
-- [15 coisas que o seminário não pôde me ensinar](EPUB/Jeff%20Robinson/15%20coisas%20que%20o%20seminário%20não%20pôde%20me%20ensinar.epub) — Jeff Robinson; Collin Hansen
-- [333 páginas para tirar seu projeto do papel](Kindle/KFX/Daniel%20Larusso/333%20páginas%20para%20tirar%20seu%20projeto%20do%20papel.kfx) — Daniel Larusso; Gabriel Gomes; Luciano Braga
 - [365 Dias de Inteligência](Kindle/AZW3/Augusto%20Cury/365%20Dias%20de%20Inteligência.azw3) — Augusto Cury
-- [365 dias de narrativas poderosas](Kindle/KFX/Thaís%20Machado/365%20dias%20de%20narrativas%20poderosas.kfx) — Thaís Machado
-- [7 maneiras de ser feliz](Kindle/KFX/Luc%20Ferry/7%20maneiras%20de%20ser%20feliz.kfx) — Luc Ferry
-- [A 3a ALTERNATIVA](Kindle/KFX/Stephen%20R.%20Covey/A%203a%20ALTERNATIVA.kfx) — Stephen R. Covey
-- [A alegria em ficar de fora](Kindle/KFX/Andre%20Carvalhal/A%20alegria%20em%20ficar%20de%20fora.kfx) — Andre Carvalhal
-- [A alegria em ficar de fora - André Carvalhal](Kindle/AZW3/André%20Carvalhal/A%20alegria%20em%20ficar%20de%20fora%20-%20André%20Carvalhal.azw3) — André Carvalhal
-- [A boa sorte](Kindle/KFX/Alex%20Rovira%20Celma/A%20boa%20sorte.kfx) — Alex Rovira Celma; Fernando Trías de Bes
 - [A Ceia do Senhor](Kindle/KFX/C.%20H.%20Mackintosh/A%20Ceia%20do%20Senhor.kfx) — C. H. Mackintosh
-- [A construção de uma vida](Kindle/AZW3/Jim%20Collins/A%20construção%20de%20uma%20vida.azw3) — Jim Collins
 - [A Coragem de Não Agradar](Kindle/AZW3/Ichiro%20Kishimi%20e%20Fumitake%20Koga/A%20Coragem%20de%20Não%20Agradar.azw3) — Ichiro Kishimi e Fumitake Koga
-- [A crise do conforto](Kindle/KFX/Michael%20Easter/A%20crise%20do%20conforto.kfx) — Michael Easter
 - [A Empregada](Kindle/AZW3/FreidaMcFadden/A%20Empregada.azw3) — FreidaMcFadden
-- [A energia da vida](Kindle/KFX/Tony%20Robbins_%20Peter%20Diamandis/A%20energia%20da%20vida.kfx) — Tony Robbins| Peter Diamandis.
-- [A energia da vida - Tony Robbins, Peter Diamandis.](Kindle/AZW3/Tony%20Robbins/A%20energia%20da%20vida%20-%20Tony%20Robbins,%20Peter%20Diamandis.azw3) — Tony Robbins
 - [A Epistola de Tiago - v.1.0](Kindle/KFX/Bruce%20Anstey/A%20Epistola%20de%20Tiago%20-%20v.1.0.kfx) — Bruce Anstey
 - [A Epístola de Tiago - v.1.0 - Bruce Anstey](Kindle/AZW3/Bruce%20Anstey/A%20Epístola%20de%20Tiago%20-%20v.1.0%20-%20Bruce%20Anstey.azw3) — Bruce Anstey
-- [A Escada para o Triunfo](Kindle/KFX/Napoleon%20Hill/A%20Escada%20para%20o%20Triunfo.kfx) — Napoleon Hill
-- [A experiência do lar](Kindle/KFX/Devi%20Titus/A%20experiência%20do%20lar.kfx) — Devi Titus
 - [A Experiência do Lar Devi Titus](Kindle/AZW3/Unknown/A%20Experiência%20do%20Lar%20Devi%20Titus.azw3) — Unknown
 - [A Fonte - Dra. Tara Swart](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/A%20Fonte%20-%20Dra.%20Tara%20Swart.azw3) — FELIPE IVO PEREIRA
 - [A Formacao de Um Discipulo - Keith Phillips](Kindle/AZW3/Keith%20Phillips/A%20Formacao%20de%20Um%20Discipulo%20-%20Keith%20Phillips.azw3) — Keith Phillips
-- [A FORMULA DO LANCAMENTO](Kindle/KFX/Jeff%20Walker/A%20FORMULA%20DO%20LANCAMENTO.kfx) — Jeff Walker
-- [A força da palavra criadora](Kindle/AZW3/Florence%20Scovel%20Shinn/A%20força%20da%20palavra%20criadora.azw3) — Florence Scovel Shinn
-- [A geracao ansiosa](Kindle/KFX/Jonathan%20Haidt/A%20geracao%20ansiosa.kfx) — Jonathan Haidt
 - [A geracao ansiosa - Jonathan Haidt](Kindle/AZW3/Jonathan%20Haidt/A%20geracao%20ansiosa%20-%20Jonathan%20Haidt.azw3) — Jonathan Haidt
 - [A grande aventura masculina](Kindle/KFX/John%20Eldredge/A%20grande%20aventura%20masculina.kfx) — John Eldredge
-- [A grande aventura masculina John Eldredge](Kindle/AZW3/John%20Eldredge/A%20grande%20aventura%20masculina%20John%20Eldredge.azw3) — John Eldredge
 - [A Grande Ideia](EPUB/Dave%20Ferguson/A%20Grande%20Ideia.epub) — Dave Ferguson; Jon Ferguson; Eric Bramlett
 - [A Grande Ideia - Dave Ferguson, Jon Ferguson e Eric Bramlett - PTBR](Kindle/AZW3/Dave%20Ferguson/A%20Grande%20Ideia%20-%20Dave%20Ferguson,%20Jon%20Ferguson%20e%20Eric%20Bramlett%20-%20PTBR.azw3) — Dave Ferguson
-- [A hora dos economistas](Kindle/KFX/Binyamin%20Appelbaum/A%20hora%20dos%20economistas.kfx) — Binyamin Appelbaum
-- [A Hora dos Economistas (Binyamin Appelbaum)](Kindle/AZW3/Binyamin%20Appelbaum/A%20Hora%20dos%20Economistas%20(Binyamin%20Appelbaum).azw3) — Binyamin Appelbaum
 - [A liberacao do sobrenatural](Kindle/KFX/Vitor/A%20liberacao%20do%20sobrenatural.kfx) — Vitor
 - [A liberacao do sobrenatural - Vitor](Kindle/AZW3/Vitor/A%20liberacao%20do%20sobrenatural%20-%20Vitor.azw3) — Vitor
-- [A Licao de Icaro](Kindle/AZW3/Seth%20Godin/A%20Licao%20de%20Icaro.azw3) — Seth Godin
 - [A lógica do consumo (Martin Lindstrom)](Kindle/AZW3/Martin%20Lindstorm/A%20lógica%20do%20consumo%20(Martin%20Lindstrom).azw3) — Martin Lindstorm
-- [A lógica e a inteligência da vida](Kindle/AZW3/Lúcia%20Helena%20Galvão/A%20lógica%20e%20a%20inteligência%20da%20vida.azw3) — Lúcia Helena Galvão
-- [A Magia](Kindle/AZW3/Rhonda%20Byrne/A%20Magia.azw3) — Rhonda Byrne
-- [A magica de pensar grande A fo](Kindle/KFX/David%20J.%20Schwartz/A%20magica%20de%20pensar%20grande%20A%20fo.kfx) — David J. Schwartz
-- [A magica de pensar grande A fo - David J. Schwartz](Kindle/AZW3/David%20J.%20Schwartz/A%20magica%20de%20pensar%20grande%20A%20fo%20-%20David%20J.%20Schwartz.azw3) — David J. Schwartz
-- [A maravilhosa trama das coisas](Kindle/KFX/Robin%20Wall%20Kimmerer/A%20maravilhosa%20trama%20das%20coisas.kfx) — Robin Wall Kimmerer
-- [A maravilhosa trama das coisas - Robin Wall Kimmerer](Kindle/AZW3/Robin%20Wall%20Kimmerer/A%20maravilhosa%20trama%20das%20coisas%20-%20Robin%20Wall%20Kimmerer.azw3) — Robin Wall Kimmerer
-- [A montanha e voce Como transfo](Kindle/KFX/Brianna%20Wiest/A%20montanha%20e%20voce%20Como%20transfo.kfx) — Brianna Wiest
-- [A Montanha é Você - Brianna Wiest](Kindle/AZW3/Brianna%20Wiest/A%20Montanha%20é%20Você%20-%20Brianna%20Wiest.azw3) — Brianna Wiest
-- [A morte é um dia que vale a pena viver](Kindle/KFX/Ana%20Claudia%20Arantes/A%20morte%20é%20um%20dia%20que%20vale%20a%20pena%20viver.kfx) — Ana Claudia Arantes
-- [A Morte é um Dia Que Vale a Pena Viver Ana Cláudia Arantes](Kindle/AZW3/Ana%20Cláudia%20Arantes/A%20Morte%20é%20um%20Dia%20Que%20Vale%20a%20Pena%20Viver%20Ana%20Cláudia%20Arantes.azw3) — Ana Cláudia Arantes
 - [A Nossa Esperança](Kindle/KFX/J.%20N.%20Darby/A%20Nossa%20Esperança.kfx) — J. N. Darby
 - [A Oferta Cristã e o Dízimo](Kindle/KFX/J.%20H.%20Smith/A%20Oferta%20Cristã%20e%20o%20Dízimo.kfx) — J. H. Smith
 - [A pedra verde (Txano e Óscar 1)](Kindle/KFX/Julio%20Santos%20García/A%20pedra%20verde%20(Txano%20e%20Óscar%201).kfx) — Julio Santos García; Patricia Pérez Redondo
-- [A Pirâmide do fazer acontecer](Kindle/AZW3/Ricardo%20Jucá/A%20Pirâmide%20do%20fazer%20acontecer.azw3) — Ricardo Jucá
-- [A próxima onda](Kindle/AZW3/Mustafa%20Suleyman_%20Michael%20Bhaskar/A%20próxima%20onda.azw3) — Mustafa Suleyman| Michael Bhaskar
-- [A Quietude e a Chave - RYAN HOLIDAY](Kindle/AZW3/Ryan%20Holiday/A%20Quietude%20e%20a%20Chave%20-%20RYAN%20HOLIDAY.azw3) — Ryan Holiday
-- [A quietude é a chave](Kindle/KFX/Ryan%20Holiday/A%20quietude%20é%20a%20chave.kfx) — Ryan Holiday
-- [A raiz da rejeição](Kindle/KFX/Joyce%20Meyer/A%20raiz%20da%20rejeição.kfx) — Joyce Meyer
 - [A Raiz da Rejeição Joyce Meyer](Kindle/AZW3/Unknown/A%20Raiz%20da%20Rejeição%20Joyce%20Meyer.azw3) — Unknown
-- [A religião do bolsonarismo](Kindle/AZW3/Yago%20Martins/A%20religião%20do%20bolsonarismo.azw3) — Yago Martins
-- [A sabedoria dos idiotas - Nasrudin Hodja](Kindle/AZW3/Nasrudin%20Hodja/A%20sabedoria%20dos%20idiotas%20-%20Nasrudin%20Hodja.azw3) — Nasrudin Hodja
-- [A singularidade está próxima](Kindle/KFX/Ray%20Kurzweil/A%20singularidade%20está%20próxima.kfx) — Ray Kurzweil
-- [A superioridade de Cristo para quem está preso em coisas menores](Kindle/AZW3/Yago%20Martins/A%20superioridade%20de%20Cristo%20para%20quem%20está%20preso%20em%20coisas%20menores.azw3) — Yago Martins
-- [A teoria geral do emprego, do juro e da moeda](Kindle/AZW/John%20Maynard%20Keynes/A%20teoria%20geral%20do%20emprego,%20do%20juro%20e%20da%20moeda.azw) — John Maynard Keynes
-- [A Toalha e o Trono](EPUB/Filipe%20Ivo%20Pereira/A%20Toalha%20e%20o%20Trono.epub) — Filipe Ivo Pereira
-- [A Trelica e a Videira](Kindle/KFX/Collin%20Marshall/A%20Trelica%20e%20a%20Videira.kfx) — Collin Marshall
-- [A Treliça e a Videira - Collin Marshall](Kindle/AZW3/Tony%20Payne/A%20Treliça%20e%20a%20Videira%20-%20Collin%20Marshall.azw3) — Tony Payne
 - [A tumba do imperador tigre: Livro infantil ilustrado (7 a 12 anos) (As aventuras de Txano e Oscar)](Kindle/AZW3/Julio%20Santos%20García/A%20tumba%20do%20imperador%20tigre_%20Livro%20infantil%20ilustrado%20(7%20a%2012%20anos)%20(As%20aventuras%20de%20Txano%20e%20Oscar).azw3) — Julio Santos García
-- [A vaca roxa](Kindle/AZW3/Seth%20Godin/A%20vaca%20roxa.azw3) — Seth Godin
-- [A vida feliz](Kindle/AZW3/Sêneca/A%20vida%20feliz.azw3) — Sêneca
-- [A vida nao e facil Como a filo](Kindle/KFX/Kieran%20Setiya/A%20vida%20nao%20e%20facil%20Como%20a%20filo.kfx) — Kieran Setiya
-- [A vida nao e facil Como a filo - Kieran Setiya](Kindle/AZW3/Kieran%20Setiya/A%20vida%20nao%20e%20facil%20Como%20a%20filo%20-%20Kieran%20Setiya.azw3) — Kieran Setiya
 - [A vista do topo Va alem do suc](Kindle/KFX/Zig%20Ziglar/A%20vista%20do%20topo%20Va%20alem%20do%20suc.kfx) — Zig Ziglar
 - [A vista do topo Va alem do suc - Zig Ziglar](Kindle/AZW3/Zig%20Ziglar/A%20vista%20do%20topo%20Va%20alem%20do%20suc%20-%20Zig%20Ziglar.azw3) — Zig Ziglar
 - [A Volta do Filho Pródigo Henri J. M. Nouwen](Kindle/AZW3/A%20Volta%20do%20Filho%20Prodigo%20compressed/A%20Volta%20do%20Filho%20Pródigo%20Henri%20J.%20M.%20Nouwen.azw3) — A Volta do Filho Prodigo compressed
-- [A vontade radical](Kindle/KFX/Susan%20Sontag/A%20vontade%20radical.kfx) — Susan Sontag
-- [A Única Coisa](Kindle/AZW3/Gary%20Keller%20Jay%20Papasan/A%20Única%20Coisa.azw3) — Gary Keller Jay Papasan
 - [a-ceia-do-senhor-c-h-mackintosh](Kindle/AZW3/C.%20H.%20Mackintosh/a-ceia-do-senhor-c-h-mackintosh.azw3) — C. H. Mackintosh
 - [A-nossa-esperanca-J-N-DARBY](Kindle/AZW3/J.%20N.%20Darby/A-nossa-esperanca-J-N-DARBY.azw3) — J. N. Darby
 - [A-oferta-crista-e-o-dizimo-J-H-SMITH](Kindle/AZW3/J.%20H.%20Smith/A-oferta-crista-e-o-dizimo-J-H-SMITH.azw3) — J. H. Smith
-- [Abraçado pelo Espírito](EPUB/Charles%20R.%20Swindoll/Abraçado%20pelo%20Espírito.epub) — Charles R. Swindoll
-- [Aconselhando uns aos outros](Kindle/AZW3/Edward%20T.%20Welch/Aconselhando%20uns%20aos%20outros.azw3) — Edward T. Welch
-- [Ajudando uns aos outros pelo Ac - Gary R. Collins](Kindle/AZW3/Gary%20R.%20Collins/Ajudando%20uns%20aos%20outros%20pelo%20Ac%20-%20Gary%20R.%20Collins.azw3) — Gary R. Collins
 - [Al-Munjid Arabic dictionary](Kindle/KFX/Louis%20Ma'luf/Al-Munjid%20Arabic%20dictionary.kfx) — Louis Ma'luf
 - [Alexandre Silva](Kindle/KFX/Faca%20direito_%20faca%20dinheiro/Alexandre%20Silva.kfx) — Faca direito| faca dinheiro
 - [Anatomy of a Revived Church ptBR](Kindle/AZW3/Thom%20S.%20Rainer/Anatomy%20of%20a%20Revived%20Church%20ptBR.azw3) — Thom S. Rainer
-- [Antes feito do que perfeito](Kindle/AZW3/Gabi%20Lopes/Antes%20feito%20do%20que%20perfeito.azw3) — Gabi Lopes
-- [Antes Tarde do que Nunca](Kindle/AZW3/Rich%20Karlgaard/Antes%20Tarde%20do%20que%20Nunca.azw3) — Rich Karlgaard
-- [Análise Técnica Para Leigos](Kindle/AZW/Barbara%20Rockefeller/Análise%20Técnica%20Para%20Leigos.azw) — Barbara Rockefeller
 - [Ao seu comando, vol. 1](Kindle/KFX/Neville%20Goddard/Ao%20seu%20comando,%20vol.%201.kfx) — Neville Goddard
-- [Apagando o inferno](Kindle/AZW3/Francis%20Chan/Apagando%20o%20inferno.azw3) — Francis Chan
 - [Aposente se, mas não se ausente Ken Blanchard e Morton Shaevitz](Kindle/AZW3/Ken%20Blanchard%20_%20Morton%20Shaevitz/Aposente%20se,%20mas%20não%20se%20ausente%20Ken%20Blanchard%20e%20Morton%20Shaevitz.azw3) — Ken Blanchard | Morton Shaevitz
 - [Aposente-se, mas não se ausente](Kindle/KFX/Ken%20Blanchard/Aposente-se,%20mas%20não%20se%20ausente.kfx) — Ken Blanchard; Morton Shaevitz
-- [Aprendendo a orar](EPUB/R.%20A.%20Torrey/Aprendendo%20a%20orar.epub) — R. A. Torrey
-- [Aprendendo Node](Kindle/KFX/Shelley%20Powers/Aprendendo%20Node.kfx) — Shelley Powers
 - [Armado para o Combate](Kindle/AZW3/Rhema%20Brasil%20Publicações/Armado%20para%20o%20Combate.azw3) — Rhema Brasil Publicações
-- [As 17 leis do triunfo](Kindle/AZW3/Jamil%20Albuquerque/As%2017%20leis%20do%20triunfo.azw3) — Jamil Albuquerque; Márcio Abbud; Walter Kaltenbach
-- [As 3 leis do desempenho](Kindle/KFX/Steve%20Zaffron/As%203%20leis%20do%20desempenho.kfx) — Steve Zaffron
-- [As cartas de Warren Buffett - Lawrence A. Cunningham](Kindle/AZW3/Warren%20Buffett/As%20cartas%20de%20Warren%20Buffett%20-%20Lawrence%20A.%20Cunningham.azw3) — Warren Buffett
-- [As Crônicas de Nárnia: volume único](Kindle/KFX/C.%20S.%20Lewis/As%20Crônicas%20de%20Nárnia_%20volume%20único.kfx) — C. S. Lewis
-- [As Ferramentas Intelectuais dos Gênios: 40 Princípios que o tornarão mais inteligente e o ensinarão a pensar como um gênio](Kindle/AZW/I.%20C.%20Robledo/As%20Ferramentas%20Intelectuais%20dos%20Gênios_%2040%20Princípios%20que%20o%20tornarão%20mais%20inteligente%20e%20o%20ensinarão.azw) — I. C. Robledo
-- [As ideias e mentes mais brilhan](Kindle/KFX/Will%20Durant/As%20ideias%20e%20mentes%20mais%20brilhan.kfx) — Will Durant
-- [As ideias e mentes mais brilhan - Will Durant](Kindle/AZW3/Will%20Durant/As%20ideias%20e%20mentes%20mais%20brilhan%20-%20Will%20Durant.azw3) — Will Durant
 - [As Ideias Tem Consequências by Richard M. Weaver](Kindle/AZW3/Unknown/As%20Ideias%20Tem%20Consequências%20by%20Richard%20M.%20Weaver.azw3) — Unknown
-- [As ideias têm consequências](Kindle/KFX/Richard%20M.%20Weaver/As%20ideias%20têm%20consequências.kfx) — Richard M. Weaver
-- [As lições de Salomão](Kindle/AZW3/Mark%20Atteberry/As%20lições%20de%20Salomão.azw3) — Mark Atteberry
-- [As Mentiras Que os Homens Contam](Kindle/KFX/Luiz%20Fernando%20Verissimo/As%20Mentiras%20Que%20os%20Homens%20Contam.kfx) — Luiz Fernando Verissimo
-- [As Mentiras Que os Homens Contam - Luiz Fernando Veríssimo](Kindle/AZW3/Luis%20Fernando%20Verissimo/As%20Mentiras%20Que%20os%20Homens%20Contam%20-%20Luiz%20Fernando%20Veríssimo.azw3) — Luis Fernando Verissimo
-- [As Regras de Ouro](Kindle/KFX/Napoleon%20Hill/As%20Regras%20de%20Ouro.kfx) — Napoleon Hill
-- [As transições e os choques - Martin Wolf](Kindle/AZW3/Martin%20Wolf/As%20transições%20e%20os%20choques%20-%20Martin%20Wolf.azw3) — Martin Wolf
-- [As últimas coisas George Eldon Ladd](Kindle/AZW3/George%20Eldon%20Ladd/As%20últimas%20coisas%20George%20Eldon%20Ladd.azw3) — George Eldon Ladd
-- [As Zonas Azuis - Dan Buettner](Kindle/AZW3/Dan%20Buettner/As%20Zonas%20Azuis%20-%20Dan%20Buettner.azw3) — Dan Buettner
-- [Atenção Plena para Iniciantes](Kindle/KFX/Jon%20Kabat-Zinn/Atenção%20Plena%20para%20Iniciantes.kfx) — Jon Kabat-Zinn
 - [Atila Lima](Kindle/KFX/O%20Poder%20da%20Mente%20Milionaria/Atila%20Lima.kfx) — O Poder da Mente Milionaria
-- [Atitudes extraordinárias](Kindle/AZW3/Renato%20Grinberg/Atitudes%20extraordinárias.azw3) — Renato Grinberg
-- [Atravessando as Tempestades](Kindle/AZW3/Tony%20Cooke/Atravessando%20as%20Tempestades.azw3) — Tony Cooke
-- [Até que nada mais importe](Kindle/KFX/Luciano%20Subirá/Até%20que%20nada%20mais%20importe.kfx) — Luciano Subirá
-- [Até que sejamos um](Kindle/AZW3/Francis%20Chan/Até%20que%20sejamos%20um.azw3) — Francis Chan
-- [Auge do desempenho](Kindle/KFX/Brad%20Stulberg/Auge%20do%20desempenho.kfx) — Brad Stulberg; Steve Magness
 - [Autopsy of a Deceased Church nodrm ptBR](Kindle/AZW3/Thom%20S.%20Rainer/Autopsy%20of%20a%20Deceased%20Church%20nodrm%20ptBR.azw3) — Thom S. Rainer
-- [Autoridade em Três Mundos](Kindle/AZW3/Charles%20Capps/Autoridade%20em%20Três%20Mundos.azw3) — Charles Capps
-- [AWS Para Iniciantes Livro de Bolso (1)](Kindle/AZW3/Rogerio%20Guimaraes/AWS%20Para%20Iniciantes%20Livro%20de%20Bolso%20(1).azw3) — Rogerio Guimaraes
-- [AWS para iniciantes: livro de bolso](Kindle/KFX/Rogerio%20Guimaraes/AWS%20para%20iniciantes_%20livro%20de%20bolso.kfx) — Rogerio Guimaraes
-- [Bom demais para ser ignorado](Kindle/KFX/Cal%20Newport/Bom%20demais%20para%20ser%20ignorado.kfx) — Cal Newport
-- [Bom E Bravo Como Santificar A Ira, A Irritação, A Reclamação E](Kindle/AZW3/David%20Powlison/Bom%20E%20Bravo%20Como%20Santificar%20A%20Ira,%20A%20Irritação,%20A%20Reclamação%20E.azw3) — David Powlison
-- [Box](Kindle/KFX/Dale%20Carnegie/Box.kfx) — Dale Carnegie
-- [Box Dale Carnegie](Kindle/AZW3/Dale%20Carnegie/Box%20Dale%20Carnegie.azw3) — Dale Carnegie
-- [Box poéticos para todos](Kindle/KFX/John%20Goldingay/Box%20poéticos%20para%20todos.kfx) — John Goldingay
-- [Box Poéticos Para Todos John Goldingay](Kindle/AZW3/John%20Goldingay/Box%20Poéticos%20Para%20Todos%20John%20Goldingay.azw3) — John Goldingay
-- [Brasil: o futuro que queremos](EPUB/Roberto%20Rodrigues/Brasil_%20o%20futuro%20que%20queremos.epub) — Roberto Rodrigues; Paulo Saldiva; Paulo Roberto de Almeida; Nabil Bonduki; Milton Leite; Luís Eduardo Assis; Jaime Lerner; Glauco Arbix; Fabio Feldmann; Eduardo Muylaert; Cláudia Costin; Antônio Corrêa de Lacerda; Jaime Pinsky
 - [Bruna Ruschel Moreira Como Ter Boas](Kindle/AZW3/Bruna%20Ruschel%20Moreira/Bruna%20Ruschel%20Moreira%20Como%20Ter%20Boas.azw3) — Bruna Ruschel Moreira
-- [Bumerangue](Kindle/AZW/Michael%20Lewis/Bumerangue.azw) — Michael Lewis
-- [Burnout Da exaustão à plenitude – Tiago Mattes](Kindle/AZW3/Tiago%20Mattes/Burnout%20Da%20exaustão%20à%20plenitude%20–%20Tiago%20Mattes.azw3) — Tiago Mattes
-- [C. S. Lewis, Richard Dawkins](Kindle/KFX/Alister%20McGrath/C.%20S.%20Lewis,%20Richard%20Dawkins.kfx) — Alister McGrath
 - [Capacitado para Liderar — Treinamento em Vídeo para Facilitadores de Pequenos Grupos - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Capacitado%20para%20Liderar%20—%20Treinamento%20em%20Vídeo%20para%20Facilitadores%20de%20Pequenos%20Grupos%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
 - [Cartas a um novo convertido](Kindle/KFX/Edward%20Dennett/Cartas%20a%20um%20novo%20convertido.kfx) — Edward Dennett
 - [Cartas-a-um-novo-convertido-Edward-Dennett](Kindle/AZW3/Edward%20Dennett/Cartas-a-um-novo-convertido-Edward-Dennett.azw3) — Edward Dennett
-- [Catecismo Nova Cidade_ A verdad](Kindle/KFX/Timothy%20Keller/Catecismo%20Nova%20Cidade_%20A%20verdad.kfx) — Timothy Keller
-- [Chamados para criar](Kindle/KFX/Jordan%20Raynor/Chamados%20para%20criar.kfx) — Jordan Raynor
 - [Chamados para criar Jordan Raynor](Kindle/AZW3/Jordan%20Raynor/Chamados%20para%20criar%20Jordan%20Raynor.azw3) — Jordan Raynor
-- [Chatbots para Telegram](Kindle/KFX/Frizzarin/Chatbots%20para%20Telegram.kfx) — Frizzarin
 - [Church Growth Flywheel ptBR codex](Kindle/AZW3/Rich%20Birch/Church%20Growth%20Flywheel%20ptBR%20codex.azw3) — Rich Birch
 - [ChurchLeaders Top 100 2013 Edition (1)-1](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/ChurchLeaders%20Top%20100%202013%20Edition%20(1)-1.azw3) — FELIPE IVO PEREIRA
-- [ChurchLeaders Top 100: 2013 Edition](EPUB/Furtick_%20Steven/ChurchLeaders%20Top%20100_%202013%20Edition.epub) — Furtick| Steven; Rainer| Thom; Driscoll| Mark; Chan| Francis; ChurchLeaders
 - [Cibersegurança - Michel Bernardo Fernandes Da Silva](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Cibersegurança%20-%20Michel%20Bernardo%20Fernandes%20Da%20Silva.azw3) — FELIPE IVO PEREIRA
 - [Cinco Lições de Storytelling - James McSill](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Cinco%20Lições%20de%20Storytelling%20-%20James%20McSill.azw3) — FELIPE IVO PEREIRA
-- [Classicos selecionados](Kindle/KFX/C.%20S.%20Lewis/Classicos%20selecionados.kfx) — C. S. Lewis
-- [Cocriador da realidade](Kindle/KFX/Elainne%20Ourives/Cocriador%20da%20realidade.kfx) — Elainne Ourives
-- [Cocriador da realidade Elainne Ourives](Kindle/AZW3/Elainne%20Ourives/Cocriador%20da%20realidade%20Elainne%20Ourives.azw3) — Elainne Ourives
 - [Cole Nussbaumer Knaflic](Kindle/KFX/Storytelling%20com%20Dados-Alta%20Books/Cole%20Nussbaumer%20Knaflic.kfx) — Storytelling com Dados-Alta Books
 - [Colecao Saberes](Kindle/KFX/100%20minutos%20para%20entender%20Freud/Colecao%20Saberes.kfx) — 100 minutos para entender Freud
 - [Coleção Saberes - 100 minutos para entender Freud](Kindle/AZW3/Coleção%20Saberes/Coleção%20Saberes%20-%20100%20minutos%20para%20entender%20Freud.azw3) — Coleção Saberes
-- [Coma este livro (Eugene H. Peterson)](Kindle/AZW3/Eugene%20H.%20Peterson/Coma%20este%20livro%20(Eugene%20H.%20Peterson).azw3) — Eugene H. Peterson
 - [Comece pelo porque](Kindle/KFX/Simon%20Sinek/Comece%20pelo%20porque.kfx) — Simon Sinek
-- [Como colocar limites Melissa Urban](Kindle/AZW3/Melissa%20Urban/Como%20colocar%20limites%20Melissa%20Urban.azw3) — Melissa Urban
-- [Como Decifrar Mentes](Kindle/KFX/David%20J.%20Lieberman/Como%20Decifrar%20Mentes.kfx) — David J. Lieberman
-- [Como domar a dopamina](Kindle/AZW3/Michael%20E.%20Long/Como%20domar%20a%20dopamina.azw3) — Michael E. Long
-- [Como educar meninos](Kindle/AZW3/Michael%20C.%20Reichert/Como%20educar%20meninos.azw3) — Michael C. Reichert
-- [Como eliminar vermes e parasitas com óleos essenciais](Kindle/KFX/Gisele%20Vargas/Como%20eliminar%20vermes%20e%20parasitas%20com%20óleos%20essenciais.kfx) — Gisele Vargas
-- [Como fazer grandes coisas - Bent Gardner](Kindle/KFX/Dan%20Flyvbjerg/Como%20fazer%20grandes%20coisas%20-%20Bent%20Gardner.kfx) — Dan Flyvbjerg
 - [Como fazer grandes coisas - Bent Gardner - Dan Flyvbjerg](Kindle/AZW3/Dan%20Gardner/Como%20fazer%20grandes%20coisas%20-%20Bent%20Gardner%20-%20Dan%20Flyvbjerg.azw3) — Dan Gardner
-- [Como Fazer Jogos De Tabuleiro Manual Prático](Kindle/AZW3/Marcelo%20La%20Carretta/Como%20Fazer%20Jogos%20De%20Tabuleiro%20Manual%20Prático.azw3) — Marcelo La Carretta
-- [Como ficar rico](Kindle/KFX/Ramit%20Sethi/Como%20ficar%20rico.kfx) — Ramit Sethi
 - [Como foi nos dias de Noe_ Adver](Kindle/KFX/Jeff%20Kinley/Como%20foi%20nos%20dias%20de%20Noe_%20Adver.kfx) — Jeff Kinley
 - [Como interpretar o mercado fina - Lawrence G. McDonald](Kindle/AZW3/Lawrence%20G.%20McDonald/Como%20interpretar%20o%20mercado%20fina%20-%20Lawrence%20G.%20McDonald.azw3) — Lawrence G. McDonald
-- [Como Liderar uma Ótima Reunião de Pequeno Grupo - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Como%20Liderar%20uma%20Ótima%20Reunião%20de%20Pequeno%20Grupo%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
-- [Como mudar - Katy Milkman](Kindle/AZW3/Katy%20Milkman/Como%20mudar%20-%20Katy%20Milkman.azw3) — Katy Milkman
-- [Como pensar de forma direta e i](Kindle/KFX/Woo-kyoung%20Ahn/Como%20pensar%20de%20forma%20direta%20e%20i.kfx) — Woo-kyoung Ahn
-- [Como ser dirigido pelo Espirito](Kindle/KFX/Kenneth%20E%20Hagin/Como%20ser%20dirigido%20pelo%20Espirito.kfx) — Kenneth E Hagin
-- [Como ser seu próprio terapeuta](Kindle/KFX/Owen%20O’Kane/Como%20ser%20seu%20próprio%20terapeuta.kfx) — Owen O’Kane
 - [Como Ser um Excelente Coach de Células — Visão Prática para Apoiar e Mentorear Líderes de Células - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Como%20Ser%20um%20Excelente%20Coach%20de%20Células%20—%20Visão%20Prática%20para%20Apoiar%20e%20Mentorear%20Líderes%20de%20Células%20-.azw3) — Joel Comiskey
-- [Como ter um dia ideal - Caroline Webb](Kindle/AZW3/Caroline%20Webb/Como%20ter%20um%20dia%20ideal%20-%20Caroline%20Webb.azw3) — Caroline Webb
 - [Como Trabalhar Para Um Idiota - John Hoover](Kindle/AZW3/Denize/Como%20Trabalhar%20Para%20Um%20Idiota%20-%20John%20Hoover.azw3) — Denize
-- [Como viver melhor em tempos turbulentos](Kindle/AZW3/James%20Allen/Como%20viver%20melhor%20em%20tempos%20turbulentos.azw3) — James Allen
 - [Conselheiro Capaz - Jay Adams](Kindle/AZW3/Jay%20Adams/Conselheiro%20Capaz%20-%20Jay%20Adams.azw3) — Jay Adams
 - [Constituição Federal da República do Brasil: atualização automática das emendas constitucionais](EPUB/Senado%20Federal/Constituição%20Federal%20da%20República%20do%20Brasil_%20atualização%20automática%20das%20emendas%20constitucionais.epub) — Senado Federal
-- [Construa a vida que você quer](Kindle/KFX/Arthur%20C.%20Brooks/Construa%20a%20vida%20que%20você%20quer.kfx) — Arthur C. Brooks; Oprah Winfrey
 - [Construa a vida que você quer Arthur C Brooks, Oprah Winfrey](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Construa%20a%20vida%20que%20você%20quer%20Arthur%20C%20Brooks,%20Oprah%20Winfrey.azw3) — FELIPE IVO PEREIRA
-- [Conteúdo S.A.](Kindle/KFX/Joe%20Pulizzi/Conteúdo%20S.A.kfx) — Joe Pulizzi
-- [Contra um mundo melhor: ensaios do afeto](EPUB/Luiz%20Felipe%20Pondé/Contra%20um%20mundo%20melhor_%20ensaios%20do%20afeto.epub) — Luiz Felipe Pondé
-- [Crer e também pensar](Kindle/KFX/John%20Stott/Crer%20e%20também%20pensar.kfx) — John Stott
 - [Crer é Também Pensar John Stott Unknown Author Z Library](Kindle/AZW3/Unknown%20Author/Crer%20é%20Também%20Pensar%20John%20Stott%20Unknown%20Author%20Z%20Library.azw3) — Unknown Author
-- [Crie palestras inesqueciveis](Kindle/KFX/Dennis%20Penna/Crie%20palestras%20inesqueciveis.kfx) — Dennis Penna
 - [Crie palestras inesquecíveis - Dennis Penna (1)](Kindle/AZW3/Joni%20Galvão%20Dennis%20Penna/Crie%20palestras%20inesquecíveis%20-%20Dennis%20Penna%20(1).azw3) — Joni Galvão Dennis Penna
-- [Crie sua própria sorte](Kindle/AZW3/Joyce%20Rodrigues/Crie%20sua%20própria%20sorte.azw3) — Joyce Rodrigues
-- [Cronologia Bíblica Guia Prático Para Compreender a Linha do Tempo](Kindle/AZW3/Aryanne%20Soares/Cronologia%20Bíblica%20Guia%20Prático%20Para%20Compreender%20a%20Linha%20do%20Tempo.azw3) — Aryanne Soares
-- [Cuide do Seu Corpo (Vivendo em Vitória) - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Cuide%20do%20Seu%20Corpo%20(Vivendo%20em%20Vitória)%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
-- [Cura sem esforço](Kindle/KFX/Joseph%20Mercola/Cura%20sem%20esforço.kfx) — Joseph Mercola
-- [Dar e receber](Kindle/KFX/Adam%20Grant/Dar%20e%20receber.kfx) — Adam Grant
-- [De Volta à Essência](Kindle/AZW3/Jeremy%20Riddle/De%20Volta%20à%20Essência.azw3) — Jeremy Riddle
-- [Decidir machuca, não decidir mata!](Kindle/AZW3/Diego%20Menin/Decidir%20machuca,%20não%20decidir%20mata!.azw3) — Diego Menin
 - [Decidir machuca, não decidir mata!.Diego Menin](Kindle/AZW3/Diego%20Menin/Decidir%20machuca,%20não%20decidir%20mata!.Diego%20Menin.azw3) — Diego Menin
-- [Deixa estar - Mel Robbins](Kindle/AZW3/Mel%20Robbins/Deixa%20estar%20-%20Mel%20Robbins.azw3) — Mel Robbins
-- [Deixar ir](Kindle/KFX/David%20R.%20Hawkins/Deixar%20ir.kfx) — David R. Hawkins
 - [Deixar Ir -- Hawkins, David R -- 2019 -- Alma dos Livros](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Deixar%20Ir%20--%20Hawkins,%20David%20R%20--%202019%20--%20Alma%20dos%20Livros.azw3) — FELIPE IVO PEREIRA
-- [Deixe de ser pobre](Kindle/KFX/Eduardo%20Felberg/Deixe%20de%20ser%20pobre.kfx) — Eduardo Felberg
-- [Deixe ir, não insista - Diego Menin](Kindle/AZW3/Diego%20Menin/Deixe%20ir,%20não%20insista%20-%20Diego%20Menin.azw3) — Diego Menin
-- [Desconstruindo o hábito da fome (Judson Brewer)](Kindle/AZW3/Judson%20Brewer/Desconstruindo%20o%20hábito%20da%20fome%20(Judson%20Brewer).azw3) — Judson Brewer
-- [Desmarketize-se](Kindle/KFX/João%20Branco/Desmarketize-se.kfx) — João Branco
-- [Desperte sua genialidade](Kindle/KFX/Ozan%20Varol/Desperte%20sua%20genialidade.kfx) — Ozan Varol
-- [Destrave a sua vida e saia do rascunho](Kindle/KFX/Fernanda%20Tochetto/Destrave%20a%20sua%20vida%20e%20saia%20do%20rascunho.kfx) — Fernanda Tochetto
 - [Destrave a sua vida e saia do rascunho - Fernanda Tochetto (1)](Kindle/AZW3/Fernanda%20Tochetto/Destrave%20a%20sua%20vida%20e%20saia%20do%20rascunho%20-%20Fernanda%20Tochetto%20(1).azw3) — Fernanda Tochetto
-- [Devagar](Kindle/AZW3/Carl%20Honoré/Devagar.azw3) — Carl Honoré
-- [Dez mitos sobre Israel](Kindle/KFX/Ilan%20Pappe/Dez%20mitos%20sobre%20Israel.kfx) — Ilan Pappe
-- [Dia a dia com](Kindle/KFX/Billy%20Graham/Dia%20a%20dia%20com.kfx) — Billy Graham
 - [Diário de um CEO Steven Bartlett](Kindle/AZW3/Steven%20Bartlett/Diário%20de%20um%20CEO%20Steven%20Bartlett.azw3) — Steven Bartlett
 - [Diccionario de la lengua española](Kindle/AZW/Real%20Academia%20Española/Diccionario%20de%20la%20lengua%20española.azw) — Real Academia Española
-- [Dios, la avaricia y el Evangelio (de la prosperidad) (Spanish Edition) - Sample](EPUB/Hinn_%20Costi%20W/Dios,%20la%20avaricia%20y%20el%20Evangelio%20(de%20la%20prosperidad)%20(Spanish%20Edition)%20-%20Sample.epub) — Hinn| Costi W.
-- [Direto ao Ponto](Kindle/KFX/K.%20Anders%20Ericsson_%20Robert%20Pool/Direto%20ao%20Ponto.kfx) — K. Anders Ericsson| Robert Pool
 - [Direto ao Ponto - K. Anders Ericsson, Robert Pool](Kindle/AZW3/Anders%20Ericsson/Direto%20ao%20Ponto%20-%20K.%20Anders%20Ericsson,%20Robert%20Pool.azw3) — Anders Ericsson
-- [Direção Divina](Kindle/AZW3/Craig%20Groeschel/Direção%20Divina.azw3) — Craig Groeschel
-- [Discípulo 360° nodrm](Kindle/AZW3/Alton%20Garrison/Discípulo%20360°%20nodrm.azw3) — Alton Garrison
-- [Diário de um CEO](Kindle/KFX/Steven%20Bartlett/Diário%20de%20um%20CEO.kfx) — Steven Bartlett
-- [Do mil ao milhão](Kindle/KFX/Thiago%20Nigro/Do%20mil%20ao%20milhão.kfx) — Thiago Nigro
-- [Dominando a Técnica dos Mapas Mentais](Kindle/AZW3/Tony%20Buzan/Dominando%20a%20Técnica%20dos%20Mapas%20Mentais.azw3) — Tony Buzan
 - [Dominando-o-Ciclo-de-Mercado-apr](Kindle/AZW3/Unknown/Dominando-o-Ciclo-de-Mercado-apr.azw3) — Unknown
-- [Duas pulgas e nenhum cachorro](Kindle/AZW3/Craig%20Hill/Duas%20pulgas%20e%20nenhum%20cachorro.azw3) — Craig Hill
 - [Efeito Sombra](Kindle/AZW3/Depack/Efeito%20Sombra.azw3) — Depack
-- [Efésios - Comentário exegético - Harold W. Hoehner](Kindle/AZW3/Harold%20W.%20Hoehner/Efésios%20-%20Comentário%20exegético%20-%20Harold%20W.%20Hoehner.azw3) — Harold W. Hoehner
 - [Ego transformado](Kindle/KFX/Timothy%20Keller%20OFICIAL/Ego%20transformado.kfx) — Timothy Keller OFICIAL
-- [Eleição e predestinação](Kindle/KFX/João%20Calvino/Eleição%20e%20predestinação.kfx) — João Calvino
 - [Elon Musk](Kindle/AZW3/Walter%20Isaacson/Elon%20Musk.azw3) — Walter Isaacson
-- [Em busca da alma feminina - John Eldredge](Kindle/AZW3/John%20Eldredge/Em%20busca%20da%20alma%20feminina%20-%20John%20Eldredge.azw3) — John Eldredge
-- [Em Busca de Sentido](Kindle/AZW3/Viktor%20Frankl/Em%20Busca%20de%20Sentido.azw3) — Viktor Frankl
 - [Em Busca de Timoteo Descobrind](Kindle/AZW3/Tony%20Cooke/Em%20Busca%20de%20Timoteo%20Descobrind.azw3) — Tony Cooke
-- [Em Defesa de Israel](Kindle/KFX/Alan%20Dershowitz/Em%20Defesa%20de%20Israel.kfx) — Alan Dershowitz
 - [Em Defesa de Israel Alan Dershowitz](Kindle/AZW3/Unknown/Em%20Defesa%20de%20Israel%20Alan%20Dershowitz.azw3) — Unknown
-- [Encontro — Receba a Liberdade de Cristo - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Encontro%20—%20Receba%20a%20Liberdade%20de%20Cristo%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
-- [Engenharia de Prompt para Devs](Kindle/KFX/Ricardo%20Larguesa/Engenharia%20de%20Prompt%20para%20Devs.kfx) — Ricardo Larguesa
 - [Enquanto A Fila Não Anda - Luca Martini](Kindle/AZW3/Luca%20Martini/Enquanto%20A%20Fila%20Não%20Anda%20-%20Luca%20Martini.azw3) — Luca Martini
-- [Entorpecidos - Corey Keyes](Kindle/AZW3/Corey%20Keyes/Entorpecidos%20-%20Corey%20Keyes.azw3) — Corey Keyes
 - [Erica Ariel Fox](Kindle/KFX/Mais%20do%20que%20Chegar%20ao%20sim/Erica%20Ariel%20Fox.kfx) — Mais do que Chegar ao sim
-- [Erros foram cometidos](Kindle/AZW3/Elliot%20Aronson%20Carol%20Tavris/Erros%20foram%20cometidos.azw3) — Elliot Aronson Carol Tavris
 - [Escolha o seu difícil](Kindle/KFX/Rick%20Chesther/Escolha%20o%20seu%20difícil.kfx) — Rick Chesther
-- [Escutando o Espírito no Texto - Gordon D. Fee](Kindle/AZW3/Gordon%20D.%20Fee/Escutando%20o%20Espírito%20no%20Texto%20-%20Gordon%20D.%20Fee.azw3) — Gordon D. Fee
-- [ESCUTE](Kindle/KFX/Dale%20Carnegie/ESCUTE.kfx) — Dale Carnegie.
 - [ESCUTE - Dale Carnegie.](Kindle/AZW3/Dale%20Carnegie/ESCUTE%20-%20Dale%20Carnegie.azw3) — Dale Carnegie; Associates
-- [Esperança em tempos de medo](Kindle/KFX/Timothy%20Keller/Esperança%20em%20tempos%20de%20medo.kfx) — Timothy Keller
 - [espere-r-pilkington](Kindle/AZW3/Robert%20Pilkington/espere-r-pilkington.azw3) — Robert Pilkington
-- [Esqueça sua melhor versão](Kindle/AZW3/Juliana%20Goes/Esqueça%20sua%20melhor%20versão.azw3) — Juliana Goes
-- [Estamos juntos](Kindle/AZW3/R.%20C.%20Sproul/Estamos%20juntos.azw3) — R. C. Sproul
-- [Estruturas de Dados](Kindle/AZW3/Thiago%20Leite%20e%20Carvalho/Estruturas%20de%20Dados.azw3) — Thiago Leite e Carvalho
-- [Eu creio em visões](Kindle/KFX/Kenneth%20E.%20Hagin/Eu%20creio%20em%20visões.kfx) — Kenneth E. Hagin
-- [Eu creio em Visões- Kenneth E. Hagin](Kindle/AZW3/Unknown/Eu%20creio%20em%20Visões-%20Kenneth%20E.%20Hagin.azw3) — Unknown
 - [Eu escolhi esperar](Kindle/AZW3/Nelson%20Junior/Eu%20escolhi%20esperar.azw3) — Nelson Junior
 - [Explosão de Células — Como Seu Pequeno Grupo Pode Crescer e se Multiplicar - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Explosão%20de%20Células%20—%20Como%20Seu%20Pequeno%20Grupo%20Pode%20Crescer%20e%20se%20Multiplicar%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
 - [Facilite — Como Liderar um Pequeno Grupo que Gera Vida - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Facilite%20—%20Como%20Liderar%20um%20Pequeno%20Grupo%20que%20Gera%20Vida%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
-- [Fale](Kindle/AZW3/Alison%20Wood%20Brooks/Fale.azw3) — Alison Wood Brooks
-- [Fator de Enriquecimento](Kindle/KFX/Paulo%20Vieira/Fator%20de%20Enriquecimento.kfx) — Paulo Vieira
-- [Fazendo Grupos Celulares Funcionarem — Guia de Navegação - Randall Neighbour](Kindle/AZW3/Randall%20Neighbour/Fazendo%20Grupos%20Celulares%20Funcionarem%20—%20Guia%20de%20Navegação%20-%20Randall%20Neighbour.azw3) — Randall Neighbour
-- [Fazendo o melhor depois de decisões erradas](EPUB/Erwin%20Lutzer/Fazendo%20o%20melhor%20depois%20de%20decisões%20erradas.epub) — Erwin Lutzer
-- [Ferramentas dos Titas](Kindle/KFX/Tim%20Ferriss/Ferramentas%20dos%20Titas.kfx) — Tim Ferriss
-- [Fim dos tempos simplificado David Sliker](Kindle/AZW3/David%20Sliker/Fim%20dos%20tempos%20simplificado%20David%20Sliker.azw3) — David Sliker
-- [Final da Tempestade - Deive Leonardo](Kindle/AZW3/Deive%20Leonardo/Final%20da%20Tempestade%20-%20Deive%20Leonardo.azw3) — Deive Leonardo
-- [Fogo no Parquinho](Kindle/AZW3/Yago%20Martins/Fogo%20no%20Parquinho.azw3) — Yago Martins
 - [Fogo Santo R.T.Kendall](Kindle/AZW3/R.%20T.%20Kendall/Fogo%20Santo%20R.T.Kendall.azw3) — R. T. Kendall
-- [Foguete não tem ré](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Foguete%20não%20tem%20ré.azw3) — FELIPE IVO PEREIRA
 - [Fora da curva 1](Kindle/KFX/Florian%20Bartunek/Fora%20da%20curva%201.kfx) — Florian Bartunek; Pierre Moreau; Giuliana Napolitano
-- [Fora da curva 2](Kindle/KFX/Florian%20Bartunek/Fora%20da%20curva%202.kfx) — Florian Bartunek; Pierre Moreau; Giuliana Napolitano
-- [Fora de Serie - Outliers](Kindle/KFX/Malcolm%20Gladwell/Fora%20de%20Serie%20-%20Outliers.kfx) — Malcolm Gladwell
-- [Frases poderosas para lidar com pessoas difíceis](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Frases%20poderosas%20para%20lidar%20com%20pessoas%20difíceis.azw3) — FELIPE IVO PEREIRA
-- [Freud explica, eu traduzo psicanálise prática para transformar o](Kindle/AZW3/Andréa%20Vermont/Freud%20explica,%20eu%20traduzo%20psicanálise%20prática%20para%20transformar%20o.azw3) — Andréa Vermont
 - [Fusion Turning First-Time Guests into Fully Engaged Members of Your Church ptBR revisado](Kindle/AZW3/Nelson%20Searcy/Fusion%20Turning%20First-Time%20Guests%20into%20Fully%20Engaged%20Members%20of%20Your%20Church%20ptBR%20revisado.azw3) — Nelson Searcy
-- [Ganhando tração](PDF/Gino%20Wickman/Ganhando%20tração.pdf) — Gino Wickman
 - [Gálatas N T Wright (1)](Kindle/AZW3/Nicholas%20Thomas%20Wright/Gálatas%20N%20T%20Wright%20(1).azw3) — Nicholas Thomas Wright
-- [Gene da juventude](Kindle/KFX/Elainne%20Ourives/Gene%20da%20juventude.kfx) — Elainne Ourives
-- [George MacDonald: uma antologia](EPUB/George%20MacDonald/George%20MacDonald_%20uma%20antologia.epub) — George MacDonald; C. S. Lewis (org.)
-- [Gerenciando pessoas](Kindle/KFX/Harvard%20Business%20Review/Gerenciando%20pessoas.kfx) — Harvard Business Review
 - [Gordon Fee](Kindle/KFX/Escutando%20o%20Espirito%20no%20Texto/Gordon%20Fee.kfx) — Escutando o Espirito no Texto
 - [Gordon Fee - Escutando o Espírito no Texto](Kindle/AZW3/Gordon%20Fee/Gordon%20Fee%20-%20Escutando%20o%20Espírito%20no%20Texto.azw3) — Gordon Fee
-- [Grandes Decisões Sobre Pessoas](Kindle/AZW3/Claudio%20Fernández-Aráoz/Grandes%20Decisões%20Sobre%20Pessoas.azw3) — Claudio Fernández-Aráoz
 - [Grupos que Prosperam — Joel Comiskey e Jim Egli](Kindle/AZW3/Joel%20Comiskey/Grupos%20que%20Prosperam%20—%20Joel%20Comiskey%20e%20Jim%20Egli.azw3) — Joel Comiskey
-- [Guerrilla Evangelism: 23 FREE Things You Can Do Right Now to Get People into YOUR CHURCH! (Guerrilla Church Operational Strategies Book 3)](EPUB/Spry_%20Phil/Guerrilla%20Evangelism_%2023%20FREE%20Things%20You%20Can%20Do%20Right%20Now%20to%20Get%20People%20into%20YOUR%20CHURCH!%20(Guerrilla.epub) — Spry| Phil
-- [Guia Front end O Caminho Das Pedras Para Ser Um Dev Front end](Kindle/AZW3/Diego%20Eis/Guia%20Front%20end%20O%20Caminho%20Das%20Pedras%20Para%20Ser%20Um%20Dev%20Front%20end.azw3) — Diego Eis
 - [Guia PMBOK 7ª ed. - PMI](Kindle/AZW3/Unknown/Guia%20PMBOK%207ª%20ed.%20-%20PMI.azw3) — Unknown
 - [Guia PMBOK: 7ª edição](Kindle/KFX/Project%20Management%20Institute/Guia%20PMBOK_%207ª%20edição.kfx) — Project Management Institute
-- [Gálatas](Kindle/KFX/N.%20T.%20Wright/Gálatas.kfx) — N. T. Wright
 - [Haroldo Dutra Dias](Kindle/KFX/A%20Bussola%20e%20o%20Leme%20(Oficial)/Haroldo%20Dutra%20Dias.kfx) — A Bussola e o Leme (Oficial)
-- [Hebreus para todos](Kindle/AZW3/N.T.%20Wright/Hebreus%20para%20todos.azw3) — N.T. Wright
 - [Ho'oponopono](Kindle/AZW3/Luc%20Bodin%20MariaElisa%20HurtadoGracie/Ho'oponopono.azw3) — Luc Bodin MariaElisa HurtadoGracie
-- [Hoje ser pequeno e ser grande](Kindle/KFX/Seth%20Godin/Hoje%20ser%20pequeno%20e%20ser%20grande.kfx) — Seth Godin
-- [Hoje é um bom dia para viver milagres - Sample](EPUB/Fernandes_%20André/Hoje%20é%20um%20bom%20dia%20para%20viver%20milagres%20-%20Sample.epub) — Fernandes| André
-- [Homem algum é uma ilha](Kindle/KFX/Thomas%20Merton/Homem%20algum%20é%20uma%20ilha.kfx) — Thomas Merton
-- [Homem algum é uma ilha (Thomas Merton)](Kindle/AZW3/Thomas%20Merton/Homem%20algum%20é%20uma%20ilha%20(Thomas%20Merton).azw3) — Thomas Merton
-- [Homens em tempos sombrios](Kindle/KFX/Hannah%20Arendt/Homens%20em%20tempos%20sombrios.kfx) — Hannah Arendt
-- [Homens em tempos sombrios Hannah Arendt](Kindle/AZW3/Hannah%20Arendt/Homens%20em%20tempos%20sombrios%20Hannah%20Arendt.azw3) — Hannah Arendt
-- [Hora de avançar](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Hora%20de%20avançar.azw3) — FELIPE IVO PEREIRA
 - [Ho’oponopono A Antiga Prática Havaiana - Carole Berger](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ho’oponopono%20A%20Antiga%20Prática%20Havaiana%20-%20Carole%20Berger.azw3) — FELIPE IVO PEREIRA
-- [Humanismo extremo](Kindle/KFX/Tom%20Peters/Humanismo%20extremo.kfx) — Tom Peters
-- [Ideologias - Gabriela Prioli](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ideologias%20-%20Gabriela%20Prioli.azw3) — FELIPE IVO PEREIRA
-- [Imitação De Cristo](Kindle/AZW3/Tomás%20de%20Kempis/Imitação%20De%20Cristo.azw3) — Tomás de Kempis
-- [Implacaveis Como nos conquista](Kindle/KFX/Yuval%20Noah%20Harari/Implacaveis%20Como%20nos%20conquista.kfx) — Yuval Noah Harari
-- [Importação Inteligente](Kindle/KFX/Rodrigo%20Giraldelli/Importação%20Inteligente.kfx) — Rodrigo Giraldelli
-- [Inabalável](Kindle/KFX/Fabio%20Gurgel/Inabalável.kfx) — Fabio Gurgel
-- [Intoxicação digital](Kindle/KFX/Augusto%20Cury/Intoxicação%20digital.kfx) — Augusto Cury
 - [Intoxicação digital Augusto Cury](Kindle/AZW3/Augusto%20Cury/Intoxicação%20digital%20Augusto%20Cury.azw3) — Augusto Cury
-- [Introdução ao GraphQL](Kindle/KFX/Eve%20Porcello/Introdução%20ao%20GraphQL.kfx) — Eve Porcello; Alex Banks
-- [Irresistivel](Kindle/KFX/Adam%20Alter/Irresistivel.kfx) — Adam Alter
 - [Jen Wilkin](Kindle/KFX/Dez%20mandamentos%20para%20a%20vida/Jen%20Wilkin.kfx) — Dez mandamentos para a vida
 - [Jen Wilkin - Dez mandamentos para a vida](Kindle/AZW3/Jen%20Wilkin/Jen%20Wilkin%20-%20Dez%20mandamentos%20para%20a%20vida.azw3) — Jen Wilkin
 - [John Bevere](Kindle/KFX/O%20esplendor%20de%20Deus/John%20Bevere.kfx) — O esplendor de Deus
@@ -1420,9 +1336,11 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Érica Ariel Fox - Mais do que Chegar ao sim](Kindle/AZW3/Erica%20Ariel%20Fox/Érica%20Ariel%20Fox%20-%20Mais%20do%20que%20Chegar%20ao%20sim.azw3) — Erica Ariel Fox
 - [Érica Ariel Fox - Mais do que Chegar ao sim (1)](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Érica%20Ariel%20Fox%20-%20Mais%20do%20que%20Chegar%20ao%20sim%20(1).azw3) — FELIPE IVO PEREIRA
 
-## Referência e idiomas · Dicionários e idiomas (19)
+## Referência e idiomas · Dicionários e idiomas (21)
 
 - [A Linguagem de Programação Go Alan A A Donovan, Brian W Kernighan](Kindle/AZW3/Alan%20A.%20A.%20Donovan%20e%20Brian%20W.%20Kernighan/A%20Linguagem%20de%20Programação%20Go%20Alan%20A%20A%20Donovan,%20Brian%20W%20Kernighan.azw3) — Alan A. A. Donovan e Brian W. Kernighan
+- [Aprenda Inglês com Contos incríveis para iniciantes Jack Cac](Kindle/AZW3/Jack%20Cactus/Aprenda%20Inglês%20com%20Contos%20incríveis%20para%20iniciantes%20Jack%20Cac.azw3) — Jack Cactus
+- [As 5 linguagens do perdão](Kindle/AZW3/Jennifer%20Thomas/As%205%20linguagens%20do%20perdão.azw3) — Jennifer Thomas
 - [Assim nasceu uma língua: sobre as origens do português](Kindle/KFX/Fernando%20Venâncio/Assim%20nasceu%20uma%20língua_%20sobre%20as%20origens%20do%20português.kfx) — Fernando Venâncio
 - [Bíblia Peshitta Tradução dos Antigos Manuscritos Aramaicos nodrm](Kindle/AZW3/BV%20Books%20Editora/Bíblia%20Peshitta%20Tradução%20dos%20Antigos%20Manuscritos%20Aramaicos%20nodrm.azw3) — BV Books Editora
 - [Criando Cenas no Púlpito - Alyce M. McKenzie (PT-BR) - edição profissional](Kindle/AZW3/Alyce%20M.%20McKenzie/Criando%20Cenas%20no%20Púlpito%20-%20Alyce%20M.%20McKenzie%20(PT-BR)%20-%20edição%20profissional.azw3) — Alyce M. McKenzie
@@ -1442,7 +1360,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Portuguese-English Dictionary](Kindle/AZW/Priberam/Portuguese-English%20Dictionary.azw) — Priberam
 - [Português Para Não Pagar Mico](Kindle/AZW3/Noslen%20Borges/Português%20Para%20Não%20Pagar%20Mico.azw3) — Noslen Borges
 
-## Religião e espiritualidade · Bíblia e interpretação (148)
+## Religião e espiritualidade · Bíblia e interpretação (157)
 
 - [1 Coríntios - Como resolver conflitos na igreja - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Coríntios%20-%20Como%20resolver%20conflitos%20na%20igreja%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [1 e 2 Tessalonicenses - Como se preparar para a segunda vinda de Cristo - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20e%202%20Tessalonicenses%20-%20Como%20se%20preparar%20para%20a%20segunda%20vinda%20de%20Cristo%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
@@ -1461,15 +1379,20 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [A teologia do livro de Apocalipse](Kindle/AZW3/Richard%20Bauckham/A%20teologia%20do%20livro%20de%20Apocalipse.azw3) — Richard Bauckham
 - [A Teologia do Livro de Apocalipse - Richard Bauckham](Kindle/AZW3/Richard%20Bauckham/A%20Teologia%20do%20Livro%20de%20Apocalipse%20-%20Richard%20Bauckham.azw3) — Richard Bauckham
 - [Aconselhamento Biblico Efetivo - Lawrence Grabb](Kindle/AZW3/Lawrence%20Grabb/Aconselhamento%20Biblico%20Efetivo%20-%20Lawrence%20Grabb.azw3) — Lawrence Grabb
+- [Aconselhando uns aos outros](Kindle/AZW3/Edward%20T.%20Welch/Aconselhando%20uns%20aos%20outros.azw3) — Edward T. Welch
+- [Ajudando uns aos outros pelo Ac - Gary R. Collins](Kindle/AZW3/Gary%20R.%20Collins/Ajudando%20uns%20aos%20outros%20pelo%20Ac%20-%20Gary%20R.%20Collins.azw3) — Gary R. Collins
 - [ao-seu-nome-bruce-anstey](Kindle/AZW3/Bruce%20Anstey/ao-seu-nome-bruce-anstey.azw3) — Bruce Anstey
 - [Apocalipse - O futuro chegou - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/Apocalipse%20-%20O%20futuro%20chegou%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [Aqueles da bíblia](Kindle/KFX/André%20Daniel%20Reinke/Aqueles%20da%20bíblia.kfx) — André Daniel Reinke
 - [As escrituras e a autoridade de Deus](Kindle/AZW3/N.T.%20Wright/As%20escrituras%20e%20a%20autoridade%20de%20Deus.azw3) — N.T. Wright
 - [As Escrituras e a Autoridade de Deus - N. T. Wright](Kindle/AZW3/N.%20T.%20Wright/As%20Escrituras%20e%20a%20Autoridade%20de%20Deus%20-%20N.%20T.%20Wright.azw3) — N. T. Wright
 - [AS INSTITUTAS DA RELIGIÃO CRISTÃ JOÃO CALVINO Unknown Author](Kindle/AZW3/Unknown%20Author/AS%20INSTITUTAS%20DA%20RELIGIÃO%20CRISTÃ%20JOÃO%20CALVINO%20Unknown%20Author.azw3) — Unknown Author
+- [As lições de Salomão](Kindle/AZW3/Mark%20Atteberry/As%20lições%20de%20Salomão.azw3) — Mark Atteberry
 - [Boas novas o evangelho de Jesus Cristo John F MacArthur Jr Z Library](Kindle/AZW3/John%20MacArthur/Boas%20novas%20o%20evangelho%20de%20Jesus%20Cristo%20John%20F%20MacArthur%20Jr%20Z%20Library.azw3) — John MacArthur
 - [Boas novas: o evangelho de Jesus Cristo](Kindle/KFX/John%20F.%20MacArthur%20Jr/Boas%20novas_%20o%20evangelho%20de%20Jesus%20Cristo.kfx) — John F. MacArthur Jr.
-- [Branding A Arte De Construir Marcas Marcos Hiller](Kindle/AZW3/Marcos%20Hiller/Branding%20A%20Arte%20De%20Construir%20Marcas%20Marcos%20Hiller.azw3) — Marcos Hiller
+- [Bom E Bravo Como Santificar A Ira, A Irritação, A Reclamação E](Kindle/AZW3/David%20Powlison/Bom%20E%20Bravo%20Como%20Santificar%20A%20Ira,%20A%20Irritação,%20A%20Reclamação%20E.azw3) — David Powlison
+- [Box poéticos para todos](Kindle/KFX/John%20Goldingay/Box%20poéticos%20para%20todos.kfx) — John Goldingay
+- [Box Poéticos Para Todos John Goldingay](Kindle/AZW3/John%20Goldingay/Box%20Poéticos%20Para%20Todos%20John%20Goldingay.azw3) — John Goldingay
 - [Bíblia 365 NVT](EPUB/Mundo%20Cristão/Bíblia%20365%20NVT.epub) — Mundo Cristão
 - [Bíblia de Estudo - Joyce Meyer](Kindle/AZW3/Sony/Bíblia%20de%20Estudo%20-%20Joyce%20Meyer.azw3) — Sony
 - [Bíblia de Estudo Conselheira – Gálatas, Efésios, Filipenses e Colossenses](EPUB/Sociedade%20Bíblica%20do%20Brasil/Bíblia%20de%20Estudo%20Conselheira%20–%20Gálatas,%20Efésios,%20Filipenses%20e%20Colossenses.epub) — Sociedade Bíblica do Brasil
@@ -1482,22 +1405,26 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Comentário Bíblico Expositivo Novo Testamento, Vol II - Warren W. Wiersbe](Kindle/AZW3/Warren%20W.%20Wiersbe/Comentário%20Bíblico%20Expositivo%20Novo%20Testamento,%20Vol%20II%20-%20Warren%20W.%20Wiersbe.azw3) — Warren W. Wiersbe
 - [Comentário Histórico-Cultural do Novo Testamento - Lawrence O. Richards](Kindle/AZW3/Lawrence%20O.%20Richards/Comentário%20Histórico-Cultural%20do%20Novo%20Testamento%20-%20Lawrence%20O.%20Richards.azw3) — Lawrence O. Richards
 - [Comentários do Antigo Testamento Eclesiastes Walter C Kaiser Jr](Kindle/AZW3/Jr.%20Walter%20C.%20Kaiser/Comentários%20do%20Antigo%20Testamento%20Eclesiastes%20Walter%20C%20Kaiser%20Jr.azw3) — Jr. Walter C. Kaiser
+- [Como Deus se tornou rei](Kindle/AZW3/N.T.%20Wright/Como%20Deus%20se%20tornou%20rei.azw3) — N.T. Wright
 - [Como Estudar Sua Biblia Kay Arthur](Kindle/AZW3/Kay%20Arthur/Como%20Estudar%20Sua%20Biblia%20Kay%20Arthur.azw3) — Kay Arthur
+- [Cronologia Bíblica Guia Prático Para Compreender a Linha do Tempo](Kindle/AZW3/Aryanne%20Soares/Cronologia%20Bíblica%20Guia%20Prático%20Para%20Compreender%20a%20Linha%20do%20Tempo.azw3) — Aryanne Soares
 - [Cultura Catalisadora - Samuel R. Chand (PT-BR) - edição profissional](Kindle/AZW3/Samuel%20R.%20Chand/Cultura%20Catalisadora%20-%20Samuel%20R.%20Chand%20(PT-BR)%20-%20edição%20profissional.azw3) — Samuel R. Chand
 - [Daniel - Um homem amado no céu - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/Daniel%20-%20Um%20homem%20amado%20no%20céu%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [daniel-o-segredo-para-vencer-bruce-anstey](Kindle/AZW3/Bruce%20Anstey/daniel-o-segredo-para-vencer-bruce-anstey.azw3) — Bruce Anstey
 - [Daniel: o segredo para vencer](Kindle/KFX/Bruce%20Anstey/Daniel_%20o%20segredo%20para%20vencer.kfx) — Bruce Anstey
 - [Desmarketize-se João Branco](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Desmarketize-se%20João%20Branco.azw3) — FELIPE IVO PEREIRA
+- [Desperte sua genialidade](Kindle/KFX/Ozan%20Varol/Desperte%20sua%20genialidade.kfx) — Ozan Varol
 - [Eclesiastes](Kindle/KFX/Comentarios%20Expositivos%20Hagnos/Eclesiastes.kfx) — Comentarios Expositivos Hagnos
 - [Eclesiastes - Comentários Expositivos Hagnos](Kindle/AZW3/Hernandes%20Dias%20Lopes/Eclesiastes%20-%20Comentários%20Expositivos%20Hagnos.azw3) — Hernandes Dias Lopes
-- [Eleição e Predestinação (João Calvino)](Kindle/AZW3/João%20Calvino/Eleição%20e%20Predestinação%20(João%20Calvino).azw3) — João Calvino
 - [Encontrando Cristo no Antigo Testamento](Kindle/AZW3/Edmund%20P.%20Clowney/Encontrando%20Cristo%20no%20Antigo%20Testamento.azw3) — Edmund P. Clowney
 - [Escatologia do Novo Testamento](EPUB/Russell%20P.%20Shedd/Escatologia%20do%20Novo%20Testamento.epub) — Russell P. Shedd
+- [Escutando o Espírito no Texto - Gordon D. Fee](Kindle/AZW3/Gordon%20D.%20Fee/Escutando%20o%20Espírito%20no%20Texto%20-%20Gordon%20D.%20Fee.azw3) — Gordon D. Fee
+- [Estamos juntos](Kindle/AZW3/R.%20C.%20Sproul/Estamos%20juntos.azw3) — R. C. Sproul
 - [Estudo Bíblico Indutivo - Guia Abrangente em Português](Kindle/AZW3/David%20R.%20Bauer/Estudo%20Bíblico%20Indutivo%20-%20Guia%20Abrangente%20em%20Português.azw3) — David R. Bauer
-- [Estudos bíblicos expositivos em Ester e Rute: a graça de Deus em favor dos marginalizados e indignos](EPUB/Iain%20M.%20Duguid/Estudos%20bíblicos%20expositivos%20em%20Ester%20e%20Rute_%20a%20graça%20de%20Deus%20em%20favor%20dos%20marginalizados%20e%20indignos.epub) — Iain M. Duguid
 - [Estudos do Novo Testamento](Kindle/AZW3/Scott%20McKnight%20e%20Nijay%20K.%20Gupta/Estudos%20do%20Novo%20Testamento.azw3) — Scott McKnight e Nijay K. Gupta
 - [Examinando as Escrituras - Charles Swindoll](Kindle/AZW3/Charles%20Swindoll/Examinando%20as%20Escrituras%20-%20Charles%20Swindoll.azw3) — Charles Swindoll
 - [Filipenses - A alegria triunfante no meio das provas - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/Filipenses%20-%20A%20alegria%20triunfante%20no%20meio%20das%20provas%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
+- [Fim dos tempos simplificado David Sliker](Kindle/AZW3/David%20Sliker/Fim%20dos%20tempos%20simplificado%20David%20Sliker.azw3) — David Sliker
 - [Guia Bíblico para Libertação](Kindle/KFX/Randy%20Clark/Guia%20Bíblico%20para%20Libertação.kfx) — Randy Clark
 - [Guia Bíblico para libertação Randy Clark](Kindle/AZW3/Randy%20Clark/Guia%20Bíblico%20para%20libertação%20Randy%20Clark.azw3) — Randy Clark
 - [Guia de aprofundamento para duplas](Kindle/AZW3/Unknown/Guia%20de%20aprofundamento%20para%20duplas.azw3) — Unknown
@@ -1508,8 +1435,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Génesis - Henry Kissinger, Eric Schmidt, Craig Mundie](Kindle/AZW3/Henry%20Kissinger_%20Eric%20Schmidt_%20Craig%20Mundie/Génesis%20-%20Henry%20Kissinger,%20Eric%20Schmidt,%20Craig%20Mundie.azw3) — Henry Kissinger| Eric Schmidt| Craig Mundie
 - [Habacuque - Como transformar o desespero em cântico de vitória - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/Habacuque%20-%20Como%20transformar%20o%20desespero%20em%20cântico%20de%20vitória%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [Hebreus - A superioridade de Cristo - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/Hebreus%20-%20A%20superioridade%20de%20Cristo%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
-- [Igreja Multiplicadora 5 Princípios Bíblicos para o Crescimento nodrm](Kindle/AZW3/Fernando%20Brandão/Igreja%20Multiplicadora%205%20Princípios%20Bíblicos%20para%20o%20Crescimento%20nodrm.azw3) — Fernando Brandão
-- [Igreja o Evangelho visível](Kindle/AZW3/Mark%20Dever/Igreja%20o%20Evangelho%20visível.azw3) — Mark Dever
+- [Homens em tempos sombrios](Kindle/KFX/Hannah%20Arendt/Homens%20em%20tempos%20sombrios.kfx) — Hannah Arendt
+- [Homens em tempos sombrios Hannah Arendt](Kindle/AZW3/Hannah%20Arendt/Homens%20em%20tempos%20sombrios%20Hannah%20Arendt.azw3) — Hannah Arendt
 - [Interpretando-a-Bíblia-a-Partir-do-Espírito](Kindle/AZW3/Kenner%20Terra/Interpretando-a-Bíblia-a-Partir-do-Espírito.azw3) — Kenner Terra
 - [Introdução à Exegese Bíblica - Michael J. Gorman](Kindle/AZW3/Michael%20J.%20Gorman/Introdução%20à%20Exegese%20Bíblica%20-%20Michael%20J.%20Gorman.azw3) — Michael J. Gorman
 - [Joel - O profeta do Pentecostes - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/Joel%20-%20O%20profeta%20do%20Pentecostes%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
@@ -1593,12 +1520,13 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vendedor na era digital, O César Frazão & João Kepler (1)](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Vendedor%20na%20era%20digital,%20O%20César%20Frazão%20&%20João%20Kepler%20(1).azw3) — FELIPE IVO PEREIRA
 - [Vida através da morte: estudo da epístola aos Romanos](Kindle/KFX/Charles%20Stanley/Vida%20através%20da%20morte_%20estudo%20da%20epístola%20aos%20Romanos.kfx) — Charles Stanley
 
-## Religião e espiritualidade · Pregação e ministério (155)
+## Religião e espiritualidade · Pregação e ministério (167)
 
 - [1 Timóteo - O pastor, sua vida e sua obra - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Timóteo%20-%20O%20pastor,%20sua%20vida%20e%20sua%20obra%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [101 idéias criativas para cultos domésticos (101 ideias)](EPUB/Merkh_%20David/101%20idéias%20criativas%20para%20cultos%20domésticos%20(101%20ideias).epub) — Merkh| David
 - [101 idéias criativas para cultos domésticos (101 ideias) nodrm](Kindle/AZW3/David%20Merkh/101%20idéias%20criativas%20para%20cultos%20domésticos%20(101%20ideias)%20nodrm.azw3) — David Merkh
 - [101 Questoes para Consultores de Igrejas](Kindle/AZW3/Art%20Rainer/101%20Questoes%20para%20Consultores%20de%20Igrejas.azw3) — Art Rainer
+- [15 coisas que o seminário não pôde me ensinar](EPUB/Jeff%20Robinson/15%20coisas%20que%20o%20seminário%20não%20pôde%20me%20ensinar.epub) — Jeff Robinson; Collin Hansen
 - [2 Pedro e Judas - Quando os falsos profetas atacam a igreja - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/2%20Pedro%20e%20Judas%20-%20Quando%20os%20falsos%20profetas%20atacam%20a%20igreja%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [2 Timóteo - O testamento de Paulo à igreja - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/2%20Timóteo%20-%20O%20testamento%20de%20Paulo%20à%20igreja%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [2.000 Anos de Pequenos Grupos — Uma História do Ministério de Células na Igreja - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/2.000%20Anos%20de%20Pequenos%20Grupos%20—%20Uma%20História%20do%20Ministério%20de%20Células%20na%20Igreja%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
@@ -1624,6 +1552,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [A Jornada da Pregação - Adrien Bausells](Kindle/AZW3/Adrien%20Bausells/A%20Jornada%20da%20Pregação%20-%20Adrien%20Bausells.azw3) — Adrien Bausells
 - [A Trama Homilética - edição profissional (PT-BR)](Kindle/AZW3/Eugene%20L.%20Lowry/A%20Trama%20Homilética%20-%20edição%20profissional%20(PT-BR).azw3) — Eugene L. Lowry
 - [A Trama Homilética: O Sermão como Forma de Arte Narrativa — Edição Ampliada](EPUB/Eugene%20L.%20Lowry/A%20Trama%20Homilética_%20O%20Sermão%20como%20Forma%20de%20Arte%20Narrativa%20—%20Edição%20Ampliada.epub) — Eugene L. Lowry
+- [A Trelica e a Videira](Kindle/KFX/Collin%20Marshall/A%20Trelica%20e%20a%20Videira.kfx) — Collin Marshall
+- [A Treliça e a Videira - Collin Marshall](Kindle/AZW3/Tony%20Payne/A%20Treliça%20e%20a%20Videira%20-%20Collin%20Marshall.azw3) — Tony Payne
 - [A-igreja-A-H-Rule](Kindle/AZW3/A.%20H.%20RULE/A-igreja-A-H-Rule.azw3) — A. H. RULE
 - [A-IGREJA-DE-DEUS-NOS-DIAS-DE-HOJE](Kindle/AZW3/Unknown/A-IGREJA-DE-DEUS-NOS-DIAS-DE-HOJE.azw3) — Unknown
 - [a-ordem-de-deus-bruce-anstey](Kindle/AZW3/Bruce%20Anstey/a-ordem-de-deus-bruce-anstey.azw3) — Bruce Anstey
@@ -1635,9 +1565,11 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Após 50 anos de ministério: 7 coisas que eu faria de modo diferente e 7 que faria da mesma forma](EPUB/Bob%20Russell/Após%2050%20anos%20de%20ministério_%207%20coisas%20que%20eu%20faria%20de%20modo%20diferente%20e%207%20que%20faria%20da%20mesma%20forma.epub) — Bob Russell
 - [As quatro páginas do sermão: Um guia para a pregação bíblica](Kindle/AZW3/Paul%20Scott%20Wilson/As%20quatro%20páginas%20do%20sermão_%20Um%20guia%20para%20a%20pregação%20bíblica.azw3) — Paul Scott Wilson
 - [Atos - A ação do Espírito Santo na vida da igreja - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/Atos%20-%20A%20ação%20do%20Espírito%20Santo%20na%20vida%20da%20igreja%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
+- [Bom demais para ser ignorado](Kindle/KFX/Cal%20Newport/Bom%20demais%20para%20ser%20ignorado.kfx) — Cal Newport
 - [Cante! como o louvor transforma sua vida, sua família e sua igreja](Kindle/AZW3/Kristyn%20Getty/Cante!%20como%20o%20louvor%20transforma%20sua%20vida,%20sua%20família%20e%20sua%20igreja.azw3) — Kristyn Getty
 - [Cartas Pastorais de John Wimber](EPUB/John%20Wimber/Cartas%20Pastorais%20de%20John%20Wimber.epub) — John Wimber
 - [Cartas Pastorais de John Wimber (PT-BR) - edição profissional](Kindle/AZW3/John%20Wimber/Cartas%20Pastorais%20de%20John%20Wimber%20(PT-BR)%20-%20edição%20profissional.azw3) — John Wimber
+- [ChurchLeaders Top 100: 2013 Edition](EPUB/Furtick_%20Steven/ChurchLeaders%20Top%20100_%202013%20Edition.epub) — Furtick| Steven; Rainer| Thom; Driscoll| Mark; Chan| Francis; ChurchLeaders
 - [Clamor do Silêncio Evangelização Discipuladora de Surdos nodrm](Kindle/AZW3/Marília%20Moraes%20Manhães/Clamor%20do%20Silêncio%20Evangelização%20Discipuladora%20de%20Surdos%20nodrm.azw3) — Marília Moraes Manhães
 - [Colha a Colheita — Fazendo Discípulos por meio de Pequenos Grupos Holísticos - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Colha%20a%20Colheita%20—%20Fazendo%20Discípulos%20por%20meio%20de%20Pequenos%20Grupos%20Holísticos%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
 - [Colossenses - A suprema grandeza de Cristo, o cabeça da igreja - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/Colossenses%20-%20A%20suprema%20grandeza%20de%20Cristo,%20o%20cabeça%20da%20igreja%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
@@ -1654,14 +1586,19 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Discipulado Familiar Matt Chandler & Adam Griffin 2021 Editora Trinitas](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Discipulado%20Familiar%20Matt%20Chandler%20&%20Adam%20Griffin%202021%20Editora%20Trinitas.azw3) — FELIPE IVO PEREIRA
 - [Discipulado nodrm](Kindle/AZW3/Dietrich%20Bonhoeffer/Discipulado%20nodrm.azw3) — Dietrich Bonhoeffer
 - [Discipulado que Transforma](Kindle/AZW3/Josué%20Campanhã/Discipulado%20que%20Transforma.azw3) — Josué Campanhã
+- [Discípulo 360° nodrm](Kindle/AZW3/Alton%20Garrison/Discípulo%20360°%20nodrm.azw3) — Alton Garrison
 - [Discípulos fazendo discípulos O resgate da teologia do discipulado (Série Discipulado Missional Livro 1) nodrm](Kindle/AZW3/João%20Petreceli/Discípulos%20fazendo%20discípulos%20O%20resgate%20da%20teologia%20do%20discipulado%20(Série%20Discipulado%20Missional%20Livr.azw3) — João Petreceli
 - [Discípulos são feitos, não nascem prontos nodrm](Kindle/AZW3/Walter%20A.%20Henrichsen/Discípulos%20são%20feitos,%20não%20nascem%20prontos%20nodrm.azw3) — Walter A. Henrichsen
 - [Efésios - Igreja, a noiva gloriosa de Cristo - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/Efésios%20-%20Igreja,%20a%20noiva%20gloriosa%20de%20Cristo%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
+- [Encontro — Receba a Liberdade de Cristo - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Encontro%20—%20Receba%20a%20Liberdade%20de%20Cristo%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
 - [Escola Bíblica Discipuladora Formando Líderes Multiplicadores (Igreja Multiplicadora Livro 8) nodrm](Kindle/AZW3/Marcos%20Paulo%20Ferreira/Escola%20Bíblica%20Discipuladora%20Formando%20Líderes%20Multiplicadores%20(Igreja%20Multiplicadora%20Livro%208)%20nodrm.azw3) — Marcos Paulo Ferreira
 - [Estudos no sermão do monte - Dr. Martyn Lloyd-Jones](Kindle/AZW3/D.%20Martyn%20Lloyd-Jones/Estudos%20no%20sermão%20do%20monte%20-%20Dr.%20Martyn%20Lloyd-Jones.azw3) — D. Martyn Lloyd-Jones
+- [Eu creio em visões](Kindle/KFX/Kenneth%20E.%20Hagin/Eu%20creio%20em%20visões.kfx) — Kenneth E. Hagin
+- [Eu creio em Visões- Kenneth E. Hagin](Kindle/AZW3/Unknown/Eu%20creio%20em%20Visões-%20Kenneth%20E.%20Hagin.azw3) — Unknown
 - [Eu sou membro de igreja: descobrindo a atitude que faz a diferença](EPUB/Thom%20S.%20Rainer/Eu%20sou%20membro%20de%20igreja_%20descobrindo%20a%20atitude%20que%20faz%20a%20diferença.epub) — Thom S. Rainer
 - [Evangelização Discipuladora de Crianças Formando uma Nova Geração de Discípulos (Igreja Multiplicadora Livro 7) nodrm](Kindle/AZW3/Jaqueline%20da%20Hora%20Santos/Evangelização%20Discipuladora%20de%20Crianças%20Formando%20uma%20Nova%20Geração%20de%20Discípulos%20(Igreja%20Multiplicado.azw3) — Jaqueline da Hora Santos
 - [Fazendo Discípulos na Era Digital As Redes Sociais e a Nova Via Romana nodrm](Kindle/AZW3/Sammy%20Tippit/Fazendo%20Discípulos%20na%20Era%20Digital%20As%20Redes%20Sociais%20e%20a%20Nova%20Via%20Romana%20nodrm.azw3) — Sammy Tippit
+- [Fazendo Grupos Celulares Funcionarem — Guia de Navegação - Randall Neighbour](Kindle/AZW3/Randall%20Neighbour/Fazendo%20Grupos%20Celulares%20Funcionarem%20—%20Guia%20de%20Navegação%20-%20Randall%20Neighbour.azw3) — Randall Neighbour
 - [Faça de Sua Igreja Uma Equipe nodrm](Kindle/AZW3/Wayne%20Cordeiro/Faça%20de%20Sua%20Igreja%20Uma%20Equipe%20nodrm.azw3) — Wayne Cordeiro
 - [Faça discípulos ou morra tentando](Kindle/AZW3/Yago%20Martins/Faça%20discípulos%20ou%20morra%20tentando.azw3) — Yago Martins
 - [Faça discípulos ou morra tentando O significado, a extensão e o selo do discipulado (A Grande Comissão é bem maior do que você imagina Livro 2) nodrm](Kindle/AZW3/Yago%20Martins/Faça%20discípulos%20ou%20morra%20tentando%20O%20significado,%20a%20extensão%20e%20o%20selo%20do%20discipulado%20(A%20Grande%20Comiss.azw3) — Yago Martins
@@ -1673,6 +1610,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Igreja em lugares difíceis como a igreja local traz vida ao pobre e necessitado nodrm](Kindle/AZW3/Mez%20McConnell/Igreja%20em%20lugares%20difíceis%20como%20a%20igreja%20local%20traz%20vida%20ao%20pobre%20e%20necessitado%20nodrm.azw3) — Mez McConnell
 - [Igreja essencial](Kindle/AZW3/Sam]%20[TRANSLATED_BY%20Rainer%20III/Igreja%20essencial.azw3) — Sam] [TRANSLATED_BY Rainer III
 - [Igreja essencial nodrm](Kindle/AZW3/Sam]%20[TRANSLATED_BY%20Rainer%20III/Igreja%20essencial%20nodrm.azw3) — Sam] [TRANSLATED_BY Rainer III
+- [Igreja Multiplicadora 5 Princípios Bíblicos para o Crescimento nodrm](Kindle/AZW3/Fernando%20Brandão/Igreja%20Multiplicadora%205%20Princípios%20Bíblicos%20para%20o%20Crescimento%20nodrm.azw3) — Fernando Brandão
+- [Igreja o Evangelho visível](Kindle/AZW3/Mark%20Dever/Igreja%20o%20Evangelho%20visível.azw3) — Mark Dever
 - [Igreja simples](Kindle/AZW3/Eric%20Geiger/Igreja%20simples.azw3) — Eric Geiger
 - [Igreja simples nodrm](Kindle/AZW3/Eric%20Geiger/Igreja%20simples%20nodrm.azw3) — Eric Geiger
 - [Igreja Singular Will Mancini ptBR](Kindle/AZW3/Will%20Mancini/Igreja%20Singular%20Will%20Mancini%20ptBR.azw3) — Will Mancini
@@ -1751,11 +1690,10 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Você Pode Fazer Coaching — Como Ajudar Líderes a Construir Igrejas Saudáveis - Joel Comiskey, Sam Scaggs e Ben Wong](Kindle/AZW3/Joel%20Comiskey/Você%20Pode%20Fazer%20Coaching%20—%20Como%20Ajudar%20Líderes%20a%20Construir%20Igrejas%20Saudáveis%20-%20Joel%20Comiskey,%20Sam%20Sc.azw3) — Joel Comiskey
 - [Wikichurch discipulado engajado, empoderado & viral nodrm](Kindle/AZW3/Steve%20Murrell/Wikichurch%20discipulado%20engajado,%20empoderado%20&%20viral%20nodrm.azw3) — Steve Murrell
 
-## Religião e espiritualidade · Teologia e doutrina (25)
+## Religião e espiritualidade · Teologia e doutrina (27)
 
 - [a evoluao e a queda implicaoes da ciencia moderna para a teologia](Kindle/AZW3/Unknown/a%20evoluao%20e%20a%20queda%20implicaoes%20da%20ciencia%20moderna%20para%20a%20teologia.azw3) — Unknown
-- [A Fe na era do ceticismo](Kindle/KFX/Timothy%20Keller/A%20Fe%20na%20era%20do%20ceticismo.kfx) — Timothy Keller
-- [A Fé na era do ceticismo - Timothy Keller](Kindle/AZW3/Timothy%20Keller/A%20Fé%20na%20era%20do%20ceticismo%20-%20Timothy%20Keller.azw3) — Timothy Keller
+- [A Fe na era do ceticismo](Kindle/AZW3/Timothy%20Keller/A%20Fe%20na%20era%20do%20ceticismo.azw3) — Timothy Keller
 - [A sabedoria de Carl Jung](Kindle/AZW/Edward%20Hoffman/A%20sabedoria%20de%20Carl%20Jung.azw) — Edward Hoffman
 - [Aliancismo progressivo tracand - Stephen Wellum](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Aliancismo%20progressivo%20tracand%20-%20Stephen%20Wellum.azw3) — FELIPE IVO PEREIRA
 - [Amando a Deus no mundo: Por uma cosmovisão reformada](Kindle/AZW3/Heber%20Campos%20Jr/Amando%20a%20Deus%20no%20mundo_%20Por%20uma%20cosmovisão%20reformada.azw3) — Heber Campos Jr.
@@ -1768,8 +1706,11 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Cristianismo-à-prova-Rebecca-McLaughlin 1](Kindle/AZW3/Rebecca%20McLaughlin/Cristianismo-à-prova-Rebecca-McLaughlin%201.azw3) — Rebecca McLaughlin
 - [Cristo e a teologia do pacto -- P. Venema, Cornelis](Kindle/AZW3/Cornelis%20P.%20Venema/Cristo%20e%20a%20teologia%20do%20pacto%20--%20P.%20Venema,%20Cornelis.azw3) — Cornelis P. Venema
 - [Dia a dia com Calvino](Kindle/KFX/João%20Calvino/Dia%20a%20dia%20com%20Calvino.kfx) — João Calvino
+- [Eleição e predestinação](Kindle/KFX/João%20Calvino/Eleição%20e%20predestinação.kfx) — João Calvino
+- [Eleição e Predestinação (João Calvino)](Kindle/AZW3/João%20Calvino/Eleição%20e%20Predestinação%20(João%20Calvino).azw3) — João Calvino
 - [Escatologia essencial Victor Vieira](Kindle/AZW3/Victor%20Vieira/Escatologia%20essencial%20Victor%20Vieira.azw3) — Victor Vieira
 - [Fundamentos da teologia da igreja (Coleção Teologia Brasileira) nodrm](Kindle/AZW3/Carlos%20Caldas%20Filho/Fundamentos%20da%20teologia%20da%20igreja%20(Coleção%20Teologia%20Brasileira)%20nodrm.azw3) — Carlos Caldas Filho
+- [Gálatas](Kindle/KFX/N.%20T.%20Wright/Gálatas.kfx) — N. T. Wright
 - [História Global do Cristianismo](Kindle/KFX/Pablo%20A.%20Deiros/História%20Global%20do%20Cristianismo.kfx) — Pablo A. Deiros
 - [Pregação Comunicando a fé na era do ceticismo Tim Keller](Kindle/AZW3/Tim%20Keller/Pregação%20Comunicando%20a%20fé%20na%20era%20do%20ceticismo%20Tim%20Keller.azw3) — Tim Keller
 - [Pregação: comunicando a fé na era do ceticismo](Kindle/KFX/Timothy%20Keller/Pregação_%20comunicando%20a%20fé%20na%20era%20do%20ceticismo.kfx) — Timothy Keller
@@ -1779,59 +1720,67 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Teologia sistemática ao alcance de todos](EPUB/Wayne%20Grudem/Teologia%20sistemática%20ao%20alcance%20de%20todos.epub) — Wayne Grudem
 - [Uma teologia de Paulo e suas cartas: A dádiva do novo domínio em Cristo](Kindle/AZW3/Douglas%20J.%20Moo/Uma%20teologia%20de%20Paulo%20e%20suas%20cartas_%20A%20dádiva%20do%20novo%20domínio%20em%20Cristo.azw3) — Douglas J. Moo
 
-## Religião e espiritualidade · Vida cristã e devoção (213)
+## Religião e espiritualidade · Vida cristã e devoção (240)
 
 - [1 Pedro - Com os pés no vale e o coração no céu - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Pedro%20-%20Com%20os%20pés%20no%20vale%20e%20o%20coração%20no%20céu%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
+- [365 dias de narrativas poderosas](Kindle/KFX/Thaís%20Machado/365%20dias%20de%20narrativas%20poderosas.kfx) — Thaís Machado
 - [40 Days of Hope ptBR](Kindle/AZW3/Paul%20David%20Tripp/40%20Days%20of%20Hope%20ptBR.azw3) — Paul David Tripp
-- [40 Pensamentos de Jesus](Kindle/KFX/Renato%20Cardoso/40%20Pensamentos%20de%20Jesus.kfx) — Renato Cardoso
 - [A arte da oração](Kindle/KFX/Kenneth%20E.%20Hagin/A%20arte%20da%20oração.kfx) — Kenneth E. Hagin
 - [A autoridade do crente](Kindle/KFX/Kenneth%20E.%20Hagin/A%20autoridade%20do%20crente.kfx) — Kenneth E. Hagin
 - [A autoridade do crente - Kennet - DESKTOP](Kindle/AZW3/DESKTOP/A%20autoridade%20do%20crente%20-%20Kennet%20-%20DESKTOP.azw3) — DESKTOP
-- [A Escuta de Jesus](Kindle/KFX/Sarah%20Young/A%20Escuta%20de%20Jesus.kfx) — Sarah Young
-- [A Escuta de Jesus - Sarah Young](Kindle/AZW3/Sarah%20Young/A%20Escuta%20de%20Jesus%20-%20Sarah%20Young.azw3) — Sarah Young
+- [A Escuta de Jesus](Kindle/AZW3/Sarah%20Young/A%20Escuta%20de%20Jesus.azw3) — Sarah Young
+- [A experiência do lar](Kindle/KFX/Devi%20Titus/A%20experiência%20do%20lar.kfx) — Devi Titus
 - [A fé remove montanhas: 31 dias devocionais](Kindle/AZW3/Filipe%20Ivo%20Pereira/A%20fé%20remove%20montanhas_%2031%20dias%20devocionais.azw3) — Filipe Ivo Pereira
 - [A graça perigosa: 21 dias removendo o véu](Kindle/KFX/Aluízio%20A.%20Silva/A%20graça%20perigosa_%2021%20dias%20removendo%20o%20véu.kfx) — Aluízio A. Silva
 - [A história de Jesus para quem tem pressa: Do Jesus histórico ao divino Jesus Cristo!](Kindle/AZW/Anthony%20le%20Donne/A%20história%20de%20Jesus%20para%20quem%20tem%20pressa_%20Do%20Jesus%20histórico%20ao%20divino%20Jesus%20Cristo!.azw) — Anthony le Donne
-- [A liderança que Deus valoriza](Kindle/AZW3/Richard%20Stearns/A%20liderança%20que%20Deus%20valoriza.azw3) — Richard Stearns
 - [A linguagem de Deus](Kindle/AZW/Francis%20S.%20Collins/A%20linguagem%20de%20Deus.azw) — Francis S. Collins
 - [A oração de Jabez](Kindle/AZW3/Bruce%20Wilkinson/A%20oração%20de%20Jabez.azw3) — Bruce Wilkinson
 - [A Ordem de Deus](Kindle/KFX/Bruce%20Anstey/A%20Ordem%20de%20Deus.kfx) — Bruce Anstey
+- [A raiz da rejeição](Kindle/KFX/Joyce%20Meyer/A%20raiz%20da%20rejeição.kfx) — Joyce Meyer
 - [A sala de espera de Deus](Kindle/AZW3/Lisânias%20Moura/A%20sala%20de%20espera%20de%20Deus.azw3) — Lisânias Moura
 - [A sombra da dúvida: enfrentando os desafios da fé](EPUB/Talbot%20Davis/A%20sombra%20da%20dúvida_%20enfrentando%20os%20desafios%20da%20fé.epub) — Talbot Davis
+- [A superioridade de Cristo para quem está preso em coisas menores](Kindle/AZW3/Yago%20Martins/A%20superioridade%20de%20Cristo%20para%20quem%20está%20preso%20em%20coisas%20menores.azw3) — Yago Martins
 - [A Vida Cristã Segundo Jesus - Alistair Begg](Kindle/AZW3/Alistair%20Begg/A%20Vida%20Cristã%20Segundo%20Jesus%20-%20Alistair%20Begg.azw3) — Alistair Begg
 - [A voz da fé: o segredo para uma vida bem-sucedida](Kindle/AZW3/Edir%20Macedo/A%20voz%20da%20fé_%20o%20segredo%20para%20uma%20vida%20bem-sucedida.azw3) — Edir Macedo
 - [A. W. Tozer - À Procura de Deus](Kindle/AZW3/Unknown%20Author/A.%20W.%20Tozer%20-%20À%20Procura%20de%20Deus.azw3) — Unknown Author
+- [Abraçado pelo Espírito](EPUB/Charles%20R.%20Swindoll/Abraçado%20pelo%20Espírito.epub) — Charles R. Swindoll
 - [Aconselhando Cristãos Em Luta Com A Homossexualidade](Kindle/AZW3/Débora%20Fonseca%20e%20Cunha/Aconselhando%20Cristãos%20Em%20Luta%20Com%20A%20Homossexualidade.azw3) — Débora Fonseca e Cunha
 - [Alegria e triunfo](Kindle/KFX/Lourenço%20Prado/Alegria%20e%20triunfo.kfx) — Lourenço Prado
-- [As 5 linguagens do perdão](Kindle/AZW3/Jennifer%20Thomas/As%205%20linguagens%20do%20perdão.azw3) — Jennifer Thomas
-- [As cinco linguagens do amor de Deus](Kindle/AZW3/Gary%20Chapman/As%20cinco%20linguagens%20do%20amor%20de%20Deus.azw3) — Gary Chapman
+- [Apagando o inferno](Kindle/AZW3/Francis%20Chan/Apagando%20o%20inferno.azw3) — Francis Chan
+- [Aprendendo a orar](EPUB/R.%20A.%20Torrey/Aprendendo%20a%20orar.epub) — R. A. Torrey
+- [As cartas de Warren Buffett - Lawrence A. Cunningham](Kindle/AZW3/Warren%20Buffett/As%20cartas%20de%20Warren%20Buffett%20-%20Lawrence%20A.%20Cunningham.azw3) — Warren Buffett
 - [As Leis Dinâmicas da Oração](Kindle/AZW3/Catherine%20Ponder/As%20Leis%20Dinâmicas%20da%20Oração.azw3) — Catherine Ponder
 - [As Marcas de um Líder Espiritual](Kindle/AZW3/John%20Piper/As%20Marcas%20de%20um%20Líder%20Espiritual.azw3) — John Piper
 - [As parábolas de Jesus comentadas por John MacArthur Os mistérios](Kindle/AZW3/John%20MacArthur/As%20parábolas%20de%20Jesus%20comentadas%20por%20John%20MacArthur%20Os%20mistérios.azw3) — John MacArthur
 - [As Parábolas de Jesus: Os Mistérios do Reino de Deus Revelados nas Histórias Contadas pelo Salvador](Kindle/KFX/John%20MacArthur/As%20Parábolas%20de%20Jesus_%20Os%20Mistérios%20do%20Reino%20de%20Deus%20Revelados%20nas%20Histórias%20Contadas%20pelo%20Salvador.kfx) — John MacArthur
 - [As vantagens de ser otimista](Kindle/AZW/Allan%20Percy/As%20vantagens%20de%20ser%20otimista.azw) — Allan Percy
 - [Assassinato no Campo de Golfe](Kindle/AZW3/Agatha%20Christie/Assassinato%20no%20Campo%20de%20Golfe.azw3) — Agatha Christie
+- [Atravessando as Tempestades](Kindle/AZW3/Tony%20Cooke/Atravessando%20as%20Tempestades.azw3) — Tony Cooke
+- [Até que sejamos um](Kindle/AZW3/Francis%20Chan/Até%20que%20sejamos%20um.azw3) — Francis Chan
+- [Autoridade em Três Mundos](Kindle/AZW3/Charles%20Capps/Autoridade%20em%20Três%20Mundos.azw3) — Charles Capps
 - [Autoridade Espiritual](Kindle/AZW3/Watchman%20Nee/Autoridade%20Espiritual.azw3) — Watchman Nee
 - [Bases da Fé Cristã - Wayne Grudem](Kindle/AZW3/Wayne%20Grudem/Bases%20da%20Fé%20Cristã%20-%20Wayne%20Grudem.azw3) — Wayne Grudem
 - [Batalha Espiritual Ministrando Libertação No Corpo De Cristo](Kindle/AZW3/Paschoal%20Piragine%20Jr/Batalha%20Espiritual%20Ministrando%20Libertação%20No%20Corpo%20De%20Cristo.azw3) — Paschoal Piragine Jr.
 - [Batalha espiritual para vencer](Kindle/KFX/Dra.%20Carol%20Peters-Tanksley/Batalha%20espiritual%20para%20vencer.kfx) — Dra. Carol Peters-Tanksley
-- [Batalha espiritual para vencer o medo e a ansiedade](EPUB/Carol%20Peters-Tanksley/Batalha%20espiritual%20para%20vencer%20o%20medo%20e%20a%20ansiedade.epub) — Carol Peters-Tanksley
 - [Bonecos de Teste de Impacto PT-BR](Kindle/AZW3/Talbot%20Davis/Bonecos%20de%20Teste%20de%20Impacto%20PT-BR.azw3) — Talbot Davis
 - [Box Em Busca da Virtude e da Fe Marco Aurelio, Cicero, Epiteto](Kindle/AZW3/Marco%20Aurélio_%20Cícero_%20Epiteto_%20Sêneca/Box%20Em%20Busca%20da%20Virtude%20e%20da%20Fe%20Marco%20Aurelio,%20Cicero,%20Epiteto.azw3) — Marco Aurélio| Cícero| Epiteto| Sêneca
 - [Café com eficiência - Chuck Martin](Kindle/AZW3/Chuck%20Martin/Café%20com%20eficiência%20-%20Chuck%20Martin.azw3) — Chuck Martin
 - [Caminhando com Deus em meio à dor e ao sofrimento](Kindle/AZW/Timothy%20Keller/Caminhando%20com%20Deus%20em%20meio%20à%20dor%20e%20ao%20sofrimento.azw) — Timothy Keller
 - [Caminhando com Deus em meio à dor e ao sofrimento Timothy Keller](Kindle/AZW3/Timothy%20Keller/Caminhando%20com%20Deus%20em%20meio%20à%20dor%20e%20ao%20sofrimento%20Timothy%20Keller.azw3) — Timothy Keller
+- [Catecismo Nova Cidade_ A verdad](Kindle/KFX/Timothy%20Keller/Catecismo%20Nova%20Cidade_%20A%20verdad.kfx) — Timothy Keller
 - [Celebrando Jesus nas Festas Bíblicas — Descubra a Importância Dessas Festas na Vida Cristã - Dr. Richard Booker](Kindle/AZW3/Dr.%20Richard%20Booker/Celebrando%20Jesus%20nas%20Festas%20Bíblicas%20—%20Descubra%20a%20Importância%20Dessas%20Festas%20na%20Vida%20Cristã%20-%20Dr.%20Ric.azw3) — Dr. Richard Booker
+- [Classicos selecionados](Kindle/KFX/C.%20S.%20Lewis/Classicos%20selecionados.kfx) — C. S. Lewis
 - [Coisas Maiores: Sonhe grande, comece pequeno; agende a visão de Deus para sua vida](EPUB/Steven%20Furtick/Coisas%20Maiores_%20Sonhe%20grande,%20comece%20pequeno;%20agende%20a%20visão%20de%20Deus%20para%20sua%20vida.epub) — Steven Furtick
+- [Coma este livro (Eugene H. Peterson)](Kindle/AZW3/Eugene%20H.%20Peterson/Coma%20este%20livro%20(Eugene%20H.%20Peterson).azw3) — Eugene H. Peterson
 - [Comer Para A Glória De Deus Larissa Ferraro](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Comer%20Para%20A%20Glória%20De%20Deus%20Larissa%20Ferraro.azw3) — FELIPE IVO PEREIRA
 - [Como acolher seu lado sombra - Kelly Bramblett](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Como%20acolher%20seu%20lado%20sombra%20-%20Kelly%20Bramblett.azw3) — FELIPE IVO PEREIRA
-- [Como Deus se tornou rei](Kindle/AZW3/N.T.%20Wright/Como%20Deus%20se%20tornou%20rei.azw3) — N.T. Wright
 - [Como Integrar Fé e Trabalho Katherine Leary Alsdorf, Timothy Keller](Kindle/AZW3/Timothy%20Keller%20e%20Katherine%20Leary%20Alsdorf/Como%20Integrar%20Fé%20e%20Trabalho%20Katherine%20Leary%20Alsdorf,%20Timothy%20Keller.azw3) — Timothy Keller e Katherine Leary Alsdorf
-- [Como integrar fé e trabalho](Kindle/KFX/Timothy%20Keller/Como%20integrar%20fé%20e%20trabalho.kfx) — Timothy Keller; Katherine Leary Alsdorf
 - [Como se tornar um cristão inútil – Do mesmo autor de O Deus que](Kindle/AZW3/Rodrigo%20Bibo/Como%20se%20tornar%20um%20cristão%20inútil%20–%20Do%20mesmo%20autor%20de%20O%20Deus%20que.azw3) — Rodrigo Bibo
 - [Como se tornar um líder servo](Kindle/AZW3/Josué%20Campanhã/Como%20se%20tornar%20um%20líder%20servo.azw3) — Josué Campanhã
 - [Como ser cristao](Kindle/KFX/Lewis_%20C.S/Como%20ser%20cristao.kfx) — Lewis| C.S
 - [Como ser cristao - Lewis, C.S](Kindle/AZW3/C.S.%20Lewis/Como%20ser%20cristao%20-%20Lewis,%20C.S.azw3) — C.S. Lewis
+- [Como ser dirigido pelo Espirito](Kindle/KFX/Kenneth%20E%20Hagin/Como%20ser%20dirigido%20pelo%20Espirito.kfx) — Kenneth E Hagin
+- [Como viver melhor em tempos turbulentos](Kindle/AZW3/James%20Allen/Como%20viver%20melhor%20em%20tempos%20turbulentos.azw3) — James Allen
 - [comunhao-com-deus-o-que-é-CHM](Kindle/AZW3/C.%20H.%20Mackintosh/comunhao-com-deus-o-que-é-CHM.azw3) — C. H. Mackintosh
 - [Conectando Almas: Sua maior conexão tem que ser com Deus, seu maior relacionamento tem que ser com Jesus - Sample](EPUB/Avelar_%20Bruno/Conectando%20Almas_%20Sua%20maior%20conexão%20tem%20que%20ser%20com%20Deus,%20seu%20maior%20relacionamento%20tem%20que%20ser%20com%20J.epub) — Avelar| Bruno
 - [Conecte-se à Família de Deus (Vivendo em Vitória) - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Conecte-se%20à%20Família%20de%20Deus%20(Vivendo%20em%20Vitória)%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
@@ -1841,14 +1790,18 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Coracao selvagem - John Eldredge](Kindle/AZW3/John%20Eldredge/Coracao%20selvagem%20-%20John%20Eldredge.azw3) — John Eldredge
 - [Coração selvagem: descobrindo o segredo da alma de um homem](EPUB/John%20Eldredge/Coração%20selvagem_%20descobrindo%20o%20segredo%20da%20alma%20de%20um%20homem.epub) — John Eldredge
 - [Corra para ser feliz - Bella Mackie](Kindle/AZW3/Bella%20Mackie/Corra%20para%20ser%20feliz%20-%20Bella%20Mackie.azw3) — Bella Mackie
+- [Crer e também pensar](Kindle/KFX/John%20Stott/Crer%20e%20também%20pensar.kfx) — John Stott
 - [Cristo, A Sabedoria de Deus para o Caminho do Crente H E Hayhoe](Kindle/AZW3/H.%20E.%20Hayhoe/Cristo,%20A%20Sabedoria%20de%20Deus%20para%20o%20Caminho%20do%20Crente%20H%20E%20Hayhoe.azw3) — H. E. Hayhoe
 - [Cristo, sabedoria de Deus](Kindle/KFX/H.%20E.%20Hayhoe/Cristo,%20sabedoria%20de%20Deus.kfx) — H. E. Hayhoe
 - [cristo-sabedoria-de-deus-h-e-hayhoe](Kindle/AZW3/H.%20E.%20Hayhoe/cristo-sabedoria-de-deus-h-e-hayhoe.azw3) — H. E. Hayhoe
 - [Cristo: a sabedoria de Deus para o caminho do crente](Kindle/KFX/H.%20E.%20Hayhoe/Cristo_%20a%20sabedoria%20de%20Deus%20para%20o%20caminho%20do%20crente.kfx) — H. E. Hayhoe
 - [Cristãos sem vergonha](Kindle/AZW3/Yago%20Martins/Cristãos%20sem%20vergonha.azw3) — Yago Martins
-- [Cultivando um Coração de Virtudes - Vigen Guroian](Kindle/AZW3/Vigen%20Guroian/Cultivando%20um%20Coração%20de%20Virtudes%20-%20Vigen%20Guroian.azw3) — Vigen Guroian
+- [Cuide do Seu Corpo (Vivendo em Vitória) - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Cuide%20do%20Seu%20Corpo%20(Vivendo%20em%20Vitória)%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
+- [De Volta à Essência](Kindle/AZW3/Jeremy%20Riddle/De%20Volta%20à%20Essência.azw3) — Jeremy Riddle
 - [De5Graca](Kindle/AZW3/Joseph%20Mercola/De5Graca.azw3) — Joseph Mercola
+- [Decidir machuca, não decidir mata!](Kindle/AZW3/Diego%20Menin/Decidir%20machuca,%20não%20decidir%20mata!.azw3) — Diego Menin
 - [Dedique Tempo Diário a Deus (Vivendo em Vitória) - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Dedique%20Tempo%20Diário%20a%20Deus%20(Vivendo%20em%20Vitória)%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
+- [Deixe ir, não insista - Diego Menin](Kindle/AZW3/Diego%20Menin/Deixe%20ir,%20não%20insista%20-%20Diego%20Menin.azw3) — Diego Menin
 - [Deus Ainda Está Escrevendo A Sua História](Kindle/AZW3/Bob%20Sorge/Deus%20Ainda%20Está%20Escrevendo%20A%20Sua%20História.azw3) — Bob Sorge
 - [Deus de promessas](Kindle/KFX/Marcelo%20Aguiar/Deus%20de%20promessas.kfx) — Marcelo Aguiar
 - [Deus de promessas - Marcelo Aguiar](Kindle/AZW3/Marcelo%20Aguiar/Deus%20de%20promessas%20-%20Marcelo%20Aguiar.azw3) — Marcelo Aguiar
@@ -1860,28 +1813,43 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Devocional Mulheres 365 Dias Viviane Martinello Viviane Martinello](Kindle/AZW3/Viviane%20Martinello/Devocional%20Mulheres%20365%20Dias%20Viviane%20Martinello%20Viviane%20Martinello.azw3) — Viviane Martinello
 - [Devocional Mulheres: 365 dias](Kindle/KFX/Viviane%20Martinello/Devocional%20Mulheres_%20365%20dias.kfx) — Viviane Martinello
 - [Devocional Propósitos](Kindle/KFX/Rick%20Warren/Devocional%20Propósitos.kfx) — Rick Warren
+- [Dia a dia com](Kindle/KFX/Billy%20Graham/Dia%20a%20dia%20com.kfx) — Billy Graham
+- [Direção Divina](Kindle/AZW3/Craig%20Groeschel/Direção%20Divina.azw3) — Craig Groeschel
 - [Diálogos com Jesus - Zé Bruno](Kindle/AZW3/Zé%20Bruno/Diálogos%20com%20Jesus%20-%20Zé%20Bruno.azw3) — Zé Bruno
+- [Dominando a Técnica dos Mapas Mentais](Kindle/AZW3/Tony%20Buzan/Dominando%20a%20Técnica%20dos%20Mapas%20Mentais.azw3) — Tony Buzan
+- [Dragon Ball - Volume 06](Kindle/AZW3/Akira%20Toriyama/Dragon%20Ball%20-%20Volume%2006.azw3) — Akira Toriyama
 - [Elástico](Kindle/AZW/Leonard%20Mlodinow/Elástico.azw) — Leonard Mlodinow
+- [Engenharia de Prompt para Devs](Kindle/KFX/Ricardo%20Larguesa/Engenharia%20de%20Prompt%20para%20Devs.kfx) — Ricardo Larguesa
 - [Entendendo os dons espirituais Sam Storms](Kindle/AZW3/Sam%20Storms/Entendendo%20os%20dons%20espirituais%20Sam%20Storms.azw3) — Sam Storms
 - [Escola dos Deuses: Formação dos Líderes da Nova Economia](Kindle/AZW3/Stefano%20Elio%20D’Anna/Escola%20dos%20Deuses_%20Formação%20dos%20Líderes%20da%20Nova%20Economia.azw3) — Stefano Elio D’Anna
 - [Escudo de Oração](EPUB/C.%20Peter%20Wagner/Escudo%20de%20Oração.epub) — C. Peter Wagner
 - [Escudo de Oração - C. Peter Wagner - PTBR-final](Kindle/AZW3/C.%20Peter%20Wagner/Escudo%20de%20Oração%20-%20C.%20Peter%20Wagner%20-%20PTBR-final.azw3) — C. Peter Wagner
+- [Esperança em tempos de medo](Kindle/KFX/Timothy%20Keller/Esperança%20em%20tempos%20de%20medo.kfx) — Timothy Keller
+- [Esperança Em Tempos de Medo Timothy Keller](Kindle/AZW3/Timothy%20Keller/Esperança%20Em%20Tempos%20de%20Medo%20Timothy%20Keller.azw3) — Timothy Keller
 - [Eu, meu pavio curto e Deus](Kindle/KFX/Chris%20Fabry/Eu,%20meu%20pavio%20curto%20e%20Deus.kfx) — Chris Fabry
 - [Eu, meu pavio curto e Deus nodrm](Kindle/AZW3/Lisa%20Bevere/Eu,%20meu%20pavio%20curto%20e%20Deus%20nodrm.azw3) — Lisa Bevere
 - [Experimentando as profundezas de Jesus Cristo por meio da oração](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Experimentando%20as%20profundezas%20de%20Jesus%20Cristo%20por%20meio%20da%20oração.azw3) — FELIPE IVO PEREIRA
 - [Experimente o Amor de Deus (Vivendo em Vitória) - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Experimente%20o%20Amor%20de%20Deus%20(Vivendo%20em%20Vitória)%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
 - [Face a Face com Jesus](EPUB/Filipe%20Ivo%20Pereira/Face%20a%20Face%20com%20Jesus.epub) — Filipe Ivo Pereira
+- [Fazendo o melhor depois de decisões erradas](EPUB/Erwin%20Lutzer/Fazendo%20o%20melhor%20depois%20de%20decisões%20erradas.epub) — Erwin Lutzer
 - [Formando um homem de Deus: lições da vida de Davi](EPUB/Alan%20Redpath/Formando%20um%20homem%20de%20Deus_%20lições%20da%20vida%20de%20Davi.epub) — Alan Redpath
+- [Frases poderosas para lidar com pessoas difíceis](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Frases%20poderosas%20para%20lidar%20com%20pessoas%20difíceis.azw3) — FELIPE IVO PEREIRA
 - [Fé cidadã](Kindle/AZW3/Carlos%20Bezerra%20Jr/Fé%20cidadã.azw3) — Carlos Bezerra Jr.
 - [Fé e Confissão](Kindle/AZW3/Charles%20Capps/Fé%20e%20Confissão.azw3) — Charles Capps
 - [Ganhe o mundo sem perder a alma](Kindle/AZW3/Tiago%20Brunet/Ganhe%20o%20mundo%20sem%20perder%20a%20alma.azw3) — Tiago Brunet
 - [Garota gay, bom Deus](Kindle/AZW3/Jackie%20Hill%20Perry/Garota%20gay,%20bom%20Deus.azw3) — Jackie Hill Perry
 - [Gospel Centered Youth Ministry A Practical Guide The Cameron Cole](Kindle/AZW3/Cameron%20Cole/Gospel%20Centered%20Youth%20Ministry%20A%20Practical%20Guide%20The%20Cameron%20Cole.azw3) — Cameron Cole
 - [Graça transformadora](Kindle/KFX/Luciano%20Subirá/Graça%20transformadora.kfx) — Luciano Subirá
+- [Guerrilla Evangelism: 23 FREE Things You Can Do Right Now to Get People into YOUR CHURCH! (Guerrilla Church Operational Strategies Book 3)](EPUB/Spry_%20Phil/Guerrilla%20Evangelism_%2023%20FREE%20Things%20You%20Can%20Do%20Right%20Now%20to%20Get%20People%20into%20YOUR%20CHURCH!%20(Guerrilla.epub) — Spry| Phil
+- [Hebreus para todos](Kindle/AZW3/N.T.%20Wright/Hebreus%20para%20todos.azw3) — N.T. Wright
 - [Heróis da Fé](Kindle/KFX/Orlando%20Boyer/Heróis%20da%20Fé.kfx) — Orlando Boyer
+- [Hoje é um bom dia para viver milagres - Sample](EPUB/Fernandes_%20André/Hoje%20é%20um%20bom%20dia%20para%20viver%20milagres%20-%20Sample.epub) — Fernandes| André
+- [Homem algum é uma ilha](Kindle/KFX/Thomas%20Merton/Homem%20algum%20é%20uma%20ilha.kfx) — Thomas Merton
+- [Homem algum é uma ilha (Thomas Merton)](Kindle/AZW3/Thomas%20Merton/Homem%20algum%20é%20uma%20ilha%20(Thomas%20Merton).azw3) — Thomas Merton
 - [Homens mais parecidos com Jesus](Kindle/AZW3/David%20Merkh/Homens%20mais%20parecidos%20com%20Jesus.azw3) — David Merkh
 - [Homo Deus](Kindle/AZW3/Yuval%20Noah%20Harari/Homo%20Deus.azw3) — Yuval Noah Harari
 - [Idolatria Política como governos se tornam deuses](Kindle/AZW3/Yago%20Martins/Idolatria%20Política%20como%20governos%20se%20tornam%20deuses.azw3) — Yago Martins
+- [Imitação De Cristo](Kindle/AZW3/Tomás%20de%20Kempis/Imitação%20De%20Cristo.azw3) — Tomás de Kempis
 - [Imperfeitos](Kindle/KFX/Cecelia%20Ahern/Imperfeitos.kfx) — Cecelia Ahern
 - [Integrando Psicologia e Fé](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Integrando%20Psicologia%20e%20Fé.azw3) — FELIPE IVO PEREIRA
 - [Integrando psicologia e fé: modelos para um engajamento cristão](Kindle/KFX/Paul%20Moes/Integrando%20psicologia%20e%20fé_%20modelos%20para%20um%20engajamento%20cristão.kfx) — Paul Moes; Blake Riek
@@ -1995,12 +1963,10 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Viva — Experimente a Vida de Cristo - Joel Comiskey](Kindle/AZW3/Joel%20Comiskey/Viva%20—%20Experimente%20a%20Vida%20de%20Cristo%20-%20Joel%20Comiskey.azw3) — Joel Comiskey
 - [Você Vai Sair Dessa - Max Lucado.epub](Kindle/AZW3/Max%20Lucado/Você%20Vai%20Sair%20Dessa%20-%20Max%20Lucado.epub.azw3) — Max Lucado
 
-## Saúde e bem-estar · Nutrição e exercício (10)
+## Saúde e bem-estar · Nutrição e exercício (8)
 
-- [A crise do conforto - Michael Easter](Kindle/AZW3/Michael%20Easter/A%20crise%20do%20conforto%20-%20Michael%20Easter.azw3) — Michael Easter
 - [A dieta Smartfood: os 30 alimentos que estimulam a longevidade](EPUB/Eliana%20Liotta/A%20dieta%20Smartfood_%20os%2030%20alimentos%20que%20estimulam%20a%20longevidade.epub) — Eliana Liotta; Pier Giuseppe Pelicci; Lucilla Titta
 - [Acredite, estou mentindo](Kindle/KFX/Ryan%20Holiday/Acredite,%20estou%20mentindo.kfx) — Ryan Holiday
-- [Alimento para o cerebro](Kindle/AZW3/Max%20Lugavere_%20Paul%20Grewal/Alimento%20para%20o%20cerebro.azw3) — Max Lugavere| Paul Grewal
 - [Dieta Anti-inflamatória Estratégica](Kindle/AZW3/Alexandre%20Campos%20Moraes%20Amato/Dieta%20Anti-inflamatória%20Estratégica.azw3) — Alexandre Campos Moraes Amato
 - [Dieta cetogênica](Kindle/AZW3/Caio%20Fleury/Dieta%20cetogênica.azw3) — Caio Fleury
 - [Dieta Keto Para Leigos - Vicky Abrams](Kindle/AZW3/Vicky%20Abrams/Dieta%20Keto%20Para%20Leigos%20-%20Vicky%20Abrams.azw3) — Vicky Abrams
@@ -2008,11 +1974,13 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Em defesa da dieta cetogênica Gary Taubes](Kindle/AZW3/Gary%20Taubes/Em%20defesa%20da%20dieta%20cetogênica%20Gary%20Taubes.azw3) — Gary Taubes
 - [Musculação](Kindle/AZW3/Marçal%20Guerreiro%20do%20Amaral%20Campos%20Filho/Musculação.azw3) — Marçal Guerreiro do Amaral Campos Filho
 
-## Saúde e bem-estar · Saúde física e medicina (9)
+## Saúde e bem-estar · Saúde física e medicina (11)
 
-- [12 horas de sono com 12 semanas de vida: um método prático e natural para seu bebê dormir a noite toda](Kindle/AZW3/Suzy%20Giordano/12%20horas%20de%20sono%20com%2012%20semanas%20de%20vida_%20um%20método%20prático%20e%20natural%20para%20seu%20bebê%20dormir%20a%20noite%20to.azw3) — Suzy Giordano; Lisa Abidin
+- [A energia da vida](Kindle/AZW3/Tony%20Robbins_%20Peter%20Diamandis/A%20energia%20da%20vida.azw3) — Tony Robbins| Peter Diamandis.
+- [A Morte é um Dia Que Vale a Pena Viver Ana Cláudia Arantes](Kindle/AZW3/Ana%20Cláudia%20Arantes/A%20Morte%20é%20um%20Dia%20Que%20Vale%20a%20Pena%20Viver%20Ana%20Cláudia%20Arantes.azw3) — Ana Cláudia Arantes
 - [Combustivel para a Saude](Kindle/AZW3/Joseph%20Mercola/Combustivel%20para%20a%20Saude.azw3) — Joseph Mercola
-- [Como Desenvolver Saude Emocional](Kindle/KFX/Oliver%20James/Como%20Desenvolver%20Saude%20Emocional.kfx) — Oliver James
+- [Como colocar limites Melissa Urban](Kindle/AZW3/Melissa%20Urban/Como%20colocar%20limites%20Melissa%20Urban.azw3) — Melissa Urban
+- [Cura sem esforço](Kindle/KFX/Joseph%20Mercola/Cura%20sem%20esforço.kfx) — Joseph Mercola
 - [Fábrica de Campeões](Kindle/AZW/José%20Rubens%20D'Elia/Fábrica%20de%20Campeões.azw) — José Rubens D'Elia
 - [Mais Fatos e Mitos sobre a sua Saúde](Kindle/AZW/Dr.%20Fernando%20Lucchese/Mais%20Fatos%20e%20Mitos%20sobre%20a%20sua%20Saúde.azw) — Dr. Fernando Lucchese
 - [Medico de homens e de almas](Kindle/KFX/Taylor%20Caldwell/Medico%20de%20homens%20e%20de%20almas.kfx) — Taylor Caldwell
@@ -2020,13 +1988,18 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Mude seus horários, mude sua vida: Como usar o relógio biológico para perder peso, reduzir o estresse, dormir melhor e ter mais saúde e energia](Kindle/AZW/Suhas%20Kshirsagar/Mude%20seus%20horários,%20mude%20sua%20vida_%20Como%20usar%20o%20relógio%20biológico%20para%20perder%20peso,%20reduzir%20o%20estress.azw) — Suhas Kshirsagar
 - [O paradoxo dos vegetais - Steven R. Gundry](Kindle/AZW3/Steven%20R.%20Gundry/O%20paradoxo%20dos%20vegetais%20-%20Steven%20R.%20Gundry.azw3) — Steven R. Gundry
 
-## Saúde e bem-estar · Saúde mental e emoções (59)
+## Saúde e bem-estar · Saúde mental e emoções (76)
 
+- [100 maneiras de vencer](Kindle/KFX/Nigel%20Cumberland/100%20maneiras%20de%20vencer.kfx) — Nigel Cumberland
+- [7 maneiras de ser feliz](Kindle/KFX/Luc%20Ferry/7%20maneiras%20de%20ser%20feliz.kfx) — Luc Ferry
+- [A crise do conforto](Kindle/AZW3/Michael%20Easter/A%20crise%20do%20conforto.azw3) — Michael Easter
 - [A emoção na sala de aula](Kindle/AZW3/Unknown/A%20emoção%20na%20sala%20de%20aula.azw3) — Unknown
 - [A Era da Loucura - Como o mundo moderno tornou a felicidade uma meta (quase) impossível](Kindle/AZW/Michael%20Foley/A%20Era%20da%20Loucura%20-%20Como%20o%20mundo%20moderno%20tornou%20a%20felicidade%20uma%20meta%20(quase)%20impossível.azw) — Michael Foley
 - [A felicidade é inútil Clóvis De Barros Filho](Kindle/AZW3/Clóvis%20de%20Barros%20Filho/A%20felicidade%20é%20inútil%20Clóvis%20De%20Barros%20Filho.azw3) — Clóvis de Barros Filho
+- [A geracao ansiosa](Kindle/KFX/Jonathan%20Haidt/A%20geracao%20ansiosa.kfx) — Jonathan Haidt
 - [A hipotese da felicidade](Kindle/KFX/Johnatan%20Haidt/A%20hipotese%20da%20felicidade.kfx) — Johnatan Haidt
 - [A hipotese da felicidade - Johnatan Haidt](Kindle/AZW3/Johnatan%20Haidt/A%20hipotese%20da%20felicidade%20-%20Johnatan%20Haidt.azw3) — Johnatan Haidt
+- [A mente vencendo o humor: mude como você se sente, mudando o modo como você pensa](Kindle/KFX/Dennis%20Greenberger/A%20mente%20vencendo%20o%20humor_%20mude%20como%20você%20se%20sente,%20mudando%20o%20modo%20como%20você%20pensa.kfx) — Dennis Greenberger; Christine A. Padesky
 - [A nova ciencia do narcisismo C W Keith Campbell, Carolyn Cris](Kindle/AZW3/W.%20Keith%20Campbell_%20Carolyn%20Crist/A%20nova%20ciencia%20do%20narcisismo%20C%20W%20Keith%20Campbell,%20Carolyn%20Cris.azw3) — W. Keith Campbell| Carolyn Crist
 - [A psicologia da estupidez](Kindle/KFX/Jean-François%20Marmion/A%20psicologia%20da%20estupidez.kfx) — Jean-François Marmion
 - [A psicologia da estupidez - Jean-François Marmion.](Kindle/AZW3/Jean-François%20Marmion/A%20psicologia%20da%20estupidez%20-%20Jean-François%20Marmion.azw3) — Jean-François Marmion
@@ -2035,23 +2008,35 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Atenção plena (Mindfulness): Como encontrar a paz em um mundo frenético](Kindle/AZW/Mark%20Williams/Atenção%20plena%20(Mindfulness)_%20Como%20encontrar%20a%20paz%20em%20um%20mundo%20frenético.azw) — Mark Williams; Danny Penman
 - [Atitude mental positiva](Kindle/KFX/Napoleon%20Hill/Atitude%20mental%20positiva.kfx) — Napoleon Hill
 - [Atitude mental positiva - Napoleon Hill](Kindle/AZW3/Napoleon%20Hill/Atitude%20mental%20positiva%20-%20Napoleon%20Hill.azw3) — Napoleon Hill
+- [Batalha espiritual para vencer o medo e a ansiedade](EPUB/Carol%20Peters-Tanksley/Batalha%20espiritual%20para%20vencer%20o%20medo%20e%20a%20ansiedade.epub) — Carol Peters-Tanksley
 - [Cabeca de Campeao Como a Psicologia Form](Kindle/AZW3/Unknown/Cabeca%20de%20Campeao%20Como%20a%20Psicologia%20Form.azw3) — Unknown
 - [Cabeça de campeão: como a psicologia forma vencedores no esporte e na vida](Kindle/KFX/François%20Ducasse/Cabeça%20de%20campeão_%20como%20a%20psicologia%20forma%20vencedores%20no%20esporte%20e%20na%20vida.kfx) — François Ducasse; Makis Chamalidis
+- [Como Decifrar Mentes](Kindle/KFX/David%20J.%20Lieberman/Como%20Decifrar%20Mentes.kfx) — David J. Lieberman
+- [Como Desenvolver Saude Emocional](Kindle/KFX/Oliver%20James/Como%20Desenvolver%20Saude%20Emocional.kfx) — Oliver James
 - [Como Desenvolver Saúde Emocional - Oliver James (1)](Kindle/AZW3/Oliver%20James/Como%20Desenvolver%20Saúde%20Emocional%20-%20Oliver%20James%20(1).azw3) — Oliver James
 - [Como fazer com que coisas boas aconteçam: entenda seu cérebro, gerencie suas emoções, melhore sua vida](Kindle/KFX/Marian%20Rojas%20Estapé/Como%20fazer%20com%20que%20coisas%20boas%20aconteçam_%20entenda%20seu%20cérebro,%20gerencie%20suas%20emoções,%20melhore%20sua%20vi.kfx) — Marian Rojas Estapé
+- [Como Fazer Jogos De Tabuleiro Manual Prático](Kindle/AZW3/Marcelo%20La%20Carretta/Como%20Fazer%20Jogos%20De%20Tabuleiro%20Manual%20Prático.azw3) — Marcelo La Carretta
 - [Como fortalecer sua autoestima](Kindle/KFX/Stefanie%20Stahl/Como%20fortalecer%20sua%20autoestima.kfx) — Stefanie Stahl
+- [Como ser seu próprio terapeuta](Kindle/KFX/Owen%20O’Kane/Como%20ser%20seu%20próprio%20terapeuta.kfx) — Owen O’Kane
+- [Como ter um dia ideal - Caroline Webb](Kindle/AZW3/Caroline%20Webb/Como%20ter%20um%20dia%20ideal%20-%20Caroline%20Webb.azw3) — Caroline Webb
+- [Construa a vida que você quer](Kindle/KFX/Arthur%20C.%20Brooks/Construa%20a%20vida%20que%20você%20quer.kfx) — Arthur C. Brooks; Oprah Winfrey
+- [Deixa estar - Mel Robbins](Kindle/AZW3/Mel%20Robbins/Deixa%20estar%20-%20Mel%20Robbins.azw3) — Mel Robbins
+- [Desconstruindo o hábito da fome (Judson Brewer)](Kindle/AZW3/Judson%20Brewer/Desconstruindo%20o%20hábito%20da%20fome%20(Judson%20Brewer).azw3) — Judson Brewer
 - [Descubra o seu destino](Kindle/AZW/Tiago%20Brunet/Descubra%20o%20seu%20destino.azw) — Tiago Brunet
 - [Disciplina mental](Kindle/KFX/Alan%20Eagle/Disciplina%20mental.kfx) — Alan Eagle; Eric Potterat
 - [Disciplina mental Alan Eagle Eric Potterat](Kindle/AZW3/Alan%20Eagle/Disciplina%20mental%20Alan%20Eagle%20Eric%20Potterat.azw3) — Alan Eagle
 - [DNA revelado das emocoes](Kindle/KFX/Elainne%20Ourives/DNA%20revelado%20das%20emocoes.kfx) — Elainne Ourives
 - [DNA revelado das emoções - Elainne Ourives](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/DNA%20revelado%20das%20emoções%20-%20Elainne%20Ourives.azw3) — FELIPE IVO PEREIRA
-- [Estoicismo e a arte da felicidade](Kindle/KFX/Robertson_%20Donald/Estoicismo%20e%20a%20arte%20da%20felicidade.kfx) — Robertson| Donald
+- [Em Busca de Sentido](Kindle/AZW3/Viktor%20Frankl/Em%20Busca%20de%20Sentido.azw3) — Viktor Frankl
+- [Entorpecidos - Corey Keyes](Kindle/AZW3/Corey%20Keyes/Entorpecidos%20-%20Corey%20Keyes.azw3) — Corey Keyes
 - [Estoicismo e a arte da felicidade - Robertson, Donald](Kindle/AZW3/Donald%20Robertson/Estoicismo%20e%20a%20arte%20da%20felicidade%20-%20Robertson,%20Donald.azw3) — Donald Robertson
-- [Força mental (10 leituras essenciais - HBR)](Kindle/AZW3/Harvard%20Business%20Review/Força%20mental%20(10%20leituras%20essenciais%20-%20HBR).azw3) — Harvard Business Review
-- [Força mental (10 leituras essenciais)](Kindle/KFX/Harvard%20Business%20Review/Força%20mental%20(10%20leituras%20essenciais).kfx) — Harvard Business Review
+- [Final da Tempestade - Deive Leonardo](Kindle/AZW3/Deive%20Leonardo/Final%20da%20Tempestade%20-%20Deive%20Leonardo.azw3) — Deive Leonardo
+- [Freud explica, eu traduzo psicanálise prática para transformar o](Kindle/AZW3/Andréa%20Vermont/Freud%20explica,%20eu%20traduzo%20psicanálise%20prática%20para%20transformar%20o.azw3) — Andréa Vermont
 - [Gene da juventude Elainne Ourives](Kindle/AZW3/Elainne%20Ourives/Gene%20da%20juventude%20Elainne%20Ourives.azw3) — Elainne Ourives
+- [Inteligencia emocional e lideranca](Kindle/AZW3/Daniel%20Goleman/Inteligencia%20emocional%20e%20lideranca.azw3) — Daniel Goleman
 - [Inteligência emocional (10 leituras essenciais - HBR)](Kindle/AZW3/Harvard%20Business%20Review/Inteligência%20emocional%20(10%20leituras%20essenciais%20-%20HBR).azw3) — Harvard Business Review
 - [Inteligência emocional (10 leituras essenciais)](Kindle/KFX/Harvard%20Business%20Review/Inteligência%20emocional%20(10%20leituras%20essenciais).kfx) — Harvard Business Review
+- [Irresistivel](Kindle/KFX/Adam%20Alter/Irresistivel.kfx) — Adam Alter
 - [Margem Restaurando as reservas emocionais, físicas Richard Swenson](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Margem%20Restaurando%20as%20reservas%20emocionais,%20físicas%20Richard%20Swenson.azw3) — FELIPE IVO PEREIRA
 - [Mentes felizes](Kindle/AZW/Teresa%20Aubele/Mentes%20felizes.azw) — Teresa Aubele; Stan Wenck; Susan Reynolds
 - [Mindfulness Para Leigos](Kindle/KFX/Shamash%20Alidina/Mindfulness%20Para%20Leigos.kfx) — Shamash Alidina
@@ -2082,11 +2067,10 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Você pode realizar seus próprios milagres](Kindle/KFX/Napoleon%20Hill/Você%20pode%20realizar%20seus%20próprios%20milagres.kfx) — Napoleon Hill
 - [Você é Ansioso - Luiz Felipe Pondé](Kindle/AZW3/Luiz%20Felipe%20Pondé/Você%20é%20Ansioso%20-%20Luiz%20Felipe%20Pondé.azw3) — Luiz Felipe Pondé
 
-## Tecnologia e computação · Inteligência artificial e dados (39)
+## Tecnologia e computação · Inteligência artificial e dados (37)
 
-- [A arte da estatistica](Kindle/KFX/David%20Spiegelhalter/A%20arte%20da%20estatistica.kfx) — David Spiegelhalter
-- [A arte da estatistica - David Spiegelhalter](Kindle/AZW3/David%20Spiegelhalter/A%20arte%20da%20estatistica%20-%20David%20Spiegelhalter.azw3) — David Spiegelhalter
 - [A Inteligência Artificial irá suplantar](Kindle/KFX/Dora%20Kaufman/A%20Inteligência%20Artificial%20irá%20suplantar.kfx) — Dora Kaufman
+- [A próxima onda](Kindle/AZW3/Mustafa%20Suleyman_%20Michael%20Bhaskar/A%20próxima%20onda.azw3) — Mustafa Suleyman| Michael Bhaskar
 - [A Singularidade está próxima Ray Kurweil](Kindle/AZW3/Ray%20Kurzweil/A%20Singularidade%20está%20próxima%20Ray%20Kurweil.azw3) — Ray Kurzweil
 - [Charles Wheelan Estatistica](Kindle/AZW3/Unknown/Charles%20Wheelan%20Estatistica.azw3) — Unknown
 - [Como Mentir com Estatisticas](Kindle/KFX/Darrell%20Huff/Como%20Mentir%20com%20Estatisticas.kfx) — Darrell Huff
@@ -2094,16 +2078,15 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Data Science do zero](Kindle/AZW3/Joel%20Grus/Data%20Science%20do%20zero.azw3) — Joel Grus
 - [Data Science do Zero - Joel Grus (1)](Kindle/AZW3/Joel%20Grus/Data%20Science%20do%20Zero%20-%20Joel%20Grus%20(1).azw3) — Joel Grus
 - [Data Science Para Leigos](Kindle/AZW3/Lillian%20Pierson/Data%20Science%20Para%20Leigos.azw3) — Lillian Pierson
-- [Data Science para negócios](Kindle/KFX/Tom%20Fawcett/Data%20Science%20para%20negócios.kfx) — Tom Fawcett; Foster Provost
 - [Data Science para Negócios by Tom Fawcett Foster Provost (1)](Kindle/AZW3/Tom%20Fawcett/Data%20Science%20para%20Negócios%20by%20Tom%20Fawcett%20Foster%20Provost%20(1).azw3) — Tom Fawcett
 - [Desmistificando a inteligência artificial](Kindle/KFX/Dora%20Kaufman/Desmistificando%20a%20inteligência%20artificial.kfx) — Dora Kaufman
 - [Desmistificando a inteligência artificial - Dora Kaufman (1)](Kindle/AZW3/Dora%20Kaufman/Desmistificando%20a%20inteligência%20artificial%20-%20Dora%20Kaufman%20(1).azw3) — Dora Kaufman
-- [Direito E Inteligência Artificial O Que Os Algoritmos Têm A Ensinar](Kindle/AZW3/Hugo%20de%20Brito%20Machado/Direito%20E%20Inteligência%20Artificial%20O%20Que%20Os%20Algoritmos%20Têm%20A%20Ensinar.azw3) — Hugo de Brito Machado
 - [Engenharia de software para Ciência de Dados](Kindle/AZW3/Marcos%20Kalinowski/Engenharia%20de%20software%20para%20Ciência%20de%20Dados.azw3) — Marcos Kalinowski; Tatiana Escovedo; Hugo Villamizar; Hélio Lopes
 - [Estatística](Kindle/KFX/Charles%20Wheelan/Estatística.kfx) — Charles Wheelan
 - [Estatística Básica 9ª edição](Kindle/AZW3/Pedro%20Alberto%20Morettin/Estatística%20Básica%209ª%20edição.azw3) — Pedro Alberto Morettin
 - [Estatística e Ciência de Dados](Kindle/AZW3/Pedro%20Alberto%20Morettin/Estatística%20e%20Ciência%20de%20Dados.azw3) — Pedro Alberto Morettin; Julio da Motta Singer
 - [Estatística Prática para Cientistas de Dados](Kindle/AZW3/Andrew%20Bruce/Estatística%20Prática%20para%20Cientistas%20de%20Dados.azw3) — Andrew Bruce
+- [Estruturas de Dados](Kindle/AZW3/Thiago%20Leite%20e%20Carvalho/Estruturas%20de%20Dados.azw3) — Thiago Leite e Carvalho
 - [Inteligencia Artificial](Kindle/KFX/Stuart%20Russell%20e%20Peter%20Norvig/Inteligencia%20Artificial.kfx) — Stuart Russell e Peter Norvig
 - [Inteligencia artificial - Kai-Fu Lee](Kindle/AZW3/Kai-Fu%20Lee/Inteligencia%20artificial%20-%20Kai-Fu%20Lee.azw3) — Kai-Fu Lee
 - [Inteligencia Artificial - Stuart Russell e Peter Norvig](Kindle/AZW3/Peter%20Norvig/Inteligencia%20Artificial%20-%20Stuart%20Russell%20e%20Peter%20Norvig.azw3) — Peter Norvig
@@ -2135,8 +2118,8 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Algoritmos para viver: A ciência exata das decisões humanas](Kindle/AZW/Brian%20Christian/Algoritmos%20para%20viver_%20A%20ciência%20exata%20das%20decisões%20humanas.azw) — Brian Christian; Tom Griffiths
 - [Análise exploratória de dados com Python, Pandas e NumPy](Kindle/KFX/Feltrin/Análise%20exploratória%20de%20dados%20com%20Python,%20Pandas%20e%20NumPy.kfx) — Feltrin
 - [Análise Exploratória de Dados com Python, Pandas e Numpy Feltrin](Kindle/AZW3/Fernando%20Feltrin/Análise%20Exploratória%20de%20Dados%20com%20Python,%20Pandas%20e%20Numpy%20Feltrin.azw3) — Fernando Feltrin
-- [Análise Financeira com Python -](Kindle/KFX/Fernando%20Feltrin/Análise%20Financeira%20com%20Python%20-.kfx) — Fernando Feltrin
 - [apostila-html-css-javascript](Kindle/AZW3/Caelum/apostila-html-css-javascript.azw3) — Caelum
+- [Aprendendo Node](Kindle/KFX/Shelley%20Powers/Aprendendo%20Node.kfx) — Shelley Powers
 - [Aprendendo SQL](Kindle/AZW3/Alan%20Beaulieu/Aprendendo%20SQL.azw3) — Alan Beaulieu
 - [Arquitetura Limpa O Guia do Artesão para Estrutura e Design de Software](Kindle/AZW3/Robert%20C.%20Martin/Arquitetura%20Limpa%20O%20Guia%20do%20Artesão%20para%20Estrutura%20e%20Design%20de%20Software.azw3) — Robert C. Martin
 - [Automatize tarefas maçantes com Python: Programação prática para iniciantes](Kindle/KFX/Al%20Sweigart/Automatize%20tarefas%20maçantes%20com%20Python_%20Programação%20prática%20para%20iniciantes.kfx) — Al Sweigart
@@ -2192,8 +2175,10 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Web Scraping com Python - 2ª Edição](Kindle/KFX/Ryan%20Mitchell/Web%20Scraping%20com%20Python%20-%202ª%20Edição.kfx) — Ryan Mitchell
 - [Web Scraping com Python -- Mitchell, Ryan -- 2021 -- Novatec Editora -- 0fa0a47ffdda595a887483faf0570ea3 -- Anna’s Archive](Kindle/AZW3/Ryan%20Mitchell/Web%20Scraping%20com%20Python%20--%20Mitchell,%20Ryan%20--%202021%20--%20Novatec%20Editora%20--%200fa0a47ffdda595a887483faf057.azw3) — Ryan Mitchell
 
-## Tecnologia e computação · UX, produtos e tecnologia (7)
+## Tecnologia e computação · UX, produtos e tecnologia (9)
 
+- [A alegria em ficar de fora](Kindle/AZW3/Andre%20Carvalhal/A%20alegria%20em%20ficar%20de%20fora.azw3) — Andre Carvalhal
+- [Introdução ao GraphQL](Kindle/KFX/Eve%20Porcello/Introdução%20ao%20GraphQL.kfx) — Eve Porcello; Alex Banks
 - [Introdução ao GraphQL -- Porcello, Eve & Banks, Alex.](Kindle/AZW3/Eve%20Porcello/Introdução%20ao%20GraphQL%20--%20Porcello,%20Eve%20&%20Banks,%20Alex.azw3) — Eve Porcello
 - [Leis da Psicologia Aplicadas a UX](Kindle/KFX/Jon%20Yablonski/Leis%20da%20Psicologia%20Aplicadas%20a%20UX.kfx) — Jon Yablonski
 - [Linux eficiente na linha de comando](Kindle/KFX/Daniel%20J.%20Barrett/Linux%20eficiente%20na%20linha%20de%20comando.kfx) — Daniel J. Barrett
