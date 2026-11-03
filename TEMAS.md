@@ -8,13 +8,13 @@ Classificação editorial automática a partir do título, tags e descrição di
 |---|---:|
 | Artes e literatura | 47 |
 | Ciência e natureza | 38 |
-| Educação e desenvolvimento pessoal | 219 |
+| Educação e desenvolvimento pessoal | 220 |
 | Família e relacionamentos | 38 |
 | Humanidades e sociedade | 181 |
-| Negócios e carreira | 384 |
-| Outros | 347 |
+| Negócios e carreira | 387 |
+| Outros | 342 |
 | Referência e idiomas | 21 |
-| Religião e espiritualidade | 608 |
+| Religião e espiritualidade | 609 |
 | Saúde e bem-estar | 97 |
 | Tecnologia e computação | 112 |
 
@@ -115,7 +115,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Outlive A arte e a ciência Peter Attia Bill Gifford](Kindle/AZW3/Peter%20Attia/Outlive%20A%20arte%20e%20a%20ciência%20Peter%20Attia%20Bill%20Gifford.azw3) — Peter Attia
 - [Uma introdução à metafísica](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Uma%20introdução%20à%20metafísica.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Aprendizagem e ensino (52)
+## Educação e desenvolvimento pessoal · Aprendizagem e ensino (53)
 
 - [(TRAD) origens da mitologia A a Z - Annette Giosec](Kindle/AZW3/Annette%20Giesecke/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z%20-%20Annette%20Giosec.azw3) — Annette Giesecke
 - [333 páginas para tirar seu projeto do papel](Kindle/KFX/Daniel%20Larusso/333%20páginas%20para%20tirar%20seu%20projeto%20do%20papel.kfx) — Daniel Larusso; Gabriel Gomes; Luciano Braga
@@ -159,6 +159,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O livro secreto do escritor](Kindle/KFX/Lilian%20Cardoso/O%20livro%20secreto%20do%20escritor.kfx) — Lilian Cardoso
 - [O livro secreto do escritor Lilian Cardoso](Kindle/AZW3/Lilian%20Cardoso/O%20livro%20secreto%20do%20escritor%20Lilian%20Cardoso.azw3) — Lilian Cardoso
 - [O milagre da manhã](Kindle/AZW3/Hal%20Elrod/O%20milagre%20da%20manhã.azw3) — Hal Elrod
+- [O que é ser Homem](Kindle/AZW3/Scott%20Galloway/O%20que%20é%20ser%20Homem.azw3) — Scott Galloway
 - [O significado do casamento - Keller, Timothy](Kindle/AZW3/Timothy%20Keller/O%20significado%20do%20casamento%20-%20Keller,%20Timothy.azw3) — Timothy Keller
 - [Para ler como um escritor: Um guia para quem gosta de livros e para quem quer escrevê-los](Kindle/AZW/Francine%20Prose/Para%20ler%20como%20um%20escritor_%20Um%20guia%20para%20quem%20gosta%20de%20livros%20e%20para%20quem%20quer%20escrevê-los.azw) — Francine Prose
 - [Para Novos Gerentes 10 Leituras Essenciais](Kindle/KFX/Harvard%20Business%20Review/Para%20Novos%20Gerentes%2010%20Leituras%20Essenciais.kfx) — Harvard Business Review
@@ -574,7 +575,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Visoes e Ilusoes Politicas - David T. Koyzis](Kindle/AZW3/David%20koyzis/Visoes%20e%20Ilusoes%20Politicas%20-%20David%20T.%20Koyzis.azw3) — David koyzis
 - [Woke S A a farsa da justiça social empresarial Vivek Ramaswamy](Kindle/AZW3/Vivek%20Ramaswamy/Woke%20S%20A%20a%20farsa%20da%20justiça%20social%20empresarial%20Vivek%20Ramaswamy.azw3) — Vivek Ramaswamy
 
-## Negócios e carreira · Finanças e investimentos (202)
+## Negócios e carreira · Finanças e investimentos (205)
 
 - [100 coisas que milionários fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20milionários%20fazem.kfx) — Nigel Cumberland
 - [50 ideias de economia que você precisa conhecer](Kindle/AZW/Edmund%20Conway/50%20ideias%20de%20economia%20que%20você%20precisa%20conhecer.azw) — Edmund Conway
@@ -752,6 +753,9 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Primeiro Milhão para Casais - Pedro Queiroga Carrilho](Kindle/AZW3/Pedro%20Queiroga%20Carrilho/O%20Primeiro%20Milhão%20para%20Casais%20-%20Pedro%20Queiroga%20Carrilho.azw3) — Pedro Queiroga Carrilho
 - [O principio 80 20 - Richard Koch](Kindle/AZW3/Richard%20Koch/O%20principio%2080%2020%20-%20Richard%20Koch.azw3) — Richard Koch
 - [O Que o Dinheiro não Compra](Kindle/AZW/Michael%20Sandel/O%20Que%20o%20Dinheiro%20não%20Compra.azw) — Michael Sandel
+- [O que os ricos sabem e não contam](Kindle/KFX/Brian%20Sher/O%20que%20os%20ricos%20sabem%20e%20não%20contam.kfx) — Brian Sher
+- [O rei dos dividendos](Kindle/KFX/Luiz%20Barsi%20Filho/O%20rei%20dos%20dividendos.kfx) — Luiz Barsi Filho
+- [O rei dos dividendos - Luiz Barsi Filho](Kindle/AZW3/Luiz%20Barsi%20Filho/O%20rei%20dos%20dividendos%20-%20Luiz%20Barsi%20Filho.azw3) — Luiz Barsi Filho
 - [O rei dos investimentos - Rob Copeland](Kindle/AZW3/Rob%20Copeland/O%20rei%20dos%20investimentos%20-%20Rob%20Copeland.azw3) — Rob Copeland
 - [O Segredo da Prosperidade Judaica](Kindle/KFX/Dor%20Leon%20Attar/O%20Segredo%20da%20Prosperidade%20Judaica.kfx) — Dor Leon Attar
 - [O Segredo da Prosperidade Judaica - Dor Leon Attar](Kindle/AZW3/Dor%20Leon%20Attar/O%20Segredo%20da%20Prosperidade%20Judaica%20-%20Dor%20Leon%20Attar.azw3) — Dor Leon Attar
@@ -967,7 +971,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (347)
+## Outros · A classificar (342)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1123,11 +1127,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Paradoxo da Paixão Brad Stulberg, Steve MagnessAlta Books](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20Paradoxo%20da%20Paixão%20Brad%20Stulberg,%20Steve%20MagnessAlta%20Books.azw3) — FELIPE IVO PEREIRA
 - [O paradoxo dos vegetais](Kindle/KFX/Steven%20R.%20Gundry/O%20paradoxo%20dos%20vegetais.kfx) — Steven R. Gundry
 - [O primeiro é mais importante](Kindle/KFX/Stephen%20R.%20Covey/O%20primeiro%20é%20mais%20importante.kfx) — Stephen R. Covey; A. Roger Merrill; Rebecca R. Merrill
-- [O que os ricos sabem e não contam](Kindle/KFX/Brian%20Sher/O%20que%20os%20ricos%20sabem%20e%20não%20contam.kfx) — Brian Sher
-- [O que é ser Homem](Kindle/AZW3/Scott%20Galloway/O%20que%20é%20ser%20Homem.azw3) — Scott Galloway
-- [O que é ser humano](Kindle/KFX/Iain%20Provan/O%20que%20é%20ser%20humano.kfx) — Iain Provan
-- [O rei dos dividendos](Kindle/KFX/Luiz%20Barsi%20Filho/O%20rei%20dos%20dividendos.kfx) — Luiz Barsi Filho
-- [O rei dos dividendos - Luiz Barsi Filho](Kindle/AZW3/Luiz%20Barsi%20Filho/O%20rei%20dos%20dividendos%20-%20Luiz%20Barsi%20Filho.azw3) — Luiz Barsi Filho
 - [O Rei Escondido e a Promessa In - Filipe Ivo Pereira](Kindle/AZW3/Filipe%20Ivo%20Pereira/O%20Rei%20Escondido%20e%20a%20Promessa%20In%20-%20Filipe%20Ivo%20Pereira.azw3) — Filipe Ivo Pereira
 - [O Segredo - Rhonda Byrne](Kindle/AZW3/Digital%20Source/O%20Segredo%20-%20Rhonda%20Byrne.azw3) — Digital Source
 - [O sentimento é o segredo Vol. 4 Neville Goddard](Kindle/AZW3/Unknown/O%20sentimento%20é%20o%20segredo%20Vol.%204%20Neville%20Goddard.azw3) — Unknown
@@ -1705,7 +1704,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Teologia sistemática ao alcance de todos](EPUB/Wayne%20Grudem/Teologia%20sistemática%20ao%20alcance%20de%20todos.epub) — Wayne Grudem
 - [Uma teologia de Paulo e suas cartas: A dádiva do novo domínio em Cristo](Kindle/AZW3/Douglas%20J.%20Moo/Uma%20teologia%20de%20Paulo%20e%20suas%20cartas_%20A%20dádiva%20do%20novo%20domínio%20em%20Cristo.azw3) — Douglas J. Moo
 
-## Religião e espiritualidade · Vida cristã e devoção (253)
+## Religião e espiritualidade · Vida cristã e devoção (254)
 
 - [1 Pedro - Com os pés no vale e o coração no céu - Hernandes Dias Lopes](Kindle/AZW3/Hernandes%20Dias%20Lopes/1%20Pedro%20-%20Com%20os%20pés%20no%20vale%20e%20o%20coração%20no%20céu%20-%20Hernandes%20Dias%20Lopes.azw3) — Hernandes Dias Lopes
 - [365 dias de narrativas poderosas](Kindle/KFX/Thaís%20Machado/365%20dias%20de%20narrativas%20poderosas.kfx) — Thaís Machado
@@ -1903,6 +1902,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O poder dos nomes do Espirito Santo](Kindle/KFX/Tony%20Evans/O%20poder%20dos%20nomes%20do%20Espirito%20Santo.kfx) — Tony Evans
 - [O poder dos nomes do Espírito Santo - Tony Evans](Kindle/AZW3/Tony%20Evans/O%20poder%20dos%20nomes%20do%20Espírito%20Santo%20-%20Tony%20Evans.azw3) — Tony Evans
 - [O Que Jesus Diria](Kindle/AZW3/Rhema%20Brasil%20Publicações/O%20Que%20Jesus%20Diria.azw3) — Rhema Brasil Publicações
+- [O que é ser humano](Kindle/KFX/Iain%20Provan/O%20que%20é%20ser%20humano.kfx) — Iain Provan
 - [O que é ser humano Verdades e mitos sobre quem somos Iain Provan](Kindle/AZW3/Iain%20Provan/O%20que%20é%20ser%20humano%20Verdades%20e%20mitos%20sobre%20quem%20somos%20Iain%20Provan.azw3) — Iain Provan
 - [O sofrimento roubou minha fé - Ismael Sobrinho](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20sofrimento%20roubou%20minha%20fé%20-%20Ismael%20Sobrinho.azw3) — FELIPE IVO PEREIRA
 - [O Verdadeiro Ho'oponopono](Kindle/AZW3/Amanda%20Dreher/O%20Verdadeiro%20Ho'oponopono.azw3) — Amanda Dreher
