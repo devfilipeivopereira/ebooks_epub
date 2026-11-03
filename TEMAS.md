@@ -8,11 +8,11 @@ Classificação editorial automática a partir do título, tags e descrição di
 |---|---:|
 | Artes e literatura | 47 |
 | Ciência e natureza | 36 |
-| Educação e desenvolvimento pessoal | 215 |
+| Educação e desenvolvimento pessoal | 216 |
 | Família e relacionamentos | 37 |
 | Humanidades e sociedade | 188 |
 | Negócios e carreira | 381 |
-| Outros | 349 |
+| Outros | 348 |
 | Referência e idiomas | 21 |
 | Religião e espiritualidade | 607 |
 | Saúde e bem-estar | 99 |
@@ -168,7 +168,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Tenha a Vida Que Deseja - Richard Bandler](Kindle/AZW3/Richard%20Bandler/Tenha%20a%20Vida%20Que%20Deseja%20-%20Richard%20Bandler.azw3) — Richard Bandler
 - [Ultra-aprendizado - Scott Young](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/Ultra-aprendizado%20-%20Scott%20Young.azw3) — FELIPE IVO PEREIRA
 
-## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (163)
+## Educação e desenvolvimento pessoal · Desenvolvimento pessoal (164)
 
 - [100 coisas que líderes de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20líderes%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
 - [100 coisas que pessoas de sucesso fazem](Kindle/KFX/Nigel%20Cumberland/100%20coisas%20que%20pessoas%20de%20sucesso%20fazem.kfx) — Nigel Cumberland
@@ -295,6 +295,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O mito da perfeição](Kindle/AZW3/Richella%20J.%20Parham/O%20mito%20da%20perfeição.azw3) — Richella J. Parham
 - [O Método: Domine Sua Mente, Controle Sua Biologia e Ative Todo o Seu Potencial Humano](Kindle/KFX/Wim%20Hof/O%20Método_%20Domine%20Sua%20Mente,%20Controle%20Sua%20Biologia%20e%20Ative%20Todo%20o%20Seu%20Potencial%20Humano.kfx) — Wim Hof
 - [O outro lado do ponto da virada](Kindle/KFX/Malcolm%20Gladwell/O%20outro%20lado%20do%20ponto%20da%20virada.kfx) — Malcolm Gladwell
+- [O outro lado do ponto da virada - Malcolm Gladwell](Kindle/AZW3/Malcolm%20Gladwell/O%20outro%20lado%20do%20ponto%20da%20virada%20-%20Malcolm%20Gladwell.azw3) — Malcolm Gladwell
 - [O paradoxo da paixão: um manual para apostar tudo, ter sucesso e aproveitar as vantagens do desequilíbrio](Kindle/KFX/Brad%20Stulberg/O%20paradoxo%20da%20paixão_%20um%20manual%20para%20apostar%20tudo,%20ter%20sucesso%20e%20aproveitar%20as%20vantagens%20do%20desequil.kfx) — Brad Stulberg; Steve Magness
 - [O poder da autodisciplina](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20poder%20da%20autodisciplina.azw3) — FELIPE IVO PEREIRA
 - [O poder da autodisciplina: como superar a procrastinação e distrações, e ter foco para alcançar seus objetivos na vida](Kindle/KFX/Giovanni%20Dienstmann/O%20poder%20da%20autodisciplina_%20como%20superar%20a%20procrastinação%20e%20distrações,%20e%20ter%20foco%20para%20alcançar%20seus.kfx) — Giovanni Dienstmann
@@ -964,7 +965,7 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [Vender, lucrar, escalar](Kindle/KFX/Raphael%20Mattos/Vender,%20lucrar,%20escalar.kfx) — Raphael Mattos
 - [Vender, lucrar, escalar - Raphael Mattos (1)](Kindle/AZW3/Raphael%20Mattos/Vender,%20lucrar,%20escalar%20-%20Raphael%20Mattos%20(1).azw3) — Raphael Mattos
 
-## Outros · A classificar (349)
+## Outros · A classificar (348)
 
 - [(In)distraível](Kindle/KFX/Nir%20Eyal/(In)distraível.kfx) — Nir Eyal
 - [(TRAD) origens da mitologia A a Z](Kindle/KFX/Annette%20Giosec/(TRAD)%20origens%20da%20mitologia%20A%20a%20Z.kfx) — Annette Giosec
@@ -1113,7 +1114,6 @@ Classificação editorial automática a partir do título, tags e descrição di
 - [O Filho Rico - Felipe Miranda](Kindle/AZW3/Miranda_Felipe/O%20Filho%20Rico%20-%20Felipe%20Miranda.azw3) — Miranda|Felipe
 - [O melhor perdedor vence por qu - Hougaard, Tom](Kindle/AZW3/Tom%20Hougaard/O%20melhor%20perdedor%20vence%20por%20qu%20-%20Hougaard,%20Tom.azw3) — Tom Hougaard
 - [O método Wim Hof Ative todo o seu potencial humano](Kindle/AZW3/Wim%20Hof/O%20método%20Wim%20Hof%20Ative%20todo%20o%20seu%20potencial%20humano.azw3) — Wim Hof
-- [O outro lado do ponto da virada - Malcolm Gladwell](Kindle/AZW3/Malcolm%20Gladwell/O%20outro%20lado%20do%20ponto%20da%20virada%20-%20Malcolm%20Gladwell.azw3) — Malcolm Gladwell
 - [O Paradoxo da Paixão Brad Stulberg, Steve MagnessAlta Books](Kindle/AZW3/FELIPE%20IVO%20PEREIRA/O%20Paradoxo%20da%20Paixão%20Brad%20Stulberg,%20Steve%20MagnessAlta%20Books.azw3) — FELIPE IVO PEREIRA
 - [O paradoxo dos vegetais](Kindle/KFX/Steven%20R.%20Gundry/O%20paradoxo%20dos%20vegetais.kfx) — Steven R. Gundry
 - [O Primeiro Milhao para Casais](Kindle/KFX/Pedro%20Queiroga%20Carrilho/O%20Primeiro%20Milhao%20para%20Casais.kfx) — Pedro Queiroga Carrilho
